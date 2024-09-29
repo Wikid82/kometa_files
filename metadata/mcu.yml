@@ -1,0 +1,124 @@
+metadata:
+  Ant-Man 1:
+    mapping_id: 102899
+    url_poster: https://theposterdb.com/api/assets/162907
+  Ant-Man 2:
+    mapping_id: 363088
+    url_poster: https://theposterdb.com/api/assets/162915
+  Ant-Man 3:
+    mapping_id: 640146
+    url_poster: https://theposterdb.com/api/assets/352073
+  Avengers 1:
+    mapping_id: 24428
+    url_poster: https://theposterdb.com/api/assets/162901
+  Avengers 2:
+    mapping_id: 99861
+    url_poster: https://theposterdb.com/api/assets/162906
+  Avengers 3:
+    mapping_id: 299536
+    url_poster: https://theposterdb.com/api/assets/162914
+  Avengers 4:
+    mapping_id: 299534
+    url_poster: https://theposterdb.com/api/assets/162917
+  Captain America 1:
+    mapping_id: 1771
+    url_poster: https://theposterdb.com/api/assets/162900
+  Captain America 2:
+    mapping_id: 100402
+    url_poster: https://theposterdb.com/api/assets/162904
+  Captain America 3:
+    mapping_id: 271110
+    url_poster: https://theposterdb.com/api/assets/162908
+  Captain Mavel:
+    mapping_id: 299537
+    url_poster: https://theposterdb.com/api/assets/162916
+  The Mavels:
+    mapping_id: 609681
+    url_poster: https://theposterdb.com/api/assets/452675
+  Doctor Strange 1:
+    mapping_id: 284052
+    url_poster: https://theposterdb.com/api/assets/162909
+  Doctor Strange 2:
+    mapping_id: 453395
+    url_poster: https://theposterdb.com/api/assets/198589
+  Eternals:
+    mapping_id: 524434
+    url_poster: https://theposterdb.com/api/assets/162921
+  GOTG 1:
+    mapping_id: 118340
+    title: "Guardians of the Galaxy Vol. 1"
+    sort_title: "Guardians of the Galaxy Vol. 1"
+    url_poster: https://theposterdb.com/api/assets/162905
+  GOTG 2:
+    mapping_id: 283995
+    title: "Guardians of the Galaxy Vol. 2"
+    sort_title: "Guardians of the Galaxy Vol. 2"
+    url_poster: https://theposterdb.com/api/assets/162910
+  GOTG HS:
+    mapping_id: 774752
+    title: "Guardians of the Galaxy Holiday Special"
+    sort_title: "Guardians of the Galaxy Holiday Special"
+    url_poster: https://theposterdb.com/api/assets/314342
+  GOTG 3:
+    mapping_id: 447365
+    title: "Guardians of the Galaxy Vol. 3"
+    sort_title: "Guardians of the Galaxy Vol. 3"
+    url_poster: https://theposterdb.com/api/assets/380639
+  The Incredible Hulk:
+    mapping_id: 1724
+    url_poster: https://theposterdb.com/api/assets/162897
+  Iron Man:
+    mapping_id: 1726
+    url_poster: https://theposterdb.com/api/assets/162896
+  Iron Man 2:
+    mapping_id: 10138
+    url_poster: https://theposterdb.com/api/assets/162898
+  Iron Man 3:
+    mapping_id: 68721
+    url_poster: https://theposterdb.com/api/assets/162902
+  Shang-Chi and the Legend of the Ten Rings:
+    mapping_id: 566525
+    url_poster: https://theposterdb.com/api/assets/162920
+  Spiderman MCU 1:
+    mapping_id: 315635
+    url_poster: https://theposterdb.com/api/assets/904
+  Spiderman MCU 2:
+    mapping_id: 429617
+    url_poster: https://theposterdb.com/api/assets/916
+  Spiderman MCU 3:
+    mapping_id: 634649
+    originally_available: 2021-12-14
+    edition: Extended Edition
+    url_poster: https://theposterdb.com/api/assets/190131
+  Thor 1:
+    mapping_id: 10195
+    url_poster: https://theposterdb.com/api/assets/162899
+  Thor 2:
+    mapping_id: 76338
+    url_poster: https://theposterdb.com/api/assets/162903
+  Thor 3:
+    mapping_id: 284053
+    url_poster: https://theposterdb.com/api/assets/162912
+  Thor 4:
+    mapping_id: 616037
+    url_poster: https://theposterdb.com/api/assets/265776
+  Werewolf By Night:
+    mapping_id: 894205
+    url_poster: https://theposterdb.com/api/assets/274295
+  Black Panther 1:
+    mapping_id: 284054
+    url_poster: https://theposterdb.com/api/assets/162913
+  Black Panther 2:
+    mapping_id: 505642
+    url_poster: https://theposterdb.com/api/assets/274296
+  Black Widow:
+    mapping_id: 497698
+    url_poster: https://theposterdb.com/api/assets/162919
+
+
+
+
+
+  # Deadpool & Wolverine:
+  #  mapping_id: tt6263850
+  #  url_poster: https://theposterdb.com/api/assets/480604
