@@ -1,25 +1,25 @@
 metadata:
-  Clerks 1:
-    mapping_id:
+  Clerks:
+    mapping_id: 2292
     url_poster: https://theposterdb.com/api/assets/61803
-  Clerks 2:
-    mapping_id:
+  Clerks II:
+    mapping_id: 2295
     url_poster: https://theposterdb.com/api/assets/61808
-  Clerks 3:
-    mapping_id:
+  Clerks III:
+    mapping_id: 635891
     url_poster: https://theposterdb.com/api/assets/512412
   Mallrats:
-    mapping_id:
+    mapping_id: 2293
     url_poster: https://theposterdb.com/api/assets/61804
   Chasing Amy:
-    mapping_id:
+    mapping_id: 2255
     url_poster: https://theposterdb.com/api/assets/61805
   Dogma:
-    mapping_id:
+    mapping_id: 1832
     url_poster: https://theposterdb.com/api/assets/61806
-  JASB 1:
-    mapping_id:
+  Jay and Silent Bob Strike Back:
+    mapping_id: 2294
     url_poster: https://theposterdb.com/api/assets/61807
-  JASB 2:
-    mapping_id:
+  Jay and Silent Bob Reboot:
+    mapping_id: 440762
     url_poster: https://theposterdb.com/api/assets/331290
