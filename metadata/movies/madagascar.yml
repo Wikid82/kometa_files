@@ -1,13 +1,23 @@
 metadata:
-  Madagascar 1:
+  Madagascar:
     mapping_id: 953
     url_poster: https://theposterdb.com/api/assets/60890
-  Madagascar 2:
+  Madagascar Escape 2 Africa:
     mapping_id: 10527
     url_poster: https://theposterdb.com/api/assets/60891
-  Madagascar 3:
+  Madagascar 3 Europe's Most Wanted:
     mapping_id: 80321
     url_poster: https://theposterdb.com/api/assets/60892
-  Madagascar Penguins:
+  Penguins of Madagascar:
     mapping_id: 270946
     url_poster: https://theposterdb.com/api/assets/144415
+  The Madagascar Penguins in a Christmas Caper:
+    mapping_id: 10258
+    url_poster: https://theposterdb.com/api/assets/112431
+  Madly Madagascar:
+    mapping_id: 161143
+    url_poster: https://theposterdb.com/api/assets/112432
+  Merry Madagascar:
+    mapping_id: 25472
+    url_poster: https://theposterdb.com/api/assets/111857
+
