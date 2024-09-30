@@ -1,0 +1,5 @@
+collections:
+  Sonic The Hedgehog Collection:
+    trakt_list: https://trakt.tv/lists/29292315
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/195640
