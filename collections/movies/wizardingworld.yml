@@ -1,0 +1,7 @@
+collections:
+  Wizarding World Collection:
+    trakt_list:
+    - https://trakt.tv/lists/official/harry-potter-collection
+    - https://trakt.tv/lists/official/fantastic-beasts-collection
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/27643

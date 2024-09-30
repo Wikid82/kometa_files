@@ -1,0 +1,5 @@
+collections:
+  Ghost Rider Collection:
+    trakt_list: https://trakt.tv/lists/official/ghost-rider-collection
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/163915

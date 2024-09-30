@@ -1,0 +1,5 @@
+collections:
+  The Amazing Spider-Man Collection:
+    trakt_list: https://trakt.tv/lists/180
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/115532

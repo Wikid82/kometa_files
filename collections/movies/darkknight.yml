@@ -1,0 +1,5 @@
+collections:
+  The Dark Knight Collection:
+    trakt_list: https://trakt.tv/lists/29
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/44451

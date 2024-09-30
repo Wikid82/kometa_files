@@ -1,0 +1,5 @@
+collections:
+  Matrix Collection:
+    trakt_list: https://trakt.tv/lists/81
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/147306

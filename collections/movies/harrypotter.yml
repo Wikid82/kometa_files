@@ -1,0 +1,5 @@
+collections:
+  Harry Potter Collection:
+    trakt_list: https://trakt.tv/lists/official/harry-potter-collection
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/9191

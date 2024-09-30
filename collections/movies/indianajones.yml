@@ -1,0 +1,5 @@
+collections:
+  Indiana Jones Collection:
+    trakt_list: https://trakt.tv/lists/official/indiana-jones-collection
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/10361
