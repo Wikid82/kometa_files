@@ -1,0 +1,5 @@
+collections:
+  The Incredibles Collection:
+    trakt_list: https://trakt.tv/lists/4033062
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/28676

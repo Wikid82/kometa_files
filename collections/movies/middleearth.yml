@@ -1,0 +1,5 @@
+collections:
+  Middle Earth Collection:
+    trakt_list: https://trakt.tv/lists/29290688
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/32987

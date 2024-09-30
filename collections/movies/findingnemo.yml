@@ -1,0 +1,5 @@
+collections:
+  Finding Nemo Collection:
+    trakt_list: https://trakt.tv/lists/3
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/22634

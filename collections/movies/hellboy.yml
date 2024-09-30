@@ -1,0 +1,5 @@
+collections:
+  Hellboy Collection:
+    trakt_list: hhttps://trakt.tv/lists/29290608
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/12874

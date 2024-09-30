@@ -1,0 +1,5 @@
+collections:
+  The Lego Movie Collection:
+    trakt_list: https://trakt.tv/lists/29292139
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/75599

@@ -1,0 +1,5 @@
+collections:
+  The Expendables Collection:
+    trakt_list: https://trakt.tv/lists/1065
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/87137

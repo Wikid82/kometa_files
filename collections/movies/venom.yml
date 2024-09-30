@@ -1,0 +1,5 @@
+collections:
+  Venom Collection:
+    trakt_list: https://trakt.tv/lists/6273063
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/171911

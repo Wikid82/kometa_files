@@ -1,0 +1,5 @@
+collections:
+  Hotel Transylvania Collection:
+    trakt_list: https://trakt.tv/lists/1661
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/67931

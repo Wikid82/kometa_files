@@ -1,0 +1,5 @@
+collections:
+  Spider-Man Collection:
+    trakt_list: https://trakt.tv/lists/67
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/334375

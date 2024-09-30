@@ -1,0 +1,5 @@
+collections:
+  Monsters, Inc Collection:
+    trakt_list: https://trakt.tv/lists/80
+    collection_mode: hide_items
+    url_poster: https://theposterdb.com/api/assets/29352
