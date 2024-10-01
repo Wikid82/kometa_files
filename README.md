@@ -13,8 +13,8 @@
 		<em>Built with the tools and technologies:</em>
 </p>
 <p align="center">
-	<a href="[https://skillicons.dev](https://kometa.wiki/en/latest/)">
-		<img src="[https://skillicons.dev/icons?i=md](https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png)">
+	<a href="https://kometa.wiki/en/latest/">
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png">
 	</a></p>
 
 <br>
