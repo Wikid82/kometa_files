@@ -15,6 +15,12 @@
 <p align="center">
 	<a href="https://kometa.wiki/en/latest/">
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="75" height="75"> 
+	<a href="https://www.themoviedb.org">
+		<img src="https://cdn6.aptoide.com/imgs/2/f/0/2f00b070ae69de52adb50055ec150ef9_icon.png?w=128" width="75" height="75">
+	<a href="https://www.thetvdb.com">
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/tvdb.png" width="75" height="75"> 
+	<a href="https://fanart.tv">
+		<img src="https://avatars.githubusercontent.com/u/18613905?s=200&v=4" width="75" height="75"> 
 	</a></p>
 
 <br>
