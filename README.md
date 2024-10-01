@@ -43,7 +43,7 @@ Table of Contents
 
 ## 👾 Features
 
-<code>❯ Prebuilt Kometa files that pull everything together for a well groomed media server. Pulling the respective files will create a collection and add custom matching (as much as possible) posters. With collections like MonsterVerse or Lord of The Rings / Middle Earth there is a corisponding TV Shows collection as well and can all be viewed on one ease collection. </code>
+<code>❯ Prebuilt Kometa files that pull everything together for a well groomed media server. Pulling the respective files will create a collection and add custom matching (as much as possible) posters. With collections like MonsterVerse or Lord of The Rings / Middle Earth there is a corisponding TV Shows collection as well and can all be viewed in one easy collection. </code>
 
 ---
 
