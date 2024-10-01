@@ -1,9 +1,7 @@
 <p align="center">
     <h1 align="center">KOMETA_FILES</h1>
 </p>
-<p align="center">
-    <em><code>❯ REPLACE-ME</code></em>
-</p>
+
 <p align="center">
 	<!-- Shields.io badges disabled, using skill icons. --></p>
 <p align="center">
