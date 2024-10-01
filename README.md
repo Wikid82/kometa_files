@@ -22,7 +22,7 @@
 
 <br>
 
-<details>Table of Contents</summary>
+Table of Contents
 
 - [📍 Overview](#-overview)
 - [👾 Features](#-features)
@@ -31,10 +31,8 @@
     - [🔖 Prerequisites](#-prerequisites)
     - [📦 Installation](#-installation)
 - [🤝 Contributing](#-contributing)
-- [🎗 License](#-license)
 - [🙌 Acknowledgments](#-acknowledgments)
 
-</details>
 <hr>
 
 ## 📍 Overview
@@ -67,52 +65,31 @@
 
 ### 🔖 Prerequisites
 
-**YAML**: `version x.y.z`
+**Kometa** 
 
 ### 📦 Installation
 
-Build the project from source:
-
-1. Clone the kometa_files repository:
-```sh
-❯ git clone https://github.com/Wikid82/kometa_files
+In your Kometa config file add:
+```
+  Movies:
+    metadata_files:
+    - folder: /config/metadata/movies
+    collection_files:
+    - folder: /config/collections/movies
+```
+```
+  TV Shows:
+    metadata_files:
+    - folder: /config/metadata/tvshows
+    collection_files:
+    - folder: /config/collections/tvshows
+```
+```
+ playlist_files:
+    - folder: /config/playlists
 ```
 
-2. Navigate to the project directory:
-```sh
-❯ cd kometa_files
-```
-
-3. Install the required dependencies:
-```sh
-❯ ❯ INSERT-INSTALL-COMMANDS
-```
-
-### 🤖 Usage
-
-To run the project, execute the following command:
-
-```sh
-❯ ❯ INSERT-RUN-COMMANDS
-```
-
-### 🧪 Tests
-
-Execute the test suite using the following command:
-
-```sh
-❯ ❯ INSERT-TEST-COMMANDS
-```
-
----
-
-## 📌 Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
+Extract the files to their respective folders. Kometa will read the folder of files so you don't have to add each file indifidually. More on that <a href="https://kometa.wiki/en/latest/config/files/#location-types-and-paths">here</a>
 
 ## 🤝 Contributing
 
@@ -120,8 +97,6 @@ Contributions are welcome! Here are several ways you can contribute:
 
 - **[Report Issues](https://github.com/Wikid82/kometa_files/issues)**: Submit bugs found or log feature requests for the `kometa_files` project.
 - **[Join the Discussions](https://github.com/Wikid82/kometa_files/discussions)**: Share your insights, provide feedback, or ask questions.
-
-<details closed>
 
 <summary>Contributor Graph</summary>
 <br>
