@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="kometa_files.png" width="60%" alt="KOMETA_FILES-logo">
-</p>
-<p align="center">
     <h1 align="center">KOMETA_FILES</h1>
 </p>
 <p align="center">
