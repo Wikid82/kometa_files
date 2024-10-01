@@ -14,7 +14,7 @@
 </p>
 <p align="center">
 	<a href="https://kometa.wiki/en/latest/">
-		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="16" height="16"> 
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="150" height="150"> 
 	</a></p>
 
 <br>
