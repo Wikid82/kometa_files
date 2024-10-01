@@ -43,7 +43,7 @@
 
 ## 📍 Overview
 
-<code>❯ Kometa_Files is my repository for premade, properly mapped, Kometa Files. The individual files make it possible to pick an choose the ones you'd like, or use them all. </code>
+<code>❯ Kometa_Files is my repository for premade, properly mapped, Kometa Files. The individual files make it possible to pick and choose the ones you'd like, or use them all. </code>
 
 ---
 
