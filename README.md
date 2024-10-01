@@ -37,7 +37,7 @@ Table of Contents
 
 ## 📍 Overview
 
-<code>❯ Kometa_Files is my repository for premade, properly mapped, Kometa Files. The individual files make it possible to pick and choose the ones you'd like, or use them all. </code>
+<code>❯ When I found Kometa, I also found myself coding files more than actually watching the media I have on my server. Spend less time coding them yourself. Kometa_Files is my repository for premade, properly mapped, Kometa Files. The individual files make it possible to pick and choose the ones you'd like, or use them all. </code>
 
 ---
 
