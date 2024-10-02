@@ -1,5 +1,13 @@
-collections:
-  The Expendables Collection:
-    trakt_list: https://trakt.tv/lists/1065
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/87137
+metadata:
+  The Expendables:
+    mapping_id: 27578
+    url_poster: https://theposterdb.com/api/assets/87138
+  The Expendables 2:
+    mapping_id: 76163
+    url_poster: https://theposterdb.com/api/assets/87139
+  The Expendables 3:
+    mapping_id: 138103
+    url_poster: https://theposterdb.com/api/assets/87140
+  The Expendables 4:
+    mapping_id: 299054
+    url_poster: https://theposterdb.com/api/assets/414455

@@ -1,5 +1,7 @@
-collections:
-  Almighty Collection:
-    trakt_list: https://trakt.tv/lists/official/almighty-collection
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/51450
+metadata:
+  Bruce Almighty:
+    mapping_id: 310
+    url_poster: https://theposterdb.com/api/assets/51451
+  Evan Almighty:
+    mapping_id: 2698
+    url_poster: https://theposterdb.com/api/assets/51452

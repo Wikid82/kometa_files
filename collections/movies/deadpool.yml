@@ -1,5 +1,21 @@
-collections:
-  Deadpool Collection:
-    trakt_list: https://trakt.tv/lists/29290035
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/4642
+metadata:
+  Deadpool:
+    mapping_id: tt1431045
+    url_poster: https://theposterdb.com/api/assets/16116
+
+  Deadpool 2:
+    mapping_id: tt5463162
+    title: "Deadpool 2: The Super Duper Cut"
+    sort_title: "Deadpool 2: The Super Duper Cut"
+    edition: Extended Cut
+    url_poster: https://theposterdb.com/api/assets/120438
+
+  Once Upon a Deadpool:
+    mapping_id: 567604
+    url_poster: https://theposterdb.com/api/assets/1244
+
+  Deadpool & Wolverine:
+    mapping_id: 533535
+    url_poster: https://theposterdb.com/api/assets/509319
+
+

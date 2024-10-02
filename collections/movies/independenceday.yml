@@ -1,5 +1,7 @@
-collections:
-  Independence Day Collection:
-    trakt_list: https://trakt.tv/lists/official/independence-day-collection
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/15117
+metadata:
+  Independence Day:
+    mapping_id: 602
+    url_poster: https://theposterdb.com/api/assets/15118
+  Independence Day Resurgence:
+    mapping_id: 47933
+    url_poster: https://theposterdb.com/api/assets/15119

@@ -1,5 +1,7 @@
-collections:
-  The Incredibles Collection:
-    trakt_list: https://trakt.tv/lists/4033062
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/28676
+metadata:
+  The Incredibles:
+    mapping_id: 9806
+    url_poster: https://theposterdb.com/api/assets/28677
+  The Incredibles 2:
+    mapping_id: 260513
+    url_poster: https://theposterdb.com/api/assets/28678

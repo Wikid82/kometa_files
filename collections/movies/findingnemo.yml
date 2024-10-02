@@ -1,5 +1,7 @@
-collections:
-  Finding Nemo Collection:
-    trakt_list: https://trakt.tv/lists/3
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/22634
+metadata:
+  Finding Nemo:
+    mapping_id: 12
+    url_poster: https://theposterdb.com/api/assets/22635
+  Finding Dory:
+    mapping_id: 127380
+    url_poster: https://theposterdb.com/api/assets/22636

@@ -1,5 +1,4 @@
-collections:
-  Gladiator Collection:
-    trakt_list: https://trakt.tv/lists/official/gladiator-collection
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/460855
+metadata:
+  Gladiator:
+    mapping_id: 98
+    url_poster: https://theposterdb.com/api/assets/460856

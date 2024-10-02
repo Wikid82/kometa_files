@@ -1,5 +1,22 @@
-collections:
-  Predator Collection:
-    trakt_list: https://trakt.tv/lists/official/predator-collection
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/243
+metadata:
+  Predator:
+    mapping_id: 106
+    originally_available: 05/11/1987
+    url_poster: https://theposterdb.com/api/assets/244
+  Predator 2:
+    mapping_id: 169
+    originally_available: 11/20/1990
+    url_poster: https://theposterdb.com/api/assets/245
+  The Predator:
+    mapping_id: 346910
+    originally_available: 09/04/2018
+    url_poster: https://theposterdb.com/api/assets/247
+  Predators:
+    mapping_id: 34851
+    originally_available: 07/02/2010
+    edition: Remastered Edition
+    url_poster: https://theposterdb.com/api/assets/246
+  Prey:
+    mapping_id: 766507
+    originally_available: 08/04/2022
+    url_poster: https://theposterdb.com/api/assets/255438

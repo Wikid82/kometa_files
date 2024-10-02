@@ -1,5 +1,16 @@
-collections:
-  The Crow Collection:
-    trakt_list: https://trakt.tv/lists/29289956
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/111879
+metadata:
+  The Crow:
+    mapping_id: 9495
+    url_poster: https://theposterdb.com/api/assets/111880
+  The Crow City of Angels:
+    mapping_id: tt0115986
+    url_poster: https://theposterdb.com/api/assets/111881
+  The Crow Salvation:
+    mapping_id: tt0132910
+    url_poster: https://theposterdb.com/api/assets/111882
+  The Crow Wicked Prayer:
+    mapping_id: 16456
+    url_poster: https://theposterdb.com/api/assets/111883
+  The Crow (2024):
+    mapping_id: 957452
+    url_poster: https://theposterdb.com/api/assets/467051

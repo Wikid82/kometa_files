@@ -1,5 +1,7 @@
-collections:
-  Knives Out Collection:
-    trakt_list: https://trakt.tv/lists/11898934
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/292236
+metadata:
+  Knives Out:
+    mapping_id: 546554
+    url_poster: https://theposterdb.com/api/assets/303718
+  Glass Onion:
+    mapping_id: 661374
+    url_poster: https://theposterdb.com/api/assets/303719

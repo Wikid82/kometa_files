@@ -1,5 +1,17 @@
-collections:
-  Final Destination Collection:
-    trakt_list: https://trakt.tv/lists/official/final-destination-collection
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/165946
+metadata:
+  Final Destination:
+    mapping_id: 9532
+    url_poster: https://theposterdb.com/api/assets/165947
+  Final Destination 2:
+    mapping_id: 9358
+    url_poster: https://theposterdb.com/api/assets/165948
+  Final Destination 3:
+    mapping_id: 9286
+    url_poster: https://theposterdb.com/api/assets/165949
+  The Final Destination:
+    mapping_id: 19912
+    url_poster: https://theposterdb.com/api/assets/165950
+  Final Destination 5:
+    mapping_id: 55779
+    url_poster: https://theposterdb.com/api/assets/165951
+

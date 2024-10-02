@@ -1,5 +1,13 @@
-collections:
-  Hotel Transylvania Collection:
-    trakt_list: https://trakt.tv/lists/1661
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/67931
+metadata:
+  Hotel Transylvania:
+    mapping_id: 76492
+    url_poster: https://theposterdb.com/api/assets/67932
+  Hotel Transylvania 2:
+    mapping_id: 159824
+    url_poster: https://theposterdb.com/api/assets/67933
+  Hotel Transylvania 3:
+    mapping_id: 400155
+    url_poster: https://theposterdb.com/api/assets/67934
+  Hotel Transylvania Transformania:
+    mapping_id: 585083
+    url_poster: https://theposterdb.com/api/assets/310610

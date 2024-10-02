@@ -1,5 +1,7 @@
-collections:
-  Cloudy With A Chance of Meatballs Collection:
-    trakt_list: https://trakt.tv/lists/953
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/20437
+metadata:
+  Cloudy With A Chance Of Meatballs:
+    mapping_id: 22794
+    url_poster: https://theposterdb.com/api/assets/20438
+  Cloudy With A Chance Of Meatballs 2:
+    mapping_id: 109451
+    url_poster: https://theposterdb.com/api/assets/20439

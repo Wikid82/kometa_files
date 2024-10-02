@@ -1,5 +1,7 @@
-collections:
-  Frozen Collection:
-    trakt_list: https://trakt.tv/lists/1996672
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/38992
+metadata:
+  Frozen:
+    mapping_id: 109445
+    url_poster: https://theposterdb.com/api/assets/38993
+  Frozen II:
+    mapping_id: 330457
+    url_poster: https://theposterdb.com/api/assets/38994

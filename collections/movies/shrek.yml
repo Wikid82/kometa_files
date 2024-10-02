@@ -1,5 +1,13 @@
-collections:
-  Shrek Collection:
-    trakt_list: https://trakt.tv/lists/86
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/6997
+metadata:
+  Shrek 1:
+    mapping_id: 808
+    url_poster: https://theposterdb.com/api/assets/6998
+  Shrek 2:
+    mapping_id: 809
+    url_poster: https://theposterdb.com/api/assets/6999
+  Shrek the Third:
+    mapping_id: 810
+    url_poster: https://theposterdb.com/api/assets/7000
+  Shrek Forever After:
+    mapping_id: 10192
+    url_poster: https://theposterdb.com/api/assets/7001

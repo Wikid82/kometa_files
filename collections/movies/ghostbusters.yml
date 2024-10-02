@@ -1,5 +1,16 @@
-collections:
-  Ghostbusters Collection:
-    trakt_list: https://trakt.tv/lists/29290514
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/203163
+metadata:
+  Ghostbusters:
+    mapping_id: 620
+    url_poster: https://theposterdb.com/api/assets/203164
+  Ghostbusters 2:
+    mapping_id: 2978
+    url_poster: https://theposterdb.com/api/assets/203165
+  Ghostbusters (2016):
+    mapping_id: 43074
+    url_poster: https://theposterdb.com/api/assets/203166
+  Ghostbusters Afterlife:
+    mapping_id: 425909
+    url_poster: https://theposterdb.com/api/assets/203167
+  Ghostbusters Frozen Empire:
+    mapping_id: 967847
+    url_poster: https://theposterdb.com/api/assets/475587

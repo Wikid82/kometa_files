@@ -1,5 +1,14 @@
-collections:
-  Beverly Hills Cop Collection:
-    trakt_list: https://trakt.tv/lists/17
-    collection_mode: hide_items
-    url_poster: https://theposterdb.com/api/assets/152926
+metadata:
+  Beverly Hills Cop:
+    mapping_id: 90
+    url_poster: https://theposterdb.com/api/assets/27989
+  Beverly Hills Cop II:
+    mapping_id: 96
+    url_poster: https://theposterdb.com/api/assets/27990
+  Beverly Hills Cop III:
+    mapping_id: 306
+    url_poster: https://theposterdb.com/api/assets/27991
+  Beverly Hills Cop Axel F:
+    mapping_id: 280180
+    url_poster: https://theposterdb.com/api/assets/505075
+
