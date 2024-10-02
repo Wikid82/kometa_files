@@ -4,4 +4,5 @@ collections:
     - https://trakt.tv/lists/896
     - https://trakt.tv/lists/5420635
     collection_mode: hide_items
+    collection_order: release
     url_poster: https://theposterdb.com/api/assets/122830

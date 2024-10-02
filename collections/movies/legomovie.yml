@@ -1,13 +1,6 @@
-metadata:
-  The Lego Movie:
-    mapping_id: 137106
-    url_poster: https://theposterdb.com/api/assets/75600
-  The Lego Batman Movie:
-    mapping_id: 324849
-    url_poster: https://theposterdb.com/api/assets/75601
-  The Lego Movie 2 The Second Part:
-    mapping_id: 280217
-    url_poster: https://theposterdb.com/api/assets/75603
-  The Lego Ninjago Movie:
-    mapping_id: 274862
-    url_poster: https://theposterdb.com/api/assets/75602
+collections:
+  The Lego Movie Collection:
+    trakt_list: https://trakt.tv/lists/29292139
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/75599

@@ -1,7 +1,6 @@
-metadata:
-  The Emperor's New Groove:
-    mapping_id: 11688
-    url_poster: https://theposterdb.com/api/assets/46821
-  Kronk's New Groove:
-    mapping_id: 13417
-    url_poster: https://theposterdb.com/api/assets/46822
+collections:
+  The Emperor's New Groove Collection:
+    trakt_list: https://trakt.tv/lists/592
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/46820

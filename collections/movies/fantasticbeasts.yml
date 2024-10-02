@@ -1,11 +1,6 @@
-metadata:
-  Fantastic Beasts And Where To Find Them:
-    mapping_id: 27578
-    url_poster: https://theposterdb.com/api/assets/27621
-  Fantastic Beasts The Crimes of Grindelwald:
-    mapping_id: 76163
-    url_poster: https://theposterdb.com/api/assets/27622
-  Fantastic Beasts The Secrets of Dumbledore:
-    mapping_id: 138103
-    url_poster: https://theposterdb.com/api/assets/234432
-
+collections:
+  Fantastic Beasts Collection:
+    trakt_list: https://trakt.tv/lists/official/fantastic-beasts-collection
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/27620

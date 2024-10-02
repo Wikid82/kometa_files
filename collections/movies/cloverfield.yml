@@ -1,10 +1,6 @@
-metadata:
-  Cloverfield:
-    mapping_id: 7191
-    url_poster: https://theposterdb.com/api/assets/80059
-  10 Cloverfield Lane:
-    mapping_id: 384521
-    url_poster: https://theposterdb.com/api/assets/80061
-  Cloverfield Paradox:
-    mapping_id: 333371
-    url_poster: https://theposterdb.com/api/assets/80060
+collections:
+  Cloverfield Collection:
+    trakt_list: https://trakt.tv/lists/24073279
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/80058

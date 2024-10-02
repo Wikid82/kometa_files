@@ -1,7 +1,6 @@
-metadata:
-  Extraction:
-    mapping_id: 27578
-    url_poster: https://theposterdb.com/api/assets/362778
-  Extraction 2:
-    mapping_id: 76163
-    url_poster: https://theposterdb.com/api/assets/362779
+collections:
+  Extraction Collection:
+    trakt_list: https://trakt.tv/lists/19702592
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/362777

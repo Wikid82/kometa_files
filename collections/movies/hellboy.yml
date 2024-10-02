@@ -1,10 +1,6 @@
-metadata:
-  Hellboy:
-    mapping_id: 1487
-    url_poster: https://theposterdb.com/api/assets/11246
-  Hellboy II The Golden Army:
-    mapping_id: 11253
-    url_poster: https://theposterdb.com/api/assets/11247
-  Hellboy (2019):
-    mapping_id: 456740
-    url_poster: https://theposterdb.com/api/assets/11248
+collections:
+  Hellboy Collection:
+    trakt_list: hhttps://trakt.tv/lists/29290608
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/11245

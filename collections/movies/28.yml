@@ -1,8 +1,6 @@
-metadata:
-  28 Days Later:
-    mapping_id: 170
-    url_poster: https://theposterdb.com/api/assets/263885
-  28 Weeks Later:
-    mapping_id: 1562
-    url_poster: https://theposterdb.com/api/assets/263886
-
+collections:
+  28 Collection:
+    trakt_list: https://trakt.tv/lists/official/28-days-weeks-later-collection
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/4963

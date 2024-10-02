@@ -1,28 +1,6 @@
-metadata:
-  Alien:
-    mapping_id: tt0078748
-    originally_available: 10/26/1979
-    url_poster: https://theposterdb.com/api/assets/316510
-  Aliens:
-    mapping_id: tt0090605
-    originally_available: 07/17/1986
-    url_poster: https://theposterdb.com/api/assets/316511
-  Alien³:
-    mapping_id: tt0103644
-    originally_available: 05/21/1992
-    url_poster: https://theposterdb.com/api/assets/316512
-  Alien Resurrection:
-    mapping_id: tt0118583
-    originally_available: 11/07/1997
-    url_poster: https://theposterdb.com/api/assets/316513
-  Prometheus:
-    mapping_id: tt1446714
-    originally_available: 05/29/2012
-    url_poster: https://theposterdb.com/api/assets/316516
-  Alien Covenant:
-    mapping_id: tt2316204
-    originally_available: 05/08/2017
-    url_poster: https://theposterdb.com/api/assets/316517
-  Alien Romulus:
-    mapping_id: 945961
-    url_poster: https://theposterdb.com/api/assets/520396
+collections:
+  Alien Collection:
+    trakt_list: https://trakt.tv/lists/29288995
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/316509

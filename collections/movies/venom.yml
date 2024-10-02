@@ -1,9 +1,6 @@
-metadata:
-  Venom:
-    mapping_id: 335983
-    originally_available: 10/04/2018
-    url_poster: https://theposterdb.com/api/assets/171912
-  Venom Let There Be Carnage:
-    mapping_id: 580489
-    originally_available: 10/14/2021
-    url_poster: https://theposterdb.com/api/assets/171913
+collections:
+  Venom Collection:
+    trakt_list: https://trakt.tv/lists/6273063
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/171911

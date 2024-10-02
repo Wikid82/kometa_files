@@ -1,10 +1,6 @@
-metadata:
-  Willy Wonka & the Chocolate Factory:
-    mapping_id: 252
-    url_poster: https://theposterdb.com/api/assets/453913
-  Charlie and the Chocolate Factory:
-    mapping_id: 118
-    url_poster: https://theposterdb.com/api/assets/453912
-  Wonka:
-    mapping_id: 787699
-    url_poster: https://theposterdb.com/api/assets/453911
+collections:
+  Willy Wonka Collection:
+    trakt_list: https://trakt.tv/lists/29291717
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/454164

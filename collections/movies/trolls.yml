@@ -1,11 +1,6 @@
-metadata:
-  Trolls:
-    mapping_id: 136799
-    url_poster: https://theposterdb.com/api/assets/28445
-  Trolls World Tour:
-    mapping_id: 446893
-    url_poster: https://theposterdb.com/api/assets/61677
-  Trolls Band Together:
-    mapping_id: 901362
-    url_poster: https://theposterdb.com/api/assets/434166
-
+collections:
+  Trolls Collection:
+    trakt_list: https://trakt.tv/lists/4347615
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/61566

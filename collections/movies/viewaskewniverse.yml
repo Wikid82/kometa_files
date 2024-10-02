@@ -1,25 +1,6 @@
-metadata:
-  Clerks:
-    mapping_id: 2292
-    url_poster: https://theposterdb.com/api/assets/61803
-  Clerks II:
-    mapping_id: 2295
-    url_poster: https://theposterdb.com/api/assets/61808
-  Clerks III:
-    mapping_id: 635891
-    url_poster: https://theposterdb.com/api/assets/512412
-  Mallrats:
-    mapping_id: 2293
-    url_poster: https://theposterdb.com/api/assets/61804
-  Chasing Amy:
-    mapping_id: 2255
-    url_poster: https://theposterdb.com/api/assets/61805
-  Dogma:
-    mapping_id: 1832
-    url_poster: https://theposterdb.com/api/assets/61806
-  Jay and Silent Bob Strike Back:
-    mapping_id: 2294
-    url_poster: https://theposterdb.com/api/assets/61807
-  Jay and Silent Bob Reboot:
-    mapping_id: 440762
-    url_poster: https://theposterdb.com/api/assets/331290
+collections:
+  A View Askewniverse Collection:
+    trakt_list: https://trakt.tv/lists/11349672
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/61802

@@ -1,7 +1,6 @@
-metadata:
-  The Good Nurse:
-    mapping_id: 541134
+collections:
+  The Good Nurse Collection:
+    trakt_list: https://trakt.tv/lists/29314105
+    collection_mode: hide_items
+    collection_order: release
     url_poster: https://theposterdb.com/api/assets/280395
-  Capturing the Killer Nurse:
-    mapping_id: 1018647
-    url_poster: https://theposterdb.com/api/assets/296401

@@ -1,19 +1,6 @@
-metadata:
-  Ice Age:
-    mapping_id: 425
-    url_poster: https://theposterdb.com/api/assets/137
-  Ice Age The Meltdown:
-    mapping_id: 950
-    url_poster: https://theposterdb.com/api/assets/138
-  Ice Age Dawn of the Dinosaurs:
-    mapping_id: 8355
-    url_poster: https://theposterdb.com/api/assets/139
-  Ice Age Continental Drift:
-    mapping_id: 57800
-    url_poster: https://theposterdb.com/api/assets/140
-  Ice Age Collision Course:
-    mapping_id: 278154
-    url_poster: https://theposterdb.com/api/assets/141
-  The Ice Age Adventures of Buck Wild:
-    mapping_id: 774825
-    url_poster: https://theposterdb.com/api/assets/207853
+collections:
+  Ice Age Collection:
+    trakt_list: https://trakt.tv/lists/58
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/136

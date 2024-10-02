@@ -1,5 +1,6 @@
-metadata:
-  Moana:
-    mapping_id: 170
-    url_poster: https://theposterdb.com/api/assets/119422
-
+collections:
+  Moana Collection:
+    trakt_list: https://trakt.tv/lists/29317597
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/119421

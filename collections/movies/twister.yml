@@ -1,7 +1,6 @@
-metadata:
-  Twister:
-    mapping_id: 170
-    url_poster: https://theposterdb.com/api/assets/510348
-  Twisters:
-    mapping_id: 1562
+collections:
+  Twister Collection:
+    trakt_list: https://trakt.tv/lists/24401589
+    collection_mode: hide_items
+    collection_order: release
     url_poster: https://theposterdb.com/api/assets/510346

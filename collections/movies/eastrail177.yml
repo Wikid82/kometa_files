@@ -1,13 +1,6 @@
-metadata:
-  Unbreakable:
-    mapping_id: 9741
-    originally_available: 08/19/2001
-    url_poster: https://theposterdb.com/api/assets/10347
-  Split:
-    mapping_id: 381288
-    originally_available: 04/03/2017
-    url_poster: https://theposterdb.com/api/assets/10348
-  Glass:
-    mapping_id: 450465
-    originally_available: 04/01/2019
-    url_poster: https://theposterdb.com/api/assets/10349
+collections:
+  EastRail 177  Collection:
+    trakt_list: https://trakt.tv/lists/28819427
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/517143

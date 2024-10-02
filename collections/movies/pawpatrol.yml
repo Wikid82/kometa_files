@@ -1,7 +1,6 @@
-metadata:
-  PAW Patrol The Movie:
-    mapping_id: 675445
-    url_poster: https://theposterdb.com/api/assets/171228
-  PAW Patrol The Mighty Movie:
-    mapping_id: 893723
-    url_poster: https://theposterdb.com/api/assets/428413
+collections:
+  Paw Patrol (Theatrical) Collection:
+    trakt_list: https://trakt.tv/lists/22497763
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/451558

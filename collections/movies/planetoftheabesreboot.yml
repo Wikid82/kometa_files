@@ -2,4 +2,5 @@ collections:
   Planet of the Apes (Reboot) Collection:
     trakt_list: https://trakt.tv/lists/1531
     collection_mode: hide_items
+    collection_order: release
     url_poster: https://theposterdb.com/api/assets/97354

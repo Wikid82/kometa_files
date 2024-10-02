@@ -2,4 +2,5 @@ collections:
   The Lord of The Rings Collection:
     trakt_list: https://trakt.tv/lists/29290682
     collection_mode: hide_items
+    collection_order: release
     url_poster: https://theposterdb.com/api/assets/191453

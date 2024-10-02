@@ -1,10 +1,6 @@
-metadata:
-  Sonic the Hedgehog:
-    mapping_id: 454626
-    url_poster: https://theposterdb.com/api/assets/195627
-  Sonic the Hedgehog 2:
-    mapping_id: 675353
-    url_poster: https://theposterdb.com/api/assets/195628
-  Sonic the Hedgehog 3:
-    mapping_id: 939243
-    url_poster: https://theposterdb.com/api/assets/519444
+collections:
+  Sonic The Hedgehog Collection:
+    trakt_list: https://trakt.tv/lists/29292315
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/195640

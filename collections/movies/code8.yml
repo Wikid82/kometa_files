@@ -1,7 +1,6 @@
-metadata:
-  Code 8 Part 1:
-    mapping_id: 461130
-    url_poster: https://theposterdb.com/api/assets/462094
-  Code 8 Part 2:
-    mapping_id: 932420
-    url_poster: https://theposterdb.com/api/assets/462093
+collections:
+  Code 8 Collection:
+    trakt_list: https://trakt.tv/lists/26182098
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/462092

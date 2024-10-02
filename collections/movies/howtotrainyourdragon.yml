@@ -1,10 +1,6 @@
-metadata:
-  How To Train Your Dragon:
-    mapping_id: 10191
-    url_poster: https://theposterdb.com/api/assets/29
-  How To Train Your Dragon 2:
-    mapping_id: 82702
-    url_poster: https://theposterdb.com/api/assets/30
-  How To Train Your Dragon The Hidden World:
-    mapping_id: 166428
-    url_poster: https://theposterdb.com/api/assets/31
+collections:
+  How To Train Your Dragon Collection:
+    trakt_list: https://trakt.tv/lists/474
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/15824

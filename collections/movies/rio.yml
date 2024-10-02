@@ -1,9 +1,6 @@
-metadata:
-  Rio:
-    mapping_id: 46195
-    url_poster: https://theposterdb.com/api/assets/85958
-  Rio 2:
-    mapping_id: 172385
-    url_poster: https://theposterdb.com/api/assets/85959
-
-
+collections:
+  Rio Collection:
+    trakt_list: https://trakt.tv/lists/1352
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/293602

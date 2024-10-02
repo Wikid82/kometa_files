@@ -1,13 +1,6 @@
-metadata:
-  Kingsman The Secret Service:
-    mapping_id: 207703
-    url_poster: https://theposterdb.com/api/assets/6652
-  Kingsman The Golden Circle:
-    mapping_id: 343668
-    url_poster: https://theposterdb.com/api/assets/6653
-  The King's Man:
-    mapping_id: 476669
-    url_poster: https://theposterdb.com/api/assets/6654
-  Kingsman The Blue Blood:
-    mapping_id: 631969
-    url_poster: https://walter-r2.trakt.tv/images/movies/000/474/479/posters/thumb/5260381c3d.jpg
+collections:
+  Kingsman Collection:
+    trakt_list: https://trakt.tv/lists/2127330
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/6651

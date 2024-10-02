@@ -1,16 +1,6 @@
-metadata:
-  Toy Story:
-    mapping_id: 862
-    url_poster: https://theposterdb.com/api/assets/17799
-  Toy Story 2:
-    mapping_id: 863
-    url_poster: https://theposterdb.com/api/assets/17800
-  Toy Story 3:
-    mapping_id: 10193
-    url_poster: https://theposterdb.com/api/assets/17801
-  2Toy Story 4:
-    mapping_id: 301528
-    url_poster: https://theposterdb.com/api/assets/17802
-  Toy Story 5:
-    mapping_id: 1084244
-    #url_poster: 
+collections:
+  Toy Story Collection:
+    trakt_list: https://trakt.tv/lists/117
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/17798
