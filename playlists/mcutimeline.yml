@@ -1,0 +1,7 @@
+playlists:
+  Marvel Cinematic Universe Timeline:
+    sync_mode: sync
+    libraries: Movies, TV Shows
+    sync_to_users: all
+    trakt_list: https://trakt.tv/lists/28217680?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/9220
