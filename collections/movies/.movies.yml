@@ -1,40 +1,9 @@
 collections:
-  Aladdin Collection:
-    radarr_taglist: aladdin
-    collection_order: release.asc
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/43734
-
-  The Conjuring Collection:
-    radarr_taglist: conjuring
-    collection_order: release.asc
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/248033
-
-  Annabelle Collection:
-    radarr_taglist: annabelle
-    collection_order: release.asc
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/248032
-
-  The Nun Collection:
-    radarr_taglist: nun
-    collection_order: release.asc
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/402597
-
-  The Conjuring Universe:
-    radarr_taglist: conjuring, annabelle, nun, llorona
-    collection_order: release.asc
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/248035
-
   Ant-Man Collection:
     radarr_taglist: antman
     collection_order: release.asc
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/162886
-
   The Avengers Collection:
     radarr_taglist: avengers
     collection_order: release.asc
