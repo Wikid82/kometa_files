@@ -5,11 +5,11 @@
 <p align="center">
 	<!-- Shields.io badges disabled, using skill icons. --></p>
 <p align="center">
-		<em>Built with the tools and technologies:</em>
+		<em>Built with these tools and technologies:</em>
 </p>
 <p align="center">
-	[<a href="https://kometa.wiki/en/latest/">
-		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="75" height="75">][1]
+	<a href="https://kometa.wiki/en/latest/">
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="75" height="75">
 	<a href="https://radarr.video">
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/radarr.svg" width="75" height="75">
 	<a href="https://sonarr.tv">
@@ -19,7 +19,7 @@
 	<a href="https://theposterdb.com" >
 		<img src="https://theposterdb.com/assets/logos/icon/color.svg" width="75" height="75"> 
 	</a></p>
-[1]: https://kometa.wiki/en/latest/                                            "Kometa"
+
 <br>
 
 Table of Contents
