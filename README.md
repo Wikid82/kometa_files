@@ -8,8 +8,8 @@
 		<em>Built with the tools and technologies:</em>
 </p>
 <p align="center">
-	<a href="https://kometa.wiki/en/latest/">
-		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="75" height="75"> 
+	[<a href="https://kometa.wiki/en/latest/">
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="75" height="75">][1]
 	<a href="https://radarr.video">
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/radarr.svg" width="75" height="75">
 	<a href="https://sonarr.tv">
