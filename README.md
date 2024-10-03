@@ -10,10 +10,10 @@
 <p align="center">
 	<a href="https://kometa.wiki/en/latest/">
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="75" height="75"> 
-	<a href="https://www.themoviedb.org">
-		<img src="https://cdn6.aptoide.com/imgs/2/f/0/2f00b070ae69de52adb50055ec150ef9_icon.png?w=128" width="75" height="75">
-	<a href="https://www.thetvdb.com">
-		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/tvdb.png" width="75" height="75"> 
+	<a href="https://radarr.video">
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/radarr.svg" width="75" height="75">
+	<a href="https://sonarr.tv">
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarr.svg" width="75" height="75"> 
 <a href="https://trakt.tv">
   <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/2945267.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcyODA3MzM1MiwicSI6bnVsbCwiaWF0IjoxNzI3ODE0MTUyfQ__.19ab2476e4821ded424bcca00cebcdf97e65f9e45dc6cc722ad8cc27e0800191"width="75" height="75">
 	<a href="https://theposterdb.com" >

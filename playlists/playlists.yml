@@ -1,0 +1,20 @@
+playlists:
+  Sleepy Time Playlist:
+    libraries: Movies, TV Shows
+    sync_to_users: all
+    trakt_list: https://trakt.tv/lists/29089805
+    sync_mode: sync
+    file_poster: /config/sleep.png
+  Marvel Cinematic Universe Timeline:
+    sync_mode: sync
+    libraries: Movies, TV Shows
+    sync_to_users: all
+    trakt_list: https://trakt.tv/lists/28217680?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/9220
+  Alien / Predator Timeline:
+    sync_mode: sync
+    libraries: Movies, TV Shows
+    sync_to_users: all
+    trakt_list: https://trakt.tv/lists/28919124?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/465191
+

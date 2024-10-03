@@ -1,0 +1,82 @@
+metadata:
+  The Crow S2H:
+    mapping_id: 72850
+    url_poster: https://theposterdb.com/api/assets/188015
+    seasons:
+      01:
+        url_poster: https://theposterdb.com/api/assets/188017
+  Expedition Unknosn:
+    mapping_id: 280316
+    url_poster: https://theposterdb.com/api/assets/440453
+    seasons:
+      01:
+        url_poster: https://theposterdb.com/api/assets/440455
+      02:
+        url_poster: https://theposterdb.com/api/assets/440456
+      03:
+        url_poster: https://theposterdb.com/api/assets/440457
+      04:
+        url_poster: https://theposterdb.com/api/assets/440458
+      05:
+        url_poster: https://theposterdb.com/api/assets/440459
+      06:
+        url_poster: https://theposterdb.com/api/assets/440460
+      07:
+        url_poster: https://theposterdb.com/api/assets/440461
+      08:
+        url_poster: https://theposterdb.com/api/assets/440462
+      09:
+        url_poster: https://theposterdb.com/api/assets/440463
+      10:
+        url_poster: https://theposterdb.com/api/assets/440464
+      11:
+        url_poster: https://theposterdb.com/api/assets/440465
+      12:
+        url_poster: https://theposterdb.com/api/assets/440466
+      13:
+        url_poster: https://theposterdb.com/api/assets/440467
+      00:
+        url_poster: https://theposterdb.com/api/assets/440454
+  Expedition X:
+    mapping_id: 375704
+    url_poster: https://theposterdb.com/api/assets/458316
+    seasons:
+      01:
+        url_poster: https://theposterdb.com/api/assets/458317
+      02:
+        url_poster: https://theposterdb.com/api/assets/458318
+      03:
+        url_poster: https://theposterdb.com/api/assets/458319
+      04:
+        url_poster: https://theposterdb.com/api/assets/458320
+      05:
+        url_poster: https://theposterdb.com/api/assets/458321
+      06:
+        url_poster: https://theposterdb.com/api/assets/458322
+      07:
+        url_poster: https://theposterdb.com/api/assets/458323
+      08:
+        url_poster: https://theposterdb.com/api/assets/516625
+      00:
+        url_poster: https://theposterdb.com/api/assets/516626
+  Monsters:
+    mapping_id: 389492
+    originally_available: 09/19/2024
+    url_poster: https://theposterdb.com/api/assets/525828
+    seasons:
+      01:
+        url_poster: https://theposterdb.com/api/assets/525833
+      02:
+        url_poster: https://theposterdb.com/api/assets/525832
+  Shock Docs:
+    mapping_id: 394877
+    file_poster: /config/shockdocs.jpg
+    seasons:
+      01:
+        file_poster: /config/shockdocs.jpg
+      02:
+        file_poster: /config/shockdocs.jpg
+      03:
+        file_poster: /config/shockdocs.jpg
+      04:
+        file_poster: /config/shockdocs.jpg

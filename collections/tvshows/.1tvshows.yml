@@ -1,0 +1,83 @@
+collections:
+  Naked and Afraid Collection:
+    sonarr_taglist: nakedandafraid
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/326122
+  Ancient Aliens Collection:
+    sonarr_taglist: ancientaliens
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/204657
+  The Proof Is Out There Collection:
+    sonarr_taglist: theproofisoutthere
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/399689
+  Stargate Collection:
+    sonarr_taglist: stargate
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/186449
+  Letterkenny Collection:
+    sonarr_taglist: letterkenny
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/191583
+  Star Wars Collection:
+    sonarr_taglist: starwars
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/41801
+  The Boys Collection:
+    sonarr_taglist: theboys
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/457867
+  Orphan Black Collection:
+    sonarr_taglist: orphanblack
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/509293
+  True Crime Story Collection:
+    sonarr_taglist: truecrimestory
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://image.tmdb.org/t/p/original/pg06WjmBfE8lLstCWaW34idH8GI.jpg
+  Bluey Collection:
+    sonarr_taglist: bluey
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/28674
+  The UnXplained Collection:
+    sonarr_taglist: unxplained
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/439963
+  Paw Patrol Collection:
+    sonarr_taglist: pawpatrol
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/451558
+  Animaniacs Collection:
+    sonarr_taglist: animaniacs
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/116821
+  Cloudy With A Chance of Meatballs Collection:
+    sonarr_taglist: cloudywithachanceofmeatballs
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/20437
+
+  Expedition Unknown Collection:
+    sonarr_taglist: joshgates
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/384580
+
+  The Marvel Cinimatic Universe:
+    sonarr_taglist: 616
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/5912
