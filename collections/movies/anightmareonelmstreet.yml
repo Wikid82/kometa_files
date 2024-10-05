@@ -1,0 +1,6 @@
+collections:
+  A Nightmare on Elm Street Collection:
+    trakt_list: https://trakt.tv/lists/29350176
+    collection_mode: hide_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/8378
