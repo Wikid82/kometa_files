@@ -1,0 +1,13 @@
+metadata:
+  Shock Docs:
+    mapping_id: 394877
+    file_poster: /config/shockdocs.jpg
+    seasons:
+      01:
+        file_poster: /config/shockdocs.jpg
+      02:
+        file_poster: /config/shockdocs.jpg
+      03:
+        file_poster: /config/shockdocs.jpg
+      04:
+        file_poster: /config/shockdocs.jpg

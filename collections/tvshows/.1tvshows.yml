@@ -14,11 +14,7 @@ collections:
     collection_order: release.asc
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/399689
-  Stargate Collection:
-    sonarr_taglist: stargate
-    collection_order: release.asc
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/186449
+
   Letterkenny Collection:
     sonarr_taglist: letterkenny
     collection_order: release.asc
@@ -69,12 +65,6 @@ collections:
     collection_order: release.asc
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/20437
-
-  Expedition Unknown Collection:
-    sonarr_taglist: joshgates
-    collection_order: release.asc
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/384580
 
   The Marvel Cinimatic Universe:
     sonarr_taglist: 616
