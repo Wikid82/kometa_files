@@ -1,10 +1,11 @@
+---
 collections:
   The Conjuring Universe:
-    trakt_list:
-    - https://trakt.tv/lists/29335077
-    - https://trakt.tv/lists/2373282
-    - https://trakt.tv/lists/23416923
-    - https://trakt.tv/lists/29335200
     collection_mode: hide_items
     collection_order: release
+    trakt_list:
+      - https://trakt.tv/lists/29335077
+      - https://trakt.tv/lists/2373282
+      - https://trakt.tv/lists/23416923
+      - https://trakt.tv/lists/29335200
     url_poster: https://theposterdb.com/api/assets/23524

@@ -1,6 +1,7 @@
+---
 collections:
   Halloween Collection:
-    trakt_list: https://trakt.tv/lists/129
     collection_mode: hide_items
     collection_order: release
+    trakt_list: https://trakt.tv/lists/129
     url_poster: https://theposterdb.com/api/assets/190032

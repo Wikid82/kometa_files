@@ -1,6 +1,7 @@
+---
 collections:
   Cocoon Collection:
-    trakt_list: https://trakt.tv/lists/487
     collection_mode: hide_items
     collection_order: release
+    trakt_list: https://trakt.tv/lists/487
     url_poster: https://theposterdb.com/api/assets/4158

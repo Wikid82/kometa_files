@@ -1,6 +1,7 @@
+---
 collections:
   Alien & Predator Timeline Collection:
-    trakt_list: https://trakt.tv/lists/28919124
     collection_mode: hide_items
     collection_order: custom.asc
+    trakt_list: https://trakt.tv/lists/28919124
     url_poster: https://theposterdb.com/api/assets/146111

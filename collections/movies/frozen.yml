@@ -1,6 +1,7 @@
+---
 collections:
   Frozen Collection:
-    trakt_list: https://trakt.tv/lists/1996672
     collection_mode: hide_items
     collection_order: release
+    trakt_list: https://trakt.tv/lists/1996672
     url_poster: https://theposterdb.com/api/assets/38992

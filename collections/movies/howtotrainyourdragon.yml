@@ -1,6 +1,7 @@
+---
 collections:
   How To Train Your Dragon Collection:
-    trakt_list: https://trakt.tv/lists/474
     collection_mode: hide_items
     collection_order: release
+    trakt_list: https://trakt.tv/lists/474
     url_poster: https://theposterdb.com/api/assets/15824
