@@ -1,10 +1,73 @@
 metadata:
   Expedition Unknown:
     mapping_id: 280316
-    url_poster: https://theposterdb.com/api/assets/440453
+    url_poster: https://theposterdb.com/api/assets/510453
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/510454
+        episodes:
+          29:
+            title: "Hunt for the Yeti: Return of the Yeti"
+            original_title: "Hunt for the Yeti: Return of the Yeti"
+            sort_title: "Hunt for the Yeti: Return of the Yeti"
+            originally_available: 10/05/2016
+          30:
+            title: "Hunt for the Yeti: The Monster and the Mountain"
+            original_title: "Hunt for the Yeti: The Monster and the Mountain"
+            sort_title: "Hunt for the Yeti: The Monster and the Mountain"
+            originally_available: 10/12/2016
+          31:
+            title: "Hunt for the Yeti: Out of Thin Air"
+            original_title: "Hunt for the Yeti: Out of Thin Air"
+            sort_title: "Hunt for the Yeti: Out of Thin Air"
+            originally_available: 10/19/2016
+          32:
+            title: "Hunt for the Yeti: Unmasking the Myth"
+            original_title: "Hunt for the Yeti: Unmasking the Myth"
+            sort_title: "Hunt for the Yeti: Unmasking the Myth"
+            originally_available: 10/26/2016
+          63:
+            title: "Hunt for Extraterrestrials: Close Encounters"
+            original_title: "Hunt for Extraterrestrials: Close Encounters"
+            sort_title: "Hunt for Extraterrestrials: Close Encounters"
+            originally_available: 10/04/2017
+          65:
+            title: "Hunt for Extraterrestrials: Ancient Visitors"
+            original_title: "Hunt for Extraterrestrials: Ancient Visitors"
+            sort_title: "Hunt for Extraterrestrials: Ancient Visitors"
+            originally_available: 10/11/2017
+          67:
+            title: "Hunt for Extraterrestrials: UFOs Over England"
+            original_title: "Hunt for Extraterrestrials: UFOs Over England"
+            sort_title: "Hunt for Extraterrestrials: UFOs Over England"
+            originally_available: 10/18/2017
+          69:
+            title: "Hunt for Extraterrestrials: Roswell Revealed"
+            original_title: "Hunt for Extraterrestrials: Roswell Revealed"
+            sort_title: "Hunt for Extraterrestrials: Roswell Revealed"
+            originally_available: 10/25/2017
+          84:
+            title: "Search for the Afterlife: Heaven and Hell and Beyond"
+            original_title: "Search for the Afterlife: Heaven and Hell and Beyond"
+            sort_title: "Search for the Afterlife: Heaven and Hell and Beyond"
+            originally_available: 10/07/2018
+          86:
+            title: "Search for the Afterlife: Death and Beyond"
+            original_title: "Search for the Afterlife: Death and Beyond"
+            sort_title: "Search for the Afterlife: Death and Beyond"
+            originally_available: 10/14/2018
+          88:
+            title: "Search for the Afterlife: Edge of Existence"
+            original_title: "Search for the Afterlife: Edge of Existence"
+            sort_title: "Search for the Afterlife: Edge of Existence"
+            originally_available: 10/21/2018
+          90:
+            title: "Search for the Afterlife: Crossing Over the Edge"
+            original_title: "Search for the Afterlife: Crossing Over the Edge"
+            sort_title: "Search for the Afterlife: Crossing Over the Edge"
+            originally_available: 10/28/2018
       1:
-        url_poster: https://theposterdb.com/api/assets/440455
+        url_poster: https://theposterdb.com/api/assets/510455
         episodes:
           1:
             title: "Amelia Earhart"
@@ -67,7 +130,7 @@ metadata:
             sort_title: "Curse of the Golden Bell"
             originally_available: 04/02/2015
       02:
-        url_poster: https://theposterdb.com/api/assets/440456
+        url_poster: https://theposterdb.com/api/assets/510456
         episodes:
           1:
             title: "The Quest for King Arthur"
@@ -170,7 +233,7 @@ metadata:
             sort_title: "Hitler's Atomic Secrets"
             originally_available: 06/22/2016
       03:
-        url_poster: https://theposterdb.com/api/assets/440457
+        url_poster: https://theposterdb.com/api/assets/510457
         episodes:
           1:
             title: "Plummer's Gold"
@@ -258,7 +321,7 @@ metadata:
             sort_title: "Lost Spanish Fortune, Found!"
             originally_available: 06/14/2017
       04:
-        url_poster: https://theposterdb.com/api/assets/440458
+        url_poster: https://theposterdb.com/api/assets/510458
         episodes:
           1:
             title: "Viking Secrets"
@@ -306,7 +369,7 @@ metadata:
             sort_title: "Secrets of Brother XII"
             originally_available: 02/28/2018
       05:
-        url_poster: https://theposterdb.com/api/assets/440459
+        url_poster: https://theposterdb.com/api/assets/510459
         episodes:
           1:
             title: "Pyramid of Legends"
@@ -344,7 +407,7 @@ metadata:
             sort_title: "Solved: Mystery of the Lost Ruby Slippers"
             originally_available: 09/05/2018
       06:
-        url_poster: https://theposterdb.com/api/assets/440460
+        url_poster: https://theposterdb.com/api/assets/510460
         episodes:
           1:
             title: "Deciphering the Last Nazi Code"
@@ -387,7 +450,7 @@ metadata:
             sort_title: "The Hunt for the Golden Owl"
             originally_available: 05/29/2019
       07:
-        url_poster: https://theposterdb.com/api/assets/440461
+        url_poster: https://theposterdb.com/api/assets/510461
         episodes:
           1:
             title: "Mysteries of the Dead Sea Scrolls"
@@ -450,7 +513,7 @@ metadata:
             sort_title: "The Secret Solved"
             originally_available: 10/30/2019
       08:
-        url_poster: https://theposterdb.com/api/assets/440462
+        url_poster: https://theposterdb.com/api/assets/510462
         episodes:
           1:
             title: "Digging Into D-Day"
@@ -493,7 +556,7 @@ metadata:
             sort_title: "Revealing the Triangle"
             originally_available: 03/25/2020
       09:
-        url_poster: https://theposterdb.com/api/assets/440463
+        url_poster: https://theposterdb.com/api/assets/510463
         episodes:
           1:
             title: "Dillinger's Lost Loot"
@@ -526,7 +589,7 @@ metadata:
             sort_title: "America's Titanic"
             originally_available: 08/25/2021
       10:
-        url_poster: https://theposterdb.com/api/assets/440464
+        url_poster: https://theposterdb.com/api/assets/510464
         episodes:
           1:
             title: "Buried Secrets of Hitler"
@@ -599,7 +662,7 @@ metadata:
             sort_title: "Finding Italy's Lost Empire"
             originally_available: 08/31/2022
       11:
-        url_poster: https://theposterdb.com/api/assets/440465
+        url_poster: https://theposterdb.com/api/assets/510465
         episodes:
           1:
             title: "Sunken Pyramids of The Nile"
@@ -642,7 +705,7 @@ metadata:
             sort_title: "Cambodia's Stolen Monuments"
             originally_available: 07/12/2023
       12:
-        url_poster: https://theposterdb.com/api/assets/440466
+        url_poster: https://theposterdb.com/api/assets/510466
         episodes:
           1:
             title: "Missing Heroes of WW2"
@@ -685,7 +748,7 @@ metadata:
             sort_title: "Hunt for the Secret Seaplane"
             originally_available: 01/03/2024
       13:
-        url_poster: https://theposterdb.com/api/assets/440467
+        url_poster: https://theposterdb.com/api/assets/510467
         episodes:
           1:
             title: "Hunt for Alexander the Great"
@@ -722,5 +785,41 @@ metadata:
             original_title: "America's MIA Heroines"
             sort_title: "America's MIA Heroines"
             originally_available: 07/31/2024
-
-
+      14:
+        url_poster: https://theposterdb.com/api/assets/510468
+        episodes:
+          1:
+            title: "Hunt for Petra's Lost Tombs"
+            original_title: "Hunt for Petra's Lost Tombs"
+            sort_title: "Hunt for Petra's Lost Tombs"
+            originally_available: 10/09/2024
+#          2:
+#            title: "Petra's Secrets Revealed"
+#            original_title: "Petra's Secrets Revealed"
+#            sort_title: "Petra's Secrets Revealed"
+#            originally_available: 10/16/2024
+#          3:
+#            title: "Search for Pan Am's Clipper"
+#            original_title: "Search for Pan Am's Clipper"
+#            sort_title: Search for Pan Am's Clipper"
+#            originally_available: 10/23/2024
+#          4:
+#            title: "Sharks Vs. Nazis In Paradise"
+#            original_title: "Sharks Vs. Nazis In Paradise"
+#            sort_title: "Sharks Vs. Nazis In Paradise"
+#            originally_available: 07/10/2024
+#          5:
+#            title: "Lost Bomber of World War II"
+#            original_title: "Lost Bomber of World War II"
+#            sort_title: "Lost Bomber of World War II"
+#            originally_available: 07/17/2024
+#          6:
+#            title: "Chasing Africa's Atlantis"
+#            original_title: "Chasing Africa's Atlantis"
+#            sort_title: "Chasing Africa's Atlantis"
+#            originally_available: 07/24/2024
+#          7:
+#            title: "America's MIA Heroines"
+#            original_title: "America's MIA Heroines"
+#            sort_title: "America's MIA Heroines"
+#            originally_available: 07/31/2024

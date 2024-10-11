@@ -1,6 +1,0 @@
-collections:
-  Expedition Unknown Collection:
-    trakt_list: https://trakt.tv/lists/29380046
-    collection_order: release.asc
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/440453

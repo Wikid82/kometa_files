@@ -1,10 +1,19 @@
 metadata:
   Monsters:
     mapping_id: 389492
+    title: Monster
+    original_title: Monster
+    sort_title: Monster
     originally_available: 09/19/2024
     url_poster: https://theposterdb.com/api/assets/525828
     seasons:
       01:
+        title: "Monster: The Jeffrey Dahmer Story"
+        original_title: "Monster: The Jeffrey Dahmer Story"
+        sort_title: "Monster: The Jeffrey Dahmer Story"
         url_poster: https://theposterdb.com/api/assets/525833
       02:
+        title: "Monsters: The Lyle and Erik Menendez Story"
+        original_title: "Monsters: The Lyle and Erik Menendez Story"
+        sort_title: "Monsters: The Lyle and Erik Menendez Story"
         url_poster: https://theposterdb.com/api/assets/525832
