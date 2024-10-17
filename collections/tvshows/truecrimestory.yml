@@ -1,0 +1,6 @@
+collections:
+  True Crime Story Collection:
+    trakt_list: https://trakt.tv/lists/29533224
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://image.tmdb.org/t/p/original/pg06WjmBfE8lLstCWaW34idH8GI.jpg

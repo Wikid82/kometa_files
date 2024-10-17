@@ -1,0 +1,6 @@
+collections:
+  The UnXplained Collection:
+    trakt_list: https://trakt.tv/lists/29533313
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/439963
