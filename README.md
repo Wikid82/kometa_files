@@ -15,7 +15,7 @@
 	<a href="https://sonarr.tv">
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarr.svg" width="75" height="75"> 
 <a href="https://trakt.tv">
-  <img src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/2945267.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcyODA3MzM1MiwicSI6bnVsbCwiaWF0IjoxNzI3ODE0MTUyfQ__.19ab2476e4821ded424bcca00cebcdf97e65f9e45dc6cc722ad8cc27e0800191"width="75" height="75">
+  <img src="https://trakt.tv/assets/logos/logomark.square.gradient-b644b16c38ff775861b4b1f58c1230f6a097a2466ab33ae00445a505c33fcb91.svg" width="75" height="75">
 	<a href="https://theposterdb.com" >
 		<img src="https://theposterdb.com/assets/logos/icon/color.svg" width="75" height="75"> 
 	</a></p>
@@ -116,6 +116,6 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ## 🙌 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- Readme built with <a href="https://readme-ai.streamlit.app">ReadMe.AI</a> 
 
 ---
