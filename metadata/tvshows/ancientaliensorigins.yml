@@ -1,0 +1,21 @@
+metadata:
+  Ancient Aliens Origins:
+    mapping_id: 455339
+    url_poster: https://theposterdb.com/api/assets/535340
+    seasons:
+      01:
+        tmdb_show: https://www.themoviedb.org/tv/273483-ancient-aliens-origins
+        url_poster: https://theposterdb.com/api/assets/535340
+        episodes:
+          01:
+            title: "Extraordinary Engineering"
+            original_title: "Extraordinary Engineering"
+            sort_title: "Extraordinary Engineering"
+            originally_available: 10/07/2024
+          02:
+            title: "Ancient Close Encounters"
+            original_title: "Ancient Close Encounters"
+            sort_title: "Ancient Close Encounters"
+            originally_available: 10/14/2024
+
+
