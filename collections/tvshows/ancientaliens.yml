@@ -1,6 +1,6 @@
 collections:
   Ancient Aliens Collection:
-    tvdb_list: https://www.thetvdb.com/lists/16534
+    tvdb_show: 455339, 101501, 360143, 436883, 451296, 283849
     collection_order: release.asc
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/204657
