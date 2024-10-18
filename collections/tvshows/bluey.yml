@@ -1,6 +1,6 @@
 collections:
   Bluey Collection:
-    trakt_list: https://trakt.tv/lists/29533025
+    trakt_list: https://trakt.tv/lists/29533264
     collection_order: release.asc
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/28674

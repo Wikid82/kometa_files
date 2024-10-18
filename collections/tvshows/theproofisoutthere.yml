@@ -1,5 +1,6 @@
-The Proof Is Out There Collection:
-  trakt_list: https://trakt.tv/lists/29533142
-  collection_order: release.asc
-  sync_mode: sync
-  url_poster: https://theposterdb.com/api/assets/399689
+collections:
+  The Proof Is Out There Collection:
+    trakt_list: https://trakt.tv/lists/29533142
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/399689

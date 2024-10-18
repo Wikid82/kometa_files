@@ -1,5 +1,6 @@
-Ancient Aliens Collection:
-  trakt_list: https://trakt.tv/lists/29533066
-  collection_order: release.asc
-  sync_mode: sync
-  url_poster: https://theposterdb.com/api/assets/204657
+collections:
+  Ancient Aliens Collection:
+    tvdb_show: 101501, 360143, 455339, 451296, 436883, 283849
+    collection_order: release.asc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/204657
