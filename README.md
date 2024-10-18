@@ -93,6 +93,9 @@ In your Kometa config file add:
 
 Extract the files to their respective folders. Kometa will read the folder of files so you don't have to add each file indifidually. More on that <a href="https://kometa.wiki/en/latest/config/files/#location-types-and-paths">here</a>
 
+Files can also be used by adding a Custom Repo. More on that <a href="https://kometa.wiki/en/latest/config/settings/?h=custom_repo#attributes">here</a> and <a href="https://kometa.wiki/en/latest/config/files/#location-types-and-paths">here</a>
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
