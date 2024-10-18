@@ -53,12 +53,14 @@ Table of Contents
 └── kometa_files/
     ├── .github
     │   └── ISSUE_TEMPLATE
+    ├── README.md
     ├── collections
     │   ├── movies
     │   └── tvshows
-    └── metadata
-        ├── movies
-        └── tvshows
+    ├── metadata
+    │   ├── movies
+    │   └── tvshows
+    └── playlists
 ```
 
 ## 🚀 Getting Started
