@@ -5,6 +5,6 @@ metadata:
   Spider-Man Across the Spider-Verse:
     mapping_id: 569094
     url_poster: https://theposterdb.com/api/assets/194419
-  Spider-Man Beyond the Spider-Verse:
-    mapping_id: 911916
-    url_poster: https://theposterdb.com/api/assets/506580
+  #Spider-Man Beyond the Spider-Verse:
+  #  mapping_id: 911916
+  #  url_poster: https://theposterdb.com/api/assets/506580

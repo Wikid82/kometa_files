@@ -8,9 +8,9 @@ metadata:
   Toy Story 3:
     mapping_id: 10193
     url_poster: https://theposterdb.com/api/assets/17801
-  2Toy Story 4:
+  Toy Story 4:
     mapping_id: 301528
     url_poster: https://theposterdb.com/api/assets/17802
-  Toy Story 5:
-    mapping_id: 1084244
-    #url_poster: 
+# Toy Story 5:
+#   mapping_id: 1084244
+#   url_poster: 
