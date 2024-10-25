@@ -1,6 +1,6 @@
 collections:
   Orphan Black Collection:
-    trakt_list: https://trakt.tv/lists/29533206
+    trakt_list_details: https://trakt.tv/lists/29533206
     collection_order: release.asc
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/509293

@@ -2,5 +2,5 @@ collections:
   Beetlejuice Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/23132262
+    trakt_list_details: https://trakt.tv/lists/23132262
     url_poster: https://theposterdb.com/api/assets/494477

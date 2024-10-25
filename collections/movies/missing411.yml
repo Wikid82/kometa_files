@@ -2,5 +2,5 @@ collections:
   Missing 411 Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/20155902
+    trakt_list_details: https://trakt.tv/lists/20155902
     url_poster: https://theposterdb.com/api/assets/215935

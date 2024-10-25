@@ -2,5 +2,5 @@ collections:
   Descendants Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/3950184
+    trakt_list_details: https://trakt.tv/lists/3950184
     url_poster: https://theposterdb.com/api/assets/5743

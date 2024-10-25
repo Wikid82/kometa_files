@@ -1,6 +1,6 @@
 collections:
   Letterkenny Collection:
-    trakt_list: https://trakt.tv/lists/29533181
+    trakt_list_details: https://trakt.tv/lists/29533181
     collection_order: release.asc
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/191583

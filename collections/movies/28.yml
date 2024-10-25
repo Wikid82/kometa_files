@@ -2,5 +2,5 @@ collections:
   28 Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/official/28-days-weeks-later-collection
+    trakt_list_details: https://trakt.tv/lists/official/28-days-weeks-later-collection
     url_poster: https://theposterdb.com/api/assets/4963

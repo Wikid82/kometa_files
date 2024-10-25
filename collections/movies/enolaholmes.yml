@@ -2,5 +2,5 @@ collections:
   Enola Holmes Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/21491698
+    trakt_list_details: https://trakt.tv/lists/21491698
     url_poster: https://theposterdb.com/api/assets/299670

@@ -2,7 +2,7 @@ collections:
   Despicable Me & Minnions Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list:
+    trakt_list_details:
     - https://trakt.tv/lists/896
     - https://trakt.tv/lists/5420635
     url_poster: https://theposterdb.com/api/assets/122830

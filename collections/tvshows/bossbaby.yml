@@ -1,6 +1,6 @@
 collections:
   The Boss Baby Collection:
-    trakt_list: https://trakt.tv/lists/29289196
+    trakt_list_details: https://trakt.tv/lists/29289196
     collection_mode: hide_items
     collection_order: release
     url_poster: https://theposterdb.com/api/assets/111962

@@ -2,7 +2,7 @@ collections:
   The Conjuring Universe:
     collection_mode: hide_items
     collection_order: release
-    trakt_list:
+    trakt_list_details:
     - https://trakt.tv/lists/29335077
     - https://trakt.tv/lists/2373282
     - https://trakt.tv/lists/23416923

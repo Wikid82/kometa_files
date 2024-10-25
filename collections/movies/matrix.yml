@@ -2,5 +2,5 @@ collections:
   Matrix Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/29608071
+    trakt_list_details: https://trakt.tv/lists/29608071
     url_poster: https://theposterdb.com/api/assets/147306

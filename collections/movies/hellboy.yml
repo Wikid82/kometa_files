@@ -2,5 +2,5 @@ collections:
   Hellboy Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: hhttps://trakt.tv/lists/29290608
+    trakt_list_details: hhttps://trakt.tv/lists/29290608
     url_poster: https://theposterdb.com/api/assets/11245

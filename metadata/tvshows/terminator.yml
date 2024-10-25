@@ -1,0 +1,15 @@
+metadata:
+  Terminator The Sarah Connor Chronicles:
+    mapping_id: 80344
+    url_poster: https://theposterdb.com/api/assets/68968
+    seasons:
+      01:
+        url_poster: https://theposterdb.com/api/assets/68969
+      02:
+        url_poster: https://theposterdb.com/api/assets/68970
+  Terminator Zero:
+    mapping_id: 442145
+    url_poster: https://theposterdb.com/api/assets/511458
+    seasons:
+      01:
+        url_poster: https://theposterdb.com/api/assets/511463

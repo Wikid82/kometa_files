@@ -2,7 +2,7 @@ collections:
   The Fast & The Furious Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list:
+    trakt_list_details:
     - https://trakt.tv/lists/official/the-fast-and-the-furious-collection
     - https://trakt.tv/lists/official/hobbs-shaw-collection
     url_poster: https://theposterdb.com/api/assets/10036

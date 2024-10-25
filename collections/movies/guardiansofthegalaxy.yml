@@ -2,5 +2,5 @@ collections:
   Guardians of the Galaxy Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/29591530
+    trakt_list_details: https://trakt.tv/lists/29591530
     url_poster: https://theposterdb.com/api/assets/162891
