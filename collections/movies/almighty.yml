@@ -2,5 +2,5 @@ collections:
   Almighty Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/official/almighty-collection
+    trakt_list: https://trakt.tv/lists/official/almighty-collection
     url_poster: https://theposterdb.com/api/assets/51450
