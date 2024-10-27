@@ -3,4 +3,4 @@ collections:
     trakt_list_details: https://trakt.tv/lists/29533142
     collection_order: release.asc
     sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/399689
+    url_poster: https://artworks.thetvdb.com/banners/series/394331/posters/5ff61a6bc8831.jpg
