@@ -1,0 +1,22 @@
+metadata:
+  Jurassic Park:
+    mapping_id: 329
+    url_poster: https://theposterdb.com/api/assets/7003
+  The Lost World Jurassic Park:
+    mapping_id: 330
+    url_poster: https://theposterdb.com/api/assets/7004
+  Jurassic Park III:
+    mapping_id: 331
+    url_poster: https://theposterdb.com/api/assets/7005
+  Jurassic World:
+    mapping_id: 135397
+    url_poster: https://theposterdb.com/api/assets/7006
+  Jurassic World Fallen Kingdom:
+    mapping_id: 351286
+    url_poster: https://theposterdb.com/api/assets/7007
+  Jurassic World Dominion:
+    mapping_id: 507086
+    url_poster: https://theposterdb.com/api/assets/298528
+# Jurassic World Rebirth:
+#   mapping_id: 1234821
+#   url_poster: 
