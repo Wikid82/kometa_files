@@ -15,11 +15,19 @@
 	<a href="https://sonarr.tv">
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarr.svg" width="75" height="75"> 
 <a href="https://trakt.tv">
+ 	<a href="https://www.themoviedb.org/" >
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tmdb.svg" width="75" height="75"> 
+	</a></p>
+    	<a href="https://www.thetvdb.com" >
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tvdb.svg" width="75" height="75"> 
+	</a></p>
   <img src="https://trakt.tv/assets/logos/logomark.square.gradient-b644b16c38ff775861b4b1f58c1230f6a097a2466ab33ae00445a505c33fcb91.svg" width="75" height="75">
 	<a href="https://theposterdb.com" >
 		<img src="https://theposterdb.com/assets/logos/icon/color.svg" width="75" height="75"> 
 	</a></p>
-
+  	<a href="https://fanart.tv" >
+		<img src="https://i2.wp.com/fanart.tv/images/fanart-logo.png?ssl=1" width="75" height="75"> 
+	</a></p>
 <br>
 
 Table of Contents
