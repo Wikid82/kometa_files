@@ -1,6 +1,8 @@
+---
 collections:
   Cloverfield Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/24073279
+    url_background: https://image.tmdb.org/t/p/original/A6xcpNenk5ClG9rPYpy1W1mApTR.jpg
     url_poster: https://theposterdb.com/api/assets/80058

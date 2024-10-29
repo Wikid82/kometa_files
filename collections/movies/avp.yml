@@ -1,6 +1,8 @@
+---
 collections:
   AVP Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list: https://trakt.tv/lists/official/avp-collection
+    url_background: https://image.tmdb.org/t/p/original/ezIpXeWRd43inL5AOaaBbT4jaf2.jpg
     url_poster: https://theposterdb.com/api/assets/143122

@@ -1,0 +1,8 @@
+---
+collections:
+  Joker Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_list_details: https://www.themoviedb.org/collection/1570-die-hard-collection
+    url_background: https://image.tmdb.org/t/p/original/5kHVblr87FUScuab1PVSsK692IL.jpg
+    url_poster: https://theposterdb.com/api/assets/719

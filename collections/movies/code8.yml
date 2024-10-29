@@ -1,6 +1,8 @@
+---
 collections:
   Code 8 Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/26182098
+    url_background: https://image.tmdb.org/t/p/original/hQEm07zXMhxonxs7M2dXBzTfeV4.jpg
     url_poster: https://theposterdb.com/api/assets/462092

@@ -1,6 +1,8 @@
+---
 collections:
   Small Town Monsters Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29316113
-    url_poster: https://theposterdb.com/api/assets/442530
+    url_background: https://image.tmdb.org/t/p/original/9cAyfscf81go4pQki2y7UqFUxUu.jpg
+    url_poster: https://image.tmdb.org/t/p/original/jvbmft07fjSmbC1obNE1aOOZ1tz.jpg

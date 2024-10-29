@@ -1,6 +1,8 @@
+---
 collections:
   Batman (Classic) Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list: https://trakt.tv/lists/42
+    url_background: https://image.tmdb.org/t/p/original/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg
     url_poster: https://theposterdb.com/api/assets/33017

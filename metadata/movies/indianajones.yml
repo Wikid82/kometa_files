@@ -1,6 +1,8 @@
 metadata:
   Indiana Jones and the Raiders of the Lost Ark:
     mapping_id: 85
+    title: "Indiana Jones and the Raiders of the Lost Ark"
+    sort_title: "Indiana Jones and the Raiders of the Lost Ark"
     url_poster: https://theposterdb.com/api/assets/10362
   Indiana Jones and the Temple of Doom:
     mapping_id: 87

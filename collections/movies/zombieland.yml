@@ -1,6 +1,8 @@
+---
 collections:
   Zombieland Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/6141489
+    url_background: https://image.tmdb.org/t/p/original/bhmfQRJmBZNz7vTfHweG9ICVs1q.jpg
     url_poster: https://theposterdb.com/api/assets/36446

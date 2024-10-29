@@ -1,6 +1,8 @@
+---
 collections:
   A Quiet Place Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29317642
+    url_background: https://image.tmdb.org/t/p/original/aYIWZ8SmnZt6rDCuIvXzzcnxjWC.jpg
     url_poster: https://theposterdb.com/api/assets/511153

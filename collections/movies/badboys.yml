@@ -1,6 +1,8 @@
+---
 collections:
   Bad Boys Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/349
+    url_background: https://image.tmdb.org/t/p/original/mNR3xSPbwpIoAtrsbuafei2YkNm.jpg
     url_poster: https://theposterdb.com/api/assets/43041

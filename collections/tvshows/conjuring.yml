@@ -1,6 +1,8 @@
+---
 collections:
-  The Conjuring Collection:
-    trakt_list_details: https://trakt.tv/lists/29335077
+  The Conjuring Universe:
     collection_mode: hide_items
     collection_order: release
-    url_poster: https://theposterdb.com/api/assets/66285
+    trakt_list_details: https://trakt.tv/lists/29687217
+    url_background: https://image.tmdb.org/t/p/original/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg
+    url_poster: https://theposterdb.com/api/assets/23524

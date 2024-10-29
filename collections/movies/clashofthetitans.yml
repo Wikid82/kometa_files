@@ -1,6 +1,8 @@
+---
 collections:
   Clash of The Titans Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/857
+    url_background: https://image.tmdb.org/t/p/original/vmE52XvE2yWWQFt4g1x17K070gY.jpg
     url_poster: https://theposterdb.com/api/assets/532750

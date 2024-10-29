@@ -1,6 +1,8 @@
+---
 collections:
   Star Wars Collection:
-    trakt_list_details: https://trakt.tv/lists/28903516
     collection_mode: hide_items
     collection_order: release
+    trakt_list_details: https://trakt.tv/lists/28903516
+    url_background: https://image.tmdb.org/t/p/original/eO3PyZbDe7UlkyypMgfHWdeo9VZ.jpg
     url_poster: https://theposterdb.com/api/assets/8789

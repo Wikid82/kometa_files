@@ -1,6 +1,8 @@
+---
 collections:
   Indiana Jones Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list: https://trakt.tv/lists/official/indiana-jones-collection
+    url_background: https://image.tmdb.org/t/p/original/oPKGb9ewiOaImlZq7Q2B6SX1g4B.jpg
     url_poster: https://theposterdb.com/api/assets/10361

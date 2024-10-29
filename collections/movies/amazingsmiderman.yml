@@ -1,6 +1,8 @@
+---
 collections:
   The Amazing Spider-Man Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/180
+    url_background: https://image.tmdb.org/t/p/original/4db7dI0OlK64CdWOtatQsNkYRQF.jpg
     url_poster: https://theposterdb.com/api/assets/115532

@@ -1,6 +1,8 @@
+---
 collections:
   The Boys Collection:
-    trakt_list_details: https://trakt.tv/lists/29533191
     collection_order: release.asc
     sync_mode: sync
+    trakt_list_details: https://trakt.tv/lists/29533191
+    url_background: https://image.tmdb.org/t/p/original/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg
     url_poster: https://theposterdb.com/api/assets/457867

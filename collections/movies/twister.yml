@@ -1,6 +1,8 @@
+---
 collections:
   Twister Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/24401589
+    url_background: https://image.tmdb.org/t/p/original/ILeuqXd0sSdXSSSYiwQHm4mgZu.jpg
     url_poster: https://theposterdb.com/api/assets/510346

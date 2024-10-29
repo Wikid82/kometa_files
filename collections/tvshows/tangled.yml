@@ -1,6 +1,8 @@
+---
 collections:
   Tangled Collection:
-    trakt_list_details: https://trakt.tv/lists/29317553
     collection_mode: hide_items
     collection_order: release
+    trakt_list_details: https://trakt.tv/lists/29317553
+    url_background: https://image.tmdb.org/t/p/original/hi7m7cJw9VxOeBgrVhCLtxveGM9.jpg
     url_poster: https://theposterdb.com/api/assets/49802

@@ -1,6 +1,8 @@
+---
 collections:
   Ghost Rider Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list: https://trakt.tv/lists/official/ghost-rider-collection
+    url_background: https://image.tmdb.org/t/p/original/cNRAWtbItigb2oFwXpcDi6mjMQm.jpg
     url_poster: https://theposterdb.com/api/assets/163915

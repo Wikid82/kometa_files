@@ -1,8 +1,8 @@
-
+---
 collections:
   Joker Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/collection/987044-joker-collection?language=en-US
+    tmdb_list_details: https://www.themoviedb.org/collection/987044-joker-collection
+    url_background: https://image.tmdb.org/t/p/original/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg
     url_poster: https://theposterdb.com/api/assets/523599
-    url_background: https://images.fanart.tv/fanart/joker-5d9294a10a203.jpg

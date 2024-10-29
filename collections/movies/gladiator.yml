@@ -1,6 +1,8 @@
+---
 collections:
   Gladiator Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list: https://trakt.tv/lists/official/gladiator-collection
+    url_background: https://image.tmdb.org/t/p/original/eCWJHiezqeSvn0aEt1kPM6Lmlhe.jpg
     url_poster: https://theposterdb.com/api/assets/460855

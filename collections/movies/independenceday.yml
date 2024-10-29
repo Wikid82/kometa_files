@@ -1,6 +1,8 @@
+---
 collections:
   Independence Day Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list: https://trakt.tv/lists/official/independence-day-collection
+    url_background: https://image.tmdb.org/t/p/original/p7oqa94XgNGVMazXwR49QfyGgtx.jpg
     url_poster: https://theposterdb.com/api/assets/15117

@@ -1,6 +1,8 @@
+---
 collections:
   Beauty and the Beast Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29502667
+    url_background: https://image.tmdb.org/t/p/original/xy1rMVQnDixSe91IF31Pxdqt3Gk.jpg
     url_poster: https://theposterdb.com/api/assets/44913

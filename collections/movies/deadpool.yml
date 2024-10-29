@@ -1,6 +1,8 @@
+---
 collections:
   Deadpool Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29290035
+    url_background: https://image.tmdb.org/t/p/original/hBQOWY8qWXJVFAc8yLTh1teIu43.jpg
     url_poster: https://theposterdb.com/api/assets/16115

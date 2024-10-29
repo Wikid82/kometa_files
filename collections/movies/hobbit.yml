@@ -1,6 +1,8 @@
+---
 collections:
   The Hobbit Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/1384
+    url_background: https://image.tmdb.org/t/p/original/7wO7MSnP5UcwR2cTHdJFF1vP4Ie.jpg
     url_poster: https://theposterdb.com/api/assets/82318

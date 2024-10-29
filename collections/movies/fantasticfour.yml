@@ -1,6 +1,8 @@
+---
 collections:
   Fantastic 4 (Fox) Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29288099
+    url_background: https://image.tmdb.org/t/p/original/jd89P82JIoi1pT65f7F0Za2ArAr.jpg
     url_poster: https://theposterdb.com/api/assets/150619

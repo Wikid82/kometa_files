@@ -1,6 +1,8 @@
+---
 collections:
   John Wick Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29629060
+    url_background: https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg
     url_poster: https://theposterdb.com/api/assets/14049

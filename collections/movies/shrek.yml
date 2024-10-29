@@ -1,6 +1,8 @@
+---
 collections:
   Shrek Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/86
+    url_background: https://image.tmdb.org/t/p/original/7OjsLUl87Nl8oQ5Shf4Wbf7lf0j.jpg
     url_poster: https://theposterdb.com/api/assets/6997

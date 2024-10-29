@@ -1,6 +1,8 @@
+---
 collections:
   Animaniacs Collection:
-    trakt_list_details: https://trakt.tv/lists/29533390
     collection_order: release.asc
     sync_mode: sync
+    trakt_list_details: https://trakt.tv/lists/29533390
+    url_background: https://image.tmdb.org/t/p/original/A3ckVIsjzaDYgYfXFFBwd4Ai3Ie.jpg
     url_poster: https://theposterdb.com/api/assets/116821

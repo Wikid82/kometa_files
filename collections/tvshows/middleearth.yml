@@ -1,6 +1,8 @@
+---
 collections:
   Middle Earth Collection:
-    trakt_list_details: https://trakt.tv/lists/29290688
     collection_mode: hide_items
     collection_order: release
+    trakt_list_details: https://trakt.tv/lists/29290688
+    url_background: https://image.tmdb.org/t/p/original/5qkS6O6WzqhB1sAwKNCLJJwUInA.jpg
     url_poster: https://theposterdb.com/api/assets/32987

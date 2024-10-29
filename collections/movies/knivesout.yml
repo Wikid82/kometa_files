@@ -1,6 +1,8 @@
+---
 collections:
   Knives Out Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/11898934
+    url_background: https://image.tmdb.org/t/p/original/G7qYINSq5xyDd0I0zn3DpAssA0.jpg
     url_poster: https://theposterdb.com/api/assets/303717

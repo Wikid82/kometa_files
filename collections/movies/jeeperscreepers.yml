@@ -1,6 +1,8 @@
+---
 collections:
   Jeepers Creepers Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/346
+    url_background: https://image.tmdb.org/t/p/original/mzFtvzOdmuDYoQQuOzulsJkAUQB.jpg
     url_poster: https://theposterdb.com/api/assets/44581

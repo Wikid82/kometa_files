@@ -1,6 +1,8 @@
+---
 collections:
   Ancient Aliens Collection:
-    tvdb_list_details: https://www.thetvdb.com/lists/16550
     collection_order: release.asc
     sync_mode: sync
+    tvdb_list_details: https://www.thetvdb.com/lists/16550
+    url_background: https://image.tmdb.org/t/p/original/rlQAsFlrY4XOE4WxRyFxJcgY75x.jpg
     url_poster: https://theposterdb.com/api/assets/204657

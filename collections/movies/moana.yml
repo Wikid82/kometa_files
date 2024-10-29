@@ -1,6 +1,8 @@
+---
 collections:
   Moana Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29317597
+    url_background: https://image.tmdb.org/t/p/original/4OgaftFNqtE1UvfDDb2Eov7A5Rz.jpg
     url_poster: https://theposterdb.com/api/assets/119421

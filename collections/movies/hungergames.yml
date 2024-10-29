@@ -1,6 +1,8 @@
+---
 collections:
   The Hunger Games Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/1605
+    url_background: https://image.tmdb.org/t/p/original/Ipp7cegtub4t0mu7xaKLQkYoGc.jpg
     url_poster: https://theposterdb.com/api/assets/520229

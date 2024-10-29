@@ -1,6 +1,8 @@
+---
 collections:
   The Emperor's New Groove Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/592
+    url_background: https://image.tmdb.org/t/p/original/aa0VAu78vDJH9ukK8ORBj1SROfR.jpg
     url_poster: https://theposterdb.com/api/assets/46820

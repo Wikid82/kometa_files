@@ -1,6 +1,8 @@
+---
 collections:
   Spider-Man Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/67
+    url_background: https://image.tmdb.org/t/p/original/4Kk8CNTh9NcUhKvh422w7WOrRqF.jpg
     url_poster: https://theposterdb.com/api/assets/334375

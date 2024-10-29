@@ -1,6 +1,8 @@
+---
 collections:
   Stargate Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29291660
+    url_background: https://image.tmdb.org/t/p/original/8TaFJKnALCmm8HM1dUbKE6CcDiY.jpg
     url_poster: https://theposterdb.com/api/assets/6424
