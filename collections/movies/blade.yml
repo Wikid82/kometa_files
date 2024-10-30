@@ -2,6 +2,6 @@ collections:
   Blade Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_collection_details: https://trakt.tv/lists/29699249
+    trakt_list_details: https://trakt.tv/lists/29699249
     url_background: https://image.tmdb.org/t/p/original/gSWCo8z7bNNSKA7HGeu2oSfYGsd.jpg
     url_poster: https://image.tmdb.org/t/p/original/hn32N2py3qYFTqA1q5XDlwNFk8G.jpg
