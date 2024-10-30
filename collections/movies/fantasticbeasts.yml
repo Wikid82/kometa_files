@@ -1,8 +1,7 @@
----
 collections:
   Fantastic Beasts Collection:
     collection_mode: hide_items
     collection_order: release
     trakt_list: https://trakt.tv/lists/official/fantastic-beasts-collection
     url_background: https://image.tmdb.org/t/p/original/jc1Sh8U6dvWv9rHaRl8aosTAoPN.jpg
-    url_poster: https://theposterdb.com/api/assets/27620
+    url_poster: https://theposterdb.com/api/assets/34281
