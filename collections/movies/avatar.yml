@@ -1,5 +1,5 @@
 collections:
-  Fantastic Beasts Collection:
+  Avatar Collection:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/87096-avatar-collection
