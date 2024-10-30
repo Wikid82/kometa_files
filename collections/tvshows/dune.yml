@@ -1,8 +1,7 @@
----
 collections:
   Dune Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/11942071
+    trakt_list_details: https://trakt.tv/lists/29687315
     url_background: https://image.tmdb.org/t/p/original/fahk0Fu7VUUfK6IkTt1R3waOD9F.jpg
     url_poster: https://theposterdb.com/api/assets/478768
