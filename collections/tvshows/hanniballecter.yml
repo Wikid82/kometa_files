@@ -1,0 +1,7 @@
+collections:
+  Hannibal Lecter Collection:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list_details: https://trakt.tv/lists/29702296
+    url_background: https://image.tmdb.org/t/p/original/hHEDxRJWvDwia6jcirH2LAc1ehc.jpg
+    url_poster: https://theposterdb.com/api/assets/82925

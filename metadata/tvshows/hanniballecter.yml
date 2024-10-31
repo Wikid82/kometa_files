@@ -1,0 +1,17 @@
+metadata:
+  Hannibal:
+    mapping_id: 259063
+    url_poster: https://theposterdb.com/api/assets/138422
+    seasons:
+      01:
+        url_poster: https://theposterdb.com/api/assets/138423
+      02:
+        url_poster: https://theposterdb.com/api/assets/138424
+      03:
+        url_poster: https://theposterdb.com/api/assets/138425
+  Clarice:
+    mapping_id: 376395
+    url_poster: https://theposterdb.com/api/assets/178719
+    seasons:
+      01:
+        url_poster: https://theposterdb.com/api/assets/178720
