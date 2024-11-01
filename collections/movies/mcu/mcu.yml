@@ -1,0 +1,7 @@
+collections:
+  Marvel Cinimatic Universe:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list_details: https://trakt.tv/lists/28217680
+    url_background: https://image.tmdb.org/t/p/original/smLccpWC4ElF5xyjD9Xt0Zu2gna.jpg
+    url_poster: https://theposterdb.com/api/assets/162885
