@@ -1,0 +1,7 @@
+collections:
+  The Infinity Saga:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list_details: https://trakt.tv/lists/29717232
+    url_background: https://image.tmdb.org/t/p/original/pbnxUEoC1rXqGwd52UV9pNA8gR6.jpg
+    url_poster: https://theposterdb.com/api/assets/315073

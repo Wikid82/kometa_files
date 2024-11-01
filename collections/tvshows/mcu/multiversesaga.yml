@@ -1,0 +1,7 @@
+collections:
+  The Multiverse Saga:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list_details: https://trakt.tv/lists/29717235
+    url_background: https://image.tmdb.org/t/p/original/aRNMwIvEnYEMwGHLCAACyuq2I1K.jpg
+    url_poster: https://theposterdb.com/api/assets/315076

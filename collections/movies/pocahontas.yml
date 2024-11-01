@@ -1,0 +1,7 @@
+collections:
+  Pocahontas Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_list_details: https://www.themoviedb.org/collection/136214-pocahontas-collection
+    url_background: https://image.tmdb.org/t/p/original/qQmE1H3mi8vqxvg3pyPTT9Gg94o.jpg
+    url_poster: https://theposterdb.com/api/assets/50196
