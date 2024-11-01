@@ -2,6 +2,6 @@ collections:
   Alice In Wonderland Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/collection/261307-alice-in-wonderland-collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/261307-alice-in-wonderland-collection
     url_background: https://image.tmdb.org/t/p/original/mRztlAJ2fe67h6m6UgqVv6zCMmk.jpg
     url_poster: https://theposterdb.com/api/assets/36521
