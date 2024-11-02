@@ -1,0 +1,7 @@
+collections:
+  Zoolander Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/352789-zoolander-collection
+    url_background: https://image.tmdb.org/t/p/original/tbWTPL6DiF28qv1OkDDH2gLWE6H.jpg
+    url_poster: https://theposterdb.com/api/assets/228819
