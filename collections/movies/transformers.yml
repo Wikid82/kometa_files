@@ -1,7 +1,7 @@
 collections:
   Transformers Collection:
     collection_mode: hide_items
-    smart_label: release.asc
+    collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8495585-transformers
     url_background: https://image.tmdb.org/t/p/original/zvZBNNDWd5LcsIBpDhJyCB2MDT7.jpg
     url_poster: https://theposterdb.com/api/assets/33217
