@@ -2,6 +2,6 @@ collections:
   National Lampoon's Vacation Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/108693-national-lampoon-s-vacation-collection
+    tmdb_list_details: https://www.themoviedb.org/list/8495592-national-lampoon-s-vacation
     url_background: https://image.tmdb.org/t/p/original/vtINaXJdXmLm5pQgYh1GRbniOzs.jpg
     url_poster: https://theposterdb.com/api/assets/60423
