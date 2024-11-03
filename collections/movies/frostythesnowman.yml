@@ -1,0 +1,7 @@
+collections:
+  Frosty The Snowman Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/363015-frosty-the-snowman-collection
+    url_background: https://image.tmdb.org/t/p/original/9C08pJcp2gBlHrjb8ArYNG18xX4.jpg
+    url_poster: https://image.tmdb.org/t/p/original/p4W9r7FaSs21P9I6PRjrl6qXrXY.jpg

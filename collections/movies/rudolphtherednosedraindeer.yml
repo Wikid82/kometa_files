@@ -1,0 +1,7 @@
+collections:
+  Rudolph the Red-Nosed Reindeer Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_list_details: https://www.themoviedb.org/list/8495652-rudolph-the-red-nosed-reindeer
+    url_background: https://image.tmdb.org/t/p/original/zd3p7GKopxH4rIjGoDQ1ugalUtx.jpg
+    url_poster: https://theposterdb.com/api/assets/17419
