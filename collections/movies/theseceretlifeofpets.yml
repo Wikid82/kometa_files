@@ -1,0 +1,7 @@
+collections:
+  The Secret Life of Pets Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/427084-the-secret-life-of-pets-collection
+    url_background: https://image.tmdb.org/t/p/original/psPWRrghRWp038yYvEGci9uWmkZ.jpg
+    url_poster: https://theposterdb.com/api/assets/22476
