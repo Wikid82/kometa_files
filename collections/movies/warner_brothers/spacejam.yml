@@ -1,0 +1,7 @@
+collections:
+  Space Jam Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/722961-space-jam-collection
+    url_background: https://image.tmdb.org/t/p/original/kKIej57OVpFwsOUdn0KooJdJuDg.jpg
+    url_poster: https://theposterdb.com/api/assets/163484
