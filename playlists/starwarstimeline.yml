@@ -1,0 +1,7 @@
+playlists:
+  Star Wars Timeline:
+    sync_mode: sync
+    libraries: Movies, TV Shows
+    sync_to_users: all
+    trakt_list: https://trakt.tv/lists/29781978
+    url_poster: https://i.imgur.com/vNbFjQN.png
