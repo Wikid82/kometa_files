@@ -1,0 +1,7 @@
+collections:
+  Skyline Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/484312-skyline-collection
+    url_background: https://image.tmdb.org/t/p/original/b2JplRt6qfZKkupnoxl57n3r46y.jpg
+    url_poster: https://theposterdb.com/api/assets/187624
