@@ -3,6 +3,6 @@ collections:
   Bluey Collection:
     collection_order: release.asc
     sync_mode: sync
-    trakt_list_details: https://trakt.tv/lists/29533025
+    tmdb_list_details: https://www.themoviedb.org/list/8496140-bluey
     url_background: https://image.tmdb.org/t/p/original/g88VMPtog8sl8riaIRtz4U80dMK.jpg
     url_poster: https://theposterdb.com/api/assets/28674
