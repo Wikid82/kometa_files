@@ -1,0 +1,14 @@
+metadata:
+  Friday:
+    mapping_id: 10634
+    url_poster: https://theposterdb.com/api/assets/28462
+  Next Friday:
+    mapping_id: 10471
+    url_poster: https://theposterdb.com/api/assets/28463
+  Friday After Next:
+    mapping_id: 10426
+    url_poster: https://theposterdb.com/api/assets/28464
+
+#  Last Friday:
+#    mapping_id: 487560
+#   url_poster: https://theposterdb.com/api/assets/263886
