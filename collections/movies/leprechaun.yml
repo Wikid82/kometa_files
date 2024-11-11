@@ -1,0 +1,7 @@
+collections:
+  Leprechaun Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/19285-leprechaun-collection
+    url_background: https://image.tmdb.org/t/p/original/o75prr9NBc0BAKsN9M4gzu5Cw8s.jpg
+    url_poster: https://theposterdb.com/api/assets/8305
