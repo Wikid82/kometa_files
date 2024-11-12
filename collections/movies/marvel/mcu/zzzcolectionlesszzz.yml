@@ -1,5 +1,5 @@
 collections:
-  ZZZ MCU Collectionless ZZZ Collection:
+  ZZZ MCU Collectionless ZZZ:
     collection_mode: hide
     collection_order: release
     tmdb_movie:
@@ -8,4 +8,3 @@ collections:
     - 1724
     - 566525
     - 894205
-

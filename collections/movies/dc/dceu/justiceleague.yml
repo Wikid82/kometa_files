@@ -1,0 +1,7 @@
+collections:
+  Justice League Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_list_details: https://www.themoviedb.org/list/8496883-justice-league
+    url_background: https://image.tmdb.org/t/p/original/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg
+    url_poster: https://theposterdb.com/api/assets/206370

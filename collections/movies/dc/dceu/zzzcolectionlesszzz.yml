@@ -1,0 +1,11 @@
+collections:
+  ZZZ DCEU Collectionless ZZZ:
+    collection_mode: hide
+    collection_order: release
+    tmdb_movie:
+    - 49521
+    - 209112
+    - 495764
+    - 436270
+    - 565770
+    - 298618
