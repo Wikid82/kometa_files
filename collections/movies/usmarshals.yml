@@ -1,0 +1,7 @@
+collections:
+  U.S. Marshals Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/721111-marshal-samuel-gerard-collection
+    url_background: https://image.tmdb.org/t/p/original/8iMIh2iOoR92qg22ZKsQTx2cnUs.jpg
+    url_poster: https://theposterdb.com/api/assets/125289
