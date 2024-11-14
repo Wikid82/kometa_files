@@ -1,0 +1,7 @@
+collections:
+  The Maze Runner Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/295130-the-maze-runner-collection
+    url_background: https://image.tmdb.org/t/p/original/wpAECQsUCLPbBGn7IMiHkHqZ8l2.jpg
+    url_poster: https://theposterdb.com/api/assets/174
