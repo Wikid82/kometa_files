@@ -129,7 +129,7 @@ metadata:
             original_title: "Curse of the Golden Bell"
             sort_title: "Curse of the Golden Bell"
             originally_available: 04/02/2015
-      02:
+      2:
         url_poster: https://theposterdb.com/api/assets/510456
         episodes:
           1:
@@ -232,7 +232,7 @@ metadata:
             original_title: "Hitler's Atomic Secrets"
             sort_title: "Hitler's Atomic Secrets"
             originally_available: 06/22/2016
-      03:
+      3:
         url_poster: https://theposterdb.com/api/assets/510457
         episodes:
           1:
@@ -320,7 +320,7 @@ metadata:
             original_title: "Lost Spanish Fortune, Found!"
             sort_title: "Lost Spanish Fortune, Found!"
             originally_available: 06/14/2017
-      04:
+      4:
         url_poster: https://theposterdb.com/api/assets/510458
         episodes:
           1:
@@ -368,7 +368,7 @@ metadata:
             original_title: "Secrets of Brother XII"
             sort_title: "Secrets of Brother XII"
             originally_available: 02/28/2018
-      05:
+      5:
         url_poster: https://theposterdb.com/api/assets/510459
         episodes:
           1:
@@ -406,7 +406,7 @@ metadata:
             original_title: "Solved: Mystery of the Lost Ruby Slippers"
             sort_title: "Solved: Mystery of the Lost Ruby Slippers"
             originally_available: 09/05/2018
-      06:
+      6:
         url_poster: https://theposterdb.com/api/assets/510460
         episodes:
           1:
@@ -449,7 +449,7 @@ metadata:
             original_title: "The Hunt for the Golden Owl"
             sort_title: "The Hunt for the Golden Owl"
             originally_available: 05/29/2019
-      07:
+      7:
         url_poster: https://theposterdb.com/api/assets/510461
         episodes:
           1:
@@ -512,7 +512,7 @@ metadata:
             original_title: "The Secret Solved"
             sort_title: "The Secret Solved"
             originally_available: 10/30/2019
-      08:
+      8:
         url_poster: https://theposterdb.com/api/assets/510462
         episodes:
           1:
@@ -555,7 +555,7 @@ metadata:
             original_title: "Revealing the Triangle"
             sort_title: "Revealing the Triangle"
             originally_available: 03/25/2020
-      09:
+      9:
         url_poster: https://theposterdb.com/api/assets/510463
         episodes:
           1:
@@ -793,26 +793,27 @@ metadata:
             original_title: "Hunt for Petra's Lost Tombs"
             sort_title: "Hunt for Petra's Lost Tombs"
             originally_available: 10/09/2024
-#          2:
-#            title: "Petra's Secrets Revealed"
-#            original_title: "Petra's Secrets Revealed"
-#            sort_title: "Petra's Secrets Revealed"
-#            originally_available: 10/16/2024
-#          3:
-#            title: "Search for Pan Am's Clipper"
-#            original_title: "Search for Pan Am's Clipper"
-#            sort_title: Search for Pan Am's Clipper"
-#            originally_available: 10/23/2024
-#          4:
-#            title: "Sharks Vs. Nazis In Paradise"
-#            original_title: "Sharks Vs. Nazis In Paradise"
-#            sort_title: "Sharks Vs. Nazis In Paradise"
-#            originally_available: 07/10/2024
-#          5:
-#            title: "Lost Bomber of World War II"
-#            original_title: "Lost Bomber of World War II"
-#            sort_title: "Lost Bomber of World War II"
-#            originally_available: 07/17/2024
+          2:
+            title: "Petra's Secrets Revealed"
+            original_title: "Petra's Secrets Revealed"
+            sort_title: "Petra's Secrets Revealed"
+            originally_available: 10/16/2024
+          3:
+            title: "Search for Pan Am's Clipper"
+            original_title: "Search for Pan Am's Clipper"
+            sort_title: Search for Pan Am's Clipper"
+            originally_available: 10/23/2024
+          4:
+            title: "America's First Train Robbers"
+            original_title: "America's First Train Robbers"
+            sort_title: "America's First Train Robbers"
+            originally_available: 11/06/2024
+          5:
+            title: "Dive for America's Pirate Loot"
+            original_title: "Dive for America's Pirate Loot"
+            sort_title: "Dive for America's Pirate Loot"
+            originally_available: 11/13/2024
+
 #          6:
 #            title: "Chasing Africa's Atlantis"
 #            original_title: "Chasing Africa's Atlantis"
