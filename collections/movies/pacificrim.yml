@@ -1,0 +1,7 @@
+collections:
+  Pacific Rim Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/363369-pacific-rim-collection
+    url_background: https://image.tmdb.org/t/p/original/kiIqPO6IlGnwLmg5is5HS3lM62c.jpg
+    url_poster: https://theposterdb.com/api/assets/10219
