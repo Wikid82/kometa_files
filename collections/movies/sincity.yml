@@ -1,0 +1,7 @@
+collections:
+  Sin City Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/135179-sin-city-collection
+    url_background: https://image.tmdb.org/t/p/original/cn6btE80HE1m59vHz0fk92gb8yW.jpg
+    url_poster: https://theposterdb.com/api/assets/5036
