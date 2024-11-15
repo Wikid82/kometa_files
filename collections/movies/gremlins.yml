@@ -1,0 +1,7 @@
+collections:
+  The Gremlins Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/89151-the-gremlins-collection
+    url_background: https://image.tmdb.org/t/p/original/b7TnAietWZrlxE3IOmGGFC7v9MH.jpg
+    url_poster: https://theposterdb.com/api/assets/3
