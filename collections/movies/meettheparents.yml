@@ -1,0 +1,7 @@
+collections:
+  Meet The Parents Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/51509-meet-the-parents-collection
+    url_background: https://image.tmdb.org/t/p/original/fgcgqjw37RThZCbVrfLLkJsqNNR.jpg
+    url_poster: https://theposterdb.com/api/assets/35566
