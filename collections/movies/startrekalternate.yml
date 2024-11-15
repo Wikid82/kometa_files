@@ -1,0 +1,7 @@
+collections:
+  "Star Trek: The Kelvin Timeline":
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/115575-star-trek-alternate-reality-collection
+    url_background: https://image.tmdb.org/t/p/original/gWl5pN2FplE709aVtA4lakwsE6t.jpg
+    url_poster: https://theposterdb.com/api/assets/72253
