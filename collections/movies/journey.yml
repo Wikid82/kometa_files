@@ -1,0 +1,7 @@
+collections:
+  Journey Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/605516-journey-collection
+    url_background: https://image.tmdb.org/t/p/original/pE5HU2DJKM4tIYwAPojzc5xpYWg.jpg
+    url_poster: https://theposterdb.com/api/assets/256743
