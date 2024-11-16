@@ -1,0 +1,7 @@
+collections:
+  Teenage Mutant Ninja Turtles (Remake) Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/401562-teenage-mutant-ninja-turtles-remake-collection
+    url_background: https://image.tmdb.org/t/p/original/tfpOdV9gvqbGJEeLGSu5X1vOLKV.jpg
+    url_poster: https://theposterdb.com/api/assets/60981
