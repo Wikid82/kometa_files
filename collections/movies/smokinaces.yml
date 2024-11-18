@@ -1,0 +1,7 @@
+collections:
+  Smokin' Aces Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/96680-smokin-aces-collection
+    url_background: https://image.tmdb.org/t/p/original/1TbMf5bJnYCP9sXhRSVHULPJDbw.jpg
+    url_poster: https://theposterdb.com/api/assets/219476
