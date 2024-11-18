@@ -1,0 +1,7 @@
+collections:
+  Alvin and the Chipmunks Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/167613-alvin-and-the-chipmunks-collection
+    url_background: https://image.tmdb.org/t/p/original/oLbsrl70GSwntrXxRxusfeLid0F.jpg
+    url_poster: https://theposterdb.com/api/assets/23071
