@@ -23,6 +23,9 @@
   <img src="https://trakt.tv/assets/logos/logomark.square.gradient-b644b16c38ff775861b4b1f58c1230f6a097a2466ab33ae00445a505c33fcb91.svg" width="75" height="75"></a>
 	<a href="https://theposterdb.com" title="ThePosterDB">
 		<img src="https://theposterdb.com/assets/logos/icon/color.svg" width="75" height="75"></a>
+	<a href="https://mediux.pro/" title="MediUX">
+		<img src="https://mediux.pro/mediux.svg" width="75" height="75"></a>
+
 <br>
 
 Table of Contents
