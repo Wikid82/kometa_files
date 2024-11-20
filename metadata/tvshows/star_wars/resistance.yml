@@ -1,0 +1,11 @@
+metadata:
+  Star Wars Resistance:
+    mapping_id: 351575
+    url_poster: https://api.mediux.pro/assets/da001eac-ed0a-4664-84b0-8890471b4cfa
+    seasons:
+      #0:
+      #  url_poster: https://api.mediux.pro/assets/b8e5fd37-038b-436e-8815-59a3a79b215d
+      1:
+        url_poster: https://api.mediux.pro/assets/5bbf9ec0-9968-4fb3-8a9f-a2555375cfa3
+      2:
+        url_poster: https://api.mediux.pro/assets/239e2d96-865d-4031-8c70-4a7975365ba6

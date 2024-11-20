@@ -1,0 +1,15 @@
+metadata:
+  Star Wars Rebels:
+    mapping_id: 283468
+    url_poster: https://api.mediux.pro/assets/4cf36574-7e36-4c7a-a91c-d7dc8c852bd2
+    seasons:
+      #0:
+      #  url_poster: https://api.mediux.pro/assets/d8283357-d9e3-4e45-9ad8-d124fd77fc9e
+      1:
+        url_poster: https://api.mediux.pro/assets/8d7c0593-5cce-484e-a655-a499b2b3d8c5
+      2:
+        url_poster: https://api.mediux.pro/assets/6f446802-f025-496e-bb6c-c168cf2bb3dc
+      3:
+        url_poster: https://api.mediux.pro/assets/d30b0ecb-f0ae-4861-b66d-21788659da08
+      4:
+        url_poster: https://api.mediux.pro/assets/ef6c6e34-5654-4c3a-897d-61414517f5b4

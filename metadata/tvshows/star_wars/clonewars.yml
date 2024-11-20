@@ -1,0 +1,21 @@
+metadata:
+  Star Wars The Clone Wars:
+    mapping_id: 83268
+    url_poster: https://api.mediux.pro/assets/ffe1d162-8568-4b24-98ed-e0ec10559dc8
+    seasons:
+      #0:
+      #  url_poster: https://api.mediux.pro/assets/88ec9471-f7d1-4537-bc20-965969b5afc1
+      1:
+        url_poster: https://api.mediux.pro/assets/c9ee29f6-902c-4db5-8155-77ffdeb1860d
+      2:
+        url_poster: https://api.mediux.pro/assets/d623d47b-cdfe-46dc-aca3-0858edba4adb
+      3:
+        url_poster: https://api.mediux.pro/assets/a52bddc7-746c-4432-bd6c-50503fc9df28
+      4:
+        url_poster: https://api.mediux.pro/assets/d6981675-7760-4c76-b844-feddcb4b3e46
+      5:
+        url_poster: https://api.mediux.pro/assets/69cc9939-3314-432e-96f7-149fd28a98f7
+      6:
+        url_poster: https://api.mediux.pro/assets/1e573717-68f7-4381-9ebd-16d6735e93de
+      7:
+        url_poster: https://api.mediux.pro/assets/bc9a4fd2-c76b-486a-bfa6-a0d2fd7b202f

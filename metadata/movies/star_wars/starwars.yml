@@ -1,0 +1,37 @@
+metadata:
+  A New Hope:
+    mapping_id: 11
+    url_poster: https://api.mediux.pro/assets/91f4b370-b9bd-45b9-937b-5cd2b72d3f6d
+  The Empire Strikes Back:
+    mapping_id: 1891
+    url_poster: https://api.mediux.pro/assets/8d2f1db8-ab65-4667-ae2d-2716a09aaa9c
+  Return of the Jedi:
+    mapping_id: 1892
+    url_poster: https://api.mediux.pro/assets/ba8e67ae-0cfd-4f30-a0cc-ee8f98df7a80
+  The Phantom Menace:
+    mapping_id: 1893
+    url_poster: https://api.mediux.pro/assets/b3868d68-6e63-4950-8beb-875d8cd5d61a
+  Attack of the Clones:
+    mapping_id: 1894
+    url_poster: https://api.mediux.pro/assets/961f3ae3-2744-4423-a85d-1f1f082122c2
+  Revenge of the Sith:
+    mapping_id: 1895
+    url_poster: https://api.mediux.pro/assets/bfce9fe6-c72a-41da-9038-fad681044b74
+  The Force Awakens:
+    mapping_id: 140607
+    url_poster: https://api.mediux.pro/assets/68e270bd-d15c-4b01-a687-8b7f6bcbbe24
+  The Last Jedi:
+    mapping_id: 181808
+    url_poster: https://api.mediux.pro/assets/5004b7de-71ad-4e72-8675-3e8a374a3dcc
+  The Rise of Skywalker:
+    mapping_id: 181812
+    url_poster: https://api.mediux.pro/assets/3fdb06fb-611b-40bd-b4e3-e50ed4b21bf9
+  Rogue One:
+    mapping_id: 330459
+    url_poster: https://api.mediux.pro/assets/2ad5420a-13a9-48c6-8b53-a859e3365079
+  Solo:
+    mapping_id: tt3778644
+    url_poster: https://api.mediux.pro/assets/b58a0918-d469-489e-9cfc-481d8642b9cb
+  The Clone Wars:
+    mapping_id: 12180
+    url_poster: https://api.mediux.pro/assets/57957f7e-0e1a-4003-9d02-1176d679009f

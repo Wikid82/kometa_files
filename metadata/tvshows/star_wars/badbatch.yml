@@ -1,0 +1,11 @@
+metadata:
+  Star Wars The Bad Batch:
+    mapping_id: 385376
+    url_poster: https://api.mediux.pro/assets/25eabd7d-e3dc-46e0-8b5d-9bd220531615
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/01b5c703-505f-41e6-be98-877cbc2e906c
+      2:
+        url_poster: https://api.mediux.pro/assets/59a40702-3658-497c-ba2e-62b0b190a5bc
+      3:
+        url_poster: https://api.mediux.pro/assets/95508d95-6b97-4785-a4c9-95e2d9413265
