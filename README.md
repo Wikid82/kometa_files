@@ -20,7 +20,7 @@
     	<a href="https://www.thetvdb.com" title="TVDB">
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tvdb.svg" width="50" height="50"></a>
  	<a href="https://trakt.tv/" title="Trakt">   
-  <img src="https://trakt.tv/assets/logos/logomark.square.gradient-b644b16c38ff750861b4b1f58c1230f6a097a2466ab33ae00445a505c33fcb91.svg" width="50" height="50"></a>
+  <img src="https://trakt.tv/assets/logos/logomark.square.gradient-b644b16c38ff775861b4b1f58c1230f6a097a2466ab33ae00445a505c33fcb91.svg" width="50" height="50"></a>
 	<a href="https://theposterdb.com" title="ThePosterDB">
 		<img src="https://theposterdb.com/assets/logos/icon/color.svg" width="50" height="50"></a>
 	<a href="https://mediux.pro/" title="MediUX">
