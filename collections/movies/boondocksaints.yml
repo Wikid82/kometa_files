@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/87186-the-boondock-saints-collection
     url_background: https://image.tmdb.org/t/p/original/kdxXEiS3sDB7pvQapiqiTRbwkKr.jpg
-    url_poster: https://theposterdb.com/api/assets/80255
+    url_poster: https://api.mediux.pro/assets/8837df9a-1501-4aa1-bdfd-faea3821f1af
