@@ -1,0 +1,7 @@
+collections:
+  My Big Fat Greek Wedding Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/389767-my-big-fat-greek-wedding-collection
+    url_background: https://image.tmdb.org/t/p/original/UzzUEBULGUuk695tZhLO9xShxV.jpg
+    url_poster: https://theposterdb.com/api/assets/223746
