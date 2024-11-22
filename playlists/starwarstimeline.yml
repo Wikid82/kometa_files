@@ -3,5 +3,5 @@ playlists:
     sync_mode: sync
     libraries: Movies, TV Shows
     sync_to_users: all
-    trakt_list: https://trakt.tv/lists/28903516
+    trakt_list: https://trakt.tv/users/wikid82/lists/star-wars
     file_poster: /config/kometa_files/playlists/starwarsplaylist.png
