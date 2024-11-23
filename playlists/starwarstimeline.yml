@@ -1,6 +1,6 @@
 playlists:
   Star Wars Timeline:
-    sync_mode: sync
+    sync_mode: append
     libraries: Movies, TV Shows
     sync_to_users: all
     trakt_list: https://trakt.tv/users/wikid82/lists/star-wars
