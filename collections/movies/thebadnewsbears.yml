@@ -1,0 +1,7 @@
+collections:
+  The Bad News Bears Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/215326-the-bad-news-bears-collection
+    url_background: https://image.tmdb.org/t/p/original/31VTCbF1knsfD85764td413pezV.jpg
+    url_poster: https://theposterdb.com/api/assets/130046
