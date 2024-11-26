@@ -1,0 +1,7 @@
+collections:
+  Insidious Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/228446-insidious-collection
+    url_background: https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg
+    url_poster: https://api.mediux.pro/assets/31b2daaa-167c-4412-a2f5-a38855094973
