@@ -1,0 +1,7 @@
+collections:
+  The Jungle Book Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_list_details: https://www.themoviedb.org/list/8500230-the-jungle-book
+    url_background: https://image.tmdb.org/t/p/original/uWHAG2WbZ76fX6QWWDW3X6QegTh.jpg
+    url_poster: https://api.mediux.pro/assets/104acfb1-7da9-4292-a1cd-248f73184e6f
