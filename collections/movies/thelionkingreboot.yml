@@ -1,0 +1,7 @@
+collections:
+  The Lion King (Reboot) Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/762512-the-lion-king-reboot-collection
+    url_background: https://image.tmdb.org/t/p/original/jIgM7YNVft0YGeXsqrh3oG5TWLx.jpg
+    url_poster: https://theposterdb.com/api/assets/548897
