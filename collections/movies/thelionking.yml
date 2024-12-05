@@ -1,0 +1,7 @@
+collections:
+  The Lion King Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/94032-the-lion-king-collection
+    url_background: https://image.tmdb.org/t/p/original/kuvCCIPN8Eieo4ZVjcIDmXlLhrw.jpg
+    url_poster: https://api.mediux.pro/assets/716d17f2-9c60-4a24-b00f-faecddf76bfa
