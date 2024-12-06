@@ -1,6 +1,6 @@
 playlists:
   Marvel Cinematic Universe Timeline:
-    sync_mode: append
+    sync_mode: sync
     libraries: Movies, TV Shows
     sync_to_users: all
     imdb_list: https://www.imdb.com/list/ls029032797

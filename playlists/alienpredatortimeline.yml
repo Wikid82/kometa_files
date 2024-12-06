@@ -1,7 +1,7 @@
 playlists:
   Alien / Predator Timeline:
-    sync_mode: append
+    sync_mode: sync
     libraries: Movies, TV Shows
     sync_to_users: all
-    trakt_list: https://trakt.tv/lists/28919124?sort=rank,asc
+    trakt_list: https://trakt.tv/lists/28919124
     url_poster: https://theposterdb.com/api/assets/465191
