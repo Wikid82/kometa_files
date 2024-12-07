@@ -1,0 +1,7 @@
+collections:
+  Ancient Aliens Collection:
+    collection_order: release.asc
+    sync_mode: sync
+    tmdb_list_details: hhttps://www.themoviedb.org/list/8500427-dexter
+    url_background: https://api.mediux.pro/assets/3d9c3cfd-a60e-4d8e-a1b5-15dc4fcf032a
+    url_poster: https://theposterdb.com/api/assets/178153
