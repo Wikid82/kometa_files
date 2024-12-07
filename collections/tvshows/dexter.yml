@@ -1,5 +1,5 @@
 collections:
-  Ancient Aliens Collection:
+  Dexter Collection:
     collection_order: release.asc
     sync_mode: sync
     tmdb_list_details: hhttps://www.themoviedb.org/list/8500427-dexter
