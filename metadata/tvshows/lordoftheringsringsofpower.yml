@@ -1,0 +1,46 @@
+metadata:
+  The Lord of the Rings The Rings of Power:
+    mapping_id:   367506 # TVDB id for The Lord of the Rings: The Rings of Power. Set by willtong93 on MediUX. https://mediux.pro/sets/22457
+    url_poster: https://api.mediux.pro/assets/bd0a2288-22bb-4ac2-bf98-ba92034e0bf9
+    url_background: https://api.mediux.pro/assets/eab7af4b-72dc-43ac-a30d-246be93e3f47
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/9c63352b-770f-44f4-abd1-d6b27f1f24b4
+      1:
+        url_poster: https://api.mediux.pro/assets/352ff010-8b3f-490c-be98-7260ae84562f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/52e92ac4-47a7-44bf-a0f2-04cb0a237785
+          2:
+            url_poster: https://api.mediux.pro/assets/8d15404b-ceaf-4297-a883-038997913ae2
+          3:
+            url_poster: https://api.mediux.pro/assets/2b65ddfc-bd18-4909-b307-510da9d68cb8
+          4:
+            url_poster: https://api.mediux.pro/assets/114d68cd-350c-4e03-bb51-a0c1aabaa9a6
+          5:
+            url_poster: https://api.mediux.pro/assets/6601e2cf-25d6-4f3e-b27a-499f3aff90b0
+          6:
+            url_poster: https://api.mediux.pro/assets/e472fc74-8643-469a-8986-c33a45aa4594
+          7:
+            url_poster: https://api.mediux.pro/assets/d8195aa2-d9a7-4ecb-9ed2-ea4af4d21e77
+          8:
+            url_poster: https://api.mediux.pro/assets/2a6db213-5a09-4c6f-8914-b924b90fcb90
+      2:
+        url_poster: https://api.mediux.pro/assets/8067bf40-b56a-425d-936a-d1656753efe9
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/94e10758-86ee-446a-97e8-dd8bdb896f67
+          2:
+            url_poster: https://api.mediux.pro/assets/70e8b6db-ab5a-4e6c-9168-b7e5910547a9
+          3:
+            url_poster: https://api.mediux.pro/assets/fc1ae4e2-0f36-4c5b-9e15-46e78772589a
+          4:
+            url_poster: https://api.mediux.pro/assets/8032a0de-6e32-44d0-844f-993a504762d3
+          5:
+            url_poster: https://api.mediux.pro/assets/72f3f8bd-a1d7-4fb2-8083-a15f6fd2e3d8
+          6:
+            url_poster: https://api.mediux.pro/assets/662652a6-bbb4-448b-ae65-649833318406
+          7:
+            url_poster: https://api.mediux.pro/assets/a57b7c2c-4c69-45eb-89a8-f8da2d1d1a42
+          8:
+            url_poster: https://api.mediux.pro/assets/b8014b34-211e-4d1e-802e-62af2cfbfb7a
