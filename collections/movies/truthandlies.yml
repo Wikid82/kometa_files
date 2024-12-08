@@ -1,7 +1,0 @@
-collections:
-  Truth and Lies Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8498573-truth-and-lies
-    url_background: https://image.tmdb.org/t/p/original/ltLzZ5uicOQ0zSwp9MObrIsAF90.jpg
-    url_poster: https://image.tmdb.org/t/p/original/b65Ou8bJyAroHUEHa0ZJpwQsjQM.jpg
