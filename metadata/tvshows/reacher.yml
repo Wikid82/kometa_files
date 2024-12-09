@@ -1,9 +1,44 @@
 metadata:
   Reacher:
-    mapping_id: 366924
-    url_poster: https://theposterdb.com/api/assets/212490
+    mapping_id:  366924 # TVDB id for Reacher. Set by willtong93 on MediUX. https://mediux.pro/sets/5337
+    url_poster: https://api.mediux.pro/assets/58c7d038-ac61-4956-8357-995c0061b0cc
+    url_background: https://api.mediux.pro/assets/0ecf2dd0-24ab-451d-b2fe-108892e3cf61
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/212491
+        url_poster: https://api.mediux.pro/assets/523f8ca0-bfba-4dd9-9547-e0df2123a70e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/43fb17f8-4f60-493f-b201-81b79c52105a
+          2:
+            url_poster: https://api.mediux.pro/assets/ebb29242-f806-41db-8a44-ec8306d3205d
+          3:
+            url_poster: https://api.mediux.pro/assets/7e5e8296-479e-432f-84a6-9595e6adb668
+          4:
+            url_poster: https://api.mediux.pro/assets/ef132fe0-dc1a-4a97-b445-8d8b3735a47a
+          5:
+            url_poster: https://api.mediux.pro/assets/fe4fc699-c5c6-4f68-8cdf-218140b2ecdc
+          6:
+            url_poster: https://api.mediux.pro/assets/3bf41718-4be2-441f-98a8-90eaa6fefb61
+          7:
+            url_poster: https://api.mediux.pro/assets/13f26eca-36a8-4bd6-991e-1203901c4206
+          8:
+            url_poster: https://api.mediux.pro/assets/97c8200a-a269-48a6-9de1-6159b185c02e
       2:
-        url_poster: https://theposterdb.com/api/assets/431292
+        url_poster: https://api.mediux.pro/assets/9da700b9-f2fd-424f-94c6-e7c38cb44652
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/ca4b3c59-6bdf-4cfc-a52a-116eaae0adf7
+          2:
+            url_poster: https://api.mediux.pro/assets/9ecd091b-b5dd-4979-96dd-14697f075856
+          3:
+            url_poster: https://api.mediux.pro/assets/590c1079-ee1c-4fd2-aa71-ffca76a6e8dd
+          4:
+            url_poster: https://api.mediux.pro/assets/91ca851e-f722-4966-8f76-cdf2c3dde05d
+          5:
+            url_poster: https://api.mediux.pro/assets/eef75adf-7dad-4bef-8e90-4a400a5f16d3
+          6:
+            url_poster: https://api.mediux.pro/assets/f0b9f16f-0e7e-4c48-9bd1-e6cfbf114cf7
+          7:
+            url_poster: https://api.mediux.pro/assets/2195bd05-9fce-46d7-b138-ad95e73e91b6
+          8:
+            url_poster: https://api.mediux.pro/assets/7df782cd-f1cd-4d43-a9e5-318e18066255
