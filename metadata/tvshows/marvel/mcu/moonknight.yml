@@ -1,7 +1,21 @@
 metadata:
   Moon Knight:
-    mapping_id: 368611
-    url_poster: https://theposterdb.com/api/assets/224409
+    mapping_id:  368611 # TVDB id for Moon Knight. Set by willtong93 on MediUX. https://mediux.pro/sets/24541
+    url_poster: https://api.mediux.pro/assets/655d7b6f-9c7a-4b68-ac46-e0d9fdc468b7
+    url_background: https://api.mediux.pro/assets/a7387803-dc59-482d-9543-50a2d70abadd
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/224410
+      1:
+        url_poster: https://api.mediux.pro/assets/6123c284-b477-453c-a5d2-815c5c20479c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/da1722cf-60cc-4862-b1b1-b553ea6cbee0
+          2:
+            url_poster: https://api.mediux.pro/assets/10bfd0f8-4326-4ef7-b1aa-4ca9531fdd00
+          3:
+            url_poster: https://api.mediux.pro/assets/d2fab435-fac5-4e2f-a9f9-1814bbd3a36c
+          4:
+            url_poster: https://api.mediux.pro/assets/5169d14c-6b8f-4baf-9eea-9a6fb4baea59
+          5:
+            url_poster: https://api.mediux.pro/assets/7fc56761-8abf-4eaf-bddf-0bf7c788ee74
+          6:
+            url_poster: https://api.mediux.pro/assets/9d52f592-6c9b-4f18-bd27-58e4bb9996df
