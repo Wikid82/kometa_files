@@ -1,7 +1,21 @@
 metadata:
   Ms. Marvel:
-    mapping_id: 368612
-    url_poster: https://theposterdb.com/api/assets/243986
+    mapping_id:  368612 # TVDB id for Ms. Marvel. Set by willtong93 on MediUX. https://mediux.pro/sets/24542
+    url_poster: https://api.mediux.pro/assets/b6386b75-e0d4-4140-a3fd-7a923e22f333
+    url_background: https://api.mediux.pro/assets/4c46c0fa-b5c9-4226-9270-a0cdc3ff7f83
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/243987
+      1:
+        url_poster: https://api.mediux.pro/assets/43ae5cdc-5cd7-4b49-983c-51b010f4bd7e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/366e47ea-25c5-4419-add5-3dcb8df1295b
+          2:
+            url_poster: https://api.mediux.pro/assets/efdc55e0-80ba-4510-8f1e-f33215ef800d
+          3:
+            url_poster: https://api.mediux.pro/assets/52bf175a-5812-4562-9370-e506dfb7e2dc
+          4:
+            url_poster: https://api.mediux.pro/assets/d0522e0d-4546-4748-9541-51d2dfd9acad
+          5:
+            url_poster: https://api.mediux.pro/assets/79ca634f-fecf-423c-ab59-b19115965aba
+          6:
+            url_poster: https://api.mediux.pro/assets/4668da41-dc71-49bd-99fc-71c86f23f99c
