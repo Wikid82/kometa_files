@@ -1,7 +1,20 @@
 metadata:
   Echo:
-    mapping_id: 412431
-    url_poster: https://theposterdb.com/api/assets/452749
+    mapping_id:  412431 # TVDB id for Echo. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/19582
+    url_poster: https://api.mediux.pro/assets/3efd357f-99dd-4135-afc6-f7618e6a68ea
+    url_background: https://api.mediux.pro/assets/8fbeec17-2004-49a5-889e-7649f4a064cc
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/452750
+      1:
+        url_poster: https://api.mediux.pro/assets/e38dfd85-82dd-4350-abb5-5e185d22ec02
+
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/31514e9d-eb74-4d14-8009-095601a56a6a
+          2:
+            url_poster: https://api.mediux.pro/assets/cba8198a-31fd-4169-a440-45f8ec116d12
+          3:
+            url_poster: https://api.mediux.pro/assets/077179fc-bff7-45ce-9502-2e1d9015c8e5
+          4:
+            url_poster: https://api.mediux.pro/assets/a87d98d8-5d7f-48a2-90a9-6f6fdd4edfca
+          5:
+            url_poster: https://api.mediux.pro/assets/8dc8bc4d-2acc-4739-bd41-c0c4f15f608c
