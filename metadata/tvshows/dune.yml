@@ -1,7 +1,15 @@
 metadata:
   Dune Prophecy:
-    mapping_id: 367118
-    url_poster: https://api.mediux.pro/assets/a83c828b-e585-4452-ba76-03b698844967
+    mapping_id:  367118 # TVDB id for Dune: Prophecy. Set by willtong93 on MediUX. https://mediux.pro/sets/27760
+    url_poster: https://api.mediux.pro/assets/c2f38497-9170-4109-97b7-7d2da926ba96
+    url_background: https://api.mediux.pro/assets/ee2fcf41-9efa-42b2-ae56-0c9a450d9fcc
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/7447a0a6-3ead-4673-9368-27669b723059
+        url_poster: https://api.mediux.pro/assets/64f05c31-8747-40dc-951c-60f024a88c0e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c9fe6c08-6faa-419d-b2d1-c4369d577dab
+          2:
+            url_poster: https://api.mediux.pro/assets/d1874371-1296-455c-a3b4-6dc1fc94b975
+          3:
+            url_poster: https://api.mediux.pro/assets/b9a832c4-27c0-40c4-aa12-6a4020f4e445
