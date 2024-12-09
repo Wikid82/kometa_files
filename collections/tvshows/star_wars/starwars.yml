@@ -1,7 +1,7 @@
 ---
 collections:
   Star Wars Collection:
-    collection_mode: hide_items
+    collection_mode: show_items
     collection_order: custom
     trakt_list_details: https://trakt.tv/lists/28903516
     url_background: https://image.tmdb.org/t/p/original/eO3PyZbDe7UlkyypMgfHWdeo9VZ.jpg
