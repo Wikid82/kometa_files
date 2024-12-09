@@ -1,7 +1,27 @@
 metadata:
   Agatha All Along:
-    mapping_id: 412429
-    url_poster: https://theposterdb.com/api/assets/526273
+    mapping_id:  412429 # TVDB id for Agatha All Along. Set by willtong93 on MediUX. https://mediux.pro/sets/25137
+    url_poster: https://api.mediux.pro/assets/06b81957-0df9-4909-bf9f-f3ffd5cea280
+    url_background: https://api.mediux.pro/assets/bd190d4e-2fbc-4c9d-99e5-51ff7ac38167
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/523230
+      1:
+        url_poster: https://api.mediux.pro/assets/f7bea214-45a4-4c39-84aa-db4b1742d9e5
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8c9abd11-c0d8-4720-a4e3-cace1e87f78a
+          2:
+            url_poster: https://api.mediux.pro/assets/89f7a7af-7b1e-4729-bcf2-9a6f6fb6bd61
+          3:
+            url_poster: https://api.mediux.pro/assets/2f50def2-ae7d-434b-aa41-a0505347e36b
+          4:
+            url_poster: https://api.mediux.pro/assets/75f3cf16-bde3-4505-bed7-667adca2bca8
+          5:
+            url_poster: https://api.mediux.pro/assets/abef348e-8057-4dd4-8614-6669f33a3db4
+          6:
+            url_poster: https://api.mediux.pro/assets/a0b2bc5d-d28b-4b41-a21b-eece4fdc111f
+          7:
+            url_poster: https://api.mediux.pro/assets/b4c741e5-9290-4b66-9816-ed28b93a907d
+          8:
+            url_poster: https://api.mediux.pro/assets/f718217e-6695-49dc-888c-ae398076510a
+          9:
+            url_poster: https://api.mediux.pro/assets/a5203bb6-fc03-47f3-9711-98ec243da6c3
