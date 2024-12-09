@@ -1,9 +1,36 @@
 metadata:
   Loki:
-    mapping_id: 362472
-    url_poster: https://theposterdb.com/api/assets/152226
+    mapping_id:  362472 # TVDB id for Loki. Set by Olivier_286 on MediUX. https://mediux.pro/sets/641
+    url_poster: https://api.mediux.pro/assets/75e6e398-1287-4031-b266-81ed3d1f6926
+    url_background: https://api.mediux.pro/assets/e09d7978-77f4-4d2a-8948-7b021b023f63
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/152227
-      02:
-        url_poster: https://theposterdb.com/api/assets/421311
+      1:
+        url_poster: https://api.mediux.pro/assets/20faeab5-144e-4cd0-b0f4-d49f9373efd7
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/3decfbc2-62fb-4cff-8df0-92ac08331da9
+          2:
+            url_poster: https://api.mediux.pro/assets/fb31bd62-1b82-43c5-bef3-fceb80b91220
+          3:
+            url_poster: https://api.mediux.pro/assets/c6743215-ff3d-4f08-99a2-e92eee9dde17
+          4:
+            url_poster: https://api.mediux.pro/assets/99ce51bc-58e5-4156-89ec-d588a85d1e83
+          5:
+            url_poster: https://api.mediux.pro/assets/491796b9-e999-417f-b6e8-ac6f34507cca
+          6:
+            url_poster: https://api.mediux.pro/assets/95d987e0-ea17-4c28-83b7-bd245138c95a
+      2:
+        url_poster: https://api.mediux.pro/assets/5bfa4333-9ed9-4950-a7ca-38deee47612b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/120e8609-45d6-4b05-aee3-57195d15ee85
+          2:
+            url_poster: https://api.mediux.pro/assets/ee8a1e3b-d3a7-4a48-99ec-d43465d629b8
+          3:
+            url_poster: https://api.mediux.pro/assets/9b2410eb-081d-44eb-b841-747d4868dff0
+          4:
+            url_poster: https://api.mediux.pro/assets/4029aa02-1c90-4c93-adef-e3c0639bce28
+          5:
+            url_poster: https://api.mediux.pro/assets/02c7987a-f0d8-4054-a27c-ba5240cc046b
+          6:
+            url_poster: https://api.mediux.pro/assets/8e5eceb1-0858-4cc4-891a-0124fb98e5e7
