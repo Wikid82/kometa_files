@@ -1,0 +1,25 @@
+metadata:
+  Teacup:
+    mapping_id:  446180 # TVDB id for Teacup. Set by tallinex on MediUX. https://mediux.pro/sets/26817
+    url_poster: https://api.mediux.pro/assets/4667a1f0-80ae-4f50-a922-f2a8fb4b3037
+    url_background: https://api.mediux.pro/assets/069d142b-fb06-484a-9efc-2b0efa705b44
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/38379739-e4c9-45ed-833c-f93030f3d189
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/edeed3ce-3afd-4a4c-bfcc-39661a9674d5
+          2:
+            url_poster: https://api.mediux.pro/assets/5f9eea77-e500-4c50-88d1-154942841dce
+          3:
+            url_poster: https://api.mediux.pro/assets/c69df085-e73d-4300-b4ed-fbcc7bffb226
+          4:
+            url_poster: https://api.mediux.pro/assets/48a1b224-acfe-4e51-9d2b-7fa364767450
+          5:
+            url_poster: https://api.mediux.pro/assets/5c3fae29-a181-49d5-b36c-4159651ea226
+          6:
+            url_poster: https://api.mediux.pro/assets/232b0a9c-08bb-4756-8102-e04e35380346
+          7:
+            url_poster: https://api.mediux.pro/assets/c2b469ec-f9db-4024-950e-fc88aa11b7bd
+          8:
+            url_poster: https://api.mediux.pro/assets/b2e28af5-9cd2-4199-9f64-1053853f2b37
