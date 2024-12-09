@@ -1,6 +1,6 @@
 metadata:
   Dexter: 
-    mapping_id: 79349 # TVDB id for Dexter. Set by willtong93 on MediUX. https://mediux.pro/sets/23041
+    mapping_id:   79349 # TVDB id for Dexter. Set by willtong93 on MediUX. https://mediux.pro/sets/23041
     url_poster: https://api.mediux.pro/assets/ba0ae880-022d-45f9-b052-c9ac8ffa188d
     url_background: https://api.mediux.pro/assets/cea65984-f9b5-4c21-8c75-28ee68f03698
     seasons:
@@ -222,6 +222,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5c6ba238-988e-450d-b5fb-7f0089eb5227
           12:
             url_poster: https://api.mediux.pro/assets/a9f88672-caff-4dd1-89d7-7bc47222369b
+
 
 
   Dexter New Blood: 
