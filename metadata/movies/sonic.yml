@@ -5,6 +5,6 @@ metadata:
   Sonic the Hedgehog 2:
     mapping_id: 675353
     url_poster: https://theposterdb.com/api/assets/195628
-  Sonic the Hedgehog 3:
-    mapping_id: 939243
-    url_poster: https://theposterdb.com/api/assets/519444
+#  Sonic the Hedgehog 3:
+#   mapping_id: 939243
+#   url_poster: https://theposterdb.com/api/assets/519444
