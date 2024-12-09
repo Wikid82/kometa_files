@@ -1,7 +1,21 @@
 metadata:
   Star Wars Tales of the Empire:
-    mapping_id: 448549
-    url_poster: https://api.mediux.pro/assets/92a2ab84-79a0-4fef-953f-324c9d23d4c3
+    mapping_id:  448549 # TVDB id for Star Wars: Tales of the Empire. Set by willtong93 on MediUX. https://mediux.pro/sets/19736
+    url_poster: https://api.mediux.pro/assets/19107f11-c7bd-4c06-b734-6144d3b6100b
+    url_background: https://api.mediux.pro/assets/4917ba1b-e5a8-4b35-9eb1-8f87b22aded9
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/7891b9a1-2dc9-4263-b1df-56f3dbdfda66
+        url_poster: https://api.mediux.pro/assets/bdb38031-ab18-4597-bd80-c5982c6c777a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/07b591c5-efb7-486c-879f-382f64395aa4
+          2:
+            url_poster: https://api.mediux.pro/assets/ef875e3c-2057-4ce2-838c-a93f3583d771
+          3:
+            url_poster: https://api.mediux.pro/assets/64734256-6339-4c25-981a-96fbd690e5d4
+          4:
+            url_poster: https://api.mediux.pro/assets/32ca5309-a8f9-4a80-bc6c-b6f952fcc23a
+          5:
+            url_poster: https://api.mediux.pro/assets/0ff16d0c-bcbc-4da0-ad1f-c3315d3cb282
+          6:
+            url_poster: https://api.mediux.pro/assets/c9c655f9-87e1-4041-a0b8-e7a62a4c8704

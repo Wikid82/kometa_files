@@ -1,7 +1,21 @@
 metadata:
   Star Wars Tales of the Jedi:
-    mapping_id: 420659
-    url_poster: https://api.mediux.pro/assets/9976ed96-418b-43ee-a27f-1bd25424eaad
+    mapping_id:  420659 # TVDB id for Star Wars: Tales of the Jedi. Set by willtong93 on MediUX. https://mediux.pro/sets/19737
+    url_poster: https://api.mediux.pro/assets/5bbe0de2-df15-4d45-8a0a-cc82dde809a4
+    url_background: https://api.mediux.pro/assets/995bec5b-25f9-435d-b453-7dce8a060952
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/7d19f1eb-5fcd-4c4b-b0bb-07ee5072c762
+        url_poster: https://api.mediux.pro/assets/6b27e979-aa2e-4168-9f4f-73b2ebd0bad0
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/300aed2f-e95f-47af-8560-313fcbc259e0
+          2:
+            url_poster: https://api.mediux.pro/assets/0ba3ab4e-1b0b-4b4c-8e36-b90033568c6b
+          3:
+            url_poster: https://api.mediux.pro/assets/09251836-e614-4c9a-a7b3-978906beee37
+          4:
+            url_poster: https://api.mediux.pro/assets/5f11bb96-85ba-49e0-bcb7-84915ef31d80
+          5:
+            url_poster: https://api.mediux.pro/assets/a464b668-999f-4b30-a92d-e6362d54a9f1
+          6:
+            url_poster: https://api.mediux.pro/assets/b808f113-b35d-4b1f-835c-3c53c8683985

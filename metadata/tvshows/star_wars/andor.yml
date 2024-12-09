@@ -1,7 +1,33 @@
 metadata:
   Andor:
-    mapping_id: 393189
-    url_poster: https://api.mediux.pro/assets/c51ce3f1-e8fe-4e92-b32b-24474dafea05
+    mapping_id:  393189 # TVDB id for Star Wars: Andor. Set by willtong93 on MediUX. https://mediux.pro/sets/7720
+    url_poster: https://api.mediux.pro/assets/ef16562a-3ce4-463a-adbd-c3b390f45e8f
+    url_background: https://api.mediux.pro/assets/0d1e0931-52cd-43a7-8c06-d60502e703bb
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/00401e0d-89d2-437f-ab6b-121bc5443566
+        url_poster: https://api.mediux.pro/assets/10f13898-988b-4e6b-b585-60188e9032d2
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/77a2fa7c-f44e-4ec0-b9db-9d40a5a10c43
+          2:
+            url_poster: https://api.mediux.pro/assets/5e7d1b85-43a2-4994-ba1f-71992b9f6787
+          3:
+            url_poster: https://api.mediux.pro/assets/c42eaedb-2d36-4713-8d0c-4b649daf1b9f
+          4:
+            url_poster: https://api.mediux.pro/assets/209898b7-4a88-4ae3-8c64-f19be9781e80
+          5:
+            url_poster: https://api.mediux.pro/assets/0a7c9ba9-8885-4207-9a6b-b54809c40b9c
+          6:
+            url_poster: https://api.mediux.pro/assets/754847aa-26bd-4fea-9348-1034c77a6b29
+          7:
+            url_poster: https://api.mediux.pro/assets/6c9a4e55-1e56-410a-8566-3d9fd3807638
+          8:
+            url_poster: https://api.mediux.pro/assets/d1c1d4ec-f5c7-4e3f-bde7-749d34a13b0b
+          9:
+            url_poster: https://api.mediux.pro/assets/a42c49d9-df54-4dd5-912b-2a38bc9d1c31
+          10:
+            url_poster: https://api.mediux.pro/assets/e7463599-0884-42ff-8e71-cc7c240cb78f
+          11:
+            url_poster: https://api.mediux.pro/assets/169c023a-6305-42b3-b645-bd2d4efdd6be
+          12:
+            url_poster: https://api.mediux.pro/assets/7ca5852b-b1ad-4120-a001-a1e9c134f73d

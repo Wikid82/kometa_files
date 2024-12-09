@@ -1,7 +1,25 @@
 metadata:
   The Acolyte:
-    mapping_id: 393197
-    url_poster: https://api.mediux.pro/assets/e0a495ca-36a4-47e3-993c-b258e0c5f712
+    mapping_id:  393197 # TVDB id for The Acolyte. Set by willtong93 on MediUX. https://mediux.pro/sets/22545
+    url_poster: https://api.mediux.pro/assets/138dc2c2-f59a-4bcf-bc58-0dd8947923dd
+    url_background: https://api.mediux.pro/assets/d837e33d-995f-42b4-971d-3d18e900a175
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/aa585887-9866-4e7b-b01a-4962ef6517b4
+        url_poster: https://api.mediux.pro/assets/ea6416e3-36db-47b7-bf37-2a220d1c58dd
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/eb5431f5-f55a-4f16-bd36-e2b4d85aa460
+          2:
+            url_poster: https://api.mediux.pro/assets/271458be-83af-415d-910b-b0ea73f572c7
+          3:
+            url_poster: https://api.mediux.pro/assets/511590fa-caa5-45d9-90c7-bf37ee6be840
+          4:
+            url_poster: https://api.mediux.pro/assets/a7876c6c-4802-4f3c-8687-a41c46b108bc
+          5:
+            url_poster: https://api.mediux.pro/assets/b3788952-9213-42ff-b878-d55227116dd4
+          6:
+            url_poster: https://api.mediux.pro/assets/37bee814-91c2-417f-b33c-9e967911ff37
+          7:
+            url_poster: https://api.mediux.pro/assets/6a172d08-2865-4d6a-b68d-dec963407e86
+          8:
+            url_poster: https://api.mediux.pro/assets/f79e84e4-63c6-4aca-afba-0ae951e749e0

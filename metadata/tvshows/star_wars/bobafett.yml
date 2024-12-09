@@ -1,7 +1,23 @@
 metadata:
   The Book of Boba Fett:
-    mapping_id: 393589
-    url_poster: https://api.mediux.pro/assets/f9556cf5-85d2-4c04-840a-1ae412e3486d
+    mapping_id:  393589 # TVDB id for The Book of Boba Fett. Set by willtong93 on MediUX. https://mediux.pro/sets/10485
+    url_poster: https://api.mediux.pro/assets/c4b010a6-4b67-45e3-b119-bcf7e162fc49
+    url_background: https://api.mediux.pro/assets/5fcb75f8-3199-4085-85db-41f81281d1d7
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/4b3f8019-6f63-4bf8-b3cd-73016b820db7
+        url_poster: https://api.mediux.pro/assets/7abfcd2f-61b2-4e13-9f31-d277656db753
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5e77eb33-9e27-4963-98b3-7e90557fb284
+          2:
+            url_poster: https://api.mediux.pro/assets/6ab3d2c1-345a-4c44-9a32-1594a8c4fe5f
+          3:
+            url_poster: https://api.mediux.pro/assets/b4c3557c-120c-403f-b0a5-b9e3680d02f9
+          4:
+            url_poster: https://api.mediux.pro/assets/cc843320-d305-4af0-9516-82843b1ae3e6
+          5:
+            url_poster: https://api.mediux.pro/assets/9933d509-fc6f-44f3-a54b-74d889da0548
+          6:
+            url_poster: https://api.mediux.pro/assets/72c7af0a-2793-445b-a36e-6b6c590ad429
+          7:
+            url_poster: https://api.mediux.pro/assets/fa4bfce2-dacb-4327-b3b1-cb5103b5d60a

@@ -1,21 +1,19 @@
 metadata:
   Star Wars The Clone Wars:
-    mapping_id: 83268
-    url_poster: https://api.mediux.pro/assets/ffe1d162-8568-4b24-98ed-e0ec10559dc8
+    mapping_id:  83268 # TVDB id for Star Wars: The Clone Wars. Set by Pejamas on MediUX. https://mediux.pro/sets/8078
+    url_poster: https://api.mediux.pro/assets/a03b085c-8d4f-4eb2-88de-029defbf6d97
     seasons:
-      #0:
-      #  url_poster: https://api.mediux.pro/assets/88ec9471-f7d1-4537-bc20-965969b5afc1
       1:
-        url_poster: https://api.mediux.pro/assets/c9ee29f6-902c-4db5-8155-77ffdeb1860d
+        url_poster: https://api.mediux.pro/assets/89f13d9e-65ba-40b7-975f-0ab14d94f106
       2:
-        url_poster: https://api.mediux.pro/assets/d623d47b-cdfe-46dc-aca3-0858edba4adb
+        url_poster: https://api.mediux.pro/assets/27826ff1-d122-45f3-bcbf-8a53505d5947
       3:
-        url_poster: https://api.mediux.pro/assets/a52bddc7-746c-4432-bd6c-50503fc9df28
+        url_poster: https://api.mediux.pro/assets/8aa2a875-d7f5-4aaf-af8a-10341e7474ca
       4:
-        url_poster: https://api.mediux.pro/assets/d6981675-7760-4c76-b844-feddcb4b3e46
+        url_poster: https://api.mediux.pro/assets/fcdf604f-5133-49c2-86aa-0cb4b329023e
       5:
-        url_poster: https://api.mediux.pro/assets/69cc9939-3314-432e-96f7-149fd28a98f7
+        url_poster: https://api.mediux.pro/assets/ae96beb7-1ee5-440f-91a7-e8ddfce28ea0
       6:
-        url_poster: https://api.mediux.pro/assets/1e573717-68f7-4381-9ebd-16d6735e93de
+        url_poster: https://api.mediux.pro/assets/147da59d-c875-40f0-8802-3906bfc2342f
       7:
-        url_poster: https://api.mediux.pro/assets/bc9a4fd2-c76b-486a-bfa6-a0d2fd7b202f
+        url_poster: https://api.mediux.pro/assets/64efed33-55d5-466d-8dfe-31550237bfbb

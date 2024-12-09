@@ -1,7 +1,25 @@
 metadata:
   Ahsoka:
-    mapping_id: 393187
-    url_poster: https://api.mediux.pro/assets/eb77172c-fdcd-473b-aa55-bf756eaf7c33
+    mapping_id: 393187 # TVDB id for Ahsoka. Set by willtong93 on MediUX. https://mediux.pro/sets/7857
+    url_poster: https://api.mediux.pro/assets/e11ecd6f-1de9-448c-bc4a-501339e99692
+    url_background: https://api.mediux.pro/assets/16c0dc7e-4480-44f8-a61f-7e52c42a3d13
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/ec4e5aa8-17c9-4b4b-b3fe-79d3c232a15b
+        url_poster: https://api.mediux.pro/assets/83446888-8db1-44ad-9875-c949f1d1a8cb
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/212f446e-0b2d-4b22-96ee-2db2950eae72
+          2:
+            url_poster: https://api.mediux.pro/assets/60775aab-fdb7-42d0-a2ac-cbec356882f2
+          3:
+            url_poster: https://api.mediux.pro/assets/2f9adca7-6d14-4a10-bc78-5d43d5289047
+          4:
+            url_poster: https://api.mediux.pro/assets/060e28d9-5662-41a2-9244-6a8bfecacc3c
+          5:
+            url_poster: https://api.mediux.pro/assets/20b77d21-0609-4c35-8d4a-3a40f05b33ba
+          6:
+            url_poster: https://api.mediux.pro/assets/0f6b0a8d-48cc-415e-bbbb-53d0af8e2600
+          7:
+            url_poster: https://api.mediux.pro/assets/d723798f-87c2-4ad0-880d-b5f873e4a4ca
+          8:
+            url_poster: https://api.mediux.pro/assets/7afba101-0351-4a16-9c79-8456090552a7
