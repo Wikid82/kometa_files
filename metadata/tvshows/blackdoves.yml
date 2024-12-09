@@ -1,0 +1,21 @@
+metadata:
+  Black Doves:
+    mapping_id: 441315 # TVDB id for Black Doves. Set by willtong93 on MediUX. https://mediux.pro/sets/28618
+    url_poster: https://api.mediux.pro/assets/82611cac-a8a0-4431-9aba-15ee6dcbfe3c
+    url_background: https://api.mediux.pro/assets/d49b3a7a-2352-42b5-adec-1ba11657e25a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/30aee358-57f1-47d6-8bfd-e5aa22393e30
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/51a1b031-12b2-4670-847d-d0560c1af203
+          2:
+            url_poster: https://api.mediux.pro/assets/8093a16c-5cd5-430a-b476-13e6922ee2a6
+          3:
+            url_poster: https://api.mediux.pro/assets/a3e257ec-ccfd-41a5-b964-95824d4b8946
+          4:
+            url_poster: https://api.mediux.pro/assets/d01ce2f3-0779-43ea-b521-aebc490c954e
+          5:
+            url_poster: https://api.mediux.pro/assets/f91b83db-056c-449e-b733-db76dc921239
+          6:
+            url_poster: https://api.mediux.pro/assets/8c028a87-08df-4e67-bc9f-9e2e775d9142
