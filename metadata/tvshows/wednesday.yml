@@ -1,7 +1,26 @@
 metadata:
   Wednesday:
-    mapping_id: 397060
-    url_poster: https://theposterdb.com/api/assets/292375
-#    seasons:
-#      01:
-#        url_poster: https://theposterdb.com/api/assets/409028
+    mapping_id:  397060 # TVDB id for Wednesday. Set by Koltom on MediUX. https://mediux.pro/sets/6057
+    url_poster: https://api.mediux.pro/assets/c4a5afd3-8012-4087-9540-37b163d4d3f2
+    url_background: https://api.mediux.pro/assets/c47b4929-39be-4fc6-854c-bf6dcbd28164
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/130cfc93-1c8f-4307-9f0e-e6ed2337da3f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/4d4359f9-2592-4d65-a471-f2ff35614603
+          2:
+            url_poster: https://api.mediux.pro/assets/6e1b3912-0990-4a39-8494-702322ae7700
+          3:
+            url_poster: https://api.mediux.pro/assets/ab61e5ae-05bb-4ccb-8484-8a1331f2efe7
+          4:
+            url_poster: https://api.mediux.pro/assets/76ff2ed5-b032-4314-8620-aeaa9a48eac2
+          5:
+            url_poster: https://api.mediux.pro/assets/cf1dcef1-55ef-4829-93c5-d04d73864b00
+          6:
+            url_poster: https://api.mediux.pro/assets/cce4b32f-4779-44d6-bafb-9a3fd2a98dc1
+          7:
+            url_poster: https://api.mediux.pro/assets/fcf53873-6492-4911-8a62-39c7e5dd7668
+          8:
+            url_poster: https://api.mediux.pro/assets/61fd1ff0-324a-43f0-b2e9-82e644b7d128
+
