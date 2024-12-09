@@ -1,7 +1,23 @@
 metadata:
   ted:
-    mapping_id: 404604
-    url_poster: https://api.mediux.pro/assets/8bde8297-4842-4693-a729-a899b890ecc2
+    mapping_id:  404604 # TVDB id for ted. Set by valexv on MediUX. https://mediux.pro/sets/21821
+    url_poster: https://api.mediux.pro/assets/8039c05e-5b91-45cf-bce7-f65e853a1e74
+    url_background: https://api.mediux.pro/assets/13cc3bbd-c0ad-4386-bef5-10dfba997ca5
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/5a0c8679-bef9-4ed3-b711-771b6b76f0b4
+        url_poster: https://api.mediux.pro/assets/749c6cb6-f597-4c70-bdf7-279f266ce87e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/46233233-5c96-4020-af6d-82c30ca8925a
+          2:
+            url_poster: https://api.mediux.pro/assets/791f50f8-cb06-4935-b338-99ae4df73309
+          3:
+            url_poster: https://api.mediux.pro/assets/5371a399-01bd-4866-9a91-8371bc7ee13f
+          4:
+            url_poster: https://api.mediux.pro/assets/dd69a24c-87f8-4ae8-b958-0414cc254502
+          5:
+            url_poster: https://api.mediux.pro/assets/abd7be8a-a91b-4715-ad9f-1dbdc5c1e9d7
+          6:
+            url_poster: https://api.mediux.pro/assets/2b6fba56-d37c-4c17-8e81-c8cd24fa73db
+          7:
+            url_poster: https://api.mediux.pro/assets/3f2c88ed-3cf3-4c32-9b7f-59e2d181125e
