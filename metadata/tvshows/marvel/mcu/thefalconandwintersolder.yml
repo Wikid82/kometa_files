@@ -1,7 +1,21 @@
 metadata:
   The Falcon and The Winter Soldier:
-    mapping_id: 362496
-    url_poster: https://theposterdb.com/api/assets/144090
+    mapping_id: 362496 # TVDB id for The Falcon and the Winter Soldier. Set by willtong93 on MediUX. https://mediux.pro/sets/24526
+    url_poster: https://api.mediux.pro/assets/76de1801-963e-4a44-b4ac-f8d04944ef75
+    url_background: https://api.mediux.pro/assets/6deb3e33-3193-46fc-8c1e-9a89ac505a42
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/144091
+      1:
+        url_poster: https://api.mediux.pro/assets/5212beb0-25a3-4f98-aaed-b8f628589fd3
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8b596901-b5ea-4bac-8fd3-e9500ffc7091
+          2:
+            url_poster: https://api.mediux.pro/assets/d77bb7b7-70bc-4628-a0f4-c3d20f87a97b
+          3:
+            url_poster: https://api.mediux.pro/assets/32a40a97-f8ac-4c9b-baf3-43f85e86d164
+          4:
+            url_poster: https://api.mediux.pro/assets/c688f030-022e-4cbb-bbb1-e20eefb1e117
+          5:
+            url_poster: https://api.mediux.pro/assets/d79e5433-2a72-4b28-ad74-29622dc825cb
+          6:
+            url_poster: https://api.mediux.pro/assets/08bb9ad2-dc28-425c-98c0-ec4bba1c5959
