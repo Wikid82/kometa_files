@@ -1,7 +1,27 @@
 metadata:
   She-Hulk Attorney at Law:
-    mapping_id: 368613
-    url_poster: https://theposterdb.com/api/assets/261516
-    seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/261517
+    mapping_id: 368613 # TVDB id for She-Hulk: Attorney at Law. Set by Olivier_286 on MediUX. https://mediux.pro/sets/210
+    url_poster: https://api.mediux.pro/assets/12a4c8c9-ad0c-4ea3-b71b-19d9cfd8f751
+    url_background: https://api.mediux.pro/assets/baaf000f-5721-44cc-b4e8-822165a4f69f
+        seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ab7d609d-a471-47c6-a42f-c659d0823305
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/3a35af67-e008-40aa-809d-ff338e90da26
+          2:
+            url_poster: https://api.mediux.pro/assets/65ce5eee-de6c-441b-9f07-d8f1dfc17980
+          3:
+            url_poster: https://api.mediux.pro/assets/20d2fa20-ab05-4b67-a259-7ea717a15c86
+          4:
+            url_poster: https://api.mediux.pro/assets/85602bf1-1573-4b8e-ba4a-a04252b2248c
+          5:
+            url_poster: https://api.mediux.pro/assets/c7ccd231-f402-4c0d-ba51-6d55ec5e412c
+          6:
+            url_poster: https://api.mediux.pro/assets/6c07155d-3eea-4a3a-9cb7-869c764810e8
+          7:
+            url_poster: https://api.mediux.pro/assets/61eccbc8-a897-4338-8613-b1817ce1f535
+          8:
+            url_poster: https://api.mediux.pro/assets/b7ddf398-4633-4a90-8b20-ef05f7744c19
+          9:
+            url_poster: https://api.mediux.pro/assets/cedae066-559f-47bb-9825-6182366fb8ee
