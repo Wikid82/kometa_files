@@ -1,11 +1,49 @@
 metadata:
   What If…?:
-    mapping_id: 367147
-    url_poster: https://theposterdb.com/api/assets/169286
+    mapping_id:  367147 # TVDB id for What If...?. Set by Olivier_286 on MediUX. https://mediux.pro/sets/738
+    url_poster: https://api.mediux.pro/assets/867f29ae-7c43-4897-bda0-596e1fa4d3c9
+    url_background: https://api.mediux.pro/assets/4a0755e4-dece-4af3-a546-a2a525e02c42
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/169287
-      02:
-        url_poster: https://theposterdb.com/api/assets/452737
-#      03:
-#        url_poster: https://theposterdb.com/api/assets/144091
+      1:
+        url_poster: https://api.mediux.pro/assets/30a2bf42-8776-4f0d-b3c9-a288c7ed7aab
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/b85e9b44-4271-4278-a7e9-5b938945c5fc
+          2:
+            url_poster: https://api.mediux.pro/assets/911a0eb4-bebe-4d7c-9baa-bf8545e73d32
+          3:
+            url_poster: https://api.mediux.pro/assets/ed6e92ca-a589-43e8-98e4-41dfe3af35fb
+          4:
+            url_poster: https://api.mediux.pro/assets/a59253fa-604e-40ed-9778-b0af363d543f
+          5:
+            url_poster: https://api.mediux.pro/assets/1ff1ea46-88b4-44cb-ba62-f4435ec17fca
+          6:
+            url_poster: https://api.mediux.pro/assets/51e2bdef-1b05-4784-8475-b47f0aa9d855
+          7:
+            url_poster: https://api.mediux.pro/assets/aeb1a0e4-e0ee-491a-8097-3ec8496ea05e
+          8:
+            url_poster: https://api.mediux.pro/assets/068a2857-d5ba-475d-9b32-a2c58a20e410
+          9:
+            url_poster: https://api.mediux.pro/assets/557f6dfb-180c-4294-89ab-4f0b1a31b805
+      2:
+        url_poster: https://api.mediux.pro/assets/f9f33da3-f323-4e0b-a95e-a5a2dbe7cfc9
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fe10fbfc-a8f8-47fc-b871-94cb3c01f505
+          2:
+            url_poster: https://api.mediux.pro/assets/13883d35-ea00-4570-b7a6-b0d4b76bf5e1
+          3:
+            url_poster: https://api.mediux.pro/assets/3662a5b1-cc38-4a5d-8efb-221c2926eaba
+          4:
+            url_poster: https://api.mediux.pro/assets/7fb7b603-eec1-4458-8f32-639e00f399a5
+          5:
+            url_poster: https://api.mediux.pro/assets/328cfada-ba00-44dc-be86-8c1c30ee5efc
+          6:
+            url_poster: https://api.mediux.pro/assets/8bb9043f-453f-4e9b-ba75-338e0b97048c
+          7:
+            url_poster: https://api.mediux.pro/assets/fe696eec-fcb1-466f-b16f-c995c1429cb6
+          8:
+            url_poster: https://api.mediux.pro/assets/664f7594-6cad-4874-9d21-7b168c7024bf
+          9:
+            url_poster: https://api.mediux.pro/assets/a4693c5e-abc7-4223-ad13-4a5030624b35
+
