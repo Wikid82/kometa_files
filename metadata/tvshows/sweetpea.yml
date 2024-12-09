@@ -1,7 +1,22 @@
 metadata:
   Sweetpea:
-    mapping_id: 421654
-    url_poster: https://theposterdb.com/api/assets/531183
+    mapping_id:  421654 # TVDB id for Sweetpea. Set by willtong93 on MediUX. https://mediux.pro/sets/26815
+    url_poster: https://api.mediux.pro/assets/b94ad117-bc3e-480e-a037-ed017f158638
+    url_background: https://api.mediux.pro/assets/71f11eac-9060-490f-851a-44fe2c2767de
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/531184
+      1:
+        url_poster: https://api.mediux.pro/assets/c16c8e65-660f-4fb2-9901-f7020898e8f7
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/095084ad-c4f7-4cf3-b15c-3bf2c9c7bf1e
+          2:
+            url_poster: https://api.mediux.pro/assets/29d6cb37-2658-4806-b7de-eaed6435d6af
+          3:
+            url_poster: https://api.mediux.pro/assets/7e787e9c-0e94-4831-95a8-560ec6141ea3
+          4:
+            url_poster: https://api.mediux.pro/assets/641ab940-8080-46a7-b15d-56d98a6291ff
+          5:
+            url_poster: https://api.mediux.pro/assets/9e1b8bd2-329f-47e3-874c-b448e9ebf2ec
+          6:
+            url_poster: https://api.mediux.pro/assets/8ee66716-ba10-4c13-91d9-55c2c08a4192
+
