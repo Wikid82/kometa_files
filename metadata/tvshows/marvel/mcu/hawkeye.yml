@@ -1,7 +1,21 @@
 metadata:
   Hawkeye:
-    mapping_id: 367146
-    url_poster: https://theposterdb.com/api/assets/191855
+    mapping_id:  367146 # TVDB id for Hawkeye. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/23988
+    url_poster: https://api.mediux.pro/assets/aa555ea2-fc00-4965-80d1-1abfbfd1bdc2
+    url_background: https://api.mediux.pro/assets/b5960a54-bde4-48fb-bbad-b94e17525998
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/191856
+      1:
+        url_poster: https://api.mediux.pro/assets/5da33780-1284-4052-a34e-d2e3ea2d830a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/e73e23a7-b65b-491e-a61d-9997efc674ba
+          2:
+            url_poster: https://api.mediux.pro/assets/354c8b43-c3bd-4a72-9bb3-6bba2f80aaed
+          3:
+            url_poster: https://api.mediux.pro/assets/ec028a8e-a839-4c3b-8b0e-c00441a47c03
+          4:
+            url_poster: https://api.mediux.pro/assets/1f7ca564-468b-4e8f-a980-d3a7afb9f55a
+          5:
+            url_poster: https://api.mediux.pro/assets/3b558c0b-8feb-487c-8a97-58ec88d4c3be
+          6:
+            url_poster: https://api.mediux.pro/assets/d3b1c18e-4b37-49ed-b506-32ded454fa8b
