@@ -1,0 +1,27 @@
+metadata:
+  Say Nothing:
+    mapping_id:   445610 # TVDB id for Say Nothing. Set by willtong93 on MediUX. https://mediux.pro/sets/28091
+    url_poster: https://api.mediux.pro/assets/c0972b18-7b72-4645-956f-40d8ae3bb015
+    url_background: https://api.mediux.pro/assets/3de97ee0-7825-4b65-954b-d8821c4ead89
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a2ad8249-b96a-42bb-8f2d-be652c539422
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/6ad3e3b4-b1e7-47bd-b998-8b76fd7cea99
+          2:
+            url_poster: https://api.mediux.pro/assets/c86c97ca-cc50-4131-b11d-b66ffba0b545
+          3:
+            url_poster: https://api.mediux.pro/assets/325d834c-ee31-43a3-a87f-357f5277dde4
+          4:
+            url_poster: https://api.mediux.pro/assets/1fdbcd58-b55b-4364-bdf7-8e27132f2a3b
+          5:
+            url_poster: https://api.mediux.pro/assets/90449b23-9d7b-4dc0-adc1-771613c0917f
+          6:
+            url_poster: https://api.mediux.pro/assets/ec0c7d5b-2d57-4ee3-8916-527dc7b16f56
+          7:
+            url_poster: https://api.mediux.pro/assets/305b8039-32ed-43ec-b296-3638637cc817
+          8:
+            url_poster: https://api.mediux.pro/assets/ca27eeee-74a3-4dfe-8ec8-6bf0e1a902cc
+          9:
+            url_poster: https://api.mediux.pro/assets/eb7ab348-7edd-4d31-9313-1516fc131ae8
