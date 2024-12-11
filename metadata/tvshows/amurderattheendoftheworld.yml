@@ -1,0 +1,22 @@
+metadata:
+  A Murder At The End Of The World:
+    mapping_id:   408696 # TVDB id for A Murder at the End of the World. Set by darkwesley on MediUX. https://mediux.pro/sets/12766
+    url_poster: https://api.mediux.pro/assets/4b690fb1-9803-40a6-8e2d-6c195051be5c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/64b70ab9-cfe4-4968-928a-dd6b50fddeb1
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/971e2f7e-7e14-4f58-aa4a-63016fb8ff17
+          2:
+            url_poster: https://api.mediux.pro/assets/6bd48c1d-71d8-43ac-af7f-17d18ac0f42f
+          3:
+            url_poster: https://api.mediux.pro/assets/9cb36c5a-aa87-4b37-9eeb-f1a73e9ba8f6
+          4:
+            url_poster: https://api.mediux.pro/assets/28128db6-3dfc-478a-9e57-da888a523016
+          5:
+            url_poster: https://api.mediux.pro/assets/522dad35-fa49-455f-8bed-839c77669053
+          6:
+            url_poster: https://api.mediux.pro/assets/93eb1b6f-8d3f-4124-b38b-c11b34c1d5bc
+          7:
+            url_poster: https://api.mediux.pro/assets/4911344b-0123-475b-b13c-5da56ee0e090
