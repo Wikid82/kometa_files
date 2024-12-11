@@ -1,0 +1,150 @@
+metadata:
+  Orphan Black:
+    mapping_id:   260315 # TVDB id for Orphan Black. Set by fwlolx on MediUX. https://mediux.pro/sets/20847
+    url_poster: https://api.mediux.pro/assets/8ea36486-4939-4fe4-9230-1f5738a4d783
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/d5fac008-3174-4fda-8d2b-9d6eea465096
+      1:
+        url_poster: https://api.mediux.pro/assets/cf0c94d3-1f16-45a1-be04-b02b183b88ae
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/b25c5be4-21ca-4e3a-80d1-4f96fb33b0aa
+          2:
+            url_poster: https://api.mediux.pro/assets/57123b8b-4d24-4c75-b814-41724c696ff1
+          3:
+            url_poster: https://api.mediux.pro/assets/93130c4d-dfe2-4d52-bbbe-35fa0409b78f
+          4:
+            url_poster: https://api.mediux.pro/assets/4b4231c6-cbb7-45fd-8153-4ea2baee5024
+          5:
+            url_poster: https://api.mediux.pro/assets/5ba25b54-9154-4782-8b08-ef7ba9176a02
+          6:
+            url_poster: https://api.mediux.pro/assets/4ac05da2-ea0a-4001-bca5-c2ad74977c6c
+          7:
+            url_poster: https://api.mediux.pro/assets/c80f206e-4654-4cf5-ab28-7026f5472030
+          8:
+            url_poster: https://api.mediux.pro/assets/02ccb82b-8eb9-49b6-bbdf-32b3ce9b4e0f
+          9:
+            url_poster: https://api.mediux.pro/assets/d07ea8c9-d672-4063-b9b6-52bd1bd54776
+          10:
+            url_poster: https://api.mediux.pro/assets/1e2985ee-8cee-4622-9d73-a0d27a81c95e
+      2:
+        url_poster: https://api.mediux.pro/assets/0dc588ea-1015-41e4-a4b9-b2b5f0ceea7f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/6c680f6a-55e7-466a-953e-c77bee5cd201
+          2:
+            url_poster: https://api.mediux.pro/assets/5ccc447e-0665-4628-a3c5-9ed01eda7c7e
+          3:
+            url_poster: https://api.mediux.pro/assets/e7231b8a-3bf5-403d-b224-670f2be37395
+          4:
+            url_poster: https://api.mediux.pro/assets/c1a9266f-a47f-419a-9f1f-761a639bc85e
+          5:
+            url_poster: https://api.mediux.pro/assets/38d2808e-41f8-421b-aed8-f9af31c76d9f
+          6:
+            url_poster: https://api.mediux.pro/assets/5884c2cd-4c30-4909-8173-75bf0a0a0a45
+          7:
+            url_poster: https://api.mediux.pro/assets/a77f9c2e-2074-4789-914e-ce08972856c6
+          8:
+            url_poster: https://api.mediux.pro/assets/01ad3d1c-2881-4c05-b996-0d70b79421af
+          9:
+            url_poster: https://api.mediux.pro/assets/505973da-4038-4347-883c-cc08587c49eb
+          10:
+      3: 
+        url_poster: https://api.mediux.pro/assets/93b0e7d9-f67d-45b5-b4fc-efb449d3e6a1
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/7f5ac871-4754-4b79-86d7-a6552fcbcceb
+          2:
+            url_poster: https://api.mediux.pro/assets/fce7a7fd-9508-497b-85aa-b50d6ef8d2bf
+          3:
+            url_poster: https://api.mediux.pro/assets/689e2e75-bf47-4966-be89-293e94a15c93
+          4:
+            url_poster: https://api.mediux.pro/assets/bf8a9f30-016d-4c7e-8eb3-01994a9164c3
+          5:
+            url_poster: https://api.mediux.pro/assets/4d4091df-8b98-4308-ae41-b91734bc18de
+          6:
+            url_poster: https://api.mediux.pro/assets/2f7d3467-3abd-437e-8d58-cc6e50949d0a
+          7:
+            url_poster: https://api.mediux.pro/assets/e6844f2d-3db4-4c86-b80a-3b79e02ee92a
+          8:
+            url_poster: https://api.mediux.pro/assets/357bd92c-2e64-4c91-86e9-f888a20cfd2b
+          9:
+            url_poster: https://api.mediux.pro/assets/6862ae90-fd64-4548-9349-56b1c8fe3272
+          10:
+            url_poster: https://api.mediux.pro/assets/b924327f-b3d6-4c79-95fa-86890c30298f
+      4:
+        url_poster: https://api.mediux.pro/assets/fad18a7c-8e89-4a55-996c-41703ab67778
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/309beeee-5397-459e-82c6-805bf4676992
+          2:
+            url_poster: https://api.mediux.pro/assets/294665d8-da2b-4aa7-a65f-f2374ab05214
+          3:
+            url_poster: https://api.mediux.pro/assets/5baa540c-89c7-4c79-83d8-7e185558a7bc
+          4:
+            url_poster: https://api.mediux.pro/assets/c28555fe-6c91-413e-b361-c0c66da3701e
+          5:
+            url_poster: https://api.mediux.pro/assets/42b94ac4-b7a8-4f78-a001-cab12e31a817
+          6:
+            url_poster: https://api.mediux.pro/assets/11efe79e-49d2-4da5-a8c6-79d2ab7e9448
+          7:
+            url_poster: https://api.mediux.pro/assets/7eea1816-7b94-46ee-826a-a8a43aa2a129
+          8:
+            url_poster: https://api.mediux.pro/assets/e926d858-821b-478c-ae39-b1573c177af7
+          9:
+            url_poster: https://api.mediux.pro/assets/cf7ea6f4-3254-440c-9741-d3a6a5646fd2
+          10:
+            url_poster: https://api.mediux.pro/assets/47027a13-3070-4b24-bee0-0088dc87bc3e
+      5:
+        url_poster: https://api.mediux.pro/assets/6c2c0f57-7f62-4292-ac4c-ce00019bb65e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/b5c973b3-d5ad-414e-a44f-9feb8d58d034
+          2:
+            url_poster: https://api.mediux.pro/assets/9d90c4c2-3be0-4e13-88de-bbf9937f17d5
+          3:
+            url_poster: https://api.mediux.pro/assets/913dfb5a-63fc-42a5-b3b8-7ce84ff07a97
+          4:
+            url_poster: https://api.mediux.pro/assets/bae9068a-0347-4e56-af1f-ac82f91ccec9
+          5:
+            url_poster: https://api.mediux.pro/assets/9c1d788b-5e43-434a-914d-4f36757985be
+          6:
+            url_poster: https://api.mediux.pro/assets/a86be2c4-e6b1-4d3b-8c6a-c47c84b204a2
+          7:
+            url_poster: https://api.mediux.pro/assets/0340f1e1-52eb-4053-b857-585b3bc4dd13
+          8:
+            url_poster: https://api.mediux.pro/assets/f98c3fad-c651-42ce-a029-d5aba844e9fd
+          9:
+            url_poster: https://api.mediux.pro/assets/7a86797a-684f-468d-af65-29f94b3eadb6
+          10:
+            url_poster: https://api.mediux.pro/assets/acb51d89-391a-491e-894f-397c679b8a25
+
+  Orphan Black Echoes:
+    mapping_id:   418712 # TVDB id for Orphan Black: Echoes. Set by fwlolx on MediUX. https://mediux.pro/sets/20848
+    url_poster: https://api.mediux.pro/assets/fc909b7b-150c-4b62-b874-31e889348dab
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/45753303-71ab-4282-804e-95399d7768bf
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/594e1f88-0934-463e-8e40-cd50783a0789
+          2:
+            url_poster: https://api.mediux.pro/assets/97a81794-c91e-48b0-8f78-af30ccf1f441
+          3:
+            url_poster: https://api.mediux.pro/assets/31a7e6a2-b995-40ce-b2ef-57543c94ee8f
+          4:
+            url_poster: https://api.mediux.pro/assets/96a33713-0f61-440a-9529-e8d85cf0ee82
+          5:
+            url_poster: https://api.mediux.pro/assets/3e4df884-1da2-409e-974a-d790777eb8ce
+          6:
+            url_poster: https://api.mediux.pro/assets/ff9845f3-30bd-402d-af03-dc0910a8fe34
+          7:
+            url_poster: https://api.mediux.pro/assets/72ee33b7-ca84-4864-89ac-49d242562f5b
+          8:
+            url_poster: https://api.mediux.pro/assets/dbb76433-2d87-4da8-a558-9667755483e3
+          9:
+            url_poster: https://api.mediux.pro/assets/86b7526c-4d11-4cd3-a209-08f9b455e666
+          10:
+            url_poster: https://api.mediux.pro/assets/25cb611a-cb73-4789-b3d9-673e246049a4
+
