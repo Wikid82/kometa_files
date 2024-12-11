@@ -1,0 +1,27 @@
+metadata:
+  The Day of the Jackal:
+    mapping_id: 426866 # TVDB id for The Day of the Jackal. Set by willtong93 on MediUX. https://mediux.pro/sets/28068
+    url_poster: https://api.mediux.pro/assets/fc25c377-1ecb-4666-a73d-8a7762a9f077
+    url_background: https://api.mediux.pro/assets/48039c84-1bb7-4fbd-a61e-30aaf0e5d98b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/30b6c4a7-91c7-466d-8f82-596e876cd976
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/95d0a7cd-4acc-4e17-8b09-eb1fca1c66e3
+          2:
+            url_poster: https://api.mediux.pro/assets/6bb3e184-3b0c-41ba-9b76-864ad9f1f0ba
+          3:
+            url_poster: https://api.mediux.pro/assets/166272de-58ca-45c8-a691-c3b751e9cb8b
+          4:
+            url_poster: https://api.mediux.pro/assets/0047766e-9029-4afd-bf6a-44a3ea7e21f1
+          5:
+            url_poster: https://api.mediux.pro/assets/0f99f016-1099-4840-a6a0-8ad90c477df7
+          6:
+            url_poster: https://api.mediux.pro/assets/b927b220-2aff-44e8-bc7b-587b78c63dd4
+          7:
+            url_poster: https://api.mediux.pro/assets/2ecb490e-7093-4a89-92a4-23e754fde69c
+          8:
+            url_poster: https://api.mediux.pro/assets/f8d5e405-6e62-4124-8330-d9193a11e365
+          9:
+            url_poster: https://api.mediux.pro/assets/939db6dc-48c2-4740-b8ed-935982df5c16
