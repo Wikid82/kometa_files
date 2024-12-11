@@ -1,0 +1,29 @@
+metadata:
+  Those ABout To Die:
+    mapping_id:   422772 # TVDB id for Those About to Die. Set by willtong93 on MediUX. https://mediux.pro/sets/22738
+    url_poster: https://api.mediux.pro/assets/27278121-e52a-4548-8b6e-f0d4b286c19c
+    url_background: https://api.mediux.pro/assets/7d884b3b-3d70-41fd-b900-15acd4287c60
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b3c588b2-497f-401e-a22a-c3885bfca0d4
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/4b95aff9-1329-44fa-9e36-5c555e5aef4e
+          2:
+            url_poster: https://api.mediux.pro/assets/8cc742eb-127e-49fc-b422-f1ef51439297
+          3:
+            url_poster: https://api.mediux.pro/assets/4db26c50-8682-42f6-ac29-bae922678a19
+          4:
+            url_poster: https://api.mediux.pro/assets/41aea522-6914-4c90-b445-fd6b8561a15e
+          5:
+            url_poster: https://api.mediux.pro/assets/c072e343-da2b-44a8-91ee-3bca01b3132e
+          6:
+            url_poster: https://api.mediux.pro/assets/1f754f27-a315-474e-a9d4-586ec6d85354
+          7:
+            url_poster: https://api.mediux.pro/assets/05fe115c-3f6b-4f7c-82f2-9438e0cbe94d
+          8:
+            url_poster: https://api.mediux.pro/assets/2096ada2-2012-46c3-adc6-32497be26876
+          9:
+            url_poster: https://api.mediux.pro/assets/44ca29f3-104d-41a4-abe3-227a2242a692
+          10:
+            url_poster: https://api.mediux.pro/assets/50d25650-00f9-45b6-935d-0c68cb5e5332
