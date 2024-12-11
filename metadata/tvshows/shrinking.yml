@@ -1,0 +1,50 @@
+metadata:
+  Shrinking:
+    mapping_id:   411364 # TVDB id for Shrinking. Set by willtong93 on MediUX. https://mediux.pro/sets/28878
+    url_poster: https://api.mediux.pro/assets/10a1e877-338d-44f7-83bf-35697a575e7a
+    url_background: https://api.mediux.pro/assets/babb5862-fb1a-477b-934f-abd68666c181
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6e4037eb-4951-46b2-aa8e-56f2fc6b4e41
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/18555ac4-eb1c-4b5d-82f1-6dc8af84957f
+          2:
+            url_poster: https://api.mediux.pro/assets/dd0bb765-c628-4190-ab84-9e2c17129db1
+          3:
+            url_poster: https://api.mediux.pro/assets/8ca0c3f4-1c0f-4304-b7b1-ed29618b50ac
+          4:
+            url_poster: https://api.mediux.pro/assets/b50b4866-771b-4332-994c-9e55150c78f1
+          5:
+            url_poster: https://api.mediux.pro/assets/1a83615f-8971-49cb-b925-0e08d8b08bf5
+          6:
+            url_poster: https://api.mediux.pro/assets/22f65217-3414-496f-a320-5b761b346a00
+          7:
+            url_poster: https://api.mediux.pro/assets/d712c823-5ee8-408f-ab18-0d7b68bf0e64
+          8:
+            url_poster: https://api.mediux.pro/assets/4be49066-3dbf-4530-8c18-d5b142127eca
+          9:
+            url_poster: https://api.mediux.pro/assets/26f313ad-d29f-4ad1-993a-f91597b6f9b1
+          10:
+            url_poster: https://api.mediux.pro/assets/3eb7fdef-1684-4433-80eb-521cb72ac2f5
+      2:
+        url_poster: https://api.mediux.pro/assets/eb56ddf1-02cb-49a3-899e-35ac07c9eb59
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/1559fcc7-3a0c-4baa-95cb-c9a963d9acab
+          2:
+            url_poster: https://api.mediux.pro/assets/89115d38-b15b-4cda-ae63-63a9d9df3477
+          3:
+            url_poster: https://api.mediux.pro/assets/35a28976-edd6-43cc-adae-a1f27a147e77
+          4:
+            url_poster: https://api.mediux.pro/assets/b4c7f89c-d8ea-4ad1-a26f-ebc89fa3e47e
+          5:
+            url_poster: https://api.mediux.pro/assets/f20b9fd5-d844-480e-bae6-db5b34bbc546
+          6:
+            url_poster: https://api.mediux.pro/assets/1ccca660-f315-420e-aa7a-4295442dc800
+          7:
+            url_poster: https://api.mediux.pro/assets/87f12b0f-1bce-40ec-a181-dd0f6da517a0
+          8:
+            url_poster: https://api.mediux.pro/assets/3d94a333-3d65-4eaf-aab4-39880037096d
+          9:
+            url_poster: https://api.mediux.pro/assets/61354771-f7e1-4a4d-be40-59478f412102
