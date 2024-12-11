@@ -1,7 +1,25 @@
 metadata:
   The Penguin:
-    mapping_id: 417648
-    url_poster: https://api.mediux.pro/assets/db074cdd-8e48-43d8-b9cb-67ef71e69ad5
+    mapping_id:   417648 # TVDB id for The Penguin. Set by willtong93 on MediUX. https://mediux.pro/sets/22638
+    url_poster: https://api.mediux.pro/assets/1f5ee693-ec19-4b98-aaf1-befdaf2316c8
+    url_background: https://api.mediux.pro/assets/dec783be-7df5-4003-af8b-d671258b74de
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/ab994a3a-7760-4751-82ab-674eb53e5e89
+        url_poster: https://api.mediux.pro/assets/dd8d3e4e-f575-4eb8-b395-8e88abace902
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/baabd164-0de9-40dd-b34a-adcb9188e7ac
+          2:
+            url_poster: https://api.mediux.pro/assets/6d69837c-d598-497c-bf67-8e41fb497494
+          3:
+            url_poster: https://api.mediux.pro/assets/efb4e364-7861-4d38-a71c-fc6d7d1a436b
+          4:
+            url_poster: https://api.mediux.pro/assets/ba9572d9-9307-415b-836c-71839457e6d8
+          5:
+            url_poster: https://api.mediux.pro/assets/d1c11b55-b91b-4b30-a2b1-5554e65b2d96
+          6:
+            url_poster: https://api.mediux.pro/assets/b606b444-a8a4-423e-9a67-97b679448d2d
+          7:
+            url_poster: https://api.mediux.pro/assets/81789fbe-898a-441a-92d3-d2cf3c877e54
+          8:
+            url_poster: https://api.mediux.pro/assets/85a72db4-57e3-4536-ab61-b2d7406e16e4
