@@ -1,0 +1,29 @@
+metadata:
+  Time Bandits:
+    mapping_id:   425453 # TVDB id for Time Bandits. Set by willtong93 on MediUX. https://mediux.pro/sets/23241
+    url_poster: https://api.mediux.pro/assets/5959036f-2cbc-4e8b-966f-9a8f4efaec8f
+    url_background: https://api.mediux.pro/assets/1c8b310e-f154-44cf-af60-a16768782763
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/c432b51e-853b-430a-bbad-cdc1e3d291e3
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/2854fb3a-e9d4-455d-ae93-ffdefd348ba2
+          2:
+            url_poster: https://api.mediux.pro/assets/8d6fc8a3-7ccc-46cb-a556-5c23eae97e2e
+          3:
+            url_poster: https://api.mediux.pro/assets/e06c94bc-f073-415d-bfe4-62ca6c205b22
+          4:
+            url_poster: https://api.mediux.pro/assets/4c5bcf52-1284-405d-a5fc-c4b4cbe1c0c1
+          5:
+            url_poster: https://api.mediux.pro/assets/7ca8c7c7-d892-48ae-9326-a63905da27df
+          6:
+            url_poster: https://api.mediux.pro/assets/637ebd3b-da0e-4ad1-b21b-09e901a07259
+          7:
+            url_poster: https://api.mediux.pro/assets/d783cdf9-61d9-4b46-be37-e0aed60d2c62
+          8:
+            url_poster: https://api.mediux.pro/assets/67bffecc-cb6d-4b0b-afb7-c1776d2463dd
+          9:
+            url_poster: https://api.mediux.pro/assets/0a42bc6f-bc0d-4b98-8057-15ce79f826eb
+          10:
+            url_poster: https://api.mediux.pro/assets/782eac96-8299-4fb2-8f27-a4e832db8e6d
