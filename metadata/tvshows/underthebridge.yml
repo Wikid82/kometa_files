@@ -1,0 +1,24 @@
+metadata:
+  Under The Bridge:
+    mapping_id:   425386 # TVDB id for Under the Bridge. Set by Pejamas on MediUX. https://mediux.pro/sets/17553
+    url_poster: https://api.mediux.pro/assets/0808b47c-ea46-4b09-b183-c7238160d4d5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/87e0ec0e-0fb2-4928-bbe4-d2547ae6a03d
+        episodes: # Set by Kwickflix on MediUX. https://mediux.pro/sets/20583
+          1:
+            url_poster: https://api.mediux.pro/assets/913cc565-1732-4005-958a-8d1767e9666f
+          2:
+            url_poster: https://api.mediux.pro/assets/242b2fde-d793-403a-9125-58a82e6a78c6
+          3:
+            url_poster: https://api.mediux.pro/assets/321b44bb-5e89-440a-b8f5-4a6ac5dadd8d
+          4:
+            url_poster: https://api.mediux.pro/assets/c2c53f9d-b978-4762-9967-3bf3b4a97108
+          5:
+            url_poster: https://api.mediux.pro/assets/efa3ee64-710c-4c24-9ea5-d7e518fb1d25
+          6:
+            url_poster: https://api.mediux.pro/assets/d165ae6a-64e2-418a-890b-3b1f9fb4f65b
+          7:
+            url_poster: https://api.mediux.pro/assets/7cb6cc5f-1f1e-47ba-947c-952cb281fc65
+          8:
+            url_poster: https://api.mediux.pro/assets/097f7cef-f090-4629-a1dc-8c4248a68d16
