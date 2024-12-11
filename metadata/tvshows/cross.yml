@@ -1,0 +1,25 @@
+metadata:
+  Cross:
+    mapping_id:   426501 # TVDB id for Cross. Set by willtong93 on MediUX. https://mediux.pro/sets/28198
+    url_poster: https://api.mediux.pro/assets/34e9cefe-b8e0-40e0-a97d-40cb8b968521
+    url_background: https://api.mediux.pro/assets/86ebdf05-fc0c-4f85-80b1-c7550cdff914
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/229bbf18-cdde-4689-b55d-b6694a4d3d26
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/45df03c6-5852-4cd3-8e97-7642a00d5660
+          2:
+            url_poster: https://api.mediux.pro/assets/152ad21b-e240-4638-a48f-b9472a1a39d6
+          3:
+            url_poster: https://api.mediux.pro/assets/d3398b3e-ab41-42d4-85c4-ecf7c5d9c870
+          4:
+            url_poster: https://api.mediux.pro/assets/503a9dc5-1109-4b7d-b3c4-3be25608f1d4
+          5:
+            url_poster: https://api.mediux.pro/assets/f5759d16-177a-4196-a373-efa7b9a71f1d
+          6:
+            url_poster: https://api.mediux.pro/assets/44df4dc9-5ecc-45db-96a9-47c4da2f5496
+          7:
+            url_poster: https://api.mediux.pro/assets/f7077310-4f48-4568-abdd-0cb1ff0e01ae
+          8:
+            url_poster: https://api.mediux.pro/assets/9de53eb1-664e-48ce-bfca-b8e28034f40d
