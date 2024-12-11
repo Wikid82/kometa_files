@@ -1,0 +1,21 @@
+metadata:
+  Parish:
+    mapping_id:   417605 # TVDB id for Parish. Set by willtong93 on MediUX. https://mediux.pro/sets/17290
+    url_poster: https://api.mediux.pro/assets/8f4b2b0d-1d74-4d5f-82d0-d38c8a723499
+    url_background: https://api.mediux.pro/assets/a42099de-5316-49cd-b4ac-b7320f8c5480
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e90fcd64-b6e3-48d0-b169-9410264bf051
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/dcc3c9ea-d4fe-4ea5-9f63-f8c7cffaaa65
+          2:
+            url_poster: https://api.mediux.pro/assets/0ee79337-4cd0-4264-87a1-2af87aa9e440
+          3:
+            url_poster: https://api.mediux.pro/assets/218c4de8-f307-4deb-9256-4058089f7f3e
+          4:
+            url_poster: https://api.mediux.pro/assets/11cc9676-974e-457b-8ca0-3860d96135de
+          5:
+            url_poster: https://api.mediux.pro/assets/88890f27-e219-4355-8996-7c20e002f340
+          6:
+            url_poster: https://api.mediux.pro/assets/35e8a9ca-1869-4590-b345-19317d3f3ac8
