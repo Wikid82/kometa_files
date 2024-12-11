@@ -1,0 +1,117 @@
+metadata:
+  The Boys:
+    mapping_id:  355567 # TVDB id for The Boys. Set by willtong93 on MediUX. https://mediux.pro/sets/5023
+    url_poster: https://api.mediux.pro/assets/feee76cc-af5d-4c44-ab5b-a2a1c491049c
+    url_background: https://api.mediux.pro/assets/a1f5ef06-65e8-44ed-85b9-de0e35d1a9d9
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/9ba90c0b-c130-4adc-89f6-ef67775b71fd
+      1:
+        url_poster: https://api.mediux.pro/assets/d15abb9f-6ae3-4089-b3ab-f94ccd125b34
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8994f4e8-94d7-4145-8ea6-800cbddccdc4
+          2:
+            url_poster: https://api.mediux.pro/assets/0d78b3f4-fffd-4e42-87ea-9843efe9073a
+          3:
+            url_poster: https://api.mediux.pro/assets/2124daf4-a149-4f40-8b18-96137eda53e9
+          4:
+            url_poster: https://api.mediux.pro/assets/ac37073f-e5a3-40f3-bd53-0f0956df710e
+          5:
+            url_poster: https://api.mediux.pro/assets/820241a8-0565-49c3-8e8c-05e1ad02d7c0
+          6:
+            url_poster: https://api.mediux.pro/assets/0404b540-acc5-4392-bec0-c2bd23c5c21d
+          7:
+            url_poster: https://api.mediux.pro/assets/533e16d7-3bda-46f4-9d1f-f065a627c0c6
+          8:
+            url_poster: https://api.mediux.pro/assets/a60b6804-d435-4319-939d-29a9df7d22a4
+      2:
+        url_poster: https://api.mediux.pro/assets/9661aa72-75a5-427c-b5a9-56578389a5fb
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/562a90d4-ca5f-445c-b4ad-739683adb36a
+          2:
+            url_poster: https://api.mediux.pro/assets/f9ca42e7-71a4-41d6-9361-127307b1839d
+          3:
+            url_poster: https://api.mediux.pro/assets/39e0aeaf-b073-44ba-8b53-ae168fb3e867
+          4:
+            url_poster: https://api.mediux.pro/assets/518b866a-e9f5-4187-a01d-6a5f7f65b832
+          5:
+            url_poster: https://api.mediux.pro/assets/b846acbb-e9b4-44b6-b664-a8d00dd9d91b
+          6:
+            url_poster: https://api.mediux.pro/assets/0dbd15c8-375f-416e-a0c6-4f493ca697a4
+          7:
+            url_poster: https://api.mediux.pro/assets/4c4194a4-3285-4c38-8ffd-730fa643eb70
+          8:
+            url_poster: https://api.mediux.pro/assets/52b73a3f-7f5a-437d-9494-d25cc0d104cf
+      3:
+        url_poster: https://api.mediux.pro/assets/3f2087dc-ef1e-4d20-abac-18ecc809bd7b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/35ee0cb8-b63d-4dd4-bcff-c89a80c581c2
+          2:
+            url_poster: https://api.mediux.pro/assets/4c01a162-a431-44a8-ac2b-b4104fee2f05
+          3:
+            url_poster: https://api.mediux.pro/assets/21adf5bf-21c8-43b7-a24a-077d4b2c5168
+          4:
+            url_poster: https://api.mediux.pro/assets/e101d8ae-a8a0-4ad4-9c97-7f7651dd4910
+          5:
+            url_poster: https://api.mediux.pro/assets/e0a84653-b39f-42e7-a250-4e0670c86a42
+          6:
+            url_poster: https://api.mediux.pro/assets/1a7cc673-100a-46ed-9586-836c7e7a800f
+          7:
+            url_poster: https://api.mediux.pro/assets/757603b3-36f7-4e49-ba9c-05257426af16
+          8:
+            url_poster: https://api.mediux.pro/assets/14685d7d-f5ea-41dc-b387-4c52622142dd
+      4:
+        url_poster: https://api.mediux.pro/assets/b71dd5d3-9fea-45c0-b08c-9997253908f5
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/467b81e0-fd8e-45a3-9190-14b6de613d25
+          2:
+            url_poster: https://api.mediux.pro/assets/f2863b48-0c49-46b0-8c1c-046265744b6c
+          3:
+            url_poster: https://api.mediux.pro/assets/40996a50-3f64-49f5-88f7-9db5a3b41f11
+          4:
+            url_poster: https://api.mediux.pro/assets/defea3a6-5da0-4792-a16f-d4446d6b7534
+          5:
+            url_poster: https://api.mediux.pro/assets/f50f056e-a5d5-4a96-93a3-223364d2c059
+          6:
+            url_poster: https://api.mediux.pro/assets/05f8708e-0419-4067-ab84-12b6911069cc
+          7:
+            url_poster: https://api.mediux.pro/assets/e46eebd2-0f48-4332-b4d5-bff590f0745e
+          8:
+            url_poster: https://api.mediux.pro/assets/091ab58d-f503-4cf8-a95f-e0426f58a8f6
+
+
+  Gen V:
+    mapping_id:  417909 # TVDB id for Gen V. Set by willtong93 on MediUX. https://mediux.pro/sets/5496
+    url_poster: https://api.mediux.pro/assets/4d334f7a-e9d7-4921-bd6d-868a4e792465
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/90eb907a-ddfd-482b-b6ce-fe46824ab24e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/f052eff6-f979-4c9d-a77d-547c32dbbc8a
+          2:
+            url_poster: https://api.mediux.pro/assets/a40f53d3-4a2d-471f-b35d-37aaa1a483ec
+          3:
+            url_poster: https://api.mediux.pro/assets/e5908f48-0a5d-4f27-b4e5-54d2604aaf8f
+          4:
+            url_poster: https://api.mediux.pro/assets/571e8f6d-915a-4271-b0f3-8821343d55e1
+          5:
+            url_poster: https://api.mediux.pro/assets/ea8a562b-03a7-40ba-9996-5f8c26d82375
+          6:
+            url_poster: https://api.mediux.pro/assets/52b1db80-473b-44e2-9878-de5a56e185f6
+          7:
+            url_poster: https://api.mediux.pro/assets/02513265-b4cc-450d-8785-eea541e40da7
+          8:
+            url_poster: https://api.mediux.pro/assets/46c4002b-b977-4c99-bbd7-a7b28a26bf64
+
+  Diabolical:
+    mapping_id:   413188 # TVDB id for The Boys Presents: Diabolical. Set by willtong93 on MediUX. https://mediux.pro/sets/23363
+    url_poster: https://api.mediux.pro/assets/6d4ff1b6-a5b4-4f60-8999-017af6981865
+    url_background: https://api.mediux.pro/assets/05544b65-e462-4d0c-90ae-621683f55dcf
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9d7dafb7-fe93-498e-a3b4-3f88c6e8647a
