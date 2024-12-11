@@ -1,0 +1,78 @@
+metadata:
+  True Detective:
+    mapping_id:   270633 # TVDB id for True Detective. Set by willtong93 on MediUX. https://mediux.pro/sets/6305
+    url_poster: https://api.mediux.pro/assets/59228dd4-1b65-4391-93cf-735674be8dd5
+    url_background: https://api.mediux.pro/assets/a5a1e4ea-d8fa-4426-ab82-2903928242bf
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/67503838-9666-42b4-bafe-04e44dd83378
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/be69342b-59b5-4dda-b2ec-b9038cfda747
+          2:
+            url_poster: https://api.mediux.pro/assets/75e78fc3-d168-4c1a-b959-970af24a2cae
+          3:
+            url_poster: https://api.mediux.pro/assets/97f2d612-9d89-474e-9ce9-808484f722bc
+          4:
+            url_poster: https://api.mediux.pro/assets/ca9ce283-561e-40f2-b0a7-6f9e3f1cdbe1
+          5:
+            url_poster: https://api.mediux.pro/assets/1fa9277e-f8ea-4820-bf2a-5a79eaabae41
+          6:
+            url_poster: https://api.mediux.pro/assets/edc1689d-f3c6-41f5-8dfe-76b458e70b73
+          7:
+            url_poster: https://api.mediux.pro/assets/14704878-edc3-4f6a-8d06-bb05b416516f
+          8:
+            url_poster: https://api.mediux.pro/assets/73fe18ab-afc9-4950-9d8d-350422dd5c23
+      2:
+        url_poster: https://api.mediux.pro/assets/11e5c5b0-9310-4536-bded-8f4ce5bb6d72
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/880a4329-26e6-41d8-9199-3c9748e5c545
+          2:
+            url_poster: https://api.mediux.pro/assets/8774ad9c-673c-4389-b954-42d8de2d1e68
+          3:
+            url_poster: https://api.mediux.pro/assets/170155e3-efb5-4a90-82b3-dc5ad395c56c
+          4:
+            url_poster: https://api.mediux.pro/assets/9bac6373-c277-4f4a-ad63-7327ab9c8423
+          5:
+            url_poster: https://api.mediux.pro/assets/f63ffef0-f2da-4ef5-9922-9bb623029bc2
+          6:
+            url_poster: https://api.mediux.pro/assets/5aa48e2f-5f71-4bed-b10a-dd859b6021f0
+          7:
+            url_poster: https://api.mediux.pro/assets/34eabe43-a34a-40db-bfd0-8fdc135d43dd
+          8:
+            url_poster: https://api.mediux.pro/assets/1bb29ad9-a3ea-43a2-9d2b-47ea40af2e37
+      3:
+        url_poster: https://api.mediux.pro/assets/9dd56066-4ffc-4310-a6d5-30f0e6a4bd2d
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/34162467-842d-4078-86d3-6f56d6ea6a66
+          2:
+            url_poster: https://api.mediux.pro/assets/71ef63ee-3fbb-4390-8407-4b897635c14d
+          3:
+            url_poster: https://api.mediux.pro/assets/23b310c7-4235-4a4d-a00f-a8e2ba7e254b
+          4:
+            url_poster: https://api.mediux.pro/assets/cccf9529-fd9a-4197-8d6e-224a30c25a34
+          5:
+            url_poster: https://api.mediux.pro/assets/e6aed7fc-6385-4880-a73a-2dcd8ddbfa7a
+          6:
+            url_poster: https://api.mediux.pro/assets/5233b3b6-5084-495a-a6be-5adb61a163c3
+          7:
+            url_poster: https://api.mediux.pro/assets/cfeed51e-8070-4290-b19e-440492fe6550
+          8:
+            url_poster: https://api.mediux.pro/assets/349cdfec-ae6e-4c32-ada5-bca1789163c6
+      4:
+        url_poster: https://api.mediux.pro/assets/08d0a5a7-b187-4d7d-a56b-0874642b053f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/7cffcfe6-56dd-4adb-81fb-f3f8a2bef83e
+          2:
+            url_poster: https://api.mediux.pro/assets/1e7bff92-6873-4170-9c01-b53205fc689d
+          3:
+            url_poster: https://api.mediux.pro/assets/18c065bd-22a1-45de-9eef-a2831a9c1079
+          4:
+            url_poster: https://api.mediux.pro/assets/9d8088d9-dbaf-43af-8837-07d51cda7a38
+          5:
+            url_poster: https://api.mediux.pro/assets/42527454-0650-476b-a0ec-3e3462c46813
+          6:
+            url_poster: https://api.mediux.pro/assets/735e95a6-15ab-479b-888b-9f81b0910b73
