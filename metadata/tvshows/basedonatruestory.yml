@@ -1,0 +1,44 @@
+metadata:
+  Based On A True Story:
+    mapping_id:   418934 # TVDB id for Based on a True Story. Set by willtong93 on MediUX. https://mediux.pro/sets/26789
+    url_poster: https://api.mediux.pro/assets/a3036f43-08fb-49bd-bd87-9ac2787c9e3e
+    url_background: https://api.mediux.pro/assets/2f69d6ff-a875-47d6-849f-e87f9f5a748a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ec6cb7f7-353d-4a65-bc0a-58ba1303487b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c224a742-b712-4198-b6ce-73de9a12f959
+          2:
+            url_poster: https://api.mediux.pro/assets/62a0acda-4077-4fa5-a3ed-1110dfd74837
+          3:
+            url_poster: https://api.mediux.pro/assets/65d926f1-5028-47ff-adf0-50550150ee72
+          4:
+            url_poster: https://api.mediux.pro/assets/ed500b77-f99d-4f17-9594-fa7b305dda52
+          5:
+            url_poster: https://api.mediux.pro/assets/37936429-55e6-4088-a29d-8f2b6c986104
+          6:
+            url_poster: https://api.mediux.pro/assets/d272290a-a034-4ae8-8315-144edf7373ce
+          7:
+            url_poster: https://api.mediux.pro/assets/b9adcf14-d3de-4ab8-a4c5-0036e167bdff
+          8:
+            url_poster: https://api.mediux.pro/assets/90dc7c34-58b6-4c16-a49b-18ba6f3896db
+      2:
+        url_poster: https://api.mediux.pro/assets/f5a55bf9-07bd-4ac2-886d-4727772aa2e5
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/e8c02fd6-8868-497e-8b51-6643b0a0ab02
+          2:
+            url_poster: https://api.mediux.pro/assets/77e11e07-534c-4f51-abae-1b656c323de3
+          3:
+            url_poster: https://api.mediux.pro/assets/306b0b6d-9c0f-492d-83cc-e7e86f9cbf65
+          4:
+            url_poster: https://api.mediux.pro/assets/ab19fb3a-e91c-41f7-9557-e67860c2d3f6
+          5:
+            url_poster: https://api.mediux.pro/assets/bf3b9c8e-318b-4aca-ad05-a462b1d80b46
+          6:
+            url_poster: https://api.mediux.pro/assets/74e0ac7a-e293-4ad5-af84-b07b2ea3dea0
+          7:
+            url_poster: https://api.mediux.pro/assets/73821edf-d333-4102-b230-6bc6875fd787
+          8:
+            url_poster: https://api.mediux.pro/assets/ea1ceafd-ea3d-43c9-b966-0e29271dd025
