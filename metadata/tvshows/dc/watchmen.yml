@@ -1,7 +1,27 @@
 metadata:
   Watchmen:
-    mapping_id: 360733
-    url_poster: https://api.mediux.pro/assets/17cae389-f121-4c4d-aa62-cd35a217056a
+    mapping_id:   360733 # TVDB id for Watchmen. Set by darkwesley on MediUX. https://mediux.pro/sets/11637
+    url_poster: https://api.mediux.pro/assets/bb71699a-b6da-4496-817e-443364eb48d6
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/7478b846-7e77-4d43-a854-828162492713
+        url_poster: https://api.mediux.pro/assets/ce87ceba-bfda-4841-9207-677483b9aa32
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/0a7f9fec-2f45-454b-8720-37ee2bee20df
+          2:
+            url_poster: https://api.mediux.pro/assets/84a1323d-53ba-49e7-b6f5-3f955346d154
+          3:
+            url_poster: https://api.mediux.pro/assets/f0086613-dfb1-4964-bc1a-ba7d450d411f
+          4:
+            url_poster: https://api.mediux.pro/assets/b6eb2afd-d512-4473-a3ff-a9a4ad2363bd
+          5:
+            url_poster: https://api.mediux.pro/assets/70deb3bd-77c0-406d-8928-bf9621b1bfa6
+          6:
+            url_poster: https://api.mediux.pro/assets/c2b53534-2c10-4511-8f99-0702da38a193
+          7:
+            url_poster: https://api.mediux.pro/assets/bd4c8989-dd12-4fc7-9db2-235019e0cb6f
+          8:
+            url_poster: https://api.mediux.pro/assets/4474cc7a-438e-4c22-9267-7cdb0d4a9237
+          9:
+            url_poster: https://api.mediux.pro/assets/49a029ba-0db4-4f49-a390-3506898ba2bc
+
