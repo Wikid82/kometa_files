@@ -1,0 +1,23 @@
+metadata:
+  High Potential:
+    mapping_id:   434988 # TVDB id for High Potential. Set by tallinex on MediUX. https://mediux.pro/sets/25368
+    url_poster: https://api.mediux.pro/assets/a297f678-bb51-4a71-a57d-1a15da2ea471
+    url_background: https://api.mediux.pro/assets/cd773b76-86af-40d5-956e-95542629e605
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/eb519f2a-d4db-4d68-a54d-8674a5e9b8d4
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/41013da9-f57b-417a-9c43-4ba79ae1929b
+          2:
+            url_poster: https://api.mediux.pro/assets/eca9f2dc-9f14-45b0-9090-304c64a165ba
+          3:
+            url_poster: https://api.mediux.pro/assets/86d08031-4347-4601-a67a-5b49a15ff284
+          4:
+            url_poster: https://api.mediux.pro/assets/684a8e3f-604a-4f28-b0b9-0a6df33ccf53
+          5:
+            url_poster: https://api.mediux.pro/assets/4b923273-bc10-4edc-8f7a-468bbedc5c86
+          6:
+            url_poster: https://api.mediux.pro/assets/bb0a56f6-9511-404e-8bbf-11ea68052d01
+          7:
+            url_poster: https://api.mediux.pro/assets/0a5ab440-9925-40dc-8d80-17fbfd827b98
