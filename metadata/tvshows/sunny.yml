@@ -1,0 +1,29 @@
+metadata:
+  Ancient Aliens Origins:
+    mapping_id:   415975 # TVDB id for Sunny. Set by willtong93 on MediUX. https://mediux.pro/sets/22587
+    url_poster: https://api.mediux.pro/assets/8ca310fb-2a1a-4b28-bf42-b15b13dcabf1
+    url_background: https://api.mediux.pro/assets/5e317e0e-f4d7-49b2-8361-afa957fd79a9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a884271e-bcc9-4057-997e-de4203436737
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fd2885a7-b668-4240-8131-201e64aeab57
+          2:
+            url_poster: https://api.mediux.pro/assets/34742781-8db9-43a7-9dff-320f3ddbe517
+          3:
+            url_poster: https://api.mediux.pro/assets/2426ed4f-0b53-4580-a4b0-5e800c4dbfae
+          4:
+            url_poster: https://api.mediux.pro/assets/9a93793b-a467-40bc-8056-7d3c96f88fd7
+          5:
+            url_poster: https://api.mediux.pro/assets/ac0d2490-5047-475e-937b-2fe4f8152625
+          6:
+            url_poster: https://api.mediux.pro/assets/e7b753bb-f658-4ee9-a78b-d6282151e844
+          7:
+            url_poster: https://api.mediux.pro/assets/3b166865-8586-401b-a27d-63315d52d49d
+          8:
+            url_poster: https://api.mediux.pro/assets/e076195e-66bc-4335-afdc-0afb54387b58
+          9:
+            url_poster: https://api.mediux.pro/assets/f789e13f-473f-4116-8a07-0340a328fb35
+          10:
+            url_poster: https://api.mediux.pro/assets/e7250baa-7c90-4918-a9be-9c2d98b9cbf4
