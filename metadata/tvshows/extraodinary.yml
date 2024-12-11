@@ -1,0 +1,43 @@
+metadata:
+  Ancient Aliens Origins:
+    mapping_id:   401147 # TVDB id for Extraordinary. Set by ChamikaNLakshan on MediUX. https://mediux.pro/sets/20695
+    url_poster: https://api.mediux.pro/assets/7fa3f47d-69e7-4119-8051-6fb4819b3aab
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f5b7c7b6-93d2-4397-9e68-b259a000625a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/305e7748-df8c-4233-8afe-4fa49e2b8c0b
+          2:
+            url_poster: https://api.mediux.pro/assets/f4622e62-c11c-43da-ab45-939a761d2573
+          3:
+            url_poster: https://api.mediux.pro/assets/02c68bc2-74d8-436f-aee0-c40902cbd393
+          4:
+            url_poster: https://api.mediux.pro/assets/a7dcfa51-9d2e-4ed4-9deb-6ea2dc8f1168
+          5:
+            url_poster: https://api.mediux.pro/assets/d0235c2c-ccdf-4914-860f-cf8841bfaa3e
+          6:
+            url_poster: https://api.mediux.pro/assets/815a2f37-853c-4029-a9d5-8851861f16e5
+          7:
+            url_poster: https://api.mediux.pro/assets/4af817cb-3ed2-406c-9d53-3457562aba87
+          8:
+            url_poster: https://api.mediux.pro/assets/675f4be6-f51d-410d-b08e-55f16d3e03ac
+      2:
+        url_poster: https://api.mediux.pro/assets/9811dace-bf79-479f-be7f-326787874929
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/ec9244de-099b-4f96-8f34-86298d5ca127
+          2:
+            url_poster: https://api.mediux.pro/assets/b9a1168d-9873-478c-b757-dd35f1fb8c60
+          3:
+            url_poster: https://api.mediux.pro/assets/14f61ce1-906d-402b-9b3c-9b9d72e0086f
+          4:
+            url_poster: https://api.mediux.pro/assets/d34c1986-738e-4708-bdbd-3918d9c0c93f
+          5:
+            url_poster: https://api.mediux.pro/assets/793639b9-12ac-431e-a2cd-b563134806dd
+          6:
+            url_poster: https://api.mediux.pro/assets/f6e710a5-0d16-425b-998b-38502ee79048
+          7:
+            url_poster: https://api.mediux.pro/assets/063f4093-bcb7-40d0-978d-bbaf25b5433f
+          8:
+            url_poster: https://api.mediux.pro/assets/9a567a56-5bda-4ca1-b378-578047b6b277
