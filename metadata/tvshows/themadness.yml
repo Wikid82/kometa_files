@@ -1,9 +1,9 @@
 metadata:
   The Madness: 
-      mapping_id: 429600 # TVDB id for The Madness. Set by willtong93 on MediUX. https://mediux.pro/sets/28527
-      url_poster: https://api.mediux.pro/assets/d072c50f-326a-477f-8eb3-f1795d5f3de2
-      url_background: https://api.mediux.pro/assets/aaa3691e-a55f-4066-a708-bfca124a4612
-      seasons:
+    mapping_id: 429600 # TVDB id for The Madness. Set by willtong93 on MediUX. https://mediux.pro/sets/28527
+    url_poster: https://api.mediux.pro/assets/d072c50f-326a-477f-8eb3-f1795d5f3de2
+    url_background: https://api.mediux.pro/assets/aaa3691e-a55f-4066-a708-bfca124a4612
+    seasons:
       1:
         url_poster: https://api.mediux.pro/assets/450d7c68-1033-43d3-b6fe-6d77adb97a94
         episodes:
