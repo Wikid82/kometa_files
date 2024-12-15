@@ -1,13 +1,12 @@
 metadata:
   Bluey:
-    mapping_id: 353546
-    url_poster: https://theposterdb.com/api/assets/100615
+    mapping_id:   353546 # TVDB id for Bluey. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20739
+    url_poster: https://api.mediux.pro/assets/9b3c5a99-4169-42c9-bdc9-0f1aab55ea8d
+    url_background: https://api.mediux.pro/assets/108f40cb-bb53-4f1f-b264-6997393cbf81
     seasons:
-      00:
-        url_poster: https://theposterdb.com/api/assets/100616
-      01:
-        url_poster: https://theposterdb.com/api/assets/100617
-      02:
-        url_poster: https://theposterdb.com/api/assets/100618
-      03:
-        url_poster: https://theposterdb.com/api/assets/177630
+      1:
+        url_poster: https://api.mediux.pro/assets/3b9cb72c-fdad-4c6b-9d0f-223e56d3d48e
+      2:
+        url_poster: https://api.mediux.pro/assets/122e66a7-ecae-426e-a712-8f4241304665
+      3:
+        url_poster: https://api.mediux.pro/assets/5ffbb1e4-b79b-4c82-8a90-ceafc241b32c
