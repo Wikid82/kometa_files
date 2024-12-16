@@ -1,0 +1,27 @@
+metadata:
+  Inventing Anna:
+    mapping_id:   371944 # TVDB id for Inventing Anna. Set by Wikid82 on MediUX. https://mediux.pro/sets/29233
+    url_poster: https://api.mediux.pro/assets/2fba674f-52a1-4836-9505-225e4e8ce2d0
+    url_background: https://api.mediux.pro/assets/7072de13-6d8a-41fb-b9b4-3cd07165e9a3
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/44ea8274-6727-4e41-8561-378edf33541c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/58a8f923-7b09-4a4a-a85a-755761234c91
+          2:
+            url_poster: https://api.mediux.pro/assets/440a006f-0b83-499f-851c-82d5804068ea
+          3:
+            url_poster: https://api.mediux.pro/assets/5f681815-a37f-494e-b147-e3ed34a7c823
+          4:
+            url_poster: https://api.mediux.pro/assets/feec8398-dd87-495d-9871-1b4c1931e869
+          5:
+            url_poster: https://api.mediux.pro/assets/76172982-0f1c-416c-9f77-d277a3bb6e12
+          6:
+            url_poster: https://api.mediux.pro/assets/6a8e427d-5acc-4d32-b1ae-b8ab5a2c9377
+          7:
+            url_poster: https://api.mediux.pro/assets/6ab55eb2-6486-412f-b87d-7cf39f12c57c
+          8:
+            url_poster: https://api.mediux.pro/assets/bae622e2-ac5b-45c2-ad8b-869f1e27624f
+          9:
+            url_poster: https://api.mediux.pro/assets/da5a6587-95ee-4bbc-b687-0f11a1d53717
