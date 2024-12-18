@@ -1,9 +1,8 @@
 metadata:
   Inventing Anna:
-    mapping_id:   371944 # TVDB id for Inventing Anna. Set by Wikid82 on MediUX. https://mediux.pro/sets/29233
-    url_poster: https://api.mediux.pro/assets/2fba674f-52a1-4836-9505-225e4e8ce2d0
-    url_background: https://api.mediux.pro/assets/7072de13-6d8a-41fb-b9b4-3cd07165e9a3
+    mapping_id:  371944 # TVDB id for Inventing Anna. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28118
+    url_poster: https://api.mediux.pro/assets/d459d965-55af-4797-ba08-f5ce35d2dfd0
+    url_background: https://api.mediux.pro/assets/71a73f31-13bd-4c25-b8c0-978c7a3296c4
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/44ea8274-6727-4e41-8561-378edf33541c
-        
+        url_poster: https://api.mediux.pro/assets/6bf03725-4ced-4e2e-985f-ad387a23b2b8
