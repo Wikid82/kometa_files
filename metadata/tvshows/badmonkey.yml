@@ -1,31 +1,31 @@
 metadata:
   Bad Monkey:
-    mapping_id:  408436 # TVDB id for Bad Monkey. Set by Wikid82 on MediUX. https://mediux.pro/sets/28996
-    url_poster: https://api.mediux.pro/assets/4501f19e-7bbf-44f3-b151-119fb309debf
-    url_background: https://api.mediux.pro/assets/b3da61ea-4201-4b3b-b239-5a8e0729b218
+    mapping_id:  408436 # TVDB id for Bad Monkey. Set by cundallini on MediUX. https://mediux.pro/sets/24125
+    url_poster: https://api.mediux.pro/assets/864005cd-eadb-466b-94a7-87406ef038e9
+    url_background: https://api.mediux.pro/assets/5310561b-8b03-4265-a646-1e410179532f
     seasons:
       #0:
-      #  url_poster: https://api.mediux.pro/assets/f0c6cbb7-68b4-4e93-8dfa-c79e37d77eec
+      #  url_poster: https://api.mediux.pro/assets/d4d4d11b-4d9c-4317-b280-0a625393df24
       1:
-        url_poster: https://api.mediux.pro/assets/696e24fa-b11f-446f-9f9a-bf0d8d7c8602
-        episodes:
+        url_poster: https://api.mediux.pro/assets/e103aa35-11fb-4e63-b6a9-01eb8a4d9387
+        episodes: # Set by Kwickflix on MediUX. https://mediux.pro/sets/24172
           1:
-            url_poster: https://api.mediux.pro/assets/d7406f51-a875-4e22-8cef-152f23e61176
+            url_poster: https://api.mediux.pro/assets/88a6fc96-2140-41cd-af2e-af6919945ba7
           2:
-            url_poster: https://api.mediux.pro/assets/3e689648-4d82-4415-a2dc-739eb98af9d0
+            url_poster: https://api.mediux.pro/assets/350f754d-6b2b-44a0-822b-e8f65a539935
           3:
-            url_poster: https://api.mediux.pro/assets/652b1872-4b26-4ab5-aa3e-dd6870c21365
+            url_poster: https://api.mediux.pro/assets/96c8f670-1993-4852-9b7f-56b62454010d
           4:
-            url_poster: https://api.mediux.pro/assets/bd95d44f-a8df-491c-9baa-d4676317514f
+            url_poster: https://api.mediux.pro/assets/ec5a7178-1c84-442d-81e0-99ac7fee175e
           5:
-            url_poster: https://api.mediux.pro/assets/c2829e8f-67ac-4efe-b886-1a5c9a7e9ffd
+            url_poster: https://api.mediux.pro/assets/be03159d-b3c7-40c8-ae93-4fdea5d0ba48
           6:
-            url_poster: https://api.mediux.pro/assets/29fb68b7-09f2-4149-8b6e-748d2d54496b
+            url_poster: https://api.mediux.pro/assets/1b12a5e1-c33f-4ac5-b8f8-30c92fbd24c9
           7:
-            url_poster: https://api.mediux.pro/assets/28a01be4-5292-44c8-a2e0-db23a361fcba
+            url_poster: https://api.mediux.pro/assets/797a6d64-3bb6-4c19-9554-4418174c9e5f
           8:
-            url_poster: https://api.mediux.pro/assets/f40aaee6-98c6-4ae7-b1fe-a4cda3961869
+            url_poster: https://api.mediux.pro/assets/b9db8b80-b0de-452f-8467-087997442eb4
           9:
-            url_poster: https://api.mediux.pro/assets/061131bf-2191-4b27-bbbd-c0585169c4ea
+            url_poster: https://api.mediux.pro/assets/26abace5-0022-4a0b-8ab0-879932394fed
           10:
-            url_poster: https://api.mediux.pro/assets/e6c5ba4c-b297-48f0-8f81-a6ce57b020e5
+            url_poster: https://api.mediux.pro/assets/b8102df4-c707-45c2-afec-71dad42f73e1
