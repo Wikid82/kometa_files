@@ -1,7 +1,10 @@
 metadata:
   Morbius:
     mapping_id: 526896
-    url_poster: https://theposterdb.com/api/assets/202295
+    url_poster: https://api.mediux.pro/assets/fe79e314-2741-4432-a6dc-f4344de78b8d
   Madame Web:
     mapping_id: 634492
-    url_poster: https://theposterdb.com/api/assets/202453
+    url_poster: https://api.mediux.pro/assets/80dfceae-661c-4c2c-a448-6178675ac7b6
+  Kraven The Hunter:
+    mapping_id: 539972
+    url_poster: https://api.mediux.pro/assets/47a521da-d6e3-4685-962a-817a145d2a13

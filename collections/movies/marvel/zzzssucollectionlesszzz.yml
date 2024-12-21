@@ -1,0 +1,9 @@
+collections:
+  ZZZ SSU Collectionless ZZZ:
+    file_poster: /config/kometa_files/collections/images/collectionless.jpg
+    collection_mode: hide
+    collection_order: release
+    tmdb_movie:
+    - 526896
+    - 634492
+    - 539972
