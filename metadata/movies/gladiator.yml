@@ -1,4 +1,7 @@
 metadata:
   Gladiator:
-    mapping_id: 98
-    url_poster: https://theposterdb.com/api/assets/460856
+    mapping_id: 98 # Gladiator (2000) Poster by Pejamas on MediUX. https://mediux.pro/sets/8971
+    url_poster: https://api.mediux.pro/assets/df37fa88-456c-46c0-bf76-fb4dc5329edf
+  Gladiator II: 
+    mapping_id: 558449 # Gladiator II (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/8971
+    url_poster: https://api.mediux.pro/assets/2a597ee6-025f-4382-b27a-a8fbc666d880

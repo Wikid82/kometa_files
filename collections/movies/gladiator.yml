@@ -3,6 +3,6 @@ collections:
   Gladiator Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/official/gladiator-collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/1069584-gladiator-collection
     url_background: https://image.tmdb.org/t/p/original/eCWJHiezqeSvn0aEt1kPM6Lmlhe.jpg
-    url_poster: https://theposterdb.com/api/assets/460855
+    url_poster: https://api.mediux.pro/assets/947a9411-0f33-44d9-a7b2-18c7bbda5988
