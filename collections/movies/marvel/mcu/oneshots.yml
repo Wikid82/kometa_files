@@ -2,6 +2,6 @@ collections:
   Marvel One Shots Saga:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/11772109
+    trakt_list: https://trakt.tv/lists/30208682
     url_background: https://image.tmdb.org/t/p/original/3sffou4UaLTpQHtocLBg8Egw5Uq.jpg
     url_poster: https://theposterdb.com/api/assets/518701
