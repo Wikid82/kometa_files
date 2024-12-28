@@ -1,0 +1,29 @@
+metadata:
+  Before:
+    mapping_id:  421288 # TVDB id for Before. Set by willtong93 on MediUX. https://mediux.pro/sets/26891
+    url_poster: https://api.mediux.pro/assets/fdd35b4b-7ed9-4094-b656-b38a8cdc87ab
+    url_background: https://api.mediux.pro/assets/81b329b0-b90e-4d9c-a980-9397a2754279
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ecb5bf22-4aeb-4165-a85b-eb2f35eabaa9
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/2751f644-dfcd-4285-a442-38139fd20c08
+          2:
+            url_poster: https://api.mediux.pro/assets/90d460b0-cf37-4dc9-8ecc-225910605dfb
+          3:
+            url_poster: https://api.mediux.pro/assets/f55fba90-8b7f-4188-ade8-2777aa4cb417
+          4:
+            url_poster: https://api.mediux.pro/assets/3b883c5a-7cb4-4a62-93c6-8dce749486d3
+          5:
+            url_poster: https://api.mediux.pro/assets/4d37929e-7b3e-44dd-bf04-bf68f1bf8083
+          6:
+            url_poster: https://api.mediux.pro/assets/5882016a-1eab-4e91-b8c7-5dc700eeaba1
+          7:
+            url_poster: https://api.mediux.pro/assets/2a337e3f-3c40-432f-9ac4-b65baac1eb5e
+          8:
+            url_poster: https://api.mediux.pro/assets/16fbb682-2ee0-443e-9714-f9ebab16f346
+          9:
+            url_poster: https://api.mediux.pro/assets/1a83158d-4e9d-4f34-9165-bbb5cca3246d
+          10:
+            url_poster: https://api.mediux.pro/assets/ee8b6865-9590-4927-a425-ed131569a189
