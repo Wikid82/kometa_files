@@ -255,10 +255,18 @@ metadata:
             url_poster: https://api.mediux.pro/assets/9a0c36cf-3546-422c-92d0-1224e7f50549
 
   Dexter Original Sin:
-    mapping_id:   430780 # TVDB id for Dexter: Original Sin. Set by Pejamas on MediUX. https://mediux.pro/sets/28644
-    url_poster: https://api.mediux.pro/assets/0a72c5d6-34c8-4121-8566-a3774be54c5e
-    url_background: https://api.mediux.pro/assets/ff27b65b-2cad-409b-87c8-80a8bd282b65
+    mapping_id:     430780 # TVDB id for Dexter: Original Sin. Set by willtong93 on MediUX. https://mediux.pro/sets/29252
+    url_poster: https://api.mediux.pro/assets/bb286b06-72be-43b7-ab55-ab11f1013e06
+    url_background: https://api.mediux.pro/assets/8cc334c1-5921-49ca-a751-3f4b2fcfd18c
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/0ebef249-9959-4ba7-b656-4f3b2f213238
-
+        url_poster: https://api.mediux.pro/assets/61ad8e51-73f0-4171-8520-cb017303b058
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/ec06029f-def8-4c78-87db-a162c71c5182
+          2:
+            url_poster: https://api.mediux.pro/assets/82d0f767-c390-4cfb-9c43-d91a307b9cb7
+          3:
+            url_poster: https://api.mediux.pro/assets/98567815-0627-4fe7-a482-03cc13992d2e
+          4:
+            url_poster: https://api.mediux.pro/assets/57df0cca-fa17-4e2c-a6b8-822ed9d6123c
