@@ -1,0 +1,21 @@
+metadata:
+  NCIS Origins:
+    mapping_id:  444350 # TVDB id for NCIS: Origins. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/26885
+    url_poster: https://api.mediux.pro/assets/374cfb27-0b40-4dd9-9035-f218cfe9a3ee
+    url_background: https://api.mediux.pro/assets/27893731-31c3-4c74-90c8-d36294805c73
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/8f06c40b-2d10-4c3e-9d01-bd35fb5a7bb4
+        episodes: #Set by creshaytions on MediUX. https://mediux.pro/sets/27804
+          1:
+            url_poster: https://api.mediux.pro/assets/ef34558e-fb1d-43d5-b813-25c7f006acd2
+          2:
+            url_poster: https://api.mediux.pro/assets/a05159b4-aa35-4cc4-a622-eb26ccf298b3
+          3:
+            url_poster: https://api.mediux.pro/assets/018e7060-7f13-4ed0-aa93-b91c3c13782a
+          4:
+            url_poster: https://api.mediux.pro/assets/81b7f908-a142-43be-9780-b2a0707f66b7
+          5:
+            url_poster: https://api.mediux.pro/assets/300314d8-7734-4d54-bb41-67562ac1cfa2
+          6:
+            url_poster: https://api.mediux.pro/assets/ffc29031-7ccb-44d7-bdbb-1bf3a28a05d5
