@@ -1,6 +1,6 @@
 metadata:
   Silo:
-    mapping_id:   403245 # TVDB id for Silo. Set by willtong93 on MediUX. https://mediux.pro/sets/6427
+    mapping_id:  403245 # TVDB id for Silo. Set by willtong93 on MediUX. https://mediux.pro/sets/6427
     url_poster: https://api.mediux.pro/assets/246d7c94-8df4-49d0-b0c2-0e8cf64641c0
     url_background: https://api.mediux.pro/assets/70b21031-3bd8-4cae-839e-fc414e22b4e2
     seasons:
@@ -38,3 +38,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/66b40fb3-f1a1-4677-9d3f-edfa4c1bc070
           4:
             url_poster: https://api.mediux.pro/assets/d9532664-fb14-4dfd-ba68-747b106354d0
+          5:
+            url_poster: https://api.mediux.pro/assets/4bd28c46-f815-4f43-ade1-f5cb636e4fd7
+          6:
+            url_poster: https://api.mediux.pro/assets/bd872992-f185-4946-abc2-c4fa1c49e062
+          7:
+            url_poster: https://api.mediux.pro/assets/d7d0f74c-0948-48ee-9433-14c70886516b
