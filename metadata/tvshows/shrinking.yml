@@ -1,6 +1,6 @@
 metadata:
   Shrinking:
-    mapping_id:   411364 # TVDB id for Shrinking. Set by willtong93 on MediUX. https://mediux.pro/sets/28878
+    mapping_id:  411364 # TVDB id for Shrinking. Set by willtong93 on MediUX. https://mediux.pro/sets/28878
     url_poster: https://api.mediux.pro/assets/10a1e877-338d-44f7-83bf-35697a575e7a
     url_background: https://api.mediux.pro/assets/babb5862-fb1a-477b-934f-abd68666c181
     seasons:
@@ -48,3 +48,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/3d94a333-3d65-4eaf-aab4-39880037096d
           9:
             url_poster: https://api.mediux.pro/assets/61354771-f7e1-4a4d-be40-59478f412102
+          10:
+            url_poster: https://api.mediux.pro/assets/9cda83e3-3137-4395-b0d8-bb15b1dfe3ad
+          11:
+            url_poster: https://api.mediux.pro/assets/7681e9d2-76ef-4c33-94bd-8ace9086434b
+          12:
+            url_poster: https://api.mediux.pro/assets/a9f64f2b-53ff-43ea-b818-7e165c7ba11a
