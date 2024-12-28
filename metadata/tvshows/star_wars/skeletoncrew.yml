@@ -1,6 +1,6 @@
 metadata:
   Star Wars Skeleton Crew:
-    mapping_id:   420600 # TVDB id for Star Wars: Skeleton Crew. Set by willtong93 on MediUX. https://mediux.pro/sets/28661
+    mapping_id:  420600 # TVDB id for Star Wars: Skeleton Crew. Set by willtong93 on MediUX. https://mediux.pro/sets/28661
     url_poster: https://api.mediux.pro/assets/30f2d3f6-1139-456c-ab08-9628adfcea93
     url_background: https://api.mediux.pro/assets/74ba979b-a6ab-4633-ab39-058491db6da2
     seasons:
@@ -13,3 +13,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/3d241116-4acf-4a72-9628-23b1dff3c16f
           3:
             url_poster: https://api.mediux.pro/assets/4e79ad4e-091e-4d0f-b36a-090d288a7564
+          4:
+            url_poster: https://api.mediux.pro/assets/2c6a77bd-8ba6-4975-b3b6-cfe153b7955e
+          5:
+            url_poster: https://api.mediux.pro/assets/7c452942-f2f4-4e68-af49-ea8bbc0646a7
