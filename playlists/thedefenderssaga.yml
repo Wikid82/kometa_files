@@ -1,0 +1,7 @@
+playlists:
+  Marvel's The Defenders Saga Timeline:
+    sync_mode: sync
+    libraries: Movies, TV Shows
+    sync_to_users: all
+    trakt_list: https://trakt.tv/lists/30253809
+    file_poster: /config/kometa_files/playlists/defenders.png
