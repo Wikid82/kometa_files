@@ -3,6 +3,6 @@ collections:
   Batman (Classic) Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/42
-    url_background: https://image.tmdb.org/t/p/original/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg
-    url_poster: https://theposterdb.com/api/assets/33017
+    tmdb_collection_details: https://www.themoviedb.org/collection/120794-batman-collection
+    url_background: https://api.mediux.pro/assets/17812baf-ca30-4a6e-bb64-7507e36db842
+    url_poster: https://api.mediux.pro/assets/1780ebab-ceaf-4947-af68-ad674752a1a1
