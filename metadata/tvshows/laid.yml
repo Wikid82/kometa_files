@@ -1,0 +1,24 @@
+metadata:
+  Laid:
+    mapping_id:  447528 # TVDB id for Laid. Set by fwlolx on MediUX. https://mediux.pro/sets/29145
+    url_poster: https://api.mediux.pro/assets/9250a0d7-b5a2-4234-a597-d234dd9738eb
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/72bca86d-6dce-4489-bd47-c37719a46312
+        episodes: # TVDB id for Laid. Set by Kwickflix on MediUX. https://mediux.pro/sets/29293
+          1:
+            url_poster: https://api.mediux.pro/assets/9e113043-632b-4f58-9ec2-8f95fbb03484
+          2:
+            url_poster: https://api.mediux.pro/assets/fcf7de9a-cd39-4df6-ba68-39eb6aeef3d9
+          3:
+            url_poster: https://api.mediux.pro/assets/cc1dfd9a-e208-4f69-a26e-2b096f9d9716
+          4:
+            url_poster: https://api.mediux.pro/assets/90418874-e628-45da-a231-806479d3198f
+          5:
+            url_poster: https://api.mediux.pro/assets/c19d5159-ae31-4b23-bf2d-776d3ef48bd0
+          6:
+            url_poster: https://api.mediux.pro/assets/cd7397a5-d8f7-40c1-9320-ce55274d17a3
+          7:
+            url_poster: https://api.mediux.pro/assets/2b906b08-d67c-406e-8843-44e69f0ab26c
+          8:
+            url_poster: https://api.mediux.pro/assets/cc23eb0f-9395-4f2d-80fd-c8a815edaff9
