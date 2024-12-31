@@ -1,0 +1,7 @@
+collections:
+  The Mighty Ducks Collection:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_collection_details: https://trakt.tv/lists/30263677
+    url_background: https://image.tmdb.org/t/p/original/qBFCtw5EKBj3ILFbRgXtCfCjmb8.jpg
+    url_poster: https://api.mediux.pro/assets/1f570df5-03e4-41fc-8939-38636542e293
