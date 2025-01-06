@@ -1,0 +1,25 @@
+metadata:
+
+    397424: # TVDB id for Landman. Set by willtong93 on MediUX. https://mediux.pro/sets/28090
+    url_poster: https://api.mediux.pro/assets/a9eed2f5-d47f-4d27-a4a7-61fd36d05c02
+    url_background: https://api.mediux.pro/assets/80554560-f765-4294-b04a-a7ef96de99c5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/fb6b76c0-8d00-4664-81ee-a917bdd059ba
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8fe3d03a-f563-4006-8252-260a1ba900de
+          2:
+            url_poster: https://api.mediux.pro/assets/85aebc2d-dc29-437f-9fc8-afa2fc872b44
+          3:
+            url_poster: https://api.mediux.pro/assets/d59e936a-2970-4483-a995-5751a01bdec5
+          4:
+            url_poster: https://api.mediux.pro/assets/009bd8fa-2d76-458f-9bbc-35c0cb2f2bac
+          5:
+            url_poster: https://api.mediux.pro/assets/73026402-7f47-48a8-a321-13774ce1472d
+          6:
+            url_poster: https://api.mediux.pro/assets/b27cb64f-a413-4897-b2f4-a94e7cfc7de7
+          7:
+            url_poster: https://api.mediux.pro/assets/124e4f5e-045e-4376-aa95-3a3f79c4348f
+          8:
+            url_poster: https://api.mediux.pro/assets/592ce0a2-3807-4da0-aeaf-38db3a4f6e35
