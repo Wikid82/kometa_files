@@ -1,0 +1,44 @@
+metadata:
+
+    388589: # TVDB id for Lioness. Set by willtong93 on MediUX. https://mediux.pro/sets/26886
+    url_poster: https://api.mediux.pro/assets/311baa92-cba3-48b2-a0dc-abf6404c611d
+    url_background: https://api.mediux.pro/assets/46d2a1af-5583-40a0-abab-815121370eba
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ff612e9f-1731-4db6-93f8-62a7f559258f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/14497f32-11d8-4b85-944a-99c20b659432
+          2:
+            url_poster: https://api.mediux.pro/assets/1743e1f2-ccb0-4553-b28e-9d20f811a9e3
+          3:
+            url_poster: https://api.mediux.pro/assets/1201250e-ebc3-4f7a-9f7c-d427ce578884
+          4:
+            url_poster: https://api.mediux.pro/assets/07805bb7-1fcf-4d62-aa87-a3cea19260ad
+          5:
+            url_poster: https://api.mediux.pro/assets/f3469615-e958-4799-a74e-5342beeef6ab
+          6:
+            url_poster: https://api.mediux.pro/assets/0b3e9e17-cb25-4fcd-82be-875bf7fd484f
+          7:
+            url_poster: https://api.mediux.pro/assets/8c937d44-eaa4-4c8c-bb20-80a9c21fa22a
+          8:
+            url_poster: https://api.mediux.pro/assets/5f657984-e2d3-4a74-9f3d-8b341c318207
+      2:
+        url_poster: https://api.mediux.pro/assets/58e19bf0-6f27-474f-9012-4a6124a02048
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/9ec564b6-b877-4d83-af85-a996f04a299c
+          2:
+            url_poster: https://api.mediux.pro/assets/bd6be020-e353-4542-9841-c60c62eae6b3
+          3:
+            url_poster: https://api.mediux.pro/assets/429be359-e852-4eb9-9aaf-497edd985430
+          4:
+            url_poster: https://api.mediux.pro/assets/c3ce6755-2e86-493d-b6e2-d254317b3fc8
+          5:
+            url_poster: https://api.mediux.pro/assets/4168e657-05ed-4248-8160-ffd58e93996c
+          6:
+            url_poster: https://api.mediux.pro/assets/bd53deac-b398-4f84-bbfa-b3e393e7b88a
+          7:
+            url_poster: https://api.mediux.pro/assets/349c2cf3-80cf-4bec-85e5-7c683618a735
+          8:
+            url_poster: https://api.mediux.pro/assets/0620e30f-384b-4261-8b12-23bbd6d56c6c
