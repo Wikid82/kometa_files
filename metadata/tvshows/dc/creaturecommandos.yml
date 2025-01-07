@@ -1,6 +1,6 @@
 metadata:
   Creature Commandos:
-    mapping_id:   430518 # TVDB id for Creature Commandos. Set by willtong93 on MediUX. https://mediux.pro/sets/28495
+    mapping_id:  430518 # TVDB id for Creature Commandos. Set by willtong93 on MediUX. https://mediux.pro/sets/28495
     url_poster: https://api.mediux.pro/assets/9ebcb0da-590d-46b2-aecc-5781195b6856
     url_background: https://api.mediux.pro/assets/f8259d62-492d-4a51-8fc1-e39e184d2a44
     seasons:
@@ -17,3 +17,5 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5ab2f29c-b054-42e6-ae11-31ccee6a5c37
           5:
             url_poster: https://api.mediux.pro/assets/1f3fafea-831d-48c4-8553-4d4f6fd7bc11
+          6:
+            url_poster: https://api.mediux.pro/assets/1007b192-aea6-4efa-b8da-19ebbaf04113
