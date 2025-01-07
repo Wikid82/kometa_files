@@ -255,18 +255,19 @@ metadata:
             url_poster: https://api.mediux.pro/assets/9a0c36cf-3546-422c-92d0-1224e7f50549
 
   Dexter Original Sin:
-    mapping_id:     430780 # TVDB id for Dexter: Original Sin. Set by willtong93 on MediUX. https://mediux.pro/sets/29252
-    url_poster: https://api.mediux.pro/assets/bb286b06-72be-43b7-ab55-ab11f1013e06
-    url_background: https://api.mediux.pro/assets/8cc334c1-5921-49ca-a751-3f4b2fcfd18c
+    mapping_id:  430780 # TVDB id for Dexter: Original Sin. Set by Ikonok on MediUX. https://mediux.pro/sets/29717
+    url_poster: https://api.mediux.pro/assets/71433bb9-fb0a-4c90-919d-9ba579cc6c31
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/61ad8e51-73f0-4171-8520-cb017303b058
+        url_poster: https://api.mediux.pro/assets/8b5e631d-7e07-4236-9a5b-0397f462e67c
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/ec06029f-def8-4c78-87db-a162c71c5182
+            url_poster: https://api.mediux.pro/assets/83fb7813-c6d1-469f-8d01-9fb9c4a2c234
           2:
-            url_poster: https://api.mediux.pro/assets/82d0f767-c390-4cfb-9c43-d91a307b9cb7
+            url_poster: https://api.mediux.pro/assets/80bc4e3f-faff-4d1e-9b65-b34c81e4cf5d
           3:
-            url_poster: https://api.mediux.pro/assets/98567815-0627-4fe7-a482-03cc13992d2e
+            url_poster: https://api.mediux.pro/assets/7a87815f-4fa7-43d2-9ff8-c712f20b1e4f
           4:
-            url_poster: https://api.mediux.pro/assets/57df0cca-fa17-4e2c-a6b8-822ed9d6123c
+            url_poster: https://api.mediux.pro/assets/70353fbe-b469-4a3d-95d3-4990791868fb
+          5:
+            url_poster: https://api.mediux.pro/assets/59d45942-d1a5-47ba-b37e-4bb567a7bdec
