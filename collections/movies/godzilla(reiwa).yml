@@ -1,0 +1,7 @@
+collections:
+  Godzilla (Reiwa) Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1326214-godzilla-reiwa-collection
+    url_background: https://image.tmdb.org/t/p/original/bU8E0YkVwN4E84BabvcUhEmBN8N.jpg
+    url_poster: https://image.tmdb.org/t/p/original/6WoktC72X8zJX69fCW4e2tkywhN.jpg
