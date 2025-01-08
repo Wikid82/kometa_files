@@ -1,0 +1,7 @@
+collections:
+  Night At The Museum Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://api.mediux.pro/assets/25c4e8ec-ae6d-4c77-83c5-951bc73c37ee
+    url_background: https://image.tmdb.org/t/p/original/fOmqiIXfJmeANciOTCN6WkKbwK.jpg
+    url_poster: https://api.mediux.pro/assets/25c4e8ec-ae6d-4c77-83c5-951bc73c37ee
