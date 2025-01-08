@@ -1,10 +1,10 @@
 metadata:
-  Sonic the Hedgehog:
-    mapping_id: 454626
-    url_poster: https://api.mediux.pro/assets/d0218a1c-eccf-4433-88ca-31c1b7381742
-  Sonic the Hedgehog 2:
-    mapping_id: 675353
-    url_poster: https://api.mediux.pro/assets/66713bbc-286a-4173-85f8-7070484053ec
-#  Sonic the Hedgehog 3:
-#   mapping_id: 939243
-#   url_poster: https://theposterdb.com/api/assets/519444
+  
+  454626: # Sonic the Hedgehog (2020) Poster by RuviLev on MediUX. https://mediux.pro/sets/10743
+    url_poster: https://api.mediux.pro/assets/6030bb3c-35ef-42ad-8466-8d50bf37e820
+
+  675353: # Sonic the Hedgehog 2 (2022) Poster by RuviLev on MediUX. https://mediux.pro/sets/10743
+    url_poster: https://api.mediux.pro/assets/ee9a1b89-3895-43e9-9a06-e1c35ce6c70e
+
+  939243: # Sonic the Hedgehog 3 (2024) Poster by RuviLev on MediUX. https://mediux.pro/sets/10743
+    url_poster: https://api.mediux.pro/assets/866235c0-b0c3-47f4-835f-caf289763250
