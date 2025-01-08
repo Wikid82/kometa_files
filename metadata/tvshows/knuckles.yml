@@ -1,6 +1,6 @@
 metadata:
   Knuckles:
-    mapping_id:     417393 # TVDB id for Knuckles. Set by willtong93 on MediUX. https://mediux.pro/sets/19041
+    mapping_id:  417393 # TVDB id for Knuckles. Set by willtong93 on MediUX. https://mediux.pro/sets/19041
     url_poster: https://api.mediux.pro/assets/45415f52-739f-4aeb-bd61-481dbacd287e
     url_background: https://api.mediux.pro/assets/474ee085-b94c-45d8-b80d-675c6a3b5208
     seasons:
