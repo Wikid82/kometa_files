@@ -1,6 +1,6 @@
 metadata:
   True Detective:
-    mapping_id:   270633 # TVDB id for True Detective. Set by willtong93 on MediUX. https://mediux.pro/sets/6305
+    mapping_id: 270633 # TVDB id for True Detective. Set by willtong93 on MediUX. https://mediux.pro/sets/6305
     url_poster: https://api.mediux.pro/assets/59228dd4-1b65-4391-93cf-735674be8dd5
     url_background: https://api.mediux.pro/assets/a5a1e4ea-d8fa-4426-ab82-2903928242bf
     seasons:
