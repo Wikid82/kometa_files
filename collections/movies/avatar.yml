@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/87096-avatar-collection
-    url_background: https://image.tmdb.org/t/p/original/4uRiRJy04peoKI9gtBkuHTRQNHB.jpg
-    url_poster: https://theposterdb.com/api/assets/303873
+    url_background: https://api.mediux.pro/assets/264d5cb4-c055-4e32-9dee-a0a36fd92dfe
+    url_poster: https://api.mediux.pro/assets/7081c2a5-ed38-4249-b2cc-645d198d1a52
