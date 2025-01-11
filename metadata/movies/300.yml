@@ -1,7 +1,7 @@
 metadata:
-  300:
-    mapping_id: 1271
-    url_poster: https://theposterdb.com/api/assets/5576
-  300 Rise of an Empire:
-    mapping_id: 53182
-    url_poster: https://theposterdb.com/api/assets/5577
+  
+  1271: # 300 (2007) Poster by RuviLev on MediUX. https://mediux.pro/sets/8346
+    url_poster: https://api.mediux.pro/assets/baadd914-8e41-473a-aac1-4d4cb5aa57a2
+
+  53182: # 300: Rise of an Empire (2014) Poster by RuviLev on MediUX. https://mediux.pro/sets/8346
+    url_poster: https://api.mediux.pro/assets/574ca4bf-6c84-494b-bd1b-2afd35a64cc4
