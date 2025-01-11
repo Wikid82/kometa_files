@@ -1,16 +1,14 @@
 metadata:
-  The Matrix:
-    mapping_id: 603
-    url_poster: https://api.mediux.pro/assets/314a0383-5722-4ee7-9171-5a6ec8c975db
-  The Matrix Reloaded:
-    mapping_id: 604
-    url_poster: https://api.mediux.pro/assets/8bf387a8-2a34-406f-818d-9a6de49cc8a9
-  The Matrix Revolutions:
-    mapping_id: 605
-    url_poster: https://api.mediux.pro/assets/2a70d960-865c-4bd5-bca5-588d1e0b789d
-  The Matrix Resurrections:
-    mapping_id: 624860
-    url_poster: https://api.mediux.pro/assets/d8c7b8b9-e063-43d7-bdc9-9949ceae6acb
-  The Animatrix:
-    mapping_id: 55931
-    url_poster: https://api.mediux.pro/assets/7ca3be3e-4b17-4aaf-ba0f-1b33fd2d9c62
+  
+
+  603: # The Matrix (1999) Poster by tallinex on MediUX. https://mediux.pro/sets/14690
+    url_poster: https://api.mediux.pro/assets/55b13199-99d4-42b6-baa5-cac75094ede9
+
+  604: # The Matrix Reloaded (2003) Poster by tallinex on MediUX. https://mediux.pro/sets/14690
+    url_poster: https://api.mediux.pro/assets/a7bee751-9d4e-4dc6-9dec-f7ae6c7276e0
+
+  605: # The Matrix Revolutions (2003) Poster by tallinex on MediUX. https://mediux.pro/sets/14690
+    url_poster: https://api.mediux.pro/assets/8e6dd815-37be-4c1f-aac9-ed2d6989c7e9
+
+  624860: # The Matrix Resurrections (2021) Poster by tallinex on MediUX. https://mediux.pro/sets/14690
+    url_poster: https://api.mediux.pro/assets/dc9930d9-4ffe-4183-99d6-77fdee7a3c41
