@@ -1,0 +1,29 @@
+metadata:
+
+  371980: # TVDB id for Severance. Set by willtong93 on MediUX. https://mediux.pro/sets/9337
+    url_poster: https://api.mediux.pro/assets/3e979b29-3d58-4c58-8f90-2749af0fede2
+    url_background: https://api.mediux.pro/assets/c21ba4a9-107d-4a1e-b4dc-0158d4e4443a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f4479410-0428-4634-8056-e270585bb0f3
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/623f11c5-92e8-4864-8a05-4d1564a6f15c
+          2:
+            url_poster: https://api.mediux.pro/assets/ffd419f1-9768-48f6-b0ca-b466ae6952bd
+          3:
+            url_poster: https://api.mediux.pro/assets/b71442fc-dfc5-43de-a931-32f964d5ad63
+          4:
+            url_poster: https://api.mediux.pro/assets/e756603a-245b-48e0-9bb4-5b746ef49e36
+          5:
+            url_poster: https://api.mediux.pro/assets/6942c7e7-913f-4882-8f68-acb77aa90b7e
+          6:
+            url_poster: https://api.mediux.pro/assets/84ffca60-7aec-44aa-ac73-e20bd687852d
+          7:
+            url_poster: https://api.mediux.pro/assets/16e63a31-efdb-461d-9c54-03cf1fa6f69f
+          8:
+            url_poster: https://api.mediux.pro/assets/6d97d57f-10c8-4c40-b800-8e963f1c2572
+          9:
+            url_poster: https://api.mediux.pro/assets/9d7d9ac1-f8fe-45d4-b1c7-3c5f0e89ac8b
+      2:
+        url_poster: https://api.mediux.pro/assets/3b943910-ac0e-4cfb-9fb4-bd009e6a1f3a
