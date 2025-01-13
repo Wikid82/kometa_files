@@ -1,0 +1,10 @@
+metadata:
+
+  428876: # TVDB id for Death by Fame. Set by MediuxKing79 on MediUX. https://mediux.pro/sets/14966
+    url_poster: https://api.mediux.pro/assets/fc7b53e8-4c5d-4453-bf9f-d2492fc76b20
+    url_background: https://api.mediux.pro/assets/d12cc571-32ee-4146-a23d-c4d459b64691
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/8c4f701b-a220-4e4b-9850-8c7384645094
+      2:
+        url_poster: https://api.mediux.pro/assets/b940d21f-3632-4617-bc28-85f77ea82edc
