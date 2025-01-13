@@ -1,0 +1,24 @@
+metadata:
+
+  421636: # TVDB id for School Spirits. Set by tallinex on MediUX. https://mediux.pro/sets/20214
+    url_poster: https://api.mediux.pro/assets/83bdb49d-5a96-4239-9024-18724be64c8a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/120e2620-2a3a-4eaa-b90b-3f4427b43a97
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/eba8e03f-6215-416d-ae35-64c317b088d3
+          2:
+            url_poster: https://api.mediux.pro/assets/089d4d5c-e7cf-4c99-ad3e-760ed28b18d4
+          3:
+            url_poster: https://api.mediux.pro/assets/b5fc60dc-05bc-45ce-b1f1-51ea36313a56
+          4:
+            url_poster: https://api.mediux.pro/assets/85c625d0-07a8-4902-9453-ce7817303e57
+          5:
+            url_poster: https://api.mediux.pro/assets/441d3917-0137-4792-8a3a-7e86787f9400
+          6:
+            url_poster: https://api.mediux.pro/assets/b7fc3032-7b40-4c5d-adcd-930a6d81f91e
+          7:
+            url_poster: https://api.mediux.pro/assets/e93f987c-f371-4da1-88a1-cf0dfa2314c0
+          8:
+            url_poster: https://api.mediux.pro/assets/2d1b9018-2ad9-4899-ad5c-7f50723cdd5b
