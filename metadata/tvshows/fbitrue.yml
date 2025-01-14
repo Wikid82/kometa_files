@@ -1,17 +1,18 @@
 metadata:
-  FBI True:
-    mapping_id: 431527
-    url_poster: https://theposterdb.com/api/assets/534728
+
+  431527: # TVDB id for FBI TRUE. Set by Wikid82 on MediUX. https://mediux.pro/sets/30070
+    url_poster: https://api.mediux.pro/assets/bc9d3902-9d6f-4ccf-a5cd-9a46ecc6590e
+    url_background: https://api.mediux.pro/assets/fe065dbc-f018-45b9-bc93-0719723c5a84
     seasons:
-      00:
-        url_poster: https://theposterdb.com/api/assets/534729
-      01:
-        url_poster: https://theposterdb.com/api/assets/534730
-      02:
-        url_poster: https://theposterdb.com/api/assets/534731
-      03:
-        url_poster: https://theposterdb.com/api/assets/534732
-      04:
-        url_poster: https://theposterdb.com/api/assets/534733
-      05:
-        url_poster: https://theposterdb.com/api/assets/534734
+      1:
+        url_poster: https://api.mediux.pro/assets/df573eb7-e004-4704-8311-3d9098846d0b
+      2:
+        url_poster: https://api.mediux.pro/assets/4fef3fef-745c-439e-b29f-fe30cb1c59af
+      3:
+        url_poster: https://api.mediux.pro/assets/1098f645-2fa9-4977-8eac-b7149739bacd
+      4:
+        url_poster: https://api.mediux.pro/assets/7b812cb4-8318-4863-967a-0d14e48c3957
+      5:
+        url_poster: https://api.mediux.pro/assets/1c183a20-49fa-4e9d-91e7-40fbc61702a5
+      6:
+        url_poster: https://api.mediux.pro/assets/26659406-58f6-404f-bed9-a37fa08a771f
