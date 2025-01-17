@@ -1,21 +1,24 @@
 metadata:
   Star Wars Skeleton Crew:
-    mapping_id:  420600 # TVDB id for Star Wars: Skeleton Crew. Set by willtong93 on MediUX. https://mediux.pro/sets/28661
-    url_poster: https://api.mediux.pro/assets/30f2d3f6-1139-456c-ab08-9628adfcea93
-    url_background: https://api.mediux.pro/assets/74ba979b-a6ab-4633-ab39-058491db6da2
+    mapping_id:  420600 # TVDB id for Star Wars: Skeleton Crew. Set by Olivier_286 on MediUX. https://mediux.pro/sets/28771
+    url_poster: https://api.mediux.pro/assets/201fbab6-18ac-4c9f-a04c-6a28a5898e8b
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/5acd413b-8c54-4028-a066-bad4b225c22b
+        url_poster: https://api.mediux.pro/assets/5664d37a-90e9-44f8-9d22-9ef9ec73ff59
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/a89653a5-80c5-4da1-a5c1-e2016b58f26d
+            url_poster: https://api.mediux.pro/assets/bfa17279-0230-421f-a2a0-b7e3012e0247
           2:
-            url_poster: https://api.mediux.pro/assets/3d241116-4acf-4a72-9628-23b1dff3c16f
+            url_poster: https://api.mediux.pro/assets/273dd2cc-577f-4e47-af94-52e874e79845
           3:
-            url_poster: https://api.mediux.pro/assets/4e79ad4e-091e-4d0f-b36a-090d288a7564
+            url_poster: https://api.mediux.pro/assets/20f3926b-e205-4e52-98d1-59a51b82d630
           4:
-            url_poster: https://api.mediux.pro/assets/2c6a77bd-8ba6-4975-b3b6-cfe153b7955e
+            url_poster: https://api.mediux.pro/assets/7542d080-83d3-4c95-86e2-c99571cd16c2
           5:
-            url_poster: https://api.mediux.pro/assets/7c452942-f2f4-4e68-af49-ea8bbc0646a7
+            url_poster: https://api.mediux.pro/assets/3108b95b-e51d-447c-8c57-340a5c8e3dfd
           6:
-            url_poster: https://api.mediux.pro/assets/78789b8b-d1a1-40e6-8177-eb8c3a0645af
+            url_poster: https://api.mediux.pro/assets/e77f1498-94e5-4f91-bb16-fd7d5bf1e3bd
+          7:
+            url_poster: https://api.mediux.pro/assets/7c12694e-1ca7-4f30-8d27-0b3c6d199d47
+          8:
+            url_poster: https://api.mediux.pro/assets/aebc50c9-593a-4cad-a5da-56f518009277
