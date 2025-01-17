@@ -1,0 +1,7 @@
+collections:
+  Fear Street Collection:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list_details: https://trakt.tv/lists/30431424
+    url_background: https://image.tmdb.org/t/p/original/13nBFLeuhHbXmU8QAnLIrJy11cl.jpg
+    url_poster: https://image.tmdb.org/t/p/original/ziHRJs49kr4SZL73P5qghm0iz65.jpg
