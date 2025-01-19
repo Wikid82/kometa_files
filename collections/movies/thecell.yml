@@ -1,7 +1,7 @@
-metadata:
-
-  8843: # The Cell (2000) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1220
-    url_poster: https://api.mediux.pro/assets/638b0695-4096-44a2-9a85-d3a4b47b69e4
-
-  18759: # The Cell 2 (2009) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1220
-    url_poster: https://api.mediux.pro/assets/3d1c44ee-26b1-41fc-9d2f-adac641b663c
+collections:
+  The Cell Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/223564-the-cell-collection
+    url_background: https://image.tmdb.org/t/p/original/s2YI5HKNptBhqrmfFZz2tZxCSJe.jpg
+    url_poster: https://api.mediux.pro/assets/7ddd65b5-ffdf-43b2-8f9b-fc80dd20edb6
