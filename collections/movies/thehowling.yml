@@ -1,0 +1,7 @@
+collections:
+  The Howling Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/174218-the-howling-collection
+    url_background: https://image.tmdb.org/t/p/original/5hzWBe1wTgPWyVg3e5ftN2ETAnf.jpg
+    url_poster: https://theposterdb.com/api/assets/20592
