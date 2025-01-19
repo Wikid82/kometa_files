@@ -1,7 +1,7 @@
 metadata:
-  Cocoon:
-    mapping_id: 10328
-    url_poster: https://theposterdb.com/api/assets/17252
-  Cocoon The Return:
-    mapping_id: 11285
-    url_poster: https://theposterdb.com/api/assets/17253
+
+  10328: # Cocoon (1985) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1274
+    url_poster: https://api.mediux.pro/assets/444e5519-4f41-4495-b6c7-7641b787309d
+
+  11285: # Cocoon: The Return (1988) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1274
+    url_poster: https://api.mediux.pro/assets/1a6bf2aa-5434-435e-a16c-d26fffcae4e0
