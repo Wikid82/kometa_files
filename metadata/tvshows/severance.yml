@@ -1,6 +1,6 @@
 metadata:
 
-    371980: # TVDB id for Severance. Set by Kwickflix on MediUX. https://mediux.pro/sets/29624
+  371980: # TVDB id for Severance. Set by Kwickflix on MediUX. https://mediux.pro/sets/29624
     url_poster: https://api.mediux.pro/assets/835adbab-f421-4519-b6ce-49e5aa1aee88
     seasons:
       1:
