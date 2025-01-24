@@ -1,24 +1,25 @@
 metadata:
   Star Wars Skeleton Crew:
-    mapping_id:  420600 # TVDB id for Star Wars: Skeleton Crew. Set by Olivier_286 on MediUX. https://mediux.pro/sets/28771
-    url_poster: https://api.mediux.pro/assets/201fbab6-18ac-4c9f-a04c-6a28a5898e8b
+    mapping_id:  420600 # TVDB id for Star Wars: Skeleton Crew. Set by willtong93 on MediUX. https://mediux.pro/sets/28661
+    url_poster: https://api.mediux.pro/assets/30f2d3f6-1139-456c-ab08-9628adfcea93
+    url_background: https://api.mediux.pro/assets/74ba979b-a6ab-4633-ab39-058491db6da2
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/5664d37a-90e9-44f8-9d22-9ef9ec73ff59
-        episodes:
+        url_poster: https://api.mediux.pro/assets/5acd413b-8c54-4028-a066-bad4b225c22b
+        episodes: # TVDB id for Star Wars: Skeleton Crew. Set by Draconos on MediUX. 
           1:
-            url_poster: https://api.mediux.pro/assets/bfa17279-0230-421f-a2a0-b7e3012e0247
+            url_poster: https://api.mediux.pro/assets/be6ddc83-4d25-49de-a1b8-75e590de79d5
           2:
-            url_poster: https://api.mediux.pro/assets/273dd2cc-577f-4e47-af94-52e874e79845
+            url_poster: https://api.mediux.pro/assets/52dcddd3-52dc-4b21-8e5b-253086e2beea
           3:
-            url_poster: https://api.mediux.pro/assets/20f3926b-e205-4e52-98d1-59a51b82d630
+            url_poster: https://api.mediux.pro/assets/fdc36913-8ef9-4994-8036-7e62aaec0439
           4:
-            url_poster: https://api.mediux.pro/assets/7542d080-83d3-4c95-86e2-c99571cd16c2
+            url_poster: https://api.mediux.pro/assets/7210953b-a4c1-4975-875d-82e46ef4c229
           5:
-            url_poster: https://api.mediux.pro/assets/3108b95b-e51d-447c-8c57-340a5c8e3dfd
+            url_poster: https://api.mediux.pro/assets/32f6cb66-04da-4e7a-9f00-6548c782827e
           6:
-            url_poster: https://api.mediux.pro/assets/e77f1498-94e5-4f91-bb16-fd7d5bf1e3bd
+            url_poster: https://api.mediux.pro/assets/1a69cd37-194c-4f11-8a8b-93d8e85f98a8
           7:
-            url_poster: https://api.mediux.pro/assets/7c12694e-1ca7-4f30-8d27-0b3c6d199d47
+            url_poster: https://api.mediux.pro/assets/1bdc3f90-b1b6-450c-a33d-7955890a4bb9
           8:
-            url_poster: https://api.mediux.pro/assets/aebc50c9-593a-4cad-a5da-56f518009277
+            url_poster: https://api.mediux.pro/assets/3da51d9a-575a-4e7c-877d-22a593b96c0b
