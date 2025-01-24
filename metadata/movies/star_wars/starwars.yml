@@ -1,37 +1,29 @@
 metadata:
-  A New Hope:
-    mapping_id: 11
-    url_poster: https://api.mediux.pro/assets/b3f2bf44-ee52-48b6-abd0-d892eb07cf7a
-  The Empire Strikes Back:
-    mapping_id: 1891
-    url_poster: https://api.mediux.pro/assets/46da41cc-88a3-41c0-abd4-fbe6d71e5450
-  Return of the Jedi:
-    mapping_id: 1892
-    url_poster: https://api.mediux.pro/assets/02e0bbd2-1ec4-4608-b478-f83c2a005a2c
-  The Phantom Menace:
-    mapping_id: 1893
-    url_poster: https://api.mediux.pro/assets/84e4a561-4581-482f-99af-8fea09a26b77
-  Attack of the Clones:
-    mapping_id: 1894
-    url_poster: https://api.mediux.pro/assets/28078899-424b-4528-8ffc-134996cb2a57
-  Revenge of the Sith:
-    mapping_id: 1895
-    url_poster: https://api.mediux.pro/assets/b7d5b210-5706-4ebd-a56d-0351a1dd194a
-  The Force Awakens:
-    mapping_id: 140607
-    url_poster: https://api.mediux.pro/assets/7dd0b9f4-6129-4011-a387-5b7e30f18ffa
-  The Last Jedi:
-    mapping_id: 181808
-    url_poster: https://api.mediux.pro/assets/6a02c972-6dbf-4e99-a410-21ac38961b35
-  The Rise of Skywalker:
-    mapping_id: 181812
-    url_poster: https://api.mediux.pro/assets/c03b307d-c1c6-4a83-a0e2-d44e170bd14c
-  Rogue One:
-    mapping_id: 330459
-    url_poster: https://api.mediux.pro/assets/d785fc55-6419-4275-b669-ad90012a76ae
-  Solo:
-    mapping_id: tt3778644
-    url_poster: https://api.mediux.pro/assets/e25262d0-22aa-415f-95a1-f3820ad30b82
-  The Clone Wars:
-    mapping_id: 12180
-    url_poster: https://api.mediux.pro/assets/3dedf8fb-42d8-4731-9864-2a8061e5050d
+
+  11: # Star Wars (1977) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
+    url_poster: https://api.mediux.pro/assets/b97ce7f0-b1e6-4cae-969e-ec1d6bc07e4a
+
+  1891: # The Empire Strikes Back (1980) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
+    url_poster: https://api.mediux.pro/assets/2355ac74-431f-47e7-9dd1-e73a3b29f6df
+
+  1892: # Return of the Jedi (1983) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
+    url_poster: https://api.mediux.pro/assets/786e977b-8398-4b14-a96d-96cd6de383ec
+
+  1893: # Star Wars: Episode I - The Phantom Menace (1999) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
+    url_poster: https://api.mediux.pro/assets/9457df03-67db-40a5-b880-ccefc0f2bfe7
+
+  1894: # Star Wars: Episode II - Attack of the Clones (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
+    url_poster: https://api.mediux.pro/assets/7106eb33-f923-40d9-b61f-0fc118282938
+
+  1895: # Star Wars: Episode III - Revenge of the Sith (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
+    url_poster: https://api.mediux.pro/assets/5a3bd292-6ef8-4e96-bbf4-4d37e5e5d1be
+
+  140607: # Star Wars: The Force Awakens (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
+    url_poster: https://api.mediux.pro/assets/9a783e97-8a58-435c-a1e1-f9f735d56620
+
+  181808: # Star Wars: The Last Jedi (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
+    url_poster: https://api.mediux.pro/assets/df75c6cd-af86-4f4e-b91f-7e1537cbe4d3
+
+  181812: # Star Wars: The Rise of Skywalker (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
+    url_poster: https://api.mediux.pro/assets/2ab3ecbc-22f8-4e99-bbc1-ba4b2c43c81f
+
