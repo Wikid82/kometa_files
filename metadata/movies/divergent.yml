@@ -1,10 +1,13 @@
 metadata:
-  Divergent:
-    mapping_id: 157350
-    url_poster: https://theposterdb.com/api/assets/53783
-  Insurgent:
-    mapping_id: 262500
-    url_poster: https://theposterdb.com/api/assets/53784
-  Allegiant:
-    mapping_id: 262504
-    url_poster: https://theposterdb.com/api/assets/53785
+
+  157350: # Divergent (2014) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29047
+    url_poster: https://api.mediux.pro/assets/9ea51d82-5005-4200-9ff6-f347bcc7c1d6
+    url_background: https://api.mediux.pro/assets/6258f7e1-e32d-48f7-b396-9dac168d2607
+
+  262500: # Insurgent (2015) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29047
+    url_poster: https://api.mediux.pro/assets/d840e69d-ca17-403e-9933-5bf99313be3f
+    url_background: https://api.mediux.pro/assets/d6fe9eec-57b1-4fc7-8eab-32b751095dfb
+
+  262504: # Allegiant (2016) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29047
+    url_poster: https://api.mediux.pro/assets/aded89d8-af0e-4f96-a132-be160e18950d
+    url_background: https://api.mediux.pro/assets/c6fe4b11-76c8-4bfd-a06c-bb76748950ee

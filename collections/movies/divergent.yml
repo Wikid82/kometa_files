@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/283579-divergent-collection
-    url_background: https://image.tmdb.org/t/p/original/z7Vxe0aRexX5Cr8AxE4vR6LgFEu.jpg
-    url_poster: https://theposterdb.com/api/assets/53782
+    url_background: https://api.mediux.pro/assets/4feae0b9-5339-4dc5-9164-b8c96016aacf
+    url_poster: https://api.mediux.pro/assets/91931bad-184a-4c2c-ba8c-10a6501249a4 # Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29047
