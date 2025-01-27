@@ -1,21 +1,23 @@
 metadata:
   Creature Commandos:
-    mapping_id:  430518 # TVDB id for Creature Commandos. Set by willtong93 on MediUX. https://mediux.pro/sets/28495
-    url_poster: https://api.mediux.pro/assets/9ebcb0da-590d-46b2-aecc-5781195b6856
-    url_background: https://api.mediux.pro/assets/f8259d62-492d-4a51-8fc1-e39e184d2a44
+    mapping_id:  430518 # TVDB id for Creature Commandos. Set by Daniel-4EVAR on MediUX. https://mediux.pro/sets/30317
+    url_poster: https://api.mediux.pro/assets/9609b066-c062-4327-a734-b8b1d1b4d228
+    url_background: https://api.mediux.pro/assets/53008e96-154e-4dcc-9d3c-3bece9b33621
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/99cd05ba-cdea-4135-8dd9-e036751d87be
+        url_poster: https://api.mediux.pro/assets/5a355ba0-01c6-4402-b5e2-2f143795c5df
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/63b61bbf-8c76-40c9-a1ce-197989175646
+            url_poster: https://api.mediux.pro/assets/3840d1b6-2f59-4180-baee-aa90f06387a3
           2:
-            url_poster: https://api.mediux.pro/assets/166ca9b3-f947-4dbf-a73b-4098de1732ea
+            url_poster: https://api.mediux.pro/assets/76431c49-4eb4-44fb-a9d6-8ab475171d21
           3:
-            url_poster: https://api.mediux.pro/assets/f2f694be-3f69-4fb2-9a7b-6fdbdd146643
+            url_poster: https://api.mediux.pro/assets/9050287e-5d00-4d40-bf45-1f822717330e
           4:
-            url_poster: https://api.mediux.pro/assets/5ab2f29c-b054-42e6-ae11-31ccee6a5c37
+            url_poster: https://api.mediux.pro/assets/87d971cd-479b-408a-ada3-a827c3bec1dd
           5:
-            url_poster: https://api.mediux.pro/assets/1f3fafea-831d-48c4-8553-4d4f6fd7bc11
+            url_poster: https://api.mediux.pro/assets/6bb271a5-ddc4-45f1-a8a0-22d4fc3a30ca
           6:
-            url_poster: https://api.mediux.pro/assets/1007b192-aea6-4efa-b8da-19ebbaf04113
+            url_poster: https://api.mediux.pro/assets/29d4f447-0fd7-441c-89c1-ae91448ba891
+          7:
+            url_poster: https://api.mediux.pro/assets/ad407ad4-cfe7-438f-8bcf-6dab1933d135
