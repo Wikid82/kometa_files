@@ -1,16 +1,21 @@
 metadata:
-  Die Hard:
-    mapping_id: 562
-    url_poster: https://theposterdb.com/api/assets/720
-  Die Hard 2:
-    mapping_id: 1573
-    url_poster: https://theposterdb.com/api/assets/721
-  Die Hard With A Vengance:
-    mapping_id: 1572
-    url_poster: https://theposterdb.com/api/assets/722
-  Live Free Or Die Hard:
-    mapping_id: 1571
-    url_poster: https://theposterdb.com/api/assets/723
-  A Good Day To Die Hard:
-    mapping_id: 47964
-    url_poster: https://theposterdb.com/api/assets/724
+
+  562: # Die Hard (1988) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29521
+    url_poster: https://api.mediux.pro/assets/6e0e3d9f-51e1-4e6c-bb1b-ced5a9177e4e
+    url_background: https://api.mediux.pro/assets/5d0d4edc-46b7-458b-ae2a-69c754af9649
+
+  1573: # Die Hard 2 (1990) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29521
+    url_poster: https://api.mediux.pro/assets/fbd76dfa-672b-4767-ab04-c4d8fc16100f
+    url_background: https://api.mediux.pro/assets/5994df1e-29eb-42f8-9695-225f3c0b376e
+
+  1572: # Die Hard: With a Vengeance (1995) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29521
+    url_poster: https://api.mediux.pro/assets/82e0c825-9713-4498-9a18-68bb4ee61a67
+    url_background: https://api.mediux.pro/assets/8bebad53-cde8-4a15-b1ab-3055cab48294
+
+  1571: # Live Free or Die Hard (2007) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29521
+    url_poster: https://api.mediux.pro/assets/6500947d-43b2-481d-bc71-b779ba819505
+    url_background: https://api.mediux.pro/assets/b915086a-9789-4027-a5a9-14326bb18fb1
+
+  47964: # A Good Day to Die Hard (2013) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29521
+    url_poster: https://api.mediux.pro/assets/84f53e25-a9f3-43b4-a813-ee2227ed690e
+    url_background: https://api.mediux.pro/assets/0c177fc9-01f5-49e0-aaea-1c06e01e7c2d

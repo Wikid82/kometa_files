@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/1570-die-hard-collection
-    url_background: https://image.tmdb.org/t/p/original/5kHVblr87FUScuab1PVSsK692IL.jpg
-    url_poster: https://theposterdb.com/api/assets/719
+    url_background: https://api.mediux.pro/assets/36f6f92b-8c57-4628-97d2-6e8b0c73aed6
+    url_poster: https://api.mediux.pro/assets/d4882059-ca4a-42aa-88f1-ee25c6ad4df5 # Die Hard (1988) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29521
