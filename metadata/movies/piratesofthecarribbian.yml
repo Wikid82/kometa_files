@@ -1,16 +1,21 @@
 metadata:
-  Pirates of the Caribbean The Curse of the Black Pearl:
-    mapping_id: 22
-    url_poster: https://theposterdb.com/api/assets/9841
-  Pirates of the Caribbean Dead Man's Chest:
-    mapping_id: 58
-    url_poster: https://theposterdb.com/api/assets/9842
-  Pirates of the Caribbean At World's End:
-    mapping_id: 285
-    url_poster: https://theposterdb.com/api/assets/9843
-  Pirates of the Caribbean On Stranger Tides:
-    mapping_id: 1865
-    url_poster: https://theposterdb.com/api/assets/9844
-  Pirates of the Caribbean Dead Men Tell No Tales:
-    mapping_id: 166426
-    url_poster: https://theposterdb.com/api/assets/9846
+
+  22: # Pirates of the Caribbean: The Curse of the Black Pearl (2003) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29239
+    url_poster: https://api.mediux.pro/assets/1b7a6e76-111a-4bc4-81a6-36754cd0f3be
+    url_background: https://api.mediux.pro/assets/cbb420e2-8ae3-45b0-90d0-15de74612e83
+
+  58: # Pirates of the Caribbean: Dead Man's Chest (2006) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29239
+    url_poster: https://api.mediux.pro/assets/e8f0fcea-d6f2-4414-ab31-dd7d2696d6a3
+    url_background: https://api.mediux.pro/assets/3c2b67b7-f9e7-4ad5-84fc-6c3d13186c6e
+
+  285: # Pirates of the Caribbean: At World's End (2007) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29239
+    url_poster: https://api.mediux.pro/assets/db81d137-60eb-45b0-8630-4f33564d7bbc
+    url_background: https://api.mediux.pro/assets/283856e1-06d6-41f7-a34f-9b469de60edd
+
+  1865: # Pirates of the Caribbean: On Stranger Tides (2011) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29239
+    url_poster: https://api.mediux.pro/assets/92b94789-3830-43b7-b121-9f8f371155a4
+    url_background: https://api.mediux.pro/assets/388adb53-3d82-4447-86be-c63699a03ef7
+
+  166426: # Pirates of the Caribbean: Dead Men Tell No Tales (2017) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29239
+    url_poster: https://api.mediux.pro/assets/ecd6c118-1d53-4337-b010-c82ecdc2e95e
+    url_background: https://api.mediux.pro/assets/7958fa06-c656-44f6-88d2-7cbacab690d3
