@@ -1,10 +1,13 @@
 metadata:
-  Pitch Black:
-    mapping_id: 2787
-    url_poster: https://theposterdb.com/api/assets/26842
-  The Chronicles of Riddick:
-    mapping_id: 2789
-    url_poster: https://theposterdb.com/api/assets/26843
-  Riddick:
-    mapping_id: 87421
-    url_poster: https://theposterdb.com/api/assets/26844
+
+  2787: # Pitch Black (2000) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29307
+    url_poster: https://api.mediux.pro/assets/3f635c58-e67a-4373-a4b8-b42d812f2c92
+    url_background: https://api.mediux.pro/assets/382a8a1c-c4c2-41d6-873d-d11fb12da5d2
+
+  2789: # The Chronicles of Riddick (2004) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29307
+    url_poster: https://api.mediux.pro/assets/854d4ee2-5ece-4ea0-84b0-2573a960219a
+    url_background: https://api.mediux.pro/assets/d44b50f6-5248-48a2-a2b6-aef0c223db74
+
+  87421: # Riddick (2013) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29307
+    url_poster: https://api.mediux.pro/assets/95c2591e-2ec5-4a07-9f15-5d230a3cea57
+    url_background: https://api.mediux.pro/assets/e72ff7ec-b922-4a62-be85-1e27cb40c128
