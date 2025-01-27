@@ -1,18 +1,16 @@
 metadata:
-  Indiana Jones and the Raiders of the Lost Ark:
-    mapping_id: 85
-    title: "Indiana Jones and the Raiders of the Lost Ark"
-    sort_title: "Indiana Jones and the Raiders of the Lost Ark"
-    url_poster: https://theposterdb.com/api/assets/10362
-  Indiana Jones and the Temple of Doom:
-    mapping_id: 87
-    url_poster: https://theposterdb.com/api/assets/10363
-  Indiana Jones and the Last Crusade:
-    mapping_id: 89
-    url_poster: https://theposterdb.com/api/assets/10364
-  Indiana Jones and the Kingdom of the Crystal Skull:
-    mapping_id: 217
-    url_poster: https://theposterdb.com/api/assets/10365
-  Indiana Jones and the Dial of Destiny:
-    mapping_id: 335977
-    url_poster: https://theposterdb.com/api/assets/383053
+
+  85: # Raiders of the Lost Ark (1981) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30311
+    url_poster: https://api.mediux.pro/assets/6b2de60f-b285-42c9-80b2-68386fd7d120
+
+  87: # Indiana Jones and the Temple of Doom (1984) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30311
+    url_poster: https://api.mediux.pro/assets/5c25fce5-4738-4955-b47c-9e858235d0ae
+
+  89: # Indiana Jones and the Last Crusade (1989) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30311
+    url_poster: https://api.mediux.pro/assets/b96fe460-0ad5-41d4-af74-397f27625c55
+
+  217: # Indiana Jones and the Kingdom of the Crystal Skull (2008) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30311
+    url_poster: https://api.mediux.pro/assets/ab639f8d-a096-4931-979e-05a910c04e6d
+
+  335977: # Indiana Jones and the Dial of Destiny (2023) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30311
+    url_poster: https://api.mediux.pro/assets/00d99412-dbe8-4048-8ad7-a8ccb1980215
