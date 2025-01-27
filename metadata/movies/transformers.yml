@@ -1,25 +1,26 @@
 metadata:
-  Transformers:
-    mapping_id: 1858
-    url_poster: https://theposterdb.com/api/assets/385807
-  Transformers Revenge of the Fallen:
-    mapping_id: 8373
-    url_poster: https://theposterdb.com/api/assets/385808
-  Transformers Dark of the Moon:
-    mapping_id: 38356
-    url_poster: https://theposterdb.com/api/assets/385809
-  Transformers Age of Extinction:
-    mapping_id: 91314
-    url_poster: https://theposterdb.com/api/assets/385810
-  Transformers The Last Knight:
-    mapping_id: 335988
-    url_poster: https://theposterdb.com/api/assets/385811
-  Bumblebee:
-    mapping_id: 424783
-    url_poster: https://theposterdb.com/api/assets/385812
-  Transformers Rise of the Beasts:
-    mapping_id: 667538
-    url_poster: https://theposterdb.com/api/assets/385814
+
+  1858: # Transformers (2007) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30344
+    url_poster: https://api.mediux.pro/assets/ccf603be-1f1e-4c0a-9e7e-5e1210d78f4f
+
+  8373: # Transformers: Revenge of the Fallen (2009) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30344
+    url_poster: https://api.mediux.pro/assets/dce71824-f618-463a-bf76-701589746c70
+
+  38356: # Transformers: Dark of the Moon (2011) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30344
+    url_poster: https://api.mediux.pro/assets/ef6c7760-ca3c-407a-9fd2-01807bcd8f5d
+
+  91314: # Transformers: Age of Extinction (2014) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30344
+    url_poster: https://api.mediux.pro/assets/a81157a4-b521-45df-9017-68a7bd1c81d3
+
+  335988: # Transformers: The Last Knight (2017) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30344
+    url_poster: https://api.mediux.pro/assets/88d2fc6c-d9c6-4dfc-9a3b-8ea6d4906e00
+
+  424783: # Bumblebee (2018) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30345
+    url_poster: https://api.mediux.pro/assets/57f2c260-68f4-4148-9f55-cd22519b4c3b
+
+  667538: # Transformers: Rise of the Beasts (2023) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30346
+    url_poster: https://api.mediux.pro/assets/c41feae4-f70f-45a5-8bcc-3baa1b3aa685
+
     #  Transformers Rise of the Beasts 2:
     #    mapping_id: 939345
     #    url_poster: 

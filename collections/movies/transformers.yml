@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8495585-transformers
     url_background: https://image.tmdb.org/t/p/original/zvZBNNDWd5LcsIBpDhJyCB2MDT7.jpg
-    url_poster: https://theposterdb.com/api/assets/33217
+    url_poster: https://api.mediux.pro/assets/908114a7-d139-4256-a5d8-2939455bdf4e
