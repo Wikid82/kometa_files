@@ -1,7 +1,9 @@
 metadata:
-  Pacific Rim:
-    mapping_id: 68726
-    url_poster: https://theposterdb.com/api/assets/10220
-  Pacific Rim Uprising:
-    mapping_id: 268896
-    url_poster: https://theposterdb.com/api/assets/10221
+
+  68726: # Pacific Rim (2013) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30332
+    url_poster: https://api.mediux.pro/assets/4a14b85b-c77e-4b28-aecf-5cac2069441c
+    url_background: https://api.mediux.pro/assets/b64f35c9-8b60-472b-a4e2-005f9a94c66b
+
+  268896: # Pacific Rim: Uprising (2018) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30332
+    url_poster: https://api.mediux.pro/assets/51e0bd8f-b707-4efd-9ae5-3f5fc14c68db
+    url_background: https://api.mediux.pro/assets/96ff3f4f-8705-4c65-bbd1-803ddd6beb69
