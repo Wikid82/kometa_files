@@ -3,6 +3,6 @@ collections:
   Moana Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29317597
+    tmdb_collection_details: https://www.themoviedb.org/collection/1241984-moana-collection
     url_background: https://image.tmdb.org/t/p/original/4OgaftFNqtE1UvfDDb2Eov7A5Rz.jpg
-    url_poster: https://theposterdb.com/api/assets/119421
+    url_poster: https://api.mediux.pro/assets/4e24802f-c787-48a6-9a7e-7c8f7a20bead
