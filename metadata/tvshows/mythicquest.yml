@@ -1,9 +1,9 @@
 metadata:
-  362829: # TVDB id for Mythic Quest. Set by Wikid82 on MediUX. https://mediux.pro/sets/29522
-    url_poster: https://api.mediux.pro/assets/6bbb5af6-afbb-4733-a1af-1644da0e85cb
+  362829: # TVDB id for Mythic Quest. Set by fwlolx on MediUX. https://mediux.pro/sets/30359
+    url_poster: https://api.mediux.pro/assets/71f4da0c-2da7-415b-bb9b-9d160db08198
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/892425e1-bbd0-4909-b5b6-8212d2c187b3
+        url_poster: https://api.mediux.pro/assets/5d098a61-04cf-412c-b69c-60752f1ff47c
         episodes: # Title Card Set by Sarrius on MediUX.
           1:
             url_poster: https://api.mediux.pro/assets/3644bb1c-3c6e-4076-966a-23a522d43a31
@@ -28,7 +28,7 @@ metadata:
           11:
             url_poster: https://api.mediux.pro/assets/979c5cb2-1d6a-4978-8033-54b74c5da41b
       2:
-        url_poster: https://api.mediux.pro/assets/58613dc0-660c-4b15-89d5-9e459461005b
+        url_poster: https://api.mediux.pro/assets/051ac979-16b1-4abd-8229-36f03855b69d
         episodes: # Title Card Set by Sarrius on MediUX.
           1:
             url_poster: https://api.mediux.pro/assets/3549edb8-f4dc-4a93-a287-ac7c98f4ebe3
@@ -49,7 +49,7 @@ metadata:
           9:
             url_poster: https://api.mediux.pro/assets/9ed3a4fb-5d3d-468e-9958-ffd411e95349
       3:
-        url_poster: https://api.mediux.pro/assets/e3eb8282-bf66-4411-8ac5-f4e121b6cf21
+        url_poster: https://api.mediux.pro/assets/c4389ec2-6e33-4b3f-8f80-6c825be6bece
         episodes: # Title Card Set by Sarrius on MediUX.
           1:
             url_poster: https://api.mediux.pro/assets/c6f3668c-5070-45b1-9614-ca8a17fd294b
@@ -72,4 +72,4 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/5ee280ff-ced5-45e5-a9c5-671fd1275f58
       4:
-        url_poster: https://api.mediux.pro/assets/bf1c9e26-db74-4df5-9ace-abc7f5142d95
+        url_poster: https://api.mediux.pro/assets/5b396719-4d1c-4afe-999d-be438586ad65
