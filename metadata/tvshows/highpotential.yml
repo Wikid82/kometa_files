@@ -1,6 +1,4 @@
 metadata:
-  
-
   434988: # TVDB id for High Potential. Set by tallinex on MediUX. https://mediux.pro/sets/25368
     url_poster: https://api.mediux.pro/assets/a297f678-bb51-4a71-a57d-1a15da2ea471
     url_background: https://api.mediux.pro/assets/cd773b76-86af-40d5-956e-95542629e605
@@ -26,3 +24,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/cc3f5de0-d55a-44f7-9132-8bac7e57da2f
           9:
             url_poster: https://api.mediux.pro/assets/f8bc4371-2cd8-4a13-8a04-6777ba887c1e
+          10:
+            url_poster: https://api.mediux.pro/assets/52f60991-8951-4281-8891-0abefd44f2d2
+          11:
+            url_poster: https://api.mediux.pro/assets/68762707-74fd-4745-858d-43da29d52fea
