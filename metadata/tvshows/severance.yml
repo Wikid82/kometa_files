@@ -1,6 +1,5 @@
 metadata:
-
-    371980: # TVDB id for Severance. Set by davidlettice on MediUX. https://mediux.pro/sets/30128
+  371980: # TVDB id for Severance. Set by davidlettice on MediUX. https://mediux.pro/sets/30128
     url_poster: https://api.mediux.pro/assets/daed6da7-4bd5-48dd-8986-a79eb0b6a222
     url_background: https://api.mediux.pro/assets/848c602b-13a2-4533-ba98-3487faccec3e
     seasons:
