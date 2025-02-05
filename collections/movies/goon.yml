@@ -1,0 +1,7 @@
+collections:
+  Goon Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/476961-goon-collection
+    url_background: https://image.tmdb.org/t/p/original/fDemHSrXudWcaTCDdqEa5EuX5k.jpg
+    url_poster: https://api.mediux.pro/assets/683ff0f5-9c11-4393-8e74-2f9d7543a220 # Goon Collection Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1759
