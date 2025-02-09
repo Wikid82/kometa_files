@@ -1,0 +1,7 @@
+collections:
+  I Know What You Did Last Summer Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/3601-i-know-what-you-did-last-summer-collection
+    url_background: https://image.tmdb.org/t/p/original/ddssJqUfv3KMrIGGxgJs3i5sqH0.jpg
+    url_poster: https://api.mediux.pro/assets/067dd1c9-8a15-4db7-b033-9711e88ad0b6 # I Know What You Did Last Summer Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/2212
