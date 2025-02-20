@@ -1,0 +1,6 @@
+collections:
+  Pinocchio Collection:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list: https://trakt.tv/lists/30713376
+    url_poster: https://api.mediux.pro/assets/1dea1b93-5df7-4b17-b068-07e64f86d4d7
