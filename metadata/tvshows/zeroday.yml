@@ -1,0 +1,20 @@
+metadata:
+  431842: # TVDB id for Zero Day. Set by tallinex on MediUX. https://mediux.pro/sets/30795
+    url_poster: https://api.mediux.pro/assets/dfad26a5-ba2d-4ef9-b31b-12899bdeef86
+    url_background: https://api.mediux.pro/assets/f1a94099-374f-4166-8a10-a013aa33ac51
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/49121a13-0733-4154-9fd9-352af631b47b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/be355bc0-56f5-4b5f-b700-96d47b330f08
+          2:
+            url_poster: https://api.mediux.pro/assets/5f49e003-86c4-420f-8b82-94da024d4c00
+          3:
+            url_poster: https://api.mediux.pro/assets/7566dd58-4919-4651-8117-2978305bf502
+          4:
+            url_poster: https://api.mediux.pro/assets/881d93a5-ece0-4a97-b082-7d40112298ba
+          5:
+            url_poster: https://api.mediux.pro/assets/58653420-c0cb-4838-987c-7201176fbb5e
+          6:
+            url_poster: https://api.mediux.pro/assets/f16a5527-0f3f-4d3e-b112-b10482b3103f
