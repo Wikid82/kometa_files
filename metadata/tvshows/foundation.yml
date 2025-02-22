@@ -1,0 +1,50 @@
+metadata:
+  366972: # TVDB id for Foundation. Set by wiwer on MediUX. https://mediux.pro/sets/15038
+    url_poster: https://api.mediux.pro/assets/f0776e57-6f47-434a-a06f-265f1a33a2fe
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/09114a8e-acd2-4921-bda3-680f16e3da8c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/e9e63899-5ad6-4990-a709-452db7aff687
+          2:
+            url_poster: https://api.mediux.pro/assets/44e32b55-3f2e-4f6f-bd7e-ee4d480ce2ef
+          3:
+            url_poster: https://api.mediux.pro/assets/c4f39edb-88e0-4e82-a79d-e7e04c501825
+          4:
+            url_poster: https://api.mediux.pro/assets/decbbf54-cced-4811-8fda-04138fb921fc
+          5:
+            url_poster: https://api.mediux.pro/assets/10c9faef-ec6c-461f-8efd-c3597ad7e743
+          6:
+            url_poster: https://api.mediux.pro/assets/11711b75-0214-4b18-92c2-029b62cbb807
+          7:
+            url_poster: https://api.mediux.pro/assets/a25acc91-e693-433f-95e2-bd38c781efa7
+          8:
+            url_poster: https://api.mediux.pro/assets/a70adc18-5401-4032-bc7f-14cd0b54e603
+          9:
+            url_poster: https://api.mediux.pro/assets/4b99f505-228f-43ff-8f4a-354aefbe4830
+          10:
+            url_poster: https://api.mediux.pro/assets/2c2c7b14-b14c-4ba1-8dca-4e3b338c0a71
+      2:
+        url_poster: https://api.mediux.pro/assets/0de6fa97-6d2a-4fbc-acec-a1d8cd5b73de
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/ce770b90-0a9a-4791-93c5-6be741d33c43
+          2:
+            url_poster: https://api.mediux.pro/assets/561b4ae0-536b-4e52-862f-e98c426926a6
+          3:
+            url_poster: https://api.mediux.pro/assets/43fc8fca-b649-4221-b56c-5f463e9fea11
+          4:
+            url_poster: https://api.mediux.pro/assets/d8b1943f-639c-4eed-b569-799f6ee327f8
+          5:
+            url_poster: https://api.mediux.pro/assets/8208f996-63f4-46ac-9718-c3585995beb6
+          6:
+            url_poster: https://api.mediux.pro/assets/bcb766af-9d53-455f-a7d1-6a9b8bd1f896
+          7:
+            url_poster: https://api.mediux.pro/assets/7f3f30d3-75e4-4eee-bec3-89f41653da91
+          8:
+            url_poster: https://api.mediux.pro/assets/a175fe69-d228-4c2e-847a-dff7969dcb80
+          9:
+            url_poster: https://api.mediux.pro/assets/bfa3e8d7-af2c-447c-b963-76339bd2e5e7
+          10:
+            url_poster: https://api.mediux.pro/assets/90643734-f2fc-44e5-819e-1407a188e86b
