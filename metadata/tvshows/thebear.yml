@@ -1,0 +1,70 @@
+metadata:
+  403294: # TVDB id for The Bear. Set by willtong93 on MediUX. https://mediux.pro/sets/9501
+    url_poster: https://api.mediux.pro/assets/b91a2daf-0e2e-44eb-afed-dc3cee4d5c71
+    url_background: https://api.mediux.pro/assets/a9378817-4540-4bb3-921d-ecc35c45c5c8
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a5582fef-9ccf-4465-80d0-e861e6cb9531
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/e1804188-99cf-429a-b8dc-f4a1941b57e0
+          2:
+            url_poster: https://api.mediux.pro/assets/6fb4cc74-f8b6-4651-8353-632b536a9ac2
+          3:
+            url_poster: https://api.mediux.pro/assets/e862ca81-16cc-473c-b292-fe3542c5f44d
+          4:
+            url_poster: https://api.mediux.pro/assets/9596fbb5-b79b-41cd-b13e-bb5df126b98f
+          5:
+            url_poster: https://api.mediux.pro/assets/734f494f-2ff8-42f8-8568-46c93b61d462
+          6:
+            url_poster: https://api.mediux.pro/assets/a6911937-cafa-41b9-a45b-7e3c31b35c39
+          7:
+            url_poster: https://api.mediux.pro/assets/f894c742-152b-4c14-913b-88892406b84a
+          8:
+            url_poster: https://api.mediux.pro/assets/6927df25-2645-488e-a3e5-772843a5dac5
+      2:
+        url_poster: https://api.mediux.pro/assets/37510737-c3f1-459f-af72-42b5884a424c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8f5b2b89-099f-4d46-a21f-165f93ea7c6d
+          2:
+            url_poster: https://api.mediux.pro/assets/697dd506-988f-490f-a280-facd6388961e
+          3:
+            url_poster: https://api.mediux.pro/assets/b0608d3a-71dc-48ea-82d7-a2be949791d5
+          4:
+            url_poster: https://api.mediux.pro/assets/9a8411f3-65ed-468c-8f07-5cd9fe40a4b0
+          5:
+            url_poster: https://api.mediux.pro/assets/69eecf5b-db7e-4493-90fa-2b6606dbcb10
+          6:
+            url_poster: https://api.mediux.pro/assets/c0f10052-b073-401e-b6bd-7b4ca36f62f5
+          7:
+            url_poster: https://api.mediux.pro/assets/9e8c5111-97ab-490e-bc5b-21799e9e3128
+          8:
+            url_poster: https://api.mediux.pro/assets/a834c05e-e14b-4c12-af77-d120476d2c84
+          9:
+            url_poster: https://api.mediux.pro/assets/571cff11-691a-4adf-8888-7fd119ab07a4
+          10:
+            url_poster: https://api.mediux.pro/assets/c7fd8536-2050-47ab-838f-0a4adb71b3bf
+      3:
+        url_poster: https://api.mediux.pro/assets/236ca20f-bc45-44fa-83e2-b913ddd3634f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/10508a99-a8ca-47ab-a51b-d1937efabde6
+          2:
+            url_poster: https://api.mediux.pro/assets/01a7e6a0-1d49-4c62-8a5b-5a93c3311333
+          3:
+            url_poster: https://api.mediux.pro/assets/e8ff4fe2-a10a-4430-bdd1-798c05741e9a
+          4:
+            url_poster: https://api.mediux.pro/assets/c433c90a-c1b4-4243-9be2-fb77aaa19cb5
+          5:
+            url_poster: https://api.mediux.pro/assets/a3c1c726-0635-4caf-96cf-68daa7486e4f
+          6:
+            url_poster: https://api.mediux.pro/assets/a3831953-7b02-4352-8c9f-6f642cc41d12
+          7:
+            url_poster: https://api.mediux.pro/assets/cd2ac92b-e459-4dba-a6be-755c3a0aff77
+          8:
+            url_poster: https://api.mediux.pro/assets/76d54155-4e50-49e6-a0dc-db92e5bdd8c7
+          9:
+            url_poster: https://api.mediux.pro/assets/2e7d2477-9c9c-4e71-be69-c90f50a4aae0
+          10:
+            url_poster: https://api.mediux.pro/assets/06e191df-56db-4a9a-a261-88c20992daff
