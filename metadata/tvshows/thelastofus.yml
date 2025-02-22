@@ -1,0 +1,26 @@
+metadata:
+  392256: # TVDB id for The Last of Us. Set by willtong93 on MediUX. https://mediux.pro/sets/22639
+    url_poster: https://api.mediux.pro/assets/d30da1b0-06dd-4226-8b86-13534eaac845
+    url_background: https://api.mediux.pro/assets/75dc3640-fed4-4a4f-9317-41cd1c7d9bae
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/bb2a6a79-31cf-4ff6-a00b-d84357eca31c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/0b3f0597-29a2-408e-aa3c-1beb8bf3a12f
+          2:
+            url_poster: https://api.mediux.pro/assets/0d32f78a-5355-40e0-ae22-87e60f53c4e0
+          3:
+            url_poster: https://api.mediux.pro/assets/c6e09bc6-061c-43d5-995e-b2c1ac3d9af1
+          4:
+            url_poster: https://api.mediux.pro/assets/2fa64957-a333-412c-8419-1e35db53ec06
+          5:
+            url_poster: https://api.mediux.pro/assets/e37757e6-692f-4342-b279-414c4243cfcf
+          6:
+            url_poster: https://api.mediux.pro/assets/3135ba20-2615-4f7e-93a3-7093049f917d
+          7:
+            url_poster: https://api.mediux.pro/assets/ae2e549c-c0d1-4109-a5a8-8ece1e52de68
+          8:
+            url_poster: https://api.mediux.pro/assets/6c1d5273-23f8-4d0e-9129-ce0aba65e85c
+          9:
+            url_poster: https://api.mediux.pro/assets/a32ccec9-f601-44c8-9ad3-be5a5dce5a94
