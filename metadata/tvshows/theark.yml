@@ -1,0 +1,8 @@
+metadata:
+  415089: # TVDB id for The Ark. Set by fwlolx on MediUX. https://mediux.pro/sets/22240
+    url_poster: https://api.mediux.pro/assets/a14a3dc4-156d-4e77-8d15-503c6912865f
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b20b1637-6072-444a-91eb-ec9e4048eec1
+      2:
+        url_poster: https://api.mediux.pro/assets/10ce95b6-b754-45e1-988d-8a1ca9561f9f
