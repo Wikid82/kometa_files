@@ -1,0 +1,7 @@
+collections:
+  Chilli Palmer Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/91698-chili-palmer-collection
+    url_background: https://image.tmdb.org/t/p/original/6KEpKs5asAqOwEr9XrOZJSMHW7O.jpg
+    url_poster: https://image.tmdb.org/t/p/original/7eq03V9q80w3HPC0gUV2OEQVQ7W.jpg
