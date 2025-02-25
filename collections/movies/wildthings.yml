@@ -1,0 +1,7 @@
+collections:
+  Wild Things Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/33059-wild-things-collection
+    url_background: https://image.tmdb.org/t/p/original/1Gci6i2RHuum4JaXnlWfev3GH5b.jpg
+    url_poster: https://image.tmdb.org/t/p/original/iafrzHPYyZXZl96la1IrjxMsW1e.jpg
