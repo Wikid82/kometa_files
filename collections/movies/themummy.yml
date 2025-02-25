@@ -1,7 +1,9 @@
 collections:
-  The Mummy Collection:
+  The Mummy Universe:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/1733-the-mummy-collection
+    tmdb_collection:
+    - https://www.themoviedb.org/collection/1733-the-mummy-collection
+    - https://www.themoviedb.org/collection/116669-the-scorpion-king-collection
     url_background: https://api.mediux.pro/assets/4febced4-65f0-4242-b035-52c4e602fea2
     url_poster: https://api.mediux.pro/assets/115cc16b-93f1-487c-aa8f-2bc77033ba7c # Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/29100
