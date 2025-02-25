@@ -1,0 +1,12 @@
+metadata:
+  402365: # TVDB id for The Cleaning Lady. Set by fwlolx on MediUX. https://mediux.pro/sets/12968
+    url_poster: https://api.mediux.pro/assets/430f57ee-fe86-4ab7-b33d-618fa1d059b2
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9a72d864-37a7-4047-bf33-b4ddf7c56b2c
+      2:
+        url_poster: https://api.mediux.pro/assets/d301ff0b-9915-4c94-bb56-c58ffc783ea2
+      3:
+        url_poster: https://api.mediux.pro/assets/fc935389-c04b-4cb3-a5df-47ef102ae80f
+      4:
+        url_poster: https://api.mediux.pro/assets/b0b06ba1-5023-4a97-b6c1-3beb5dc2a8d9
