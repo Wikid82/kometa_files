@@ -1,0 +1,78 @@
+metadata:
+
+  336261: # TVDB id for Tom Clancy's Jack Ryan. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/8118
+    url_poster: https://api.mediux.pro/assets/73996f51-35b6-459e-be0f-511f67571ce6
+    url_background: https://api.mediux.pro/assets/d2074b95-788e-47e5-ba87-4f57bb9bb5f1
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3b15e1fb-2e51-4bc3-9023-c3cface86af0
+        episodes: # TVDB id for Tom Clancy's Jack Ryan. Set by codonzero22 on MediUX. https://mediux.pro/sets/29549
+          1:
+            url_poster: https://api.mediux.pro/assets/665959af-be28-4518-b747-58ea682e350a
+          2:
+            url_poster: https://api.mediux.pro/assets/57da5ba9-74ef-439d-8af8-b82a90e9760e
+          3:
+            url_poster: https://api.mediux.pro/assets/1d66cbca-0706-44f3-acfd-c607285296f1
+          4:
+            url_poster: https://api.mediux.pro/assets/fb26d4fa-fbe6-4b76-8de4-bf75647fcd4c
+          5:
+            url_poster: https://api.mediux.pro/assets/09d1b380-adaf-4110-aceb-432ec643ca0e
+          6:
+            url_poster: https://api.mediux.pro/assets/ab616ea7-8c25-42bf-bda3-d8b0f03a0378
+          7:
+            url_poster: https://api.mediux.pro/assets/997746e6-178a-4ca1-a77f-a2525dc7ba88
+          8:
+            url_poster: https://api.mediux.pro/assets/d9519d6e-7d41-449c-ae82-d9b8d3fd917a
+      2:
+        url_poster: https://api.mediux.pro/assets/1aa09c00-9636-4d37-b0f5-86ef17b469db
+        episodes: # TVDB id for Tom Clancy's Jack Ryan. Set by codonzero22 on MediUX. https://mediux.pro/sets/29549
+          1:
+            url_poster: https://api.mediux.pro/assets/35aadf19-58de-442e-bfee-80935d7cb04b
+          2:
+            url_poster: https://api.mediux.pro/assets/a42fcf7b-df88-4e8d-8ac9-ec7323be293f
+          3:
+            url_poster: https://api.mediux.pro/assets/1f11f800-e5f4-4aee-b6c6-119910eafa58
+          4:
+            url_poster: https://api.mediux.pro/assets/75fc5e52-8e41-4655-ac7a-7dc1c1d0a3c0
+          5:
+            url_poster: https://api.mediux.pro/assets/4113921d-d0d2-4000-bc5c-f361d17e4e2d
+          6:
+            url_poster: https://api.mediux.pro/assets/27cdc58f-5b83-4ff5-b567-12d853e23145
+          7:
+            url_poster: https://api.mediux.pro/assets/73804b7a-a24c-4374-9ff2-b4551c5c648c
+          8:
+            url_poster: https://api.mediux.pro/assets/e3ab3f75-664c-4a6e-b2eb-4bdb06d62ffa
+      3:
+        url_poster: https://api.mediux.pro/assets/55901e69-bfe6-4ce1-b6fa-b95999ca8970
+        episodes: # TVDB id for Tom Clancy's Jack Ryan. Set by codonzero22 on MediUX. https://mediux.pro/sets/29549
+          1:
+            url_poster: https://api.mediux.pro/assets/de5cfd06-af90-47e9-8575-bd2cd56cd574
+          2:
+            url_poster: https://api.mediux.pro/assets/4372a76b-3a75-450b-877a-7f3c241a047c
+          3:
+            url_poster: https://api.mediux.pro/assets/ec33ff1a-11ef-49fd-9f5e-f7b37907cd83
+          4:
+            url_poster: https://api.mediux.pro/assets/f8d94fb5-ea3a-4b0a-9bc6-d6c8c67a62da
+          5:
+            url_poster: https://api.mediux.pro/assets/4e26ace4-5f46-49d2-b5d7-bc038b55fc12
+          6:
+            url_poster: https://api.mediux.pro/assets/a609ebfb-65e6-4a23-901b-c2e1c5963d5e
+          7:
+            url_poster: https://api.mediux.pro/assets/57bd6293-17a5-4529-bb09-31823cd7a60a
+          8:
+            url_poster: https://api.mediux.pro/assets/59a2c216-6e82-42a4-9a3b-0c43f110bbf7
+      4:
+        url_poster: https://api.mediux.pro/assets/18f3bc5e-fd8a-481e-82f3-c3f11e0c53b9
+        episodes: # TVDB id for Tom Clancy's Jack Ryan. Set by codonzero22 on MediUX. https://mediux.pro/sets/29549
+          1:
+            url_poster: https://api.mediux.pro/assets/db9264b1-db92-49ac-a093-a8ed266f4933
+          2:
+            url_poster: https://api.mediux.pro/assets/47b9fb79-c4cd-4b53-a255-3373fcee8b30
+          3:
+            url_poster: https://api.mediux.pro/assets/0f54cafb-738b-4cd0-899d-c2e475f6e92b
+          4:
+            url_poster: https://api.mediux.pro/assets/7ce146ce-dbfe-421b-9729-3b62991c86b0
+          5:
+            url_poster: https://api.mediux.pro/assets/a6e3f8e2-d0bc-407d-a5f9-1a10fcd58fcc
+          6:
+            url_poster: https://api.mediux.pro/assets/d2a5284b-a122-4200-9638-6bb4d043a8d9
