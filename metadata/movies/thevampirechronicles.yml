@@ -1,7 +1,6 @@
 metadata:
-  Interview with the Vampire:
-    mapping_id: 628
-    url_poster: https://theposterdb.com/api/assets/99744
-  Queen of the Damned:
-    mapping_id: 11979
-    url_poster: https://theposterdb.com/api/assets/99745
+  628: # Interview with the Vampire (1994) 
+    url_poster: https://theposterdb.com/api/assets/477856
+
+  11979: # Queen of the Damned (2002) 
+    url_poster: https://theposterdb.com/api/assets/477855
