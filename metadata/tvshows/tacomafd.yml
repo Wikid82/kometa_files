@@ -1,0 +1,13 @@
+metadata:
+  347719: # TVDB id for Tacoma FD. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/28717
+    url_poster: https://api.mediux.pro/assets/ea867613-c446-45f3-83a6-a08be6ce6cf5
+    url_background: https://api.mediux.pro/assets/b59c3522-2ed4-4ba5-abb2-fb921d13c5dd
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4f1cb081-c9aa-4c29-96e2-0780e9bcabf8
+      2:
+        url_poster: https://api.mediux.pro/assets/6ef7916e-b47d-45d1-8384-8055a3d1d36a
+      3:
+        url_poster: https://api.mediux.pro/assets/88d1c180-a4b7-45ae-bdf8-00958e290b5c
+      4:
+        url_poster: https://api.mediux.pro/assets/d01fa9b7-dc3b-4a90-a73c-d9c2595c7b93
