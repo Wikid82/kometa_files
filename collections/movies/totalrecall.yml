@@ -1,0 +1,7 @@
+collections:
+  Total Recall Collection:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list: https://trakt.tv/lists/30784422
+    url_background: https://api.mediux.pro/assets/afee3b5e-ce37-4cc6-8519-754158a7163d
+    url_poster: https://api.mediux.pro/assets/9cf2b7fd-e1ab-4cd9-81cb-fa948e7e77f5
