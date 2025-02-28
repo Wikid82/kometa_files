@@ -1,0 +1,7 @@
+collections:
+  Short Circuit Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/86347-short-circuit-collection
+    url_background: https://image.tmdb.org/t/p/original/6o0PEsENKA7DLIs2G2lAlD5WBrd.jpg
+    url_poster: https://theposterdb.com/api/assets/300651
