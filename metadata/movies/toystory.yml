@@ -1,16 +1,16 @@
 metadata:
-  Toy Story:
-    mapping_id: 862
-    url_poster: https://theposterdb.com/api/assets/17799
-  Toy Story 2:
-    mapping_id: 863
-    url_poster: https://theposterdb.com/api/assets/17800
-  Toy Story 3:
-    mapping_id: 10193
-    url_poster: https://theposterdb.com/api/assets/17801
-  Toy Story 4:
-    mapping_id: 301528
-    url_poster: https://theposterdb.com/api/assets/17802
-# Toy Story 5:
-#   mapping_id: 1084244
-#   url_poster: 
+
+  862: # Toy Story (1995) Poster by willtong93 on MediUX. https://mediux.pro/sets/26741
+    url_poster: https://api.mediux.pro/assets/c0f10a03-c0fc-465e-87b2-fd7e359884b3
+
+  863: # Toy Story 2 (1999) Poster by willtong93 on MediUX. https://mediux.pro/sets/26741
+    url_poster: https://api.mediux.pro/assets/dc82348f-9f5c-4e7b-ab05-0c68e8a66b28
+
+  10193: # Toy Story 3 (2010) Poster by willtong93 on MediUX. https://mediux.pro/sets/26741
+    url_poster: https://api.mediux.pro/assets/8a38a632-9d01-43ac-baea-c47d74f99647
+
+  301528: # Toy Story 4 (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/26741
+    url_poster: https://api.mediux.pro/assets/b0d72036-6f73-4c02-9f72-6f755d6169f8
+
+  718789: # Lightyear (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/26747
+    url_poster: https://api.mediux.pro/assets/c1071745-f59b-46de-95c0-57a423c133f2
