@@ -1,0 +1,7 @@
+collections:
+  Sherlock Holmes Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/102322-sherlock-holmes-collection
+    url_background: https://api.mediux.pro/assets/a00590f1-c152-4033-9185-b5c9ef762f9e
+    url_poster: https://api.mediux.pro/assets/54820d37-0afe-476b-a888-31794f32a9de
