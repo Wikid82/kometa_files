@@ -1,0 +1,7 @@
+collections:
+  Kung Fu Panda Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/77816-kung-fu-panda-collection
+    url_background: https://api.mediux.pro/assets/56a558a8-6310-42be-a335-c8e34f2d0f18
+    url_poster: https://api.mediux.pro/assets/e7a65f63-8ae6-48e1-8e97-242166d8e539 # Kung Fu Panda Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/26538
