@@ -1,0 +1,7 @@
+collections:
+  Wrong Turn Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/52985-wrong-turn-collection
+    url_background: https://image.tmdb.org/t/p/original/32IsLLCoj3mIkZbLfCKSXZVqd3k.jpg
+    url_poster: https://api.mediux.pro/assets/31e8fe42-302b-48d2-8e41-3c8fa506c412 # Wrong Turn Collection Poster by Pejamas on MediUX. https://mediux.pro/sets/13811
