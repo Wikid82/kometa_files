@@ -1,0 +1,7 @@
+collections:
+  Jump Street Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/212562-jump-street-collection
+    url_background: https://api.mediux.pro/assets/364e6df1-0b1e-497e-b7d3-2d6874be2375
+    url_poster: https://api.mediux.pro/assets/29860367-24a2-442d-8847-15f4ab12ce9b
