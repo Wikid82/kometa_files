@@ -1,0 +1,7 @@
+collections:
+  Ace Ventura Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/3167-ace-ventura-collection
+    url_background: https://api.mediux.pro/assets/8321e469-c8bd-4c09-bc57-3cfaea0824b5
+    url_poster: https://api.mediux.pro/assets/f70a75c0-5bcb-459c-8a76-e0c750dda205 # Ace Ventura: Pet Detective Collection Poster by IdentityTheft on MediUX. https://mediux.pro/sets/28131
