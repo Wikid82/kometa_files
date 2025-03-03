@@ -1,0 +1,7 @@
+collections:
+  Police Academy Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/9338-police-academy-collection
+    url_background: https://image.tmdb.org/t/p/original/RhpI828r9EKPV4x0pyHiqCDZDQ.jpg
+    url_poster: https://api.mediux.pro/assets/90a7d812-7946-42e5-adba-fae8efe03dd9
