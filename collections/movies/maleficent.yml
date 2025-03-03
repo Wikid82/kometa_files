@@ -1,0 +1,7 @@
+collections:
+  Maleficent Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/531331-maleficent-collection
+    url_background: https://api.mediux.pro/assets/3c9f22b0-60fc-4780-81dc-7d1acbde20d7
+    url_poster: https://api.mediux.pro/assets/bf3b662a-2784-4ee4-8c4e-ed22c94b5ac1 # Maleficent Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/27482
