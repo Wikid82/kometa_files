@@ -1,7 +1,7 @@
 metadata:
-  28 Days Later:
-    mapping_id: 170
+
+  170: # 28 Days Later (2002) Poster by Hikari on MediUX. https://mediux.pro/sets/28080
     url_poster: https://api.mediux.pro/assets/8b2989d0-7a6c-4feb-be24-0f0b8037db1e
-  28 Weeks Later:
-    mapping_id: 1562
+
+  1562: # 28 Weeks Later (2007) Poster by Hikari on MediUX. https://mediux.pro/sets/28080
     url_poster: https://api.mediux.pro/assets/76543449-b45b-4d0c-a3d5-179136e4a427
