@@ -1,0 +1,7 @@
+collections:
+  Mary Poppins Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/527439-mary-poppins-collection
+    url_background: https://image.tmdb.org/t/p/original/7f3qwby0wlw4y1vG7yQqhme5iTK.jpg
+    url_poster: https://api.mediux.pro/assets/b3b72bbe-127a-496b-8d1a-4323570b8679 # Mary Poppins (Collection) Poster by RuviLev on MediUX. https://mediux.pro/sets/13362
