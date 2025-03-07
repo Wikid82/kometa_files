@@ -1,0 +1,7 @@
+collections:
+  Machete Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/210006-machete-collection
+    url_background: https://image.tmdb.org/t/p/original/nxCWYlyf67148ve2PwvNzESuO5c.jpg
+    url_poster: https://api.mediux.pro/assets/5eaf3673-a01b-4fc8-9e0b-9aaf38f8751d # Machete Kills (Collection) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/2281
