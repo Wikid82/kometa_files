@@ -1,13 +1,14 @@
 metadata:
-  Thor:
-    mapping_id: 10195
-    url_poster: https://theposterdb.com/api/assets/162899
-  Thor The Dark World:
-    mapping_id: 76338
-    url_poster: https://theposterdb.com/api/assets/162903
-  Thor Ragnarok:
-    mapping_id: 284053
-    url_poster: https://theposterdb.com/api/assets/162912
-  Thor Love & Thunder:
-    mapping_id: 616037
-    url_poster: https://theposterdb.com/api/assets/265776
+
+  10195: # Thor (2011) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30253
+    url_poster: https://api.mediux.pro/assets/6731d46b-5b4e-4339-ad3a-505cb84e6b08
+
+  76338: # Thor: The Dark World (2013) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30253
+    url_poster: https://api.mediux.pro/assets/f9e44f49-83e3-4ed2-b3ea-682a59cf44f9
+
+  284053: # Thor: Ragnarok (2017) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30253
+    url_poster: https://api.mediux.pro/assets/450f0844-dfd9-4cbf-a92e-9b5f46c3b319
+
+  616037: # Thor: Love and Thunder (2022) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30253
+    url_poster: https://api.mediux.pro/assets/833bb7d3-f0dc-4fe4-a5f1-ed5384e861ac
+

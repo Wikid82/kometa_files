@@ -1,7 +1,8 @@
 metadata:
-  Doctor Strange:
-    mapping_id: 284052
-    url_poster: https://theposterdb.com/api/assets/162909
-  Doctor Strange in the Multivers of Madness:
-    mapping_id: 453395
-    url_poster: https://theposterdb.com/api/assets/198589
+
+  284052: # Doctor Strange (2016) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30260
+    url_poster: https://api.mediux.pro/assets/c86bbf77-c508-484e-9819-2b745ae0f999
+
+  453395: # Doctor Strange in the Multiverse of Madness (2022) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30260
+    url_poster: https://api.mediux.pro/assets/5a8d6f56-86ab-4fc2-9d39-d2a8183402b1
+

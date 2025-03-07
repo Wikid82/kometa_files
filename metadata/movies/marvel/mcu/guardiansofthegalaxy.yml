@@ -1,13 +1,13 @@
 metadata:
-  Guardians of the Galaxy:
-    mapping_id: 118340
-    url_poster: https://theposterdb.com/api/assets/162905
-  Guardians of the Galaxy Vol. 2:
-    mapping_id: 283995
-    url_poster: https://theposterdb.com/api/assets/162910
-  The Guardians of the Galaxy Holiday Special:
-    mapping_id: 774752
-    url_poster: https://theposterdb.com/api/assets/314342
-  Guardians of the Galaxy Vol. 3:
-    mapping_id: 447365
-    url_poster: https://theposterdb.com/api/assets/392840
+
+  118340: # Guardians of the Galaxy (2014) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30262
+    url_poster: https://api.mediux.pro/assets/c3deb6db-e38f-4d50-852a-dc0d510ab897
+
+  283995: # Guardians of the Galaxy Vol. 2 (2017) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30262
+    url_poster: https://api.mediux.pro/assets/883e2503-6bf0-40fa-b988-9614c210b802
+
+  774752: # The Guardians of the Galaxy Holiday Special (2022) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30263
+    url_poster: https://api.mediux.pro/assets/c4974074-a560-40b1-bdb1-241ece839236
+
+  447365: # Guardians of the Galaxy Vol. 3 (2023) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30262
+    url_poster: https://api.mediux.pro/assets/fb330f66-c06d-4e8f-90cb-165c20bb5158

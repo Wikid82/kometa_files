@@ -1,13 +1,13 @@
 metadata:
-  Avengers:
-    mapping_id: 24428
-    url_poster: https://theposterdb.com/api/assets/162901
-  Avengers Age Of Ultron:
-    mapping_id: 99861
-    url_poster: https://theposterdb.com/api/assets/162906
-  Avengers Infinity War:
-    mapping_id: 299536
-    url_poster: https://theposterdb.com/api/assets/162914
-  Avengers Endgame:
-    mapping_id: 299534
-    url_poster: https://theposterdb.com/api/assets/162917
+
+  24428: # The Avengers (2012) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30256
+    url_poster: https://api.mediux.pro/assets/3a9e5eb0-47c2-47ed-be51-3aaa31bd4b0f
+
+  99861: # Avengers: Age of Ultron (2015) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30256
+    url_poster: https://api.mediux.pro/assets/115ceccc-4e26-4b45-b01c-71c673859e28
+
+  299536: # Avengers: Infinity War (2018) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30256
+    url_poster: https://api.mediux.pro/assets/1dedebb6-9ca7-463c-b7fd-4deabb93dac1
+
+  299534: # Avengers: Endgame (2019) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30256
+    url_poster: https://api.mediux.pro/assets/db117cee-e40b-442b-962a-6ddad09064bc

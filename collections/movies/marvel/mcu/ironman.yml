@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/131292-iron-man-collection
     url_background: https://image.tmdb.org/t/p/original/o4ECxoNVP5HahPFf3mzkRG63OBK.jpg
-    url_poster: https://theposterdb.com/api/assets/162892
+    url_poster: https://api.mediux.pro/assets/239013b6-0d0c-471e-a15f-2478303e3146

@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/623911-captain-marvel-collection
     url_background: https://image.tmdb.org/t/p/original/ubZUKycnQldt2umj0bPD2VwXDJM.jpg
-    url_poster: https://theposterdb.com/api/assets/162889
+    url_poster: https://api.mediux.pro/assets/c750faf8-2cd3-4b2d-aa62-f978958d50ad

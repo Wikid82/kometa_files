@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/618529-doctor-strange-collection
     url_background: https://image.tmdb.org/t/p/original/1vvcjtVg53NKdrrHY6aivR5bbSB.jpg
-    url_poster: https://theposterdb.com/api/assets/162890
+    url_poster: https://api.mediux.pro/assets/d6264e4e-1b85-427e-923c-5e987bc452c2

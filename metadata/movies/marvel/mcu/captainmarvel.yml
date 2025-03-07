@@ -1,7 +1,7 @@
 metadata:
-  Captain Mavel:
-    mapping_id: 299537
-    url_poster: https://theposterdb.com/api/assets/162916
-  The Mavels:
-    mapping_id: 609681
-    url_poster: https://theposterdb.com/api/assets/452675
+
+  299537: # Captain Marvel (2019) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30258
+    url_poster: https://api.mediux.pro/assets/ccb352fa-66d5-4ca3-8631-393bd1aa2f6f
+
+  609681: # The Marvels (2023) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30258
+    url_poster: https://api.mediux.pro/assets/7b75c396-ced9-4a1a-a834-898b21a656d3

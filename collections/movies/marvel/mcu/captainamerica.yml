@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/131295-captain-america-collection
     url_background: https://image.tmdb.org/t/p/original/pDlXQYSvHcJTwVcxvCs0DxlDzrV.jpg
-    url_poster: https://theposterdb.com/api/assets/162888
+    url_poster: https://api.mediux.pro/assets/c8fafc8c-b5e0-4083-9328-e2ebd00770bb

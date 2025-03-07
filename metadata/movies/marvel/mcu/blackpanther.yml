@@ -1,7 +1,7 @@
 metadata:
-  Black Panther:
-    mapping_id: 284054
-    url_poster: https://theposterdb.com/api/assets/162913
-  Black Panther Wakanda Forever:
-    mapping_id: 505642
-    url_poster: https://theposterdb.com/api/assets/274296
+
+  284054: # Black Panther (2018) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30257
+    url_poster: https://api.mediux.pro/assets/b462a7ea-e29f-45f6-85b3-ce9d24bba26c
+
+  505642: # Black Panther: Wakanda Forever (2022) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30257
+    url_poster: https://api.mediux.pro/assets/6e89a634-b959-4557-a76b-a1ab1391bcad

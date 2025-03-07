@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/131296-thor-collection
     url_background: https://image.tmdb.org/t/p/original/ni7qKvsca1vXJlp9cu0JH0ZAJu7.jpg
-    url_poster: https://theposterdb.com/api/assets/162895
+    url_poster: https://api.mediux.pro/assets/8a05aea0-6f24-425b-a6dc-4e2a97e2fd87

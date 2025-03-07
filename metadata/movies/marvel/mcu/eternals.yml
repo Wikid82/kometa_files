@@ -1,4 +1,5 @@
 metadata:
-  Eternals:
-    mapping_id: 524434
-    url_poster: https://theposterdb.com/api/assets/162921
+
+  524434: # Eternals (2021) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30261
+    url_poster: https://api.mediux.pro/assets/4d38b260-99e1-43a1-a238-632b9607850e
+

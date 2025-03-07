@@ -1,10 +1,13 @@
 metadata:
-  Captain America The First Avenger:
-    mapping_id: 1771
-    url_poster: https://theposterdb.com/api/assets/162900
-  Captain America The Winter Soldier:
-    mapping_id: 100402
-    url_poster: https://theposterdb.com/api/assets/162904
-  Captain America Civil War:
-    mapping_id: 271110
-    url_poster: https://theposterdb.com/api/assets/162908
+
+  1771: # Captain America: The First Avenger (2011) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30252
+    url_poster: https://api.mediux.pro/assets/425b1ad5-5b99-4137-b7c7-9fcf0286f6cc
+
+  100402: # Captain America: The Winter Soldier (2014) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30252
+    url_poster: https://api.mediux.pro/assets/e2e18cc0-0e51-486f-9818-fa4f589d8d2f
+
+  271110: # Captain America: Civil War (2016) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30252
+    url_poster: https://api.mediux.pro/assets/6a2e5725-8e09-41f8-abc7-b8213191b625
+
+  822119: # Captain America: Brave New World (2025) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30252
+    url_poster: https://api.mediux.pro/assets/1d728416-6492-486d-986f-9c3188f74e00

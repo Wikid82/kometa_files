@@ -1,4 +1,4 @@
 metadata:
-  Black Widow:
-    mapping_id: 497698
-    url_poster: https://theposterdb.com/api/assets/162919
+
+  497698: # Black Widow (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/3132
+    url_poster: https://api.mediux.pro/assets/5f2128fa-db05-41dd-9f61-b9bc27876d86

@@ -1,10 +1,10 @@
 metadata:
-  Ant-Man:
-    mapping_id: 102899
-    url_poster: https://theposterdb.com/api/assets/162907
-  Ant-Man And The Wasp:
-    mapping_id: 363088
-    url_poster: https://theposterdb.com/api/assets/162915
-  Ant-Man Ant-Man And The Wasp Quantumania:
-    mapping_id: 640146
-    url_poster: https://theposterdb.com/api/assets/352073
+
+  102899: # Ant-Man (2015) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30254
+    url_poster: https://api.mediux.pro/assets/fe71edb2-4639-4a95-949a-224e5129ed76
+
+  363088: # Ant-Man and the Wasp (2018) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30254
+    url_poster: https://api.mediux.pro/assets/58c842c5-0262-46d5-b67a-0fcfa796f8f4
+
+  640146: # Ant-Man and the Wasp: Quantumania (2023) Poster by RandalPink87 on MediUX. https://mediux.pro/sets/30254
+    url_poster: https://api.mediux.pro/assets/c3277e68-b00b-4f04-8544-40c72a0477c4

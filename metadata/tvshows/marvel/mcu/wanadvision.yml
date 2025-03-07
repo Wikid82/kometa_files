@@ -1,11 +1,11 @@
 metadata:
-  WandaVision:
-    mapping_id:  362392 # TVDB id for WandaVision. Set by willtong93 on MediUX. https://mediux.pro/sets/24525
-    url_poster: https://api.mediux.pro/assets/60da8bdf-35f5-4197-8eda-aa3889c36cee
+
+  362392: # TVDB id for WandaVision. Set by willtong93 on MediUX. https://mediux.pro/sets/24525
+    url_poster: https://api.mediux.pro/assets/1dd9a063-207a-4644-a65f-d02cbdf64d3d
     url_background: https://api.mediux.pro/assets/0c0ce36e-130f-4897-9775-961ab59dcf20
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/433a9078-a1eb-4193-964d-d37097c08145
+        url_poster: https://api.mediux.pro/assets/8bc54fab-b8b3-4fb8-a359-0f91d7cc0943
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/21353771-41b6-4090-bde0-161735bc0f31

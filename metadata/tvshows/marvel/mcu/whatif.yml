@@ -1,10 +1,11 @@
 metadata:
+
   367147: # TVDB id for What If...?. Set by Olivier_286 on MediUX. https://mediux.pro/sets/738
-    url_poster: https://api.mediux.pro/assets/867f29ae-7c43-4897-bda0-596e1fa4d3c9
+    url_poster: https://api.mediux.pro/assets/6e7de26d-189c-461c-bb95-a1bfa64b131a
     url_background: https://api.mediux.pro/assets/4a0755e4-dece-4af3-a546-a2a525e02c42
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/30a2bf42-8776-4f0d-b3c9-a288c7ed7aab
+        url_poster: https://api.mediux.pro/assets/a31e1eca-ddc1-4cdb-8ef0-c2fa502d74de
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/b85e9b44-4271-4278-a7e9-5b938945c5fc
@@ -25,7 +26,7 @@ metadata:
           9:
             url_poster: https://api.mediux.pro/assets/557f6dfb-180c-4294-89ab-4f0b1a31b805
       2:
-        url_poster: https://api.mediux.pro/assets/f9f33da3-f323-4e0b-a95e-a5a2dbe7cfc9
+        url_poster: https://api.mediux.pro/assets/903fb53d-2843-43f1-b435-2718c7166770
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/fe10fbfc-a8f8-47fc-b871-94cb3c01f505
@@ -46,7 +47,7 @@ metadata:
           9:
             url_poster: https://api.mediux.pro/assets/a4693c5e-abc7-4223-ad13-4a5030624b35
       3:
-        url_poster: https://api.mediux.pro/assets/84dfacb8-b772-4bfc-8ca9-2b81b94dd9e1
+        url_poster: https://api.mediux.pro/assets/e5fa43d0-44e6-44cb-a54e-6d89127e6f79
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/48414e57-d4d3-40f1-be97-601ade79e3ff

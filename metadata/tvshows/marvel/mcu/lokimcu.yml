@@ -1,36 +1,35 @@
 metadata:
-  Loki:
-    mapping_id:  362472 # TVDB id for Loki. Set by Olivier_286 on MediUX. https://mediux.pro/sets/641
-    url_poster: https://api.mediux.pro/assets/75e6e398-1287-4031-b266-81ed3d1f6926
-    url_background: https://api.mediux.pro/assets/e09d7978-77f4-4d2a-8948-7b021b023f63
+
+  362472: # TVDB id for Loki. Set by RandalPink87 on MediUX. https://mediux.pro/sets/30251
+    url_poster: https://api.mediux.pro/assets/548dd0a4-70ce-43ea-939e-c6543ccba9c1
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/20faeab5-144e-4cd0-b0f4-d49f9373efd7
+        url_poster: https://api.mediux.pro/assets/e21a401e-aea6-4c0e-a96a-b1f0de848392
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/3decfbc2-62fb-4cff-8df0-92ac08331da9
+            url_poster: https://api.mediux.pro/assets/c059b71c-b64f-4758-9e21-e0398f0af96b
           2:
-            url_poster: https://api.mediux.pro/assets/fb31bd62-1b82-43c5-bef3-fceb80b91220
+            url_poster: https://api.mediux.pro/assets/6be74ef2-13b3-48fc-9f3f-3f35ddb0dd9b
           3:
-            url_poster: https://api.mediux.pro/assets/c6743215-ff3d-4f08-99a2-e92eee9dde17
+            url_poster: https://api.mediux.pro/assets/ef9aee46-bd12-4cdb-9a5e-aef5780067ac
           4:
-            url_poster: https://api.mediux.pro/assets/99ce51bc-58e5-4156-89ec-d588a85d1e83
+            url_poster: https://api.mediux.pro/assets/b0210786-8b06-41d4-bef6-bbec6618f37e
           5:
-            url_poster: https://api.mediux.pro/assets/491796b9-e999-417f-b6e8-ac6f34507cca
+            url_poster: https://api.mediux.pro/assets/f1fad661-71d6-4719-a817-e1d519cd17f9
           6:
-            url_poster: https://api.mediux.pro/assets/95d987e0-ea17-4c28-83b7-bd245138c95a
+            url_poster: https://api.mediux.pro/assets/c3c99a0d-0050-4f42-9148-c0e6b656d513
       2:
-        url_poster: https://api.mediux.pro/assets/5bfa4333-9ed9-4950-a7ca-38deee47612b
+        url_poster: https://api.mediux.pro/assets/95027ef6-0720-4a92-a1e5-aedc10b0f936
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/120e8609-45d6-4b05-aee3-57195d15ee85
+            url_poster: https://api.mediux.pro/assets/bb4fe044-12e1-4a70-b4fd-0316c01e67fd
           2:
-            url_poster: https://api.mediux.pro/assets/ee8a1e3b-d3a7-4a48-99ec-d43465d629b8
+            url_poster: https://api.mediux.pro/assets/338f7a4b-a3a0-476a-a1c0-9cdbd1c5ad59
           3:
-            url_poster: https://api.mediux.pro/assets/9b2410eb-081d-44eb-b841-747d4868dff0
+            url_poster: https://api.mediux.pro/assets/1d22f06d-f49c-4d27-b219-401a5e4e4bfe
           4:
-            url_poster: https://api.mediux.pro/assets/4029aa02-1c90-4c93-adef-e3c0639bce28
+            url_poster: https://api.mediux.pro/assets/c52f7950-f6a9-4d6f-b815-6b852184f37c
           5:
-            url_poster: https://api.mediux.pro/assets/02c7987a-f0d8-4054-a27c-ba5240cc046b
+            url_poster: https://api.mediux.pro/assets/ce4ba96d-4e83-46bc-ba50-25b8b315cf24
           6:
-            url_poster: https://api.mediux.pro/assets/8e5eceb1-0858-4cc4-891a-0124fb98e5e7
+            url_poster: https://api.mediux.pro/assets/94bc1f57-b0cd-4061-9457-41edfe3bf66f

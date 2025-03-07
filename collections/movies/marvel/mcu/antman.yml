@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/422834-ant-man-collection
     url_background: https://image.tmdb.org/t/p/original/cIkpvDwCrN1NMPuhiKQrGCjvky5.jpg
-    url_poster: https://theposterdb.com/api/assets/162886
+    url_poster: https://api.mediux.pro/assets/0891f191-b640-420c-ba21-422637d20469

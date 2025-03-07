@@ -1,21 +1,20 @@
 metadata:
-  Hawkeye:
-    mapping_id:  367146 # TVDB id for Hawkeye. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/23988
-    url_poster: https://api.mediux.pro/assets/aa555ea2-fc00-4965-80d1-1abfbfd1bdc2
-    url_background: https://api.mediux.pro/assets/b5960a54-bde4-48fb-bbad-b94e17525998
+
+   367146: # TVDB id for Hawkeye. Set by RandalPink87 on MediUX. https://mediux.pro/sets/30303
+    url_poster: https://api.mediux.pro/assets/133551d6-7d68-4d0e-8d19-ebfd438ea921
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/5da33780-1284-4052-a34e-d2e3ea2d830a
+        url_poster: https://api.mediux.pro/assets/5f3c9104-96c0-47b0-aa06-e8d2960ca6c6
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/e73e23a7-b65b-491e-a61d-9997efc674ba
+            url_poster: https://api.mediux.pro/assets/9d26ce1a-ff1b-4408-9960-6af08f5e0be4
           2:
-            url_poster: https://api.mediux.pro/assets/354c8b43-c3bd-4a72-9bb3-6bba2f80aaed
+            url_poster: https://api.mediux.pro/assets/cc87db86-42fe-4857-b468-278c484e3a75
           3:
-            url_poster: https://api.mediux.pro/assets/ec028a8e-a839-4c3b-8b0e-c00441a47c03
+            url_poster: https://api.mediux.pro/assets/d69b124c-9fdf-4725-bba0-689ae856ace4
           4:
-            url_poster: https://api.mediux.pro/assets/1f7ca564-468b-4e8f-a980-d3a7afb9f55a
+            url_poster: https://api.mediux.pro/assets/132c1660-8087-45a7-9b9f-002cf75d2f72
           5:
-            url_poster: https://api.mediux.pro/assets/3b558c0b-8feb-487c-8a97-58ec88d4c3be
+            url_poster: https://api.mediux.pro/assets/1aa890c0-5ae5-4d31-a703-ecae8eb3ef08
           6:
-            url_poster: https://api.mediux.pro/assets/d3b1c18e-4b37-49ed-b506-32ded454fa8b
+            url_poster: https://api.mediux.pro/assets/e0f85f96-5204-4ca1-b0e8-0927bf0883cf
