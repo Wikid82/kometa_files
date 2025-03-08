@@ -1,0 +1,29 @@
+metadata:
+  159651: # TVDB id for How the Universe Works. Set by Wikid82 on MediUX. https://mediux.pro/sets/31141
+    url_poster: https://api.mediux.pro/assets/043195ef-26d8-4789-8223-dee274d31b03
+    url_background: https://api.mediux.pro/assets/20159fd3-47af-4a63-90b9-b8cf9096036f
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/cfe74581-0aa6-4347-962d-469e70e202f9
+      1:
+        url_poster: https://api.mediux.pro/assets/e80e5a41-639a-4029-bb4f-038dd1b0a0f3
+      2:
+        url_poster: https://api.mediux.pro/assets/c9e8af92-950b-4c32-8bc1-75064fd982fd
+      3:
+        url_poster: https://api.mediux.pro/assets/4b080574-a5a4-4dcb-8736-0328ee13a6b6
+      4:
+        url_poster: https://api.mediux.pro/assets/ad958eb8-78bb-4cda-8dce-26b30748e5b3
+      5:
+        url_poster: https://api.mediux.pro/assets/9e1e64e9-31e5-43cc-b60f-cc3142d694ba
+      6:
+        url_poster: https://api.mediux.pro/assets/1aec4ad3-cd9a-4252-97d2-a021d3a7044c
+      7:
+        url_poster: https://api.mediux.pro/assets/aaff5fa2-d12a-40f7-aad6-661cf119d0af
+      8:
+        url_poster: https://api.mediux.pro/assets/5d7d15b3-e71c-41e1-8af0-2c3acef98b05
+      9:
+        url_poster: https://api.mediux.pro/assets/af2b1a7f-dfbc-4fa3-964e-2e8a81b35d7e
+      10:
+        url_poster: https://api.mediux.pro/assets/ae2c4cec-3ac8-4451-a764-994c79dda645
+      11:
+        url_poster: https://api.mediux.pro/assets/e05f1cce-10b7-4bd5-9d9e-80ee80f13eb9
