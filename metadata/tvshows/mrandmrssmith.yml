@@ -1,0 +1,24 @@
+metadata:
+  396773: # TVDB id for Mr. & Mrs. Smith. Set by willtong93 on MediUX. https://mediux.pro/sets/9242
+    url_poster: https://api.mediux.pro/assets/60dec59f-0f42-458d-9263-c4ef64c74a7b
+    url_background: https://api.mediux.pro/assets/60f74aae-0b9d-48c9-9cf0-610bf4469c1b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/df9bda8b-d9ce-4951-929b-a4b12711b0ff
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/cc4f247a-7ab5-4646-b4ee-1177bf6eef57
+          2:
+            url_poster: https://api.mediux.pro/assets/af76171b-98dd-4abe-8528-184d634a841e
+          3:
+            url_poster: https://api.mediux.pro/assets/2f364abd-3c25-4d67-b83b-3e009125152a
+          4:
+            url_poster: https://api.mediux.pro/assets/c445090e-7a12-4280-8f75-6511e73db06a
+          5:
+            url_poster: https://api.mediux.pro/assets/a072a73e-5240-485c-b4b3-26700bbd1abb
+          6:
+            url_poster: https://api.mediux.pro/assets/16afa332-c8d1-4e35-98b8-404bd0eec11f
+          7:
+            url_poster: https://api.mediux.pro/assets/599309cf-9fe0-46cd-98ec-4ec1dab67219
+          8:
+            url_poster: https://api.mediux.pro/assets/376da44f-0f2d-44a5-b625-f71704e0d3be
