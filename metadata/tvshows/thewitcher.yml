@@ -1,0 +1,79 @@
+metadata:
+
+  362696: # TVDB id for The Witcher. Set by davidlettice on MediUX. https://mediux.pro/sets/29510
+    url_poster: https://api.mediux.pro/assets/3ef6e9ee-e2c2-428d-b6b8-c12b7dc720e5
+    url_background: https://api.mediux.pro/assets/87eedc8b-a482-4f5e-a780-d27d33362a06
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/35f67939-3456-45a7-92a1-3d2fe0178aea
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/7bbbce75-e783-4368-907d-4e4f33770fcc
+          2:
+            url_poster: https://api.mediux.pro/assets/8e4b5bb5-b9eb-4a86-aa54-e8c63c04a24e
+          3:
+            url_poster: https://api.mediux.pro/assets/fe15dba2-5c45-4c21-b28f-c9a6973c562a
+          4:
+            url_poster: https://api.mediux.pro/assets/f9475954-a57c-4eb5-899d-aca75c7ba547
+          5:
+            url_poster: https://api.mediux.pro/assets/5817525d-2465-46b9-8ef4-d377f2107761
+          6:
+            url_poster: https://api.mediux.pro/assets/85b67f60-2251-4de8-bf2f-b8e7a899713c
+          7:
+            url_poster: https://api.mediux.pro/assets/3017e0ac-3a3c-4e90-b4cb-b02c48cc5712
+          8:
+            url_poster: https://api.mediux.pro/assets/c6638097-ad2a-41ee-a7b5-caa363e0c496
+      2:
+        url_poster: https://api.mediux.pro/assets/2cd4a3f3-c0e5-48a4-8cab-f0cb09b34311
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/e18af6b7-3b03-454a-98c2-715e4ee0be9c
+          2:
+            url_poster: https://api.mediux.pro/assets/882af93d-4894-4bf4-a7de-a49f015b1456
+          3:
+            url_poster: https://api.mediux.pro/assets/88421398-49ba-435d-855c-d82812cd6038
+          4:
+            url_poster: https://api.mediux.pro/assets/26ffff9b-8ca0-41ac-979d-7597841e62f3
+          5:
+            url_poster: https://api.mediux.pro/assets/395fa841-4b63-49e5-a245-e4495a27af34
+          6:
+            url_poster: https://api.mediux.pro/assets/ba174c64-26b7-4c5c-a64a-fa434c33b202
+          7:
+            url_poster: https://api.mediux.pro/assets/61388be4-9eae-4265-a135-05e0bbeeefca
+          8:
+            url_poster: https://api.mediux.pro/assets/ae90e067-4ccb-44de-b318-b5a364e5319e
+      3:
+        url_poster: https://api.mediux.pro/assets/28faec80-f927-4787-9d71-0c1843b15f50
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/554a4438-fa01-41d0-a492-df6048743e57
+          2:
+            url_poster: https://api.mediux.pro/assets/d77e44f3-3881-4c2a-8e9a-5d2886193819
+          3:
+            url_poster: https://api.mediux.pro/assets/18d54b6b-b027-4e2f-95f9-37697810a402
+          4:
+            url_poster: https://api.mediux.pro/assets/251e2acd-f9d9-4a8b-a55c-ef5f7e0859d5
+          5:
+            url_poster: https://api.mediux.pro/assets/a7f9382f-3e30-4c26-b06f-b35ac2d13eaa
+          6:
+            url_poster: https://api.mediux.pro/assets/5e8e6a08-ebf3-4265-b1d2-a9cac8cc9b94
+          7:
+            url_poster: https://api.mediux.pro/assets/c86661b2-0c99-4db5-a968-e95667f3838a
+          8:
+            url_poster: https://api.mediux.pro/assets/39fe9807-6297-460f-b8e8-234396cde7a3
+
+
+  399987: # TVDB id for The Witcher: Blood Origin. Set by darkwesley on MediUX. https://mediux.pro/sets/10795
+    url_poster: https://api.mediux.pro/assets/7de7b5d0-cd8d-48bb-92e7-c8bed70d104e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/484cb612-b819-47da-bb26-eaee3d2d6610
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5761378f-36e0-4e03-8380-e1db41ec6890
+          2:
+            url_poster: https://api.mediux.pro/assets/9d29c1fe-44c5-4635-a906-e027548d4fe2
+          3:
+            url_poster: https://api.mediux.pro/assets/f71f28f8-6053-47f8-a951-a0c6b450517f
+          4:
+            url_poster: https://api.mediux.pro/assets/b7be2881-c6a0-454f-a576-be5525da5da4
