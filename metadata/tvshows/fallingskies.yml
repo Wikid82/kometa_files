@@ -1,0 +1,17 @@
+metadata:
+  205281: # TVDB id for Falling Skies. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20230
+    url_poster: https://api.mediux.pro/assets/bdae7481-2fa6-4e7e-985e-a530b3ff6a21
+    url_background: https://api.mediux.pro/assets/d473d530-1655-486a-a2fe-4fca8cfbd5b6
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/b108ea39-26ca-4af4-b5c2-2f2423fdeb38
+      1:
+        url_poster: https://api.mediux.pro/assets/90381a5c-f3d0-4cad-8aa2-95615f82b87a
+      2:
+        url_poster: https://api.mediux.pro/assets/f93f8ea1-0f85-4795-a493-cdd3b78b3ec9
+      3:
+        url_poster: https://api.mediux.pro/assets/dc3a5787-9c75-4dba-9b7d-481d640130ad
+      4:
+        url_poster: https://api.mediux.pro/assets/bfb9d77a-0c54-4957-ad88-ac0476aeaef2
+      5:
+        url_poster: https://api.mediux.pro/assets/7d45c9e2-d50f-4f15-aaeb-d2f5f5f158a1
