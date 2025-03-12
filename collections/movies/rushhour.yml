@@ -1,0 +1,7 @@
+collections:
+  Rush Hour Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/90863-rush-hour-collection
+    url_background: https://image.tmdb.org/t/p/original/Atik4QqBg8IrTPiCzaj9AcI9p1i.jpg
+    url_poster: https://api.mediux.pro/assets/3bf2c00a-15b2-4adf-b7fa-6b1a707af500  # Rush Hour Collection Poster by RuviLev on MediUX. https://mediux.pro/sets/9515
