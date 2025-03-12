@@ -1,0 +1,24 @@
+metadata:
+  415151: # TVDB id for Percy Jackson and the Olympians. Set by willtong93 on MediUX. https://mediux.pro/sets/13153
+    url_poster: https://api.mediux.pro/assets/9b9a4122-17ff-4437-a8d9-466a0be22dcf
+    url_background: https://api.mediux.pro/assets/f09624b6-633a-44c8-bf8d-dd6eb2ae9305
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/49e101ac-838b-46a6-91d4-efe57894b31a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/608e5e56-04a7-4f79-832a-257314c9a2d6
+          2:
+            url_poster: https://api.mediux.pro/assets/3e62fbd7-6ca6-4cc0-9859-1c035f608ccb
+          3:
+            url_poster: https://api.mediux.pro/assets/3afe4a9d-9711-4bfd-b3e3-e8dbb8a75e6c
+          4:
+            url_poster: https://api.mediux.pro/assets/baeddb76-4a72-47f4-820a-6e2ed929d6fd
+          5:
+            url_poster: https://api.mediux.pro/assets/d23130c2-0842-4b4f-af03-ffa737743fe4
+          6:
+            url_poster: https://api.mediux.pro/assets/aa91278b-cb41-454a-9ffa-77449393ff43
+          7:
+            url_poster: https://api.mediux.pro/assets/c2df364a-68fd-4414-a686-726835856a0e
+          8:
+            url_poster: https://api.mediux.pro/assets/38c8cc9f-b87c-4038-8f73-5f7982f3dcb9
