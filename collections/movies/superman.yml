@@ -1,0 +1,7 @@
+collections:
+  Superman Collection:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list_details: https://trakt.tv/lists/30888582
+    url_background: https://image.tmdb.org/t/p/original/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg
+    url_poster: https://api.mediux.pro/assets/f90b9a9a-0f3a-4683-b80f-6f592b3ba1f5 # Superman (collection) Poster by RuviLev on MediUX. https://mediux.pro/sets/10827
