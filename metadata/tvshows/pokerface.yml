@@ -1,0 +1,28 @@
+metadata:
+  398822: # TVDB id for Poker Face. Set by willtong93 on MediUX. https://mediux.pro/sets/23331
+    url_poster: https://api.mediux.pro/assets/49b02f75-c36d-423c-9d03-3a5c6a13dff6
+    url_background: https://api.mediux.pro/assets/0f950184-6be8-48e6-a5b7-e9195d4ed79c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9e406570-ed2e-4bb8-8f76-c749122fea05
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/25fe51a6-736b-4071-8d01-c41bbb9778b0
+          2:
+            url_poster: https://api.mediux.pro/assets/a54bffd5-14dd-4f73-86c6-ef81e0154e13
+          3:
+            url_poster: https://api.mediux.pro/assets/329ae7f8-acf3-424b-bc7d-11f619a20042
+          4:
+            url_poster: https://api.mediux.pro/assets/1d01497f-ebf6-4d26-965e-cdb98a782df5
+          5:
+            url_poster: https://api.mediux.pro/assets/e950ebc6-12e8-4c4d-ace8-14b981d77527
+          6:
+            url_poster: https://api.mediux.pro/assets/238f4339-476d-4df9-b212-c017459a3b0a
+          7:
+            url_poster: https://api.mediux.pro/assets/df4419a8-d300-4022-bad6-4f10ac160aa5
+          8:
+            url_poster: https://api.mediux.pro/assets/eba3b969-c684-462c-815a-3ce5118b7442
+          9:
+            url_poster: https://api.mediux.pro/assets/8f5d7b6e-6d0c-46a9-80b3-600d03b7dd55
+          10:
+            url_poster: https://api.mediux.pro/assets/bc156255-bc62-4823-a565-78edd7005b0f
