@@ -1,0 +1,7 @@
+collections:
+  30 Days of Night Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/91660-30-days-of-night-collection
+    url_background: https://api.mediux.pro/assets/68071ce0-ae42-4870-a525-9fbab72fc9be
+    url_poster: https://api.mediux.pro/assets/600a369e-4a9c-475d-9029-6b4f9e294b80 # 30 Days of Night Collection Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/824
