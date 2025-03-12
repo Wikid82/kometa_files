@@ -1,0 +1,7 @@
+collections:
+  Happy Feet Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/92012-happy-feet-collection
+    url_background: https://image.tmdb.org/t/p/original/b9CLLxKsh63AHEkGE9nz9bupQqh.jpg
+    url_poster: https://api.mediux.pro/assets/95c01d61-0cc6-4259-88ee-45e0a8ce08f6 # Happy Feet (Collection) Poster by RuviLev on MediUX. https://mediux.pro/sets/11696
