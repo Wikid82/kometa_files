@@ -1,0 +1,7 @@
+collections:
+  Shanghi Noon Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/59567-shanghai-noon-collection
+    url_background: https://image.tmdb.org/t/p/original/b4c3qRzQNkTk3DpN1sZ03xdmBa8.jpg
+    url_poster: https://api.mediux.pro/assets/1bb991e0-e28b-4db1-a250-73ae9f0781cb
