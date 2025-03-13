@@ -1,0 +1,12 @@
+metadata:
+
+  276312: # TVDB id for From Dusk Till Dawn: The Series
+    url_poster: https://theposterdb.com/api/assets/406084
+    url_background: https://api.mediux.pro/assets/54f7a19f-f6bc-4458-b786-b8e14421c635
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/406085
+      2:
+        url_poster: https://theposterdb.com/api/assets/406086
+      3:
+        url_poster: https://theposterdb.com/api/assets/406087
