@@ -3,8 +3,8 @@ metadata:
     mapping_id:   260315 # TVDB id for Orphan Black. Set by fwlolx on MediUX. https://mediux.pro/sets/20847
     url_poster: https://api.mediux.pro/assets/8ea36486-4939-4fe4-9230-1f5738a4d783
     seasons:
-      0:
-        url_poster: https://api.mediux.pro/assets/d5fac008-3174-4fda-8d2b-9d6eea465096
+#      0:
+#        url_poster: https://api.mediux.pro/assets/d5fac008-3174-4fda-8d2b-9d6eea465096
       1:
         url_poster: https://api.mediux.pro/assets/cf0c94d3-1f16-45a1-be04-b02b183b88ae
         episodes:
@@ -50,6 +50,7 @@ metadata:
           9:
             url_poster: https://api.mediux.pro/assets/505973da-4038-4347-883c-cc08587c49eb
           10:
+            url_poster: https://api.mediux.pro/assets/5e3f59a3-d5ad-4a11-93f4-50f42949bfa6
       3: 
         url_poster: https://api.mediux.pro/assets/93b0e7d9-f67d-45b5-b4fc-efb449d3e6a1
         episodes:
