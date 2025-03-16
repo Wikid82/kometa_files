@@ -1,0 +1,157 @@
+metadata:
+
+  280619: # TVDB id for The Expanse. Set by Hikari on MediUX. https://mediux.pro/sets/29404
+    url_poster: https://api.mediux.pro/assets/2bc11fbd-55d5-4fc1-8401-74432a992501
+    url_background: https://api.mediux.pro/assets/e3a854a9-f33b-4aa5-9b3d-f44e569bfde5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6d156766-2d38-4136-8f70-43dc4729bacd
+        episodes: # TVDB id for The Expanse. Set by Sarrius on MediUX. https://mediux.pro/sets/17233
+          1:
+            url_poster: https://api.mediux.pro/assets/572ef1bd-ebb9-4485-9748-88e01afacba0
+          2:
+            url_poster: https://api.mediux.pro/assets/6ef3e659-8d21-44c8-aa88-c13de6ef9e0c
+          3:
+            url_poster: https://api.mediux.pro/assets/b8811b70-af24-407f-bf16-d9cd6947ab05
+          4:
+            url_poster: https://api.mediux.pro/assets/a31978d8-a6ee-41c2-b5f0-2a8aaca8397f
+          5:
+            url_poster: https://api.mediux.pro/assets/c6d2fcc0-f3ed-452c-b263-d1f940e5b684
+          6:
+            url_poster: https://api.mediux.pro/assets/ea91c324-1d73-4260-adf3-f9f3ea4fb04c
+          7:
+            url_poster: https://api.mediux.pro/assets/fb397180-ff1e-4148-b5da-0c5aa22a9e68
+          8:
+            url_poster: https://api.mediux.pro/assets/ecd000cb-52fe-4e1a-8f0a-f8264a5fa0e5
+          9:
+            url_poster: https://api.mediux.pro/assets/91c7502a-d5ba-4e30-af1d-2c6f005a1017
+          10:
+            url_poster: https://api.mediux.pro/assets/fa951ba0-1ac6-4ec5-82e4-4739facc9977
+      2:
+        url_poster: https://api.mediux.pro/assets/4d9a0dda-b861-41d1-9c30-22f8316d99f4
+        episodes: # TVDB id for The Expanse. Set by Sarrius on MediUX. https://mediux.pro/sets/17233
+          1:
+            url_poster: https://api.mediux.pro/assets/1b20977e-08b7-48b9-9c79-9d4bcfcd3228
+          2:
+            url_poster: https://api.mediux.pro/assets/034de8bc-6250-4df6-947a-8837f8bc74f4
+          3:
+            url_poster: https://api.mediux.pro/assets/bc69af21-ca13-43a8-9cc9-3ac05a74aac3
+          4:
+            url_poster: https://api.mediux.pro/assets/a84e363c-9744-4e54-84a5-f34ae2aa9a12
+          5:
+            url_poster: https://api.mediux.pro/assets/1dce9132-a987-4ceb-943b-690267f8da72
+          6:
+            url_poster: https://api.mediux.pro/assets/730dc121-c964-4246-b314-f57c893f89b1
+          7:
+            url_poster: https://api.mediux.pro/assets/91177e30-9b0a-41bd-b717-58dcb202b5c1
+          8:
+            url_poster: https://api.mediux.pro/assets/705f9ff5-883e-41e8-bdcd-d4c22e9fac67
+          9:
+            url_poster: https://api.mediux.pro/assets/8b2dae7a-80f5-4aaf-8d5b-30dcbe35343c
+          10:
+            url_poster: https://api.mediux.pro/assets/40f287e2-4c0c-42a4-8da9-19b20d4f84c1
+          11:
+            url_poster: https://api.mediux.pro/assets/3f6942e6-b439-49c6-a661-09382d54acc8
+          12:
+            url_poster: https://api.mediux.pro/assets/95ecf152-00e8-4942-a3d3-53d3aeb74f1b
+          13:
+            url_poster: https://api.mediux.pro/assets/f77b578b-da02-4e65-956d-453a4132bf73
+      3:
+        url_poster: https://api.mediux.pro/assets/96b6860a-d765-472c-a035-f62eeb5ea6fa
+        episodes: # TVDB id for The Expanse. Set by Sarrius on MediUX. https://mediux.pro/sets/17233
+          1:
+            url_poster: https://api.mediux.pro/assets/a8b43d46-b5f4-4d4d-b2ff-955aa3b784fc
+          2:
+            url_poster: https://api.mediux.pro/assets/f3454e74-f817-45bc-a23c-3b085832e712
+          3:
+            url_poster: https://api.mediux.pro/assets/0b383433-7c3c-4314-905f-96ede78906ad
+          4:
+            url_poster: https://api.mediux.pro/assets/cd03d5df-0453-409e-9c10-9461ccfcb9b1
+          5:
+            url_poster: https://api.mediux.pro/assets/1380a367-8926-489a-9edc-21fa2673295f
+          6:
+            url_poster: https://api.mediux.pro/assets/ff34b619-ba16-4a31-9494-627f3001b18e
+          7:
+            url_poster: https://api.mediux.pro/assets/be34503d-f9b7-4206-bea3-228cc33b8c0a
+          8:
+            url_poster: https://api.mediux.pro/assets/17e1393b-c6ea-4fb5-a1cc-c80b848ca65a
+          9:
+            url_poster: https://api.mediux.pro/assets/c987244c-0f4f-4d2d-ac14-71251c12c05d
+          10:
+            url_poster: https://api.mediux.pro/assets/a10f4ef8-fe47-4e89-9999-58baf346eb31
+          11:
+            url_poster: https://api.mediux.pro/assets/3d90764f-ad75-4f9d-ba55-2947620ccfad
+          12:
+            url_poster: https://api.mediux.pro/assets/5a04a972-c4d8-46d7-84a6-defbe8b029c3
+          13:
+            url_poster: https://api.mediux.pro/assets/eec703e0-2958-43db-a9bd-dfc8b7fbbfc8
+      4:
+        url_poster: https://api.mediux.pro/assets/92c84fa5-8203-4ed6-a229-5ca7d1d7e857
+        episodes: # TVDB id for The Expanse. Set by Sarrius on MediUX. https://mediux.pro/sets/17233
+          1:
+            url_poster: https://api.mediux.pro/assets/0ea2d739-c4df-45c9-a71b-8a7e75257fa4
+          2:
+            url_poster: https://api.mediux.pro/assets/40ee62fb-928d-4997-a9e2-a7abbc6654b5
+          3:
+            url_poster: https://api.mediux.pro/assets/981839ae-aae1-479b-b5f9-f0a86e188350
+          4:
+            url_poster: https://api.mediux.pro/assets/1c91cc5a-d7cf-49b5-b56c-71958b538067
+          5:
+            url_poster: https://api.mediux.pro/assets/4bc04047-77ce-4f93-9d86-341a75de8ab0
+          6:
+            url_poster: https://api.mediux.pro/assets/666e4226-2ad0-4946-8437-e65f729cf46c
+          7:
+            url_poster: https://api.mediux.pro/assets/0ea8aa3a-97ff-4a1a-9484-bb56ebb4535c
+          8:
+            url_poster: https://api.mediux.pro/assets/11cef451-3dd8-46a7-bb74-3c27dde79e54
+          9:
+            url_poster: https://api.mediux.pro/assets/591e50a9-1480-4e27-b26c-b39b5af2f5b2
+          10:
+            url_poster: https://api.mediux.pro/assets/12d44731-fd0b-47ee-8de0-8e56ae95e585
+      5:
+        url_poster: https://api.mediux.pro/assets/c0a4498e-caec-48bc-bf14-bee67e80d878
+        episodes: # TVDB id for The Expanse. Set by Sarrius on MediUX. https://mediux.pro/sets/17233
+          1:
+            url_poster: https://api.mediux.pro/assets/d6cff328-b6f5-4e08-a39c-6cb9b8c2777f
+          2:
+            url_poster: https://api.mediux.pro/assets/536dadcc-fd87-433b-8b21-b54b789eea68
+          3:
+            url_poster: https://api.mediux.pro/assets/4d790afc-4357-4a17-9e94-7d9be6a14bc6
+          4:
+            url_poster: https://api.mediux.pro/assets/60fd8c77-c8e0-4a93-80bb-f27558d56a4c
+          5:
+            url_poster: https://api.mediux.pro/assets/f6b005d7-a11c-4b10-b046-24927f13fa0b
+          6:
+            url_poster: https://api.mediux.pro/assets/2cdcb522-bfd7-44ff-90b4-bbc562075e37
+          7:
+            url_poster: https://api.mediux.pro/assets/84343013-146c-433d-8e7d-3bd7e679b184
+          8:
+            url_poster: https://api.mediux.pro/assets/63ae67f7-943f-4fdd-9e1e-e630f45068be
+          9:
+            url_poster: https://api.mediux.pro/assets/efc17fe0-36aa-458a-8bb6-9e147c5eaea4
+          10:
+            url_poster: https://api.mediux.pro/assets/03bb9efd-71a3-41ee-b552-f38220b71b1e
+      6:
+        url_poster: https://api.mediux.pro/assets/3cabb378-7ce6-4986-b6e1-998fb88fb233
+        episodes: # TVDB id for The Expanse. Set by Sarrius on MediUX. https://mediux.pro/sets/17233
+          1:
+            url_poster: https://api.mediux.pro/assets/bee723f5-1bdf-4f53-bca2-cb249dcade5c
+          2:
+            url_poster: https://api.mediux.pro/assets/ca748e6e-57d8-4785-bc39-8a3c21cc7ea5
+          3:
+            url_poster: https://api.mediux.pro/assets/5adbfd36-9b42-44ad-b766-f7a309f32498
+          4:
+            url_poster: https://api.mediux.pro/assets/ad242549-b011-4cf5-8f3c-68593061ed23
+          5:
+            url_poster: https://api.mediux.pro/assets/52539c5e-62be-4ed9-8d59-07a74e2934fc
+          6:
+            url_poster: https://api.mediux.pro/assets/3d73d9a0-a8cc-42fe-83be-7a0aaf943fa5
+
+
+
+        
+        
+        
+        
+        
+        
