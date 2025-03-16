@@ -1,4 +1,5 @@
 metadata:
+
   428433: # TVDB id for Tracker. Set by cordsplitter on MediUX. https://mediux.pro/sets/30669
     url_poster: https://api.mediux.pro/assets/579e8195-30ec-469f-8faa-b66b16208b91
     url_background: https://api.mediux.pro/assets/183ae540-64ab-4574-911b-16c39c58aab7
@@ -55,3 +56,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/bfb48e74-93af-449c-a487-7e4b7c1f72c9
           10:
             url_poster: https://api.mediux.pro/assets/8adb552a-01ad-4c8e-8e15-8e3b6977b6bc
+          11:
+            url_poster: https://api.mediux.pro/assets/1e49ae5d-7eb4-49bc-8e35-a7629022fcdf
+          12:
+            url_poster: https://api.mediux.pro/assets/9a08bc61-481c-4477-af9b-bb702183af26
