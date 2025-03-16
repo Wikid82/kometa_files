@@ -1,0 +1,25 @@
+metadata:
+
+  445284: # TVDB id for Long Bright River. Set by willtong93 on MediUX. https://mediux.pro/sets/31254
+    url_poster: https://api.mediux.pro/assets/e20352b2-0531-481f-8485-ca37679af0a3
+    url_background: https://api.mediux.pro/assets/b4b2748a-daeb-489b-8c0e-1261157e2b25
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0c705dc3-7e8e-4f7f-ad74-e3b8fabdb3fb
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/cb266a3d-6e72-49fc-a4b3-17005a45ec05
+          2:
+            url_poster: https://api.mediux.pro/assets/cb65a26d-d7ed-4793-aa2f-004cf9a91d96
+          3:
+            url_poster: https://api.mediux.pro/assets/6f68faf8-8fd3-46da-99b8-ce03a24fd68d
+          4:
+            url_poster: https://api.mediux.pro/assets/2d666c2a-dce3-4f16-ae4b-d6a7194472d0
+          5:
+            url_poster: https://api.mediux.pro/assets/f8dd6fb3-eef1-480b-9e45-572052c132b1
+          6:
+            url_poster: https://api.mediux.pro/assets/fa7fdd7e-a03d-44be-8845-08f774816ca4
+          7:
+            url_poster: https://api.mediux.pro/assets/7df4f857-c659-43a2-bc7f-b73092db15d0
+          8:
+            url_poster: https://api.mediux.pro/assets/a28cc346-ba98-4030-ab83-7b735e239d21
