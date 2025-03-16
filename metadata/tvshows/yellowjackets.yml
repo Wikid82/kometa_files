@@ -1,4 +1,5 @@
 metadata:
+
   399731: # TVDB id for Yellowjackets. Set by Kwickflix on MediUX. https://mediux.pro/sets/15106
     url_poster: https://api.mediux.pro/assets/d64ab8db-2c33-4a32-8319-2853df012503
     seasons:
@@ -61,3 +62,5 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e466206b-266c-497a-9762-b2af7f85ee99
           5:
             url_poster: https://api.mediux.pro/assets/1ffc66f6-0f80-484b-878a-7765c109fa36
+          6:
+            url_poster: https://api.mediux.pro/assets/c64dcd58-8102-464d-b964-5b4d14dbdfd9
