@@ -1,0 +1,7 @@
+collections:
+  Hot Shots! Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/52988-hot-shots-collection
+    url_background: https://image.tmdb.org/t/p/original/lKoEEg7Nf1FUPSzRR0oMtPIqiyX.jpg
+    url_poster: https://theposterdb.com/api/assets/253931
