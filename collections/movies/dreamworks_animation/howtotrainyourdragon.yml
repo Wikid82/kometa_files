@@ -1,0 +1,8 @@
+---
+collections:
+  How To Train Your Dragon Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/89137-how-to-train-your-dragon-collection
+    url_background: https://api.mediux.pro/assets/36f614ce-e4c3-4130-b9dd-c900f6ccba30
+    url_poster: https://api.mediux.pro/assets/c0287aa3-2eae-4859-9cc0-6c25f023f0e3 # How to Train Your Dragon Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26540

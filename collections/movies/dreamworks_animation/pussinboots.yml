@@ -1,0 +1,7 @@
+collections:
+  Puss In Boots Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/94602-puss-in-boots-collection
+    url_background: https://image.tmdb.org/t/p/original/fMAXv23POTzuSkqAuyjwaHrEHdp.jpg
+    url_poster: https://api.mediux.pro/assets/c6eda9ad-f2e3-47e4-9ea5-497b62bed70f

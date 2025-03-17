@@ -1,0 +1,8 @@
+---
+collections:
+  Trolls Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/489724-the-trolls-collection
+    url_background: https://api.mediux.pro/assets/a5115634-99df-4464-90f8-0f3763cb040c
+    url_poster: https://api.mediux.pro/assets/8a48d646-eb58-49ee-ac34-a98ae4ad47a4 # Trolls Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26590

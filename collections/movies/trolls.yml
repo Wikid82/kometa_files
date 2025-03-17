@@ -1,8 +1,0 @@
----
-collections:
-  Trolls Collection:
-    collection_mode: hide_items
-    collection_order: release
-    trakt_list_details: https://trakt.tv/lists/4347615
-    url_background: https://image.tmdb.org/t/p/original/9rmJzx7mfPgciyVGkKmsK5Lt5WV.jpg
-    url_poster: https://theposterdb.com/api/assets/61566

@@ -1,0 +1,8 @@
+---
+collections:
+  The Boss Baby Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/519457-the-boss-baby-collection
+    url_background: https://api.mediux.pro/assets/320e6a7b-b6eb-4e46-9b22-dc4e4ea12ae9
+    url_poster: https://api.mediux.pro/assets/11fb8682-1b57-43ed-b004-c6df0d2173f1 # The Boss Baby Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26555
