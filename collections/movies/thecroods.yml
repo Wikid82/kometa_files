@@ -1,0 +1,7 @@
+collections:
+  The Croods Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/464577-the-croods-collection
+    url_background: https://api.mediux.pro/assets/339f3c57-e526-4b15-ad48-541b81bcd60b
+    url_poster: https://api.mediux.pro/assets/60eadc12-547d-460f-9dca-5d8d35f9314a  # The Croods (Collection) Poster by willtong93 on MediUX. https://mediux.pro/sets/26541
