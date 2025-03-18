@@ -3,6 +3,6 @@ collections:
   Monsters, Inc Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/80
+    tmdb_collection_details: https://www.themoviedb.org/collection/137696-monsters-inc-collection
     url_background: https://image.tmdb.org/t/p/original/x4Mq7gDRhbqDjw4SkemLvd1yzF3.jpg
     url_poster: https://api.mediux.pro/assets/907d0d3e-b471-493c-82e7-e962f3870edd # Monsters, Inc. Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26748
