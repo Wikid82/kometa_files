@@ -1,0 +1,8 @@
+---
+collections:
+  Finding Nemo Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/137697-finding-nemo-collection
+    url_background: https://image.tmdb.org/t/p/original/yzqaKAhglTrkeOfuIXYYArf0WnA.jpg
+    url_poster: https://api.mediux.pro/assets/62d1d88e-ab19-4fbf-b3c8-731b4066f882 # Finding Nemo Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26750

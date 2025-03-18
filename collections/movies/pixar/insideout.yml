@@ -1,0 +1,8 @@
+---
+collections:
+  Inside Out Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1022790-inside-out-collection
+    url_background: https://image.tmdb.org/t/p/original/bR8H6S3Jc2vhPvz2VWX0dQ3XTFV.jpg
+    url_poster: https://api.mediux.pro/assets/3a04282e-f75b-4ae7-85f6-b9ecef443e6d # Inside Out Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26752

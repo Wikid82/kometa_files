@@ -1,8 +1,0 @@
----
-collections:
-  Inside Out Collection:
-    collection_mode: hide_items
-    collection_order: release
-    trakt_list_details: https://trakt.tv/lists/23985179
-    url_background: https://image.tmdb.org/t/p/original/bR8H6S3Jc2vhPvz2VWX0dQ3XTFV.jpg
-    url_poster: https://theposterdb.com/api/assets/513477
