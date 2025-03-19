@@ -1,0 +1,10 @@
+metadata:
+
+  328552: # TVDB id for The Gifted. Set by willtong93 on MediUX. https://mediux.pro/sets/24636
+    url_poster: https://api.mediux.pro/assets/0055182a-676b-4697-9b97-55f390825310
+    url_background: https://api.mediux.pro/assets/134ab40a-8226-4156-b3bf-63fb7861bceb
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0f61a8f6-1198-4a14-9d84-9a7ff28e0fca
+      2:
+        url_poster: https://api.mediux.pro/assets/6591729c-61fa-4b05-99a9-4cc606986a11
