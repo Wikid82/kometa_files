@@ -1,26 +1,28 @@
 metadata:
 
-  412429: # TVDB id for Agatha All Along. Set by RandalPink87 on MediUX. https://mediux.pro/sets/30255
-    url_poster: https://api.mediux.pro/assets/2185733d-4f70-4897-991f-937466544c4a
+  412429: # TVDB id for Agatha All Along. Set by willtong93 on MediUX. https://mediux.pro/sets/25137
+    url_poster: https://api.mediux.pro/assets/06b81957-0df9-4909-bf9f-f3ffd5cea280
+    url_background: https://api.mediux.pro/assets/bd190d4e-2fbc-4c9d-99e5-51ff7ac38167
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/6a36ee0b-8651-491a-a8e4-f489af563334
+        url_poster: https://api.mediux.pro/assets/f7bea214-45a4-4c39-84aa-db4b1742d9e5
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/0e5bfc17-5920-4e33-896c-3a744023b0b2
+            url_poster: https://api.mediux.pro/assets/8c9abd11-c0d8-4720-a4e3-cace1e87f78a
           2:
-            url_poster: https://api.mediux.pro/assets/a2088f82-99bf-4bc9-9d9d-d12f125ffbd8
+            url_poster: https://api.mediux.pro/assets/89f7a7af-7b1e-4729-bcf2-9a6f6fb6bd61
           3:
-            url_poster: https://api.mediux.pro/assets/db66134a-5cfb-479e-bb49-94b5dc8ba26b
+            url_poster: https://api.mediux.pro/assets/2f50def2-ae7d-434b-aa41-a0505347e36b
           4:
-            url_poster: https://api.mediux.pro/assets/240e2757-bdfa-4ecf-bef0-4e51b6500e05
+            url_poster: https://api.mediux.pro/assets/75f3cf16-bde3-4505-bed7-667adca2bca8
           5:
-            url_poster: https://api.mediux.pro/assets/a5880aee-263e-413f-a984-a5793d7810f4
+            url_poster: https://api.mediux.pro/assets/abef348e-8057-4dd4-8614-6669f33a3db4
           6:
-            url_poster: https://api.mediux.pro/assets/6d5a3dfc-b9b8-419f-bcff-d45c5ec7e649
+            url_poster: https://api.mediux.pro/assets/a0b2bc5d-d28b-4b41-a21b-eece4fdc111f
           7:
-            url_poster: https://api.mediux.pro/assets/d40f25ff-4809-4969-ab6f-cac2419b7509
+            url_poster: https://api.mediux.pro/assets/b4c741e5-9290-4b66-9816-ed28b93a907d
           8:
-            url_poster: https://api.mediux.pro/assets/637f78a0-e077-4697-b6a5-726762413944
+            url_poster: https://api.mediux.pro/assets/f718217e-6695-49dc-888c-ae398076510a
           9:
-            url_poster: https://api.mediux.pro/assets/9ccb2d46-10a2-4394-92a0-66be59d9cbf7
+            url_poster: https://api.mediux.pro/assets/a5203bb6-fc03-47f3-9711-98ec243da6c3
+
