@@ -1,11 +1,11 @@
 metadata:
 
-  62496: # TVDB id for The Falcon and the Winter Soldier. Set by willtong93 on MediUX. https://mediux.pro/sets/24526
-    url_poster: https://api.mediux.pro/assets/97e1d514-60c9-473d-85d1-bec7403910a3
+  362496: # TVDB id for The Falcon and the Winter Soldier. Set by willtong93 on MediUX. https://mediux.pro/sets/24526
+    url_poster: https://api.mediux.pro/assets/76de1801-963e-4a44-b4ac-f8d04944ef75
     url_background: https://api.mediux.pro/assets/6deb3e33-3193-46fc-8c1e-9a89ac505a42
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/a01d48af-3961-4fda-8f09-78cef086e25e
+        url_poster: https://api.mediux.pro/assets/5212beb0-25a3-4f98-aaed-b8f628589fd3
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/8b596901-b5ea-4bac-8fd3-e9500ffc7091
