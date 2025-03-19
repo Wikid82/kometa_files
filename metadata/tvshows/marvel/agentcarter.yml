@@ -1,0 +1,10 @@
+metadata:
+
+  281485: # TVDB id for Marvel's Agent Carter. Set by willtong93 on MediUX. https://mediux.pro/sets/24589
+    url_poster: https://api.mediux.pro/assets/d4009e9e-87f8-46f1-8045-31b5b7619cfa
+    url_background: https://api.mediux.pro/assets/531042c7-a81a-495c-93ed-4d53d6d714f9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/526a3cf4-c2f8-418c-b33b-8be113012b5a
+      2:
+        url_poster: https://api.mediux.pro/assets/49c221f5-dd29-46d3-902b-2d569c83a958
