@@ -1,0 +1,7 @@
+collections:
+  Fargo Collection:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list_details: https://trakt.tv/lists/30931739
+    url_background: https://image.tmdb.org/t/p/original/36P236xmuc8aWmXK7YkOM5EAKbA.jpg
+    url_poster: https://image.tmdb.org/t/p/original/t4qGCsV3W0UxYdHEr8Szz3LhqaM.jpg
