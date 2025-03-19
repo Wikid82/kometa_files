@@ -1,0 +1,64 @@
+metadata:
+
+  331980: # TVDB id for Marvel's The Punisher. Set by willtong93 on MediUX. https://mediux.pro/sets/15103
+    url_poster: https://api.mediux.pro/assets/331c4bcb-b314-483e-b596-bc77f6848b25
+    url_background: https://api.mediux.pro/assets/e9348573-6da9-4ab6-a9cb-d987b3dc0005
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/62a2975a-b0ff-4709-9a9c-7d5202a51dd5
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/f511def0-1a7c-4c4c-9517-e82b6065caa3
+          2:
+            url_poster: https://api.mediux.pro/assets/1807f911-8ff4-41f0-bd87-84d4216a930d
+          3:
+            url_poster: https://api.mediux.pro/assets/7fa39900-0bc4-44b7-9ff1-676c9541a3f1
+          4:
+            url_poster: https://api.mediux.pro/assets/1d873729-8a04-47cd-bbab-5844e17f9bc7
+          5:
+            url_poster: https://api.mediux.pro/assets/65c886fd-b641-405e-be8f-e5ecfec5e28e
+          6:
+            url_poster: https://api.mediux.pro/assets/b7ff35d3-dab7-4486-8ed5-6f408d82c240
+          7:
+            url_poster: https://api.mediux.pro/assets/c56dc1a7-398e-490b-b628-6fcdbf290698
+          8:
+            url_poster: https://api.mediux.pro/assets/ecf99e98-62a7-488c-8045-c953d9805132
+          9:
+            url_poster: https://api.mediux.pro/assets/3a188fcb-9fe8-4423-9889-d2681a192279
+          10:
+            url_poster: https://api.mediux.pro/assets/27e0442a-6acd-4ed9-8540-abd314a654de
+          11:
+            url_poster: https://api.mediux.pro/assets/e0d0a321-a73d-4291-b851-74bc92fa2d21
+          12:
+            url_poster: https://api.mediux.pro/assets/8801f8e6-8b54-4b95-8cd0-cbca430d364a
+          13:
+            url_poster: https://api.mediux.pro/assets/3d4a08ae-d3b1-415b-acbc-74e454ac4854
+      2:
+        url_poster: https://api.mediux.pro/assets/bb9ed778-8d3a-40d8-84c1-d2f4c8446ce6
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/66a9fbc5-f21e-47a5-8424-13725252263a
+          2:
+            url_poster: https://api.mediux.pro/assets/57326461-2d81-49ec-9962-d24dbc979d20
+          3:
+            url_poster: https://api.mediux.pro/assets/858c006b-93e7-4ebc-b52a-af09d6097c1e
+          4:
+            url_poster: https://api.mediux.pro/assets/7dbfef7f-4412-4249-ae1a-000e5e9f9357
+          5:
+            url_poster: https://api.mediux.pro/assets/757968be-bb7d-4890-b4f8-7d0db6cc9277
+          6:
+            url_poster: https://api.mediux.pro/assets/ae3c7138-ad77-40b3-914b-1b7b1c4295d5
+          7:
+            url_poster: https://api.mediux.pro/assets/5c656c9c-52a9-4ce0-8e17-d13796c813ad
+          8:
+            url_poster: https://api.mediux.pro/assets/3b6d5000-bab3-45d6-9b48-f94106cda110
+          9:
+            url_poster: https://api.mediux.pro/assets/ae627cdc-1d81-4a04-9c9d-64e1e567563e
+          10:
+            url_poster: https://api.mediux.pro/assets/33b7ce0f-530c-4921-a1be-c11f0b348cd8
+          11:
+            url_poster: https://api.mediux.pro/assets/2d5ced89-1293-42af-8844-0a715d5cffe6
+          12:
+            url_poster: https://api.mediux.pro/assets/b4344b3e-c688-4130-8d68-b5e70d73ae2b
+          13:
+            url_poster: https://api.mediux.pro/assets/e6956034-8f40-436b-b743-84c19e906f85
