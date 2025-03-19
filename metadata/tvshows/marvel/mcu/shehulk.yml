@@ -1,11 +1,11 @@
 metadata:
   
-  368613: # TVDB id for She-Hulk: Attorney at Law. Set by Olivier_286 on MediUX. https://mediux.pro/sets/210
-    url_poster: https://api.mediux.pro/assets/73fa178d-bc0b-4102-b31a-5b0243b6ed2a
+  368613: # TVDB id for She-Hulk: Attorney at Law. Set by willtong93 on MediUX. https://mediux.pro/sets/24550
+    url_poster: https://api.mediux.pro/assets/086209be-f952-4f57-bef7-0e6929613a5f
     url_background: https://api.mediux.pro/assets/e0b55fa2-e17c-4fe7-acfd-698d6e23a2be
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/ab7d609d-a471-47c6-a42f-c659d0823305
+        url_poster: https://api.mediux.pro/assets/58b7fe6f-f757-46c3-a81a-8065d4a9f38e
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/3a35af67-e008-40aa-809d-ff338e90da26
