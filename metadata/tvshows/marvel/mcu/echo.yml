@@ -1,10 +1,10 @@
 metadata:
 
-  412431: # TVDB id for Echo. Set by RandalPink87 on MediUX. https://mediux.pro/sets/30269
-    url_poster: https://api.mediux.pro/assets/eb8a7dfd-91d1-430f-8bfe-2f6e2b4a1dc8
+  412431: # TVDB id for Echo. Set by willtong93 on MediUX. https://mediux.pro/sets/24554
+    url_poster: https://api.mediux.pro/assets/82f33034-011a-4366-878e-7fb8cccaa974
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/2a077017-c6f6-42ad-a5ca-ac33a399656e
+        url_poster: https://api.mediux.pro/assets/4d382da9-65fe-4a8f-9eb8-0c2318d0e548
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/16eb80ab-61a9-47c4-a8fd-37202c177e5d
