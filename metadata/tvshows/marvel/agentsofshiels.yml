@@ -1,0 +1,22 @@
+metadata:
+
+  263365: # TVDB id for Marvel's Agents of S.H.I.E.L.D.. Set by willtong93 on MediUX. https://mediux.pro/sets/24583
+    url_poster: https://api.mediux.pro/assets/7a8a54b3-b0db-44c8-9622-9a080c63d110
+    url_background: https://api.mediux.pro/assets/42695c85-b27c-4dc5-b956-1654420d05e5
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/52d20dda-2f76-467a-950e-ccea452572e3
+      1:
+        url_poster: https://api.mediux.pro/assets/10fabc99-7ca9-499d-8663-3ca305b8ce68
+      2:
+        url_poster: https://api.mediux.pro/assets/31646d7a-37ba-4440-ad5e-7bc0c12e66f6
+      3:
+        url_poster: https://api.mediux.pro/assets/58ccb7ed-d5a0-40a7-9e46-cb806cead5f6
+      4:
+        url_poster: https://api.mediux.pro/assets/d150fb05-4df9-46c0-8a9a-c1811974d4e2
+      5:
+        url_poster: https://api.mediux.pro/assets/e7bd3038-1ac6-47d9-a783-a057f00dc76b
+      6:
+        url_poster: https://api.mediux.pro/assets/c957fdc3-095f-4e31-a34e-06a9ae772396
+      7:
+        url_poster: https://api.mediux.pro/assets/b14c7238-f96d-4190-bdd0-8f5acf259f8a
