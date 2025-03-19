@@ -1,0 +1,8 @@
+metadata:
+
+  320558: # TVDB id for Marvel's Inhumans. Set by willtong93 on MediUX. https://mediux.pro/sets/24602
+    url_poster: https://api.mediux.pro/assets/b08d86bc-ed9c-448c-b859-9de96d731979
+    url_background: https://api.mediux.pro/assets/6ac1b449-0d12-4bc4-ae27-8f2061142661
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9e87d5e7-469b-4ba1-a5d8-b04ffcf03831
