@@ -1,11 +1,11 @@
 metadata:
 
   368611: # TVDB id for Moon Knight. Set by willtong93 on MediUX. https://mediux.pro/sets/24541
-    url_poster: https://api.mediux.pro/assets/e4f95ab6-cbb4-4b5e-9f41-d00c89bb8227
+    url_poster: https://api.mediux.pro/assets/655d7b6f-9c7a-4b68-ac46-e0d9fdc468b7
     url_background: https://api.mediux.pro/assets/a7387803-dc59-482d-9543-50a2d70abadd
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/7c74a004-9968-4520-b818-1822e1d88e8e
+        url_poster: https://api.mediux.pro/assets/6123c284-b477-453c-a5d2-815c5c20479c
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/da1722cf-60cc-4862-b1b1-b553ea6cbee0
