@@ -1,0 +1,8 @@
+metadata:
+
+  364038: # TVDB id for Helstrom. Set by willtong93 on MediUX. https://mediux.pro/sets/24635
+    url_poster: https://api.mediux.pro/assets/5dd8b251-f617-4581-b0ef-37bc1a1311c6
+    url_background: https://api.mediux.pro/assets/6e58329f-1090-4ffe-a52d-e66afa9725c4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/94005d26-5282-47ca-993c-94ac566785e0
