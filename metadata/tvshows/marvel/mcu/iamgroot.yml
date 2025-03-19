@@ -1,11 +1,11 @@
 metadata:
   I Am Groot:
     mapping_id:  393201 # TVDB id for I Am Groot. Set by Olivier_286 on MediUX. https://mediux.pro/sets/730
-    url_poster: https://api.mediux.pro/assets/1d8022fa-e68f-436b-9946-d10ac98ddcbc
+    url_poster: https://api.mediux.pro/assets/88aeedfd-7194-46e5-b1c9-d1285e8ef232
     url_background: https://api.mediux.pro/assets/6f0b3753-709d-4246-821c-e3eff3f2d9e4
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/b1f084f7-2f2e-4d83-b5db-cee79ca01690
+        url_poster: https://api.mediux.pro/assets/4eea0de5-cee0-4b1b-a6f9-74455ed2aa60
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/3a7ca899-a715-4c44-87a9-2c3ac83173bb
@@ -18,7 +18,7 @@ metadata:
           5:
             url_poster: https://api.mediux.pro/assets/6f2f8771-84c0-4843-86f2-5bc50e036db5
       2:
-        url_poster: https://api.mediux.pro/assets/4aeed2ae-18aa-4258-b76e-799f3fb7793c
+        url_poster: https://api.mediux.pro/assets/de270344-94a9-430a-8408-77a0e3e99af7
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/6fe9a630-8df9-4c6a-9561-c2d29887410d
