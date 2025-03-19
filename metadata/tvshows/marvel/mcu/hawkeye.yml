@@ -1,10 +1,10 @@
 metadata:
 
-   367146: # TVDB id for Hawkeye. Set by RandalPink87 on MediUX. https://mediux.pro/sets/30303
-    url_poster: https://api.mediux.pro/assets/133551d6-7d68-4d0e-8d19-ebfd438ea921
+   367146: # TVDB id for Hawkeye. Set by willtong93 on MediUX. https://mediux.pro/sets/24539
+    url_poster: https://api.mediux.pro/assets/2b500bfe-7623-4934-be22-bde58e2eae66
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/5f3c9104-96c0-47b0-aa06-e8d2960ca6c6
+        url_poster: https://api.mediux.pro/assets/3da09d36-f162-4b28-b53c-75a6b9998c23
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/9d26ce1a-ff1b-4408-9960-6af08f5e0be4
