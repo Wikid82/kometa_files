@@ -1,0 +1,12 @@
+metadata:
+
+  320724: # TVDB id for Legion. Set by willtong93 on MediUX. https://mediux.pro/sets/24637
+    url_poster: https://api.mediux.pro/assets/a71c4731-cf4c-4b5b-a962-6a9af535b9ad
+    url_background: https://api.mediux.pro/assets/657da1bf-cdd0-450b-a3ce-d1b5f9f7fdc1
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e58668a7-e7e0-4355-8c58-e9df3ae4f5df
+      2:
+        url_poster: https://api.mediux.pro/assets/a2ae8066-8b6a-44dc-8db6-c88a1f3b4a06
+      3:
+        url_poster: https://api.mediux.pro/assets/1d7c58b2-bf6d-42d5-9a8a-bb901bbce175
