@@ -1,0 +1,10 @@
+metadata:
+
+  341455: # TVDB id for Marvel's Cloak & Dagger. Set by willtong93 on MediUX. https://mediux.pro/sets/24634
+    url_poster: https://api.mediux.pro/assets/1970713f-8a89-4f4b-b337-67853871a9cd
+    url_background: https://api.mediux.pro/assets/aa533a74-1280-43f4-ab87-5473f97aab90
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d4b8e695-f6bd-4aa8-b75b-51dffcdd9ed5
+      2:
+        url_poster: https://api.mediux.pro/assets/7e68474c-c927-49a2-9ccb-d05c67520d5d
