@@ -1,10 +1,11 @@
 metadata:
 
-  362472: # TVDB id for Loki. Set by RandalPink87 on MediUX. https://mediux.pro/sets/30251
-    url_poster: https://api.mediux.pro/assets/548dd0a4-70ce-43ea-939e-c6543ccba9c1
+  362472: # TVDB id for Loki. Set by willtong93 on MediUX. https://mediux.pro/sets/24524
+    url_poster: https://api.mediux.pro/assets/a5e5dbc8-cf93-434e-8948-b4230f78ecba
+    url_background: https://api.mediux.pro/assets/53e27fbc-2fdb-4961-80e6-ad1180a7a1f9
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/e21a401e-aea6-4c0e-a96a-b1f0de848392
+        url_poster: https://api.mediux.pro/assets/99c56cf3-bd62-4f6e-bf70-b6834a74ba83
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/c059b71c-b64f-4758-9e21-e0398f0af96b
@@ -19,7 +20,7 @@ metadata:
           6:
             url_poster: https://api.mediux.pro/assets/c3c99a0d-0050-4f42-9148-c0e6b656d513
       2:
-        url_poster: https://api.mediux.pro/assets/95027ef6-0720-4a92-a1e5-aedc10b0f936
+        url_poster: https://api.mediux.pro/assets/81a71ce7-72b6-41fa-ada4-d077f7724ca5
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/bb4fe044-12e1-4a70-b4fd-0316c01e67fd
