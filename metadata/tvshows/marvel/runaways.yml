@@ -1,0 +1,12 @@
+metadata:
+
+  332027: # TVDB id for Marvel's Runaways. Set by willtong93 on MediUX. https://mediux.pro/sets/24633
+    url_poster: https://api.mediux.pro/assets/8698e836-c06d-4d39-a543-71429d916361
+    url_background: https://api.mediux.pro/assets/296cf1a1-369e-431b-a246-0951f54a08f6
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/dd8f2b9e-ae3d-43af-82d7-e37a78ac95de
+      2:
+        url_poster: https://api.mediux.pro/assets/d315ed70-66cf-42b9-a432-cacef6d0b355
+      3:
+        url_poster: https://api.mediux.pro/assets/07aa166f-4db3-42e1-ab63-7d8617e6d0b7
