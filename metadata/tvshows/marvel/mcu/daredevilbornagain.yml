@@ -1,14 +1,15 @@
 metadata:
 
-  422712: # TVDB id for Daredevil: Born Again. Set by RandalPink87 on MediUX. https://mediux.pro/sets/30259
-    url_poster: https://api.mediux.pro/assets/33320fb5-bc64-44a6-b1f5-de1a1d22e175
+  422712: # TVDB id for Daredevil: Born Again. Set by willtong93 on MediUX. https://mediux.pro/sets/31179
+    url_poster: https://api.mediux.pro/assets/0a605fac-e1ff-446c-93bb-4a80194f3525
+    url_background: https://api.mediux.pro/assets/e0abe2bd-a36b-4214-8ba3-0bfbd6791aec
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/5bb0ff3e-1251-45fa-a854-1791d2a672b5
+        url_poster: https://api.mediux.pro/assets/70c8ca62-ebcd-4716-9985-044850e17dbc
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/ee145bf6-12c2-4065-8a3b-5b12ab2c8d2e
+            url_poster: https://api.mediux.pro/assets/908c3e08-1da9-4ad5-93f9-801af37b5a7a
           2:
-            url_poster: https://api.mediux.pro/assets/d065c65d-afbd-4961-8104-3e51e8b4ff2a
+            url_poster: https://api.mediux.pro/assets/0983784d-adee-4c21-b2f6-61d861dcc5e7
           3:
-            url_poster: https://api.mediux.pro/assets/6b9504fa-935e-474f-8102-6384848b8a6c
+            url_poster: https://api.mediux.pro/assets/79da2358-3289-4580-a508-9abb82126303
