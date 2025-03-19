@@ -2,6 +2,6 @@ collections:
   Spider-Verse Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/6126387
+    tmdb_collection_details: https://www.themoviedb.org/collection/573436-spider-man-spider-verse-collection
     url_background: https://image.tmdb.org/t/p/original/tgT5iIE7f0BAdF4gQ0Bk4RiTKxj.jpg
-    url_poster: https://theposterdb.com/api/assets/421248
+    url_poster: https://api.mediux.pro/assets/f66d7082-fe88-4f2d-8175-b745843a44c7

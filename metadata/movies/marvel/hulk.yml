@@ -1,4 +1,4 @@
 metadata:
-  Hulk:
-    mapping_id: 1927
-    url_poster: https://theposterdb.com/api/assets/202341
+
+  1927: # Hulk (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/24416
+    url_poster: https://api.mediux.pro/assets/79a36ad4-0a4a-49c1-be5f-eb0f87cadbd0

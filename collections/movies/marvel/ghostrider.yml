@@ -3,6 +3,6 @@ collections:
   Ghost Rider Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/official/ghost-rider-collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/90306-ghost-rider-collection
     url_background: https://image.tmdb.org/t/p/original/cNRAWtbItigb2oFwXpcDi6mjMQm.jpg
-    url_poster: https://theposterdb.com/api/assets/163915
+    url_poster: https://api.mediux.pro/assets/2f276cd2-47ba-4cc0-8e27-ae9b8455ef0b

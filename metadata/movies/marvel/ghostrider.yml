@@ -1,7 +1,7 @@
 metadata:
-  Ghost Rider:
-    mapping_id: 1250
-    url_poster: https://theposterdb.com/api/assets/202632
-  Ghost Rider Spirit of Vengance:
-    mapping_id: 71676
-    url_poster: https://theposterdb.com/api/assets/202985
+
+  1250: # Ghost Rider (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/24408
+    url_poster: https://api.mediux.pro/assets/1bc2e283-b59c-4b98-98ec-0ab9ecab46c2
+
+  71676: # Ghost Rider: Spirit of Vengeance (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/24408
+    url_poster: https://api.mediux.pro/assets/b69d6dc3-6164-495c-b5d2-0308598ae915

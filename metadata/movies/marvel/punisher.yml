@@ -1,10 +1,12 @@
 metadata:
-  The Punisher (1989):
-    mapping_id: 8867
-    url_poster: https://theposterdb.com/api/assets/163921
-  The Punisher (2004):
-    mapping_id: 7220
-    url_poster: https://theposterdb.com/api/assets/163922
-  Punisher War Zone:
-    mapping_id: 13056
-    url_poster: https://theposterdb.com/api/assets/163923
+
+  8867: # The Punisher (1989) Poster by willtong93 on MediUX. https://mediux.pro/sets/24438
+    url_poster: https://api.mediux.pro/assets/ff6b9c52-d232-44b5-9f69-feb593fa7439
+
+
+  7220: # The Punisher (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/24437
+    url_poster: https://api.mediux.pro/assets/3375a489-d624-4681-b2a4-151235e7c8fe
+
+  13056: # Punisher: War Zone (2008) Poster by willtong93 on MediUX. https://mediux.pro/sets/24437
+    url_poster: https://api.mediux.pro/assets/19b87759-0c62-4a0c-9507-0c87dd7d0867
+

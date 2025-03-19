@@ -3,6 +3,6 @@ collections:
   Spider-Man Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/67
+    tmdb_collection_details: https://www.themoviedb.org/collection/556-spider-man-collection
     url_background: https://image.tmdb.org/t/p/original/4Kk8CNTh9NcUhKvh422w7WOrRqF.jpg
-    url_poster: https://theposterdb.com/api/assets/334375
+    url_poster: https://api.mediux.pro/assets/f0d9aa66-c8d5-42c5-9b4d-4357545317a0

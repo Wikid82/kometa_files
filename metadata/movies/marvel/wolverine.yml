@@ -1,10 +1,11 @@
 metadata:
-  X-Men Origins Wolverine:
-    mapping_id: 2080
-    url_poster: https://theposterdb.com/api/assets/202971
-  The Wolverine:
-    mapping_id: 76170
-    url_poster: https://theposterdb.com/api/assets/202958
-  Logan:
-    mapping_id: 263115
-    url_poster: https://theposterdb.com/api/assets/202441
+
+  2080: # X-Men Origins: Wolverine (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/24390
+    url_poster: https://api.mediux.pro/assets/bdc7f338-55a7-4aab-be04-a209661c1cbc
+
+  76170: # The Wolverine (2013) Poster by willtong93 on MediUX. https://mediux.pro/sets/24390
+    url_poster: https://api.mediux.pro/assets/800864b2-29e2-4c7b-a83f-83b078c0b23f
+
+  263115: # Logan (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/24390
+    url_poster: https://api.mediux.pro/assets/14c6a604-5fe6-4dd8-ac63-8b9703f7c2cb
+

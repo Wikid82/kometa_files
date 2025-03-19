@@ -1,11 +1,12 @@
 metadata:
-  Fantastic Four:
-    mapping_id: 9738
-    url_poster: https://theposterdb.com/api/assets/202611
-  Fantastic Four Rise of the Silver Surfer:
-    mapping_id: 1979
-    url_poster: https://theposterdb.com/api/assets/202612
-  Fantastic Four (2015):
-    mapping_id: 166424
-    url_poster: https://theposterdb.com/api/assets/202613
+
+  9738: # Fantastic Four (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/24424
+    url_poster: https://api.mediux.pro/assets/d8763a4e-3ea4-4446-b250-a6e31167fad6
+
+  1979: # Fantastic Four: Rise of the Silver Surfer (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/24424
+    url_poster: https://api.mediux.pro/assets/2d79978c-3785-4f2d-9ed7-478e26c0d46c
+
+  166424: # Fantastic Four (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/24425
+    url_poster: https://api.mediux.pro/assets/4d90e340-b623-477a-9404-803018dc0082
+
 

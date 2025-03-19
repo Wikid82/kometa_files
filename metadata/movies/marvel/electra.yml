@@ -1,4 +1,4 @@
 metadata:
-  Elektra:
-    mapping_id: 9947
-    url_poster: https://theposterdb.com/api/assets/202440
+
+  9947: # Elektra (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/24417
+    url_poster: https://api.mediux.pro/assets/e5319884-67fe-46a0-b740-98ccf52861d9

@@ -1,12 +1,11 @@
 metadata:
-  Blade:
-    mapping_id: 36647
-    url_poster: https://theposterdb.com/api/assets/202291
-  Blade 2:
-    mapping_id: 36586
-    url_poster: https://theposterdb.com/api/assets/202292
-  Blade Trinity:
-    mapping_id: 36648
-    url_poster: https://theposterdb.com/api/assets/202294
 
+  36647: # Blade (1998) Poster by willtong93 on MediUX. https://mediux.pro/sets/24406
+    url_poster: https://api.mediux.pro/assets/b0e3f795-9aff-44d9-8ac8-3a154025dfd0
+
+  36586: # Blade II (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/24406
+    url_poster: https://api.mediux.pro/assets/4e98f06d-063d-461d-9e39-4407cafa2c36
+
+  36648: # Blade: Trinity (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/24406
+    url_poster: https://api.mediux.pro/assets/2383c7e6-a3f3-45e9-8777-f156c9ab65e8
 

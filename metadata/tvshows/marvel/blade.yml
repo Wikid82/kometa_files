@@ -1,0 +1,8 @@
+metadata:
+
+  73192: # TVDB id for Blade: The Series. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27129
+    url_poster: https://api.mediux.pro/assets/ff249a3f-0cde-49df-9276-49d0c739ae40
+    url_background: https://api.mediux.pro/assets/e68633f3-bb83-4be7-863d-8ce6201371f4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a1b0a62d-08ee-4d19-a0e2-271e6b1bb4be

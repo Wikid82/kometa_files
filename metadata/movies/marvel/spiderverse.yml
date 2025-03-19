@@ -1,10 +1,7 @@
 metadata:
-  Spider-Man Into the Spider-Verse:
-    mapping_id: 324857
-    url_poster: https://theposterdb.com/api/assets/202574
-  Spider-Man Across the Spider-Verse:
-    mapping_id: 569094
-    url_poster: https://theposterdb.com/api/assets/421250
-  #Spider-Man Beyond the Spider-Verse:
-  #  mapping_id: 911916
-  #  url_poster: https://theposterdb.com/api/assets/506580
+
+  324857: # Spider-Man: Into the Spider-Verse (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/24404
+    url_poster: https://api.mediux.pro/assets/3ae60cf9-ad99-449c-971f-5d7c6eaba02f
+
+  569094: # Spider-Man: Across the Spider-Verse (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/24404
+    url_poster: https://api.mediux.pro/assets/aa12cd8a-08ab-4c47-b82f-df370047d654

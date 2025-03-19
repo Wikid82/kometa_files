@@ -1,28 +1,26 @@
 metadata:
-  X-Men:
-    mapping_id: 36657
-    url_poster: https://theposterdb.com/api/assets/202320
-  X2:
-    mapping_id: 36658
-    url_poster: https://theposterdb.com/api/assets/202321
-  X-Men The Last Stand:
-    mapping_id: 36668
-    url_poster: https://theposterdb.com/api/assets/202970
-  X-Men First Class:
-    mapping_id: 49538
-    url_poster: https://theposterdb.com/api/assets/202972
-  X-Men Days of Future Past:
-    mapping_id: 127585
-    title: "X-Men: Days of Future Past - The Rogue Cut"
-    sort_title: "X-Men: Days of Future Past - The Rogue Cut"
-    edition: Extended Cut
-    url_poster: https://theposterdb.com/api/assets/347700
-  X-Men Apocalypse:
-    mapping_id: 246655
-    url_poster: https://theposterdb.com/api/assets/203022
-  Dark Phoenix:
-    mapping_id: 320288
-    url_poster: https://theposterdb.com/api/assets/202442
-  The New Mutants:
-    mapping_id: 340102
-    url_poster: https://theposterdb.com/api/assets/202634
+
+  36657: # X-Men (2000) Poster by willtong93 on MediUX. https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/3a56ad21-44cb-4258-bfb0-827b2095207d
+
+  36658: # X2 (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/82e8afcb-2736-4ea3-866a-8460e13c0b3d
+
+  36668: # X-Men: The Last Stand (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/d7a4721e-75ce-4480-b3ba-0947e6b5d7f5
+
+  49538: # X-Men: First Class (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/6ee29981-b083-4906-89ed-da1f0f94d114
+
+  127585: # X-Men: Days of Future Past (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/c02727d4-bb63-4e1d-b1b5-6087aab0c67f
+
+  246655: # X-Men: Apocalypse (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/14cca66c-681a-4935-87d7-ac46221d31c7
+
+  320288: # Dark Phoenix (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/db3deca4-5d9b-4eb5-89b3-11e11ead0d11
+
+  340102: # The New Mutants (2020) Poster by willtong93 on MediUX. https://mediux.pro/sets/24392
+    url_poster: https://api.mediux.pro/assets/8c876119-54d4-4897-ac66-f3f228c0dff2
+

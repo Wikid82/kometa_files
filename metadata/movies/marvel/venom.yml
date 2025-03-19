@@ -1,10 +1,10 @@
 metadata:
-  Venom:
-    mapping_id: 335983
-    url_poster: https://api.mediux.pro/assets/3d06f43a-0422-4b07-8a83-eeb3dcf082b4
-  Venom Let There Be Carnage:
-    mapping_id: 580489
-    url_poster: https://api.mediux.pro/assets/3ad1f261-2ec9-4d75-95d3-3926d528e32b
-  Venom The Last Dance:
-    mapping_id: 912649
-    url_poster: https://api.mediux.pro/assets/325b3fc2-c5a5-4a08-9175-c01c5bbefbe4
+
+  335983: # Venom (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/24315
+    url_poster: https://api.mediux.pro/assets/dfed1f6d-6e0f-4af7-8644-d8369cc6d917
+
+  580489: # Venom: Let There Be Carnage (2021) Poster by willtong93 on MediUX. https://mediux.pro/sets/24315
+    url_poster: https://api.mediux.pro/assets/ba63c787-c042-4487-b08a-e4619e88166e
+
+  912649: # Venom: The Last Dance (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/24315
+    url_poster: https://api.mediux.pro/assets/394585ec-2869-44b1-9b45-9a47d682d1f8

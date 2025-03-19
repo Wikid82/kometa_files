@@ -1,21 +1,14 @@
 metadata:
-  Deadpool:
-    mapping_id: tt1431045
-    url_poster: https://theposterdb.com/api/assets/16116
 
-  Deadpool 2:
-    mapping_id: tt5463162
-    title: "Deadpool 2: The Super Duper Cut"
-    sort_title: "Deadpool 2: The Super Duper Cut"
-    edition: Extended Cut
-    url_poster: https://theposterdb.com/api/assets/120438
+  293660: # Deadpool (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/24333
+    url_poster: https://api.mediux.pro/assets/de0134e3-abb2-4f86-b321-c76041b221f1
 
-  Once Upon a Deadpool:
-    mapping_id: 567604
-    url_poster: https://theposterdb.com/api/assets/1244
+  383498: # Deadpool 2 (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/24333
+    url_poster: https://api.mediux.pro/assets/b3d4ca84-28b3-4a6b-a0d3-8fcc6eef578d
 
-  Deadpool & Wolverine:
-    mapping_id: 533535
-    url_poster: https://theposterdb.com/api/assets/509319
+  567604: # Once Upon a Deadpool (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/24347
+    url_poster: https://api.mediux.pro/assets/71e4dcb9-476a-4e6c-a37e-1dbfccd322c1
 
+  533535: # Deadpool & Wolverine (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/24333
+    url_poster: https://api.mediux.pro/assets/f27e2fcb-48bd-406a-8a7c-0b980672298f
 
