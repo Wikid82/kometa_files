@@ -1,0 +1,25 @@
+metadata:
+
+  417552: # TVDB id for The Residence. Set by willtong93 on MediUX. https://mediux.pro/sets/31429
+    url_poster: https://api.mediux.pro/assets/276acb51-5992-4240-add9-3aa1ec4144ae
+    url_background: https://api.mediux.pro/assets/f59cf69e-4730-48d0-9945-61b5bdb64d35
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/dcbc7646-69f3-406c-8b1d-c4505bba000f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/0ccce2d6-9551-4d8f-8904-b0087b7f2337
+          2:
+            url_poster: https://api.mediux.pro/assets/9b50c81c-601c-4295-8be3-b006dfe24ef7
+          3:
+            url_poster: https://api.mediux.pro/assets/171871d9-d810-4fd8-8536-02eab978636a
+          4:
+            url_poster: https://api.mediux.pro/assets/eef1a1a4-1e8a-4ad7-82c8-a67d5b456939
+          5:
+            url_poster: https://api.mediux.pro/assets/597fc4d9-ac4d-4849-99c6-165bd594ac74
+          6:
+            url_poster: https://api.mediux.pro/assets/09fe8b91-01fb-4560-b974-045aa23ad222
+          7:
+            url_poster: https://api.mediux.pro/assets/2d427ec0-a30e-4a97-8e93-1848067e5d4e
+          8:
+            url_poster: https://api.mediux.pro/assets/4ea408b2-3fbb-4927-bc55-54e77e68b7a2
