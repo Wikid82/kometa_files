@@ -1,3 +1,11 @@
+<p>
+		<h1 align="center">FUTURE BREAKING CHANGES</h1>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Over the course of the next few updates when I have time I will be adding the date to the end of files and breaking down collection metadata files into individual files. This will make it easier to find exactly what someone may be searching for as well as help prevent duplacates in the future. This will only affect those who would use the git option.
+	
+</p>
+
+
+
 <p align="center">
     <h1 align="center">KOMETA_FILES</h1>
 </p>
