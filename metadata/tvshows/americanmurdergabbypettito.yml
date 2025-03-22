@@ -1,0 +1,15 @@
+metadata:
+
+  459466: # TVDB id for American Murder: Gabby Petito. Set by willtong93 on MediUX. https://mediux.pro/sets/31445
+    url_poster: https://api.mediux.pro/assets/466238e4-3e8e-49b9-bdfd-98bdfbb2908e
+    url_background: https://api.mediux.pro/assets/f5ba42f7-4b7f-40b7-95e5-032e553b64a5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/113cf3ff-4a2c-4a49-ad24-b05237a7f13a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/322f674b-94c1-48b2-aade-2d847d93ace3
+          2:
+            url_poster: https://api.mediux.pro/assets/d68103a3-6f9b-4855-a03c-949e89b81e41
+          3:
+            url_poster: https://api.mediux.pro/assets/8f8a5c9d-9cd5-43ca-ba8c-b6c3bb72884e
