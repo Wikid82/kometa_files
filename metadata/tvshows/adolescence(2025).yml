@@ -1,0 +1,8 @@
+metadata:
+
+  452467: # TVDB id for Adolescence. Set by plexstreaming on MediUX. https://mediux.pro/sets/31234
+    url_poster: https://api.mediux.pro/assets/77717f53-d711-43c6-92a8-2e27a2863251
+    url_background: https://api.mediux.pro/assets/f834ad49-a404-4197-a9d9-a7e1e0f85afa
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/2080ddfe-7298-43d1-890c-ebab46833a90
