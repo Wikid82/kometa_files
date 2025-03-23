@@ -1,0 +1,7 @@
+collections:
+  Haunting in Connecticut Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/169740-haunting-in-connecticut-collection
+    url_background: https://image.tmdb.org/t/p/original/1sWTV5QaoDnBTTSbElUfe5zBcu2.jpg
+    url_poster: https://theposterdb.com/api/assets/59000
