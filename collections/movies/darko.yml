@@ -1,0 +1,7 @@
+collections:
+  Darko Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/178106-darko-collection
+    url_background: https://image.tmdb.org/t/p/original/ohe2ksGzff0TJm30h6D7nhrtiNC.jpg
+    url_poster: https://api.mediux.pro/assets/55709138-ac35-4664-84f7-7d258c492faf
