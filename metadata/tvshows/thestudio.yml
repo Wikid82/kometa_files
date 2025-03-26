@@ -1,0 +1,15 @@
+metadata:
+
+  448147: # TVDB id for The Studio. Set by willtong93 on MediUX. https://mediux.pro/sets/31361
+    url_poster: https://api.mediux.pro/assets/76d2879b-3dd9-418e-972d-952bc5910ef8
+    url_background: https://api.mediux.pro/assets/64097105-5a94-4bdf-bacd-edb22240f4d4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/070ee99e-6ace-4237-af46-604c42488471
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fd11800b-8875-42cf-b118-3e2d021626ce
+          2:
+            url_poster: https://api.mediux.pro/assets/bcf17f12-cf97-4a0c-8eef-8ee615a6b80d
+          3:
+            url_poster: https://api.mediux.pro/assets/8c31a126-87a4-4132-8a74-4e3ab65d0de3
