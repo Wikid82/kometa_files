@@ -1,0 +1,25 @@
+metadata:
+
+  416744: # TVDB id for Fallout. Set by willtong93 on MediUX. https://mediux.pro/sets/15915
+    url_poster: https://api.mediux.pro/assets/a860fa77-b153-4ae1-bd01-362bf6e5b90f
+    url_background: https://api.mediux.pro/assets/dbb754bc-5920-4fdf-990e-f7d3da3ae443
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f4552a18-ef19-4f88-b1ad-b9b62b725bd0
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/ee2cd542-13ef-4bbb-87a0-59ca2cd9b69c
+          2:
+            url_poster: https://api.mediux.pro/assets/ff6a7d3d-b044-41fb-a6e6-bda8c8a8aef3
+          3:
+            url_poster: https://api.mediux.pro/assets/b0a396d8-7b0a-4466-8949-adb40c11d862
+          4:
+            url_poster: https://api.mediux.pro/assets/7aeebf85-9d40-4f52-9755-e501c4a00d1d
+          5:
+            url_poster: https://api.mediux.pro/assets/cefd9e9c-f4cf-43f0-b419-63b31887f157
+          6:
+            url_poster: https://api.mediux.pro/assets/ba3dff77-2986-4618-b32e-9ae2c871e22b
+          7:
+            url_poster: https://api.mediux.pro/assets/95ced4f2-ceb4-4396-a1c4-2a526fc72a6a
+          8:
+            url_poster: https://api.mediux.pro/assets/71b96cb5-9135-4860-9838-a448394958f9
