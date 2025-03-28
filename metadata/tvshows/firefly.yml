@@ -1,0 +1,8 @@
+metadata:
+
+  78874: # TVDB id for Firefly. Set by Hikari on MediUX. https://mediux.pro/sets/29461
+    url_poster: https://api.mediux.pro/assets/4223bf2c-6963-45bb-b5ef-7460be579ede
+    url_background: https://api.mediux.pro/assets/f0816d1c-1556-4f5e-8833-8e55c1533bdb
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/576ef016-1e0b-493f-a4cc-8db4c3cd97f6
