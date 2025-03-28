@@ -1,0 +1,7 @@
+collections:
+  Children of the Corn Collection:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_lst_details: https://trakt.tv/lists/31003075
+    url_background: https://image.tmdb.org/t/p/original/g4aK8Up5zSegesJdMYbxDcndn20.jpg
+    url_poster: https://theposterdb.com/api/assets/7942
