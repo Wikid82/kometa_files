@@ -1,0 +1,7 @@
+collections:
+  Peter Rabit Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/595693-peter-rabbit-collection
+    url_background: https://image.tmdb.org/t/p/original/gwKcnZiRcdYPqJpxUSrIUanfm3Z.jpg
+    url_poster: https://api.mediux.pro/assets/f61a8201-0a36-44af-a8f4-da650ae84e91

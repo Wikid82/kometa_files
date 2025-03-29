@@ -3,6 +3,6 @@ collections:
   Cloudy With A Chance of Meatballs Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/953
+    tmdb_collection_details: https://www.themoviedb.org/collection/177467-cloudy-with-a-chance-of-meatballs-collection
     url_background: https://image.tmdb.org/t/p/original/u8nU29RuQcrzVZuU1OHURZoXWO4.jpg
-    url_poster: https://theposterdb.com/api/assets/20437
+    url_poster: https://api.mediux.pro/assets/ec2094a7-4b69-4065-a629-2c6c709e38e6

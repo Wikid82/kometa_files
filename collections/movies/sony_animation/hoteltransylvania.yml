@@ -3,6 +3,6 @@ collections:
   Hotel Transylvania Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/1661
+    tmdb_collection_details: https://www.themoviedb.org/collection/185103-hotel-transylvania-collection
     url_background: https://image.tmdb.org/t/p/original/arH2YrpG7EVMnA4JCtzAXt9wQQJ.jpg
-    url_poster: https://theposterdb.com/api/assets/67931
+    url_poster: https://api.mediux.pro/assets/db6af122-138b-44d5-bb27-dd14e25d36d3
