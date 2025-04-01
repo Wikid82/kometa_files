@@ -1,0 +1,20 @@
+metadata:
+  427116: # TVDB id for Supacell. 
+    url_poster: https://api.mediux.pro/assets/fed63c72-530d-4d18-a99e-778efe1f301d
+    url_background: https://api.mediux.pro/assets/6a0f5e8c-5dea-4037-95c7-a52865cdd7ae
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/34617fa7-475f-43cc-9a94-5aa15d53a6ee
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/691af2fe-fc50-4e38-9e20-d3d09d87cd8b
+          2:
+            url_poster: https://api.mediux.pro/assets/bce0667a-b35e-4238-8e36-fc565166cccc
+          3:
+            url_poster: https://api.mediux.pro/assets/6ec30264-2df4-4cd8-b171-2dce028350ae
+          4:
+            url_poster: https://api.mediux.pro/assets/8f3b3ceb-a9f4-401e-82e4-0e44dc825291
+          5:
+            url_poster: https://api.mediux.pro/assets/058fee8e-0820-4f3d-95e7-92f1f7c7b195
+          6:
+            url_poster: https://api.mediux.pro/assets/851a6d21-f58c-440a-8ae2-90dba95c1712
