@@ -1,0 +1,41 @@
+metadata:
+
+  356640: # TVDB id for Russian Doll.
+    url_poster: https://theposterdb.com/api/assets/138360
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/138361
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fe782a0b-412f-4060-ab6d-e3c608b9d809
+          2:
+            url_poster: https://api.mediux.pro/assets/3e26ed96-549e-499d-81f3-38b8fb1d210a
+          3:
+            url_poster: https://api.mediux.pro/assets/ad142de6-861d-4939-a8cb-23fac6761303
+          4:
+            url_poster: https://api.mediux.pro/assets/de51fd6a-1ca2-4efc-b4f3-d95bbd2d8f10
+          5:
+            url_poster: https://api.mediux.pro/assets/073caf6d-24a5-4fe2-bb76-fcdeab197438
+          6:
+            url_poster: https://api.mediux.pro/assets/ee4168a8-771f-419a-a2d0-3487e0401b39
+          7:
+            url_poster: https://api.mediux.pro/assets/0c0d9ce5-9e99-44fc-a7f8-dff6a53f8457
+          8:
+            url_poster: https://api.mediux.pro/assets/84ce6f93-d809-40db-a2df-cbde1b7da46e
+      2:
+        url_poster: https://theposterdb.com/api/assets/227411
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/a8317aac-ece8-442f-849e-e415f5607ff9
+          2:
+            url_poster: https://api.mediux.pro/assets/93ccc606-531b-4a93-9f17-c57464f6df0d
+          3:
+            url_poster: https://api.mediux.pro/assets/94deac61-3786-4bfa-a083-9a11f48968f9
+          4:
+            url_poster: https://api.mediux.pro/assets/cae2a912-6ccd-431b-9703-21eb7001c0e6
+          5:
+            url_poster: https://api.mediux.pro/assets/2230524e-510e-4586-bcab-6b76d067c107
+          6:
+            url_poster: https://api.mediux.pro/assets/4af48cda-3a58-45a9-b4fb-2bcec8363d8b
+          7:
+            url_poster: https://api.mediux.pro/assets/cc4d6873-317c-45ce-b708-e18d07900199
