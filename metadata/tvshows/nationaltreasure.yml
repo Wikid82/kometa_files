@@ -1,7 +1,6 @@
 metadata:
-  National Treasure Edge of History:
-    mapping_id: 382210
-    url_poster: https://theposterdb.com/api/assets/265530
+  382210: # TVDB id for National Treasure: Edge of History. Set by fwlolx on MediUX. https://mediux.pro/sets/19428
+    url_poster: https://api.mediux.pro/assets/919a13ea-245e-4b69-8ccd-f9bad524f48b
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/265531
+        url_poster: https://api.mediux.pro/assets/25dc018e-a4e9-4ad2-8789-1ad46bfa4dae

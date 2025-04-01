@@ -1,6 +1,5 @@
 metadata:
-  Extraordinary:
-    mapping_id:   401147 # TVDB id for Extraordinary. Set by ChamikaNLakshan on MediUX. https://mediux.pro/sets/20695
+  401147: # TVDB id for Extraordinary. Set by ChamikaNLakshan on MediUX. https://mediux.pro/sets/20695
     url_poster: https://api.mediux.pro/assets/7fa3f47d-69e7-4119-8051-6fb4819b3aab
     seasons:
       1:

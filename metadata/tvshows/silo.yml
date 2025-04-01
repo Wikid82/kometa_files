@@ -1,6 +1,5 @@
 metadata:
-  Silo:
-    mapping_id:  403245 # TVDB id for Silo. Set by Praythea on MediUX. https://mediux.pro/sets/2339
+  403245: # TVDB id for Silo. Set by Praythea on MediUX. https://mediux.pro/sets/2339
     url_poster: https://api.mediux.pro/assets/eb8e0e0d-488c-41d9-aab9-8b8b591973f6
     url_background: https://api.mediux.pro/assets/8d58498f-41d5-44aa-b352-0fba416312f9
     seasons:

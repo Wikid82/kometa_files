@@ -1,6 +1,5 @@
 metadata:
-  Bluey:
-    mapping_id:   353546 # TVDB id for Bluey. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20739
+  353546: # TVDB id for Bluey. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/20739
     url_poster: https://api.mediux.pro/assets/9b3c5a99-4169-42c9-bdc9-0f1aab55ea8d
     url_background: https://api.mediux.pro/assets/108f40cb-bb53-4f1f-b264-6997393cbf81
     seasons:

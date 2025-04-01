@@ -1,6 +1,5 @@
 metadata:
-  Unsolved Mysteries:
-    mapping_id: 76644
+  76644: # Unsolved Mysteries
     url_poster: https://theposterdb.com/api/assets/219267 #https://theposterdb.com/poster/219267
     seasons:
       18:

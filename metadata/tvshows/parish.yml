@@ -1,6 +1,5 @@
 metadata:
-  Parish:
-    mapping_id:   417605 # TVDB id for Parish. Set by willtong93 on MediUX. https://mediux.pro/sets/17290
+  417605: # TVDB id for Parish. Set by willtong93 on MediUX. https://mediux.pro/sets/17290
     url_poster: https://api.mediux.pro/assets/8f4b2b0d-1d74-4d5f-82d0-d38c8a723499
     url_background: https://api.mediux.pro/assets/a42099de-5316-49cd-b4ac-b7320f8c5480
     seasons:

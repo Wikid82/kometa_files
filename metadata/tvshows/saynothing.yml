@@ -1,6 +1,5 @@
 metadata:
-  Say Nothing:
-    mapping_id:   445610 # TVDB id for Say Nothing. Set by willtong93 on MediUX. https://mediux.pro/sets/28091
+  445610: # TVDB id for Say Nothing. Set by willtong93 on MediUX. https://mediux.pro/sets/28091
     url_poster: https://api.mediux.pro/assets/c0972b18-7b72-4645-956f-40d8ae3bb015
     url_background: https://api.mediux.pro/assets/3de97ee0-7825-4b65-954b-d8821c4ead89
     seasons:

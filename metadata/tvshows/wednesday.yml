@@ -1,6 +1,5 @@
 metadata:
-  Wednesday:
-    mapping_id:  397060 # TVDB id for Wednesday. Set by Koltom on MediUX. https://mediux.pro/sets/6057
+  397060: # TVDB id for Wednesday. Set by Koltom on MediUX. https://mediux.pro/sets/6057
     url_poster: https://api.mediux.pro/assets/c4a5afd3-8012-4087-9540-37b163d4d3f2
     url_background: https://api.mediux.pro/assets/c47b4929-39be-4fc6-854c-bf6dcbd28164
     seasons:

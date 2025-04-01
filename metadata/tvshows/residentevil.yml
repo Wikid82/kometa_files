@@ -1,7 +1,24 @@
 metadata:
-  Resident Evil:
-    mapping_id: 387525
+  387525: # Resident Evil (2022)
     url_poster: https://theposterdb.com/api/assets/250997
     seasons:
       01:
         url_poster: https://theposterdb.com/api/assets/250997
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/23a4608e-e17f-4b01-a10c-f5b0754f0e39
+          2:
+            url_poster: https://api.mediux.pro/assets/15ac8139-d50b-4b7e-8096-4926a75bd6be
+          3:
+            url_poster: https://api.mediux.pro/assets/81e083ba-b6f9-436f-9e83-214b6149851f
+          4:
+            url_poster: https://api.mediux.pro/assets/ef5e3e3a-0f62-408f-a30d-fc5a4947cc57
+          5:
+            url_poster: https://api.mediux.pro/assets/bf9e5726-00d9-4f28-b303-5480c392ddc6
+          6:
+            url_poster: https://api.mediux.pro/assets/e699c5c7-4f6a-4a7a-8aef-2a83716174ac
+          7:
+            url_poster: https://api.mediux.pro/assets/e630f432-072b-4149-9ef4-30a897d3a8be
+          8:
+            url_poster: https://api.mediux.pro/assets/b01c5ecc-5364-47bd-ac1c-404b2fb3e1db
+

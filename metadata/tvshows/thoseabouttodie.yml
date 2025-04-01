@@ -1,6 +1,5 @@
 metadata:
-  Those ABout To Die:
-    mapping_id:   422772 # TVDB id for Those About to Die. Set by willtong93 on MediUX. https://mediux.pro/sets/22738
+  422772: # TVDB id for Those About to Die. Set by willtong93 on MediUX. https://mediux.pro/sets/22738
     url_poster: https://api.mediux.pro/assets/27278121-e52a-4548-8b6e-f0d4b286c19c
     url_background: https://api.mediux.pro/assets/7d884b3b-3d70-41fd-b900-15acd4287c60
     seasons:

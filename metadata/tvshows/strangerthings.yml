@@ -1,6 +1,5 @@
 metadata:
-  Stranger Things:
-    mapping_id: 305288 # TVDB id for Stranger Things. Set by willtong93 on MediUX. https://mediux.pro/sets/12020
+  305288: # TVDB id for Stranger Things. Set by willtong93 on MediUX. https://mediux.pro/sets/12020
     url_poster: https://api.mediux.pro/assets/0d1abe67-92ad-4dec-bdd3-7685942fa6ff
     url_background: https://api.mediux.pro/assets/25b8e961-1351-46e7-b658-c273a04f6d5f
     seasons:

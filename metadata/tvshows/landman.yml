@@ -1,6 +1,5 @@
 metadata:
-  Landman:
-    mapping_id:   397424 # TVDB id for Landman. Set by Ikonok on MediUX. https://mediux.pro/sets/29706
+  397424: # TVDB id for Landman. Set by Ikonok on MediUX. https://mediux.pro/sets/29706
     url_poster: https://api.mediux.pro/assets/1aebd013-2b8f-4b70-aa82-a087a65da94d
     seasons:
       1:

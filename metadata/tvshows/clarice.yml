@@ -1,0 +1,8 @@
+metadata:
+
+  376395: # TVDB id for Clarice. Set by SwaffelSmurf on MediUX. https://mediux.pro/sets/24464
+    url_poster: https://api.mediux.pro/assets/8ef2990e-32ee-462e-8cfb-1d0671b9a2e1
+    url_background: https://api.mediux.pro/assets/99c6a9a4-f1ab-4ff3-aaa5-5774347846c4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/2d31333d-0dcc-4be0-ae86-21e5a09a641c

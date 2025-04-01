@@ -1,6 +1,5 @@
 metadata:
-  The Mighty Ducks Game Changers:
-    mapping_id:   382153 # TVDB id for The Mighty Ducks: Game Changers. Set by Koltom on MediUX. https://mediux.pro/sets/775
+  382153: # TVDB id for The Mighty Ducks: Game Changers. Set by Koltom on MediUX. https://mediux.pro/sets/775
     url_poster: https://api.mediux.pro/assets/d9c9e2b3-f283-4bde-881c-e14abf9caeb9
     url_background: https://api.mediux.pro/assets/6d6c03cd-50e6-4fb1-86a7-f521172e2edb
     seasons:

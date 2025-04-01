@@ -1,6 +1,5 @@
 metadata:
-  Letterkenny:
-    mapping_id:   302938 # TVDB id for Letterkenny. Set by Parrillized on MediUX. https://mediux.pro/sets/16302
+  302938: # TVDB id for Letterkenny. Set by Parrillized on MediUX. https://mediux.pro/sets/16302
     url_poster: https://api.mediux.pro/assets/1010d275-8e53-498d-ab82-b22c03878c3b
     url_background: https://api.mediux.pro/assets/c5b16641-dcf0-4881-afbf-3c6bc663a6f2
     seasons:
@@ -192,57 +191,3 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1a987170-64a9-4793-a0e2-4815c28b3cca
           6:
             url_poster: https://api.mediux.pro/assets/4c5549b6-0ba6-4e39-9980-e12137d3a79e
-
-
-
-  Shoresy:
-    mapping_id:  409902 # TVDB id for Shoresy. Set by Pejamas on MediUX. https://mediux.pro/sets/19735
-    url_poster: https://api.mediux.pro/assets/0766d7fa-60e9-4476-a750-d2ed792e9149
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/156e0d55-6716-4e29-ba14-c2e8c26780e3
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/c0c3c2ea-afcd-422b-9757-e566a01850e6
-          2:
-            url_poster: https://api.mediux.pro/assets/e38a548c-96b7-437f-8141-a7db5a22af9d
-          3:
-            url_poster: https://api.mediux.pro/assets/30eb782a-f7b5-4c71-8e56-ba3d2903b735
-          4:
-            url_poster: https://api.mediux.pro/assets/ffa89f5a-4dd5-4aaf-9469-aeef65859f5d
-          5:
-            url_poster: https://api.mediux.pro/assets/12925ee7-39f5-4788-a0f1-3a9ca271261b
-          6:
-            url_poster: https://api.mediux.pro/assets/4f6a183d-1b11-4e44-aa3f-eb9b9136c2ae
-      2:
-        url_poster: https://api.mediux.pro/assets/4a7ed1e5-034e-430e-8fe0-fe47df259ab6
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/5d893763-2c44-4382-bf6a-a907fe9cf9e9
-          2:
-            url_poster: https://api.mediux.pro/assets/96fab492-8176-4af2-b7dd-694681532148
-          3:
-            url_poster: https://api.mediux.pro/assets/4cbfcf62-037f-4ec1-aae9-bc23053dd01f
-          4:
-            url_poster: https://api.mediux.pro/assets/78e57b62-7cfe-4aa4-86fc-185e4c7ad81e
-          5:
-            url_poster: https://api.mediux.pro/assets/fefbfb0e-24c9-41f6-9982-272a29432186
-          6:
-            url_poster: https://api.mediux.pro/assets/f288d25d-f742-4213-a33e-613983c34000
-      3:
-        url_poster: https://api.mediux.pro/assets/01be7fd6-02f0-4e15-8476-c2cc488ea0c3
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/5e2ddeb9-e086-439b-b98c-93afce6ad7f6
-          2:
-            url_poster: https://api.mediux.pro/assets/bf666a12-0a5a-44da-8f13-93f464504465
-          3:
-            url_poster: https://api.mediux.pro/assets/0596ea71-46f7-4d6a-85a6-7deeced22bde
-          4:
-            url_poster: https://api.mediux.pro/assets/85dcd97a-0aba-47fe-b5c6-741adbcad875
-          5:
-            url_poster: https://api.mediux.pro/assets/0c6f3d4c-8641-4bee-9bef-65994f2b286f
-          6:
-            url_poster: https://api.mediux.pro/assets/90f94804-a283-4b62-abc1-49fbb23c2fd8
-      4:
-        url_poster: https://api.mediux.pro/assets/19a58366-6cf6-4285-849a-97aa8ae03f73

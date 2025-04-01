@@ -1,6 +1,5 @@
 metadata:
-  Expedition X:
-    mapping_id: 375704
+  375704: # Expedition X (2020)
     url_poster: https://theposterdb.com/api/assets/458316
     seasons:
       01:

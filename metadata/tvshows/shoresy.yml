@@ -1,0 +1,13 @@
+metadata:
+
+  409902: # TVDB id for Shoresy. Set by Pejamas on MediUX. https://mediux.pro/sets/19735
+    url_poster: https://api.mediux.pro/assets/0766d7fa-60e9-4476-a750-d2ed792e9149
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/156e0d55-6716-4e29-ba14-c2e8c26780e3
+      2:
+        url_poster: https://api.mediux.pro/assets/4a7ed1e5-034e-430e-8fe0-fe47df259ab6
+      3:
+        url_poster: https://api.mediux.pro/assets/01be7fd6-02f0-4e15-8476-c2cc488ea0c3
+      4:
+        url_poster: https://api.mediux.pro/assets/19a58366-6cf6-4285-849a-97aa8ae03f73

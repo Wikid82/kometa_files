@@ -1,6 +1,5 @@
 metadata:
-  Based On A True Story:
-    mapping_id:   418934 # TVDB id for Based on a True Story. Set by willtong93 on MediUX. https://mediux.pro/sets/26789
+  418934: # TVDB id for Based on a True Story. Set by willtong93 on MediUX. https://mediux.pro/sets/26789
     url_poster: https://api.mediux.pro/assets/a3036f43-08fb-49bd-bd87-9ac2787c9e3e
     url_background: https://api.mediux.pro/assets/2f69d6ff-a875-47d6-849f-e87f9f5a748a
     seasons:

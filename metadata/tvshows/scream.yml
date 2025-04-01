@@ -1,10 +1,9 @@
 metadata:
-  Scream:
-    mapping_id: 294417
+  294417: # Scream the Series
     url_poster: https://theposterdb.com/api/assets/212924
     seasons:
-      00:
-        url_poster: https://theposterdb.com/api/assets/212925
+#      00:
+#        url_poster: https://theposterdb.com/api/assets/212925
       01:
         url_poster: https://theposterdb.com/api/assets/212926
       02:

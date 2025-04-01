@@ -1,6 +1,5 @@
 metadata:
-  Time Bandits:
-    mapping_id:   425453 # TVDB id for Time Bandits. Set by willtong93 on MediUX. https://mediux.pro/sets/23241
+  425453: # TVDB id for Time Bandits. Set by willtong93 on MediUX. https://mediux.pro/sets/23241
     url_poster: https://api.mediux.pro/assets/5959036f-2cbc-4e8b-966f-9a8f4efaec8f
     url_background: https://api.mediux.pro/assets/1c8b310e-f154-44cf-af60-a16768782763
     seasons:

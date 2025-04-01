@@ -1,6 +1,5 @@
 metadata:
-  Expedition Unknown:
-    mapping_id: 280316
+  280316: # Expedition Unknown (2015)
     url_poster: https://theposterdb.com/api/assets/510453
     seasons:
       0:

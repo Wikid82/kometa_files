@@ -1,6 +1,5 @@
 metadata:
-  Bad Monkey:
-    mapping_id:  408436 # TVDB id for Bad Monkey. Set by cundallini on MediUX. https://mediux.pro/sets/24125
+  408436: # TVDB id for Bad Monkey. Set by cundallini on MediUX. https://mediux.pro/sets/24125
     url_poster: https://api.mediux.pro/assets/864005cd-eadb-466b-94a7-87406ef038e9
     url_background: https://api.mediux.pro/assets/5310561b-8b03-4265-a646-1e410179532f
     seasons:

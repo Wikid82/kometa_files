@@ -1,6 +1,5 @@
 metadata:
-  Laid:
-    mapping_id:  447528 # TVDB id for Laid. Set by fwlolx on MediUX. https://mediux.pro/sets/29145
+  447528: # TVDB id for Laid. Set by fwlolx on MediUX. https://mediux.pro/sets/29145
     url_poster: https://api.mediux.pro/assets/9250a0d7-b5a2-4234-a597-d234dd9738eb
     seasons:
       1:

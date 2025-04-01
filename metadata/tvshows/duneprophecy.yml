@@ -1,6 +1,5 @@
 metadata:
-  Dune Prophecy:
-    mapping_id:  367118 # TVDB id for Dune: Prophecy. Set by willtong93 on MediUX. https://mediux.pro/sets/27760
+  367118: # TVDB id for Dune: Prophecy. Set by willtong93 on MediUX. https://mediux.pro/sets/27760
     url_poster: https://api.mediux.pro/assets/c2f38497-9170-4109-97b7-7d2da926ba96
     url_background: https://api.mediux.pro/assets/ee2fcf41-9efa-42b2-ae56-0c9a450d9fcc
     seasons:

@@ -1,0 +1,9 @@
+metadata:  
+  80344: # TVDB id for Terminator: The Sarah Connor Chronicles. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/8168
+    url_poster: https://api.mediux.pro/assets/6922f9d1-a7a9-46e9-8acd-88d4757b9949
+    url_background: https://api.mediux.pro/assets/50e25d33-46eb-444b-81ba-24a755f982c3
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/7844a1bb-77c6-49c4-8083-f075130125c6
+      2:
+        url_poster: https://api.mediux.pro/assets/21be1d22-3e66-4c29-ae4b-f8f08f174f40

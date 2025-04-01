@@ -1,6 +1,5 @@
 metadata:
-  Sunny:
-    mapping_id:   415975 # TVDB id for Sunny. Set by willtong93 on MediUX. https://mediux.pro/sets/22587
+  415975: # TVDB id for Sunny. Set by willtong93 on MediUX. https://mediux.pro/sets/22587
     url_poster: https://api.mediux.pro/assets/8ca310fb-2a1a-4b28-bf42-b15b13dcabf1
     url_background: https://api.mediux.pro/assets/5e317e0e-f4d7-49b2-8361-afa957fd79a9
     seasons:

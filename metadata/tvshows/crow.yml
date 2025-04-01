@@ -1,6 +1,5 @@
 metadata:
-  The Crow S2H:
-    mapping_id: 72850
+  72850: # The Crow: Stairway To Heavean
     url_poster: https://theposterdb.com/api/assets/188015
     seasons:
       01:

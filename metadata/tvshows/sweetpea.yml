@@ -1,6 +1,5 @@
 metadata:
-  Sweetpea:
-    mapping_id:  421654 # TVDB id for Sweetpea. Set by willtong93 on MediUX. https://mediux.pro/sets/26815
+  421654: # TVDB id for Sweetpea. Set by willtong93 on MediUX. https://mediux.pro/sets/26815
     url_poster: https://api.mediux.pro/assets/b94ad117-bc3e-480e-a037-ed017f158638
     url_background: https://api.mediux.pro/assets/71f11eac-9060-490f-851a-44fe2c2767de
     seasons:

@@ -1,0 +1,17 @@
+metadata:
+
+  428425: # TVDB id for Side Quest. Set by cordsplitter on MediUX. https://mediux.pro/sets/31567
+    url_poster: https://api.mediux.pro/assets/b748f07b-f43f-4736-be40-193111d97046
+    url_background: https://api.mediux.pro/assets/2abc9e64-b06c-4c6e-bd6e-3a69f0bc6ed2
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/8af38673-9c60-4ffa-97fd-de3043c5dd95
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/36b38974-a6ad-4dc5-b983-8321221a687d
+          2:
+            url_poster: https://api.mediux.pro/assets/62c2121c-91ab-4195-b5a0-e9fb5a431dc2
+          3:
+            url_poster: https://api.mediux.pro/assets/c8987794-c1c3-42bc-a36e-d3de021986c0
+          4:
+            url_poster: https://api.mediux.pro/assets/3a9f6f64-1f8d-4d37-94a0-0748b525c6c7

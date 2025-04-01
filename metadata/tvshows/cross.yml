@@ -1,6 +1,5 @@
 metadata:
-  Cross:
-    mapping_id:   426501 # TVDB id for Cross. Set by willtong93 on MediUX. https://mediux.pro/sets/28198
+  426501: # TVDB id for Cross. Set by willtong93 on MediUX. https://mediux.pro/sets/28198
     url_poster: https://api.mediux.pro/assets/34e9cefe-b8e0-40e0-a97d-40cb8b968521
     url_background: https://api.mediux.pro/assets/86ebdf05-fc0c-4f85-80b1-c7550cdff914
     seasons:

@@ -1,6 +1,5 @@
 metadata:
-  Teacup:
-    mapping_id:  446180 # TVDB id for Teacup. Set by tallinex on MediUX. https://mediux.pro/sets/26817
+  446180: # TVDB id for Teacup. Set by tallinex on MediUX. https://mediux.pro/sets/26817
     url_poster: https://api.mediux.pro/assets/4667a1f0-80ae-4f50-a922-f2a8fb4b3037
     url_background: https://api.mediux.pro/assets/069d142b-fb06-484a-9efc-2b0efa705b44
     seasons:

@@ -1,6 +1,5 @@
 metadata:
-  People Magazine Investigates:
-    mapping_id:  319556 # TVDB id for People Magazine Investigates. Set by Wikid82 on MediUX. https://mediux.pro/sets/29299
+  319556: # TVDB id for People Magazine Investigates. Set by Wikid82 on MediUX. https://mediux.pro/sets/29299
     url_poster: https://api.mediux.pro/assets/bb80841c-4d4e-4846-a4f5-954217c76f95
     url_background: https://api.mediux.pro/assets/e274ad03-4385-45ef-973e-d5c4142961d6
     seasons:

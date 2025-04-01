@@ -1,6 +1,5 @@
 metadata:
-  Under The Bridge:
-    mapping_id:   425386 # TVDB id for Under the Bridge. Set by Pejamas on MediUX. https://mediux.pro/sets/17553
+  425386: # TVDB id for Under the Bridge. Set by Pejamas on MediUX. https://mediux.pro/sets/17553
     url_poster: https://api.mediux.pro/assets/0808b47c-ea46-4b09-b183-c7238160d4d5
     seasons:
       1:

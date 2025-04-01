@@ -1,6 +1,5 @@
 metadata:
-  Disclaimer:
-    mapping_id:   413062 # TVDB id for Disclaimer. Set by willtong93 on MediUX. https://mediux.pro/sets/26819
+  413062: # TVDB id for Disclaimer. Set by willtong93 on MediUX. https://mediux.pro/sets/26819
     url_poster: https://api.mediux.pro/assets/dc4e7c8f-6d9f-4819-abed-0a333818660c
     url_background: https://api.mediux.pro/assets/37b34716-d7bf-41b9-9a33-1e1d0d38b9a1
     seasons:

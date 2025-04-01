@@ -1,6 +1,5 @@
 metadata:
-  The Day of the Jackal:
-    mapping_id: 426866 # TVDB id for The Day of the Jackal. Set by willtong93 on MediUX. https://mediux.pro/sets/28068
+  426866: # TVDB id for The Day of the Jackal. Set by willtong93 on MediUX. https://mediux.pro/sets/28068
     url_poster: https://api.mediux.pro/assets/fc25c377-1ecb-4666-a73d-8a7762a9f077
     url_background: https://api.mediux.pro/assets/48039c84-1bb7-4fbd-a61e-30aaf0e5d98b
     seasons:

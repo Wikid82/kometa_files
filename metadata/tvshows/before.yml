@@ -1,6 +1,5 @@
 metadata:
-  Before:
-    mapping_id:  421288 # TVDB id for Before. Set by willtong93 on MediUX. https://mediux.pro/sets/26891
+  421288: # TVDB id for Before. Set by willtong93 on MediUX. https://mediux.pro/sets/26891
     url_poster: https://api.mediux.pro/assets/fdd35b4b-7ed9-4094-b656-b38a8cdc87ab
     url_background: https://api.mediux.pro/assets/81b329b0-b90e-4d9c-a980-9397a2754279
     seasons:

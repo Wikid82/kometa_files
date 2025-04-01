@@ -1,11 +1,10 @@
 metadata:
-  The Lord of the Rings The Rings of Power:
-    mapping_id:   367506 # TVDB id for The Lord of the Rings: The Rings of Power. Set by willtong93 on MediUX. https://mediux.pro/sets/22457
+  367506: # TVDB id for The Lord of the Rings: The Rings of Power. Set by willtong93 on MediUX. https://mediux.pro/sets/22457
     url_poster: https://api.mediux.pro/assets/bd0a2288-22bb-4ac2-bf98-ba92034e0bf9
     url_background: https://api.mediux.pro/assets/eab7af4b-72dc-43ac-a30d-246be93e3f47
     seasons:
-      0:
-        url_poster: https://api.mediux.pro/assets/9c63352b-770f-44f4-abd1-d6b27f1f24b4
+#      0:
+#        url_poster: https://api.mediux.pro/assets/9c63352b-770f-44f4-abd1-d6b27f1f24b4
       1:
         url_poster: https://api.mediux.pro/assets/352ff010-8b3f-490c-be98-7260ae84562f
         episodes:

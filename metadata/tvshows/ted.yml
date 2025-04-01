@@ -1,6 +1,5 @@
 metadata:
-  ted:
-    mapping_id:  404604 # TVDB id for ted. Set by valexv on MediUX. https://mediux.pro/sets/21821
+  404604: # TVDB id for ted. Set by valexv on MediUX. https://mediux.pro/sets/21821
     url_poster: https://api.mediux.pro/assets/8039c05e-5b91-45cf-bce7-f65e853a1e74
     url_background: https://api.mediux.pro/assets/13cc3bbd-c0ad-4386-bef5-10dfba997ca5
     seasons:

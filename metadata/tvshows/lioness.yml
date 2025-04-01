@@ -1,6 +1,5 @@
 metadata:
-  Lioness:
-    mapping_id: 388589 # TVDB id for Lioness. Set by willtong93 on MediUX. https://mediux.pro/sets/26886
+  388589: # TVDB id for Lioness. Set by willtong93 on MediUX. https://mediux.pro/sets/26886
     url_poster: https://api.mediux.pro/assets/311baa92-cba3-48b2-a0dc-abf6404c611d
     url_background: https://api.mediux.pro/assets/46d2a1af-5583-40a0-abab-815121370eba
     seasons:

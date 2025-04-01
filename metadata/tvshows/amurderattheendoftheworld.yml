@@ -1,6 +1,5 @@
 metadata:
-  A Murder At The End Of The World:
-    mapping_id:   408696 # TVDB id for A Murder at the End of the World. Set by darkwesley on MediUX. https://mediux.pro/sets/12766
+  408696: # TVDB id for A Murder at the End of the World. Set by darkwesley on MediUX. https://mediux.pro/sets/12766
     url_poster: https://api.mediux.pro/assets/4b690fb1-9803-40a6-8e2d-6c195051be5c
     seasons:
       1:

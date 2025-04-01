@@ -1,0 +1,12 @@
+metadata:
+
+  259063: # TVDB id for Hannibal. Set by Praythea on MediUX. https://mediux.pro/sets/4760
+    url_poster: https://api.mediux.pro/assets/eb8f6542-c4ff-47ee-b394-9692bd934649
+    url_background: https://api.mediux.pro/assets/f3ccf4fb-7457-4655-888d-b83913a7ba2d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/34f14486-b1ca-44a8-b003-596293f2615b
+      2:
+        url_poster: https://api.mediux.pro/assets/d453f480-0b6f-4b6d-ad44-1aa5cbf7a966
+      3:
+        url_poster: https://api.mediux.pro/assets/dc21af84-0446-4dcd-b589-ffb69765f163

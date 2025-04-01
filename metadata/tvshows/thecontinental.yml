@@ -1,7 +1,7 @@
 metadata:
-  The Continental:
-    mapping_id: 414734
-    url_poster: https://theposterdb.com/api/assets/409027
+  414734: # TVDB id for The Continental: From the World of John Wick. Set by willtong93 on MediUX. https://mediux.pro/sets/24960
+    url_poster: https://api.mediux.pro/assets/974ba32d-80f0-4a0c-ba91-ce9468b8633b
+    url_background: https://api.mediux.pro/assets/4efb1199-1856-4868-8a17-113fe326825d
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/409028
+      1:
+        url_poster: https://api.mediux.pro/assets/491ca371-da85-46cf-8e9a-64c22eb659de

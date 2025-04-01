@@ -1,6 +1,5 @@
 metadata:
-  Dexter: 
-    mapping_id:   79349 # TVDB id for Dexter. Set by willtong93 on MediUX. https://mediux.pro/sets/23041
+  79349: # TVDB id for Dexter. Set by willtong93 on MediUX. https://mediux.pro/sets/23041
     url_poster: https://api.mediux.pro/assets/ba0ae880-022d-45f9-b052-c9ac8ffa188d
     url_background: https://api.mediux.pro/assets/cea65984-f9b5-4c21-8c75-28ee68f03698
     seasons:
@@ -222,62 +221,3 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5c6ba238-988e-450d-b5fb-7f0089eb5227
           12:
             url_poster: https://api.mediux.pro/assets/a9f88672-caff-4dd1-89d7-7bc47222369b
-
-
-
-  Dexter New Blood: 
-    mapping_id: 412366  # TVDB id for Dexter: New Blood. Set by willtong93 on MediUX. https://mediux.pro/sets/23082
-    url_poster: https://api.mediux.pro/assets/2455c206-917f-4e0e-b242-25c24903aa93
-    url_background: https://api.mediux.pro/assets/2ae96d58-d86c-4351-9398-4577f7953bed
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/8d4fcb00-6739-4015-8211-efa76f348bcb
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/ce827f3a-4bf5-4b13-9826-6b083fbd27d3
-          2:
-            url_poster: https://api.mediux.pro/assets/9014fb96-da4b-481e-864b-c9c7ae114878
-          3:
-            url_poster: https://api.mediux.pro/assets/3f60fcc2-06bc-4f1b-8978-00d5a908635f
-          4:
-            url_poster: https://api.mediux.pro/assets/6eeb7b84-5313-4c0f-bfef-f9aa3c3ef50d
-          5:
-            url_poster: https://api.mediux.pro/assets/202bf9da-b322-46c4-abd9-c3d2906144b6
-          6:
-            url_poster: https://api.mediux.pro/assets/61662579-9ba3-4b4e-a72e-60a9391f37fc
-          7:
-            url_poster: https://api.mediux.pro/assets/533ad51f-ddbf-4476-90ad-701d422009da
-          8:
-            url_poster: https://api.mediux.pro/assets/ad22ad97-11c4-4d2f-9324-0341884fa81e
-          9:
-            url_poster: https://api.mediux.pro/assets/efbfd189-ad4c-4f1c-8db1-a612b8cbdc06
-          10:
-            url_poster: https://api.mediux.pro/assets/9a0c36cf-3546-422c-92d0-1224e7f50549
-
-  Dexter Original Sin:
-  430780: # TVDB id for Dexter: Original Sin. Set by Kwickflix on MediUX. https://mediux.pro/sets/30425
-    url_poster: https://api.mediux.pro/assets/ce4e7325-284e-4509-a9d2-27d6689b4310
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/b813698a-ef79-4c0c-b0bc-8887c93ac622
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/dd6b27cf-7574-474b-b8f0-9b270f46acb8
-          2:
-            url_poster: https://api.mediux.pro/assets/69967b37-ec5e-48dd-a256-103507ce7b4e
-          3:
-            url_poster: https://api.mediux.pro/assets/30c14d97-7922-4cea-a222-90e86d69c239
-          4:
-            url_poster: https://api.mediux.pro/assets/e622c37f-0e61-43da-929e-bdbf7619541e
-          5:
-            url_poster: https://api.mediux.pro/assets/b1c4036c-5aae-4085-bfd6-b33f200c6510
-          6:
-            url_poster: https://api.mediux.pro/assets/b317ad22-0271-474a-91ed-9ef4476e793e
-          7:
-            url_poster: https://api.mediux.pro/assets/1a9a2d9f-e9d3-493d-9eac-f43c4db7ed27
-          8:
-            url_poster: https://api.mediux.pro/assets/aefd145c-9e0e-418b-b4cf-cf22700ba4ad
-          9:
-            url_poster: https://api.mediux.pro/assets/2088f3a3-679b-46a8-a776-88cba201d275
-          10:
-            url_poster: https://api.mediux.pro/assets/ed9233f8-4247-4f1b-b2ae-d085303bb417

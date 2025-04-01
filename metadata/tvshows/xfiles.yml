@@ -1,27 +1,29 @@
 metadata:
-  The X-Files:
-    mapping_id: 77398
-    url_poster: https://theposterdb.com/api/assets/57421
+  77398: # TVDB id for The X-Files. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27098
+    url_poster: https://api.mediux.pro/assets/cd36a4a5-6d86-4b1e-a1fa-28abad839524
+    url_background: https://api.mediux.pro/assets/85c9869d-9c66-4adf-8747-a8e1c71ed580
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/57422
-      02:
-        url_poster: https://theposterdb.com/api/assets/57423
-      03:
-        url_poster: https://theposterdb.com/api/assets/57424
-      04:
-        url_poster: https://theposterdb.com/api/assets/57425
-      05:
-        url_poster: https://theposterdb.com/api/assets/57426
-      06:
-        url_poster: https://theposterdb.com/api/assets/57427
-      07:
-        url_poster: https://theposterdb.com/api/assets/57428
-      08:
-        url_poster: https://theposterdb.com/api/assets/57429
-      09:
-        url_poster: https://theposterdb.com/api/assets/57430
+      0:
+        url_poster: https://api.mediux.pro/assets/b87102cf-7417-4f05-a240-61c9274f19bf
+      1:
+        url_poster: https://api.mediux.pro/assets/93f5f51c-7e28-4c08-8b9d-92378c105445
+      2:
+        url_poster: https://api.mediux.pro/assets/cf93bd08-5979-4daf-ae3e-4f23f95d6a0d
+      3:
+        url_poster: https://api.mediux.pro/assets/78652576-2ff2-490b-b91d-e8756f563e1a
+      4:
+        url_poster: https://api.mediux.pro/assets/7f1977ae-3a96-41fd-a828-04c8f770dbe3
+      5:
+        url_poster: https://api.mediux.pro/assets/afc480bd-6b80-41db-92f2-220d90200cb7
+      6:
+        url_poster: https://api.mediux.pro/assets/fa20a3d7-63dd-4975-ae5a-963a69a5bc47
+      7:
+        url_poster: https://api.mediux.pro/assets/377fce15-dffa-4b0f-90df-93788eb47c45
+      8:
+        url_poster: https://api.mediux.pro/assets/4af3cd58-c92a-4a33-8838-e899d2d085b3
+      9:
+        url_poster: https://api.mediux.pro/assets/48435623-5419-4df8-92d9-4246d59413d5
       10:
-        url_poster: https://theposterdb.com/api/assets/57431
+        url_poster: https://api.mediux.pro/assets/e2901676-75e7-4194-9325-9d523af05008
       11:
-        url_poster: https://theposterdb.com/api/assets/57432
+        url_poster: https://api.mediux.pro/assets/e5e46be7-3763-409a-85a8-e6024a17cc12

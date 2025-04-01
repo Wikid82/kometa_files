@@ -1,6 +1,5 @@
 metadata:
-  Ancient Apocalypse:
-    mapping_id: 426211
+  426211: # Ancient Apocalypse (2022)
     url_poster: https://theposterdb.com/api/assets/398453
     seasons:
       1:

@@ -1,7 +1,7 @@
 metadata:
-  How Music Got Free:
-    mapping_id: 450308
-    url_poster: https://theposterdb.com/api/assets/523156
-    seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/523156
+  450308: # TVDB id for How Music Got Free. Set by cundallini on MediUX. https://mediux.pro/sets/25070
+    url_poster: https://api.mediux.pro/assets/9c598cc3-2c48-4785-bcf6-8d355137f5cf
+    url_background: https://api.mediux.pro/assets/7773233f-0356-40c0-97a1-41a987e47b66
+    seasons:    
+      1:
+        url_poster: https://api.mediux.pro/assets/0eb73a89-7c75-4a05-9037-df50cca9d997

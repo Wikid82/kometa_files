@@ -1,6 +1,5 @@
 metadata:
-  The Addams Family:
-    mapping_id: 77137
+  77137: # The Addams Family
     url_poster: https://theposterdb.com/api/assets/53157
 #   seasons:
 #     01:
