@@ -1,0 +1,74 @@
+metadata:
+  361563: # TVDB id for The Morning Show. Set by willtong93 on MediUX. https://mediux.pro/sets/16062
+    url_poster: https://api.mediux.pro/assets/5ee0335e-9827-4519-a18a-7a8b969f0629
+    url_background: https://api.mediux.pro/assets/25ea3160-aa38-49c1-b2e5-54e85742fdd1
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/aefc2cef-a433-47af-bbe4-fa0c51adfd36
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/19a6ca60-6b2f-40c2-8ab1-1e8a5ae89095
+          2:
+            url_poster: https://api.mediux.pro/assets/0ccc70d2-a5ff-4572-b47e-f220d0ff20b2
+          3:
+            url_poster: https://api.mediux.pro/assets/181a456f-75bb-4d34-aabe-aa2f06cc5aed
+          4:
+            url_poster: https://api.mediux.pro/assets/6bb79e07-9f6f-4f14-ab90-24e1ecf9c1a1
+          5:
+            url_poster: https://api.mediux.pro/assets/286dcc23-96a5-4f8e-a2ad-e36fbdc3bebc
+          6:
+            url_poster: https://api.mediux.pro/assets/bf3cc5c6-f487-44df-b688-ae14d2d4c926
+          7:
+            url_poster: https://api.mediux.pro/assets/8141415d-b78f-4bc4-b16c-6a77e168a053
+          8:
+            url_poster: https://api.mediux.pro/assets/fd98cd6b-8832-4b94-813f-6efd09840cbf
+          9:
+            url_poster: https://api.mediux.pro/assets/5ec2677c-d1c0-4b76-a095-6ac452431f77
+          10:
+            url_poster: https://api.mediux.pro/assets/c1647129-783b-44d2-b273-e97bee905ed6
+      2:
+        url_poster: https://api.mediux.pro/assets/51a532db-482a-4e2d-9786-66fecfffd359
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/436e743a-9231-47a4-80e5-116eba9cd33b
+          2:
+            url_poster: https://api.mediux.pro/assets/fe99002f-533f-4f01-abe9-a319f6fb8e04
+          3:
+            url_poster: https://api.mediux.pro/assets/6705de16-8dba-4c4d-a4d0-26877dfe7609
+          4:
+            url_poster: https://api.mediux.pro/assets/eda97088-1959-4e87-96db-608d41b42efc
+          5:
+            url_poster: https://api.mediux.pro/assets/f325b3b6-a23b-40e0-a95d-1220fd83244e
+          6:
+            url_poster: https://api.mediux.pro/assets/8d32ce82-a835-482b-b953-c985faa661c2
+          7:
+            url_poster: https://api.mediux.pro/assets/95d16249-abbd-4041-929b-138bce5365c5
+          8:
+            url_poster: https://api.mediux.pro/assets/0eb5849d-11ed-4dd3-94e0-c240df038c93
+          9:
+            url_poster: https://api.mediux.pro/assets/d34ba6c3-a0d8-4d38-a507-7c98dc375a40
+          10:
+            url_poster: https://api.mediux.pro/assets/d41bbc9f-e64b-4aa9-a7e5-5dded89b87b3
+      3:
+        url_poster: https://api.mediux.pro/assets/683f70d6-db1a-44ae-a5e8-ac02d3733f34
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/4fb523ee-8043-4d8e-ad76-cb40c607d9c6
+          2:
+            url_poster: https://api.mediux.pro/assets/74d8d432-77ed-4dd6-bc43-6f9154af25c5
+          3:
+            url_poster: https://api.mediux.pro/assets/0a13a84e-67d2-4d62-8aed-b349f1ee12c8
+          4:
+            url_poster: https://api.mediux.pro/assets/6a42c519-556d-4be2-bb73-1e42e978ad27
+          5:
+            url_poster: https://api.mediux.pro/assets/de12cf7c-b776-4a6d-9d63-e580e6f4bc5d
+          6:
+            url_poster: https://api.mediux.pro/assets/7034097c-2763-4307-a228-91e297ebe51e
+          7:
+            url_poster: https://api.mediux.pro/assets/6cd144ee-ed34-4290-ab45-0dd40bdc953e
+          8:
+            url_poster: https://api.mediux.pro/assets/66651b65-8122-484c-a409-f68abbf747c8
+          9:
+            url_poster: https://api.mediux.pro/assets/6656f4ef-961a-4ab9-b663-911c7007c79f
+          10:
+            url_poster: https://api.mediux.pro/assets/b540ee90-3126-4b71-8edb-90b3b0479f6b
