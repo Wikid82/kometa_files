@@ -1,0 +1,28 @@
+metadata:
+  422598: # TVDB id for Monarch: Legacy of Monsters. Set by willtong93 on MediUX. https://mediux.pro/sets/11189
+    url_poster: https://api.mediux.pro/assets/2becb95e-7949-4986-9361-66595c5df44c
+    url_background: https://api.mediux.pro/assets/e5b241f1-63e0-4a1b-9d5f-dc442e4140ab
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ca56916e-3288-4f75-8bf9-e153ce57d48a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c2e1b2dd-4b93-4c71-83f1-e427608c4dbf
+          2:
+            url_poster: https://api.mediux.pro/assets/6ae37c33-f790-4e37-a0f4-ebb6c485e6d0
+          3:
+            url_poster: https://api.mediux.pro/assets/2cb0d9b1-4f17-44dd-a303-7030441914f3
+          4:
+            url_poster: https://api.mediux.pro/assets/f0407d61-0f5d-4c6c-aa24-6ec91473ec88
+          5:
+            url_poster: https://api.mediux.pro/assets/aa4b0105-8d04-4b1c-9e4a-988251d52764
+          6:
+            url_poster: https://api.mediux.pro/assets/8d35eec9-944f-4bc9-871a-c5170b906e61
+          7:
+            url_poster: https://api.mediux.pro/assets/1aaa69c8-d631-4d55-8fcf-02c04589d0d8
+          8:
+            url_poster: https://api.mediux.pro/assets/8402eeae-be0d-4047-a481-96a7bf81a67a
+          9:
+            url_poster: https://api.mediux.pro/assets/e15be357-88c1-4bf8-b3fa-2f662caea9f3
+          10:
+            url_poster: https://api.mediux.pro/assets/f07403f1-489c-43a0-ab8b-1c9a51ab3d93

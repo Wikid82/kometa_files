@@ -5,4 +5,4 @@ collections:
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29290536
     url_background: https://image.tmdb.org/t/p/original/vkZko7KdDSECWfyGuu5QFGgvWGP.jpg
-    url_poster: https://theposterdb.com/api/assets/138821
+    url_poster: https://api.mediux.pro/assets/f69be3a3-7d61-4f86-8946-a30f2f10ea7e # Godzilla Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/24270
