@@ -2,69 +2,6 @@ metadata:
   280316: # Expedition Unknown (2015)
     url_poster: https://theposterdb.com/api/assets/510453
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/510454
-        episodes:
-          29:
-            title: "Hunt for the Yeti: Return of the Yeti"
-            original_title: "Hunt for the Yeti: Return of the Yeti"
-            sort_title: "Hunt for the Yeti: Return of the Yeti"
-            originally_available: 10/05/2016
-          30:
-            title: "Hunt for the Yeti: The Monster and the Mountain"
-            original_title: "Hunt for the Yeti: The Monster and the Mountain"
-            sort_title: "Hunt for the Yeti: The Monster and the Mountain"
-            originally_available: 10/12/2016
-          31:
-            title: "Hunt for the Yeti: Out of Thin Air"
-            original_title: "Hunt for the Yeti: Out of Thin Air"
-            sort_title: "Hunt for the Yeti: Out of Thin Air"
-            originally_available: 10/19/2016
-          32:
-            title: "Hunt for the Yeti: Unmasking the Myth"
-            original_title: "Hunt for the Yeti: Unmasking the Myth"
-            sort_title: "Hunt for the Yeti: Unmasking the Myth"
-            originally_available: 10/26/2016
-          63:
-            title: "Hunt for Extraterrestrials: Close Encounters"
-            original_title: "Hunt for Extraterrestrials: Close Encounters"
-            sort_title: "Hunt for Extraterrestrials: Close Encounters"
-            originally_available: 10/04/2017
-          65:
-            title: "Hunt for Extraterrestrials: Ancient Visitors"
-            original_title: "Hunt for Extraterrestrials: Ancient Visitors"
-            sort_title: "Hunt for Extraterrestrials: Ancient Visitors"
-            originally_available: 10/11/2017
-          67:
-            title: "Hunt for Extraterrestrials: UFOs Over England"
-            original_title: "Hunt for Extraterrestrials: UFOs Over England"
-            sort_title: "Hunt for Extraterrestrials: UFOs Over England"
-            originally_available: 10/18/2017
-          69:
-            title: "Hunt for Extraterrestrials: Roswell Revealed"
-            original_title: "Hunt for Extraterrestrials: Roswell Revealed"
-            sort_title: "Hunt for Extraterrestrials: Roswell Revealed"
-            originally_available: 10/25/2017
-          84:
-            title: "Search for the Afterlife: Heaven and Hell and Beyond"
-            original_title: "Search for the Afterlife: Heaven and Hell and Beyond"
-            sort_title: "Search for the Afterlife: Heaven and Hell and Beyond"
-            originally_available: 10/07/2018
-          86:
-            title: "Search for the Afterlife: Death and Beyond"
-            original_title: "Search for the Afterlife: Death and Beyond"
-            sort_title: "Search for the Afterlife: Death and Beyond"
-            originally_available: 10/14/2018
-          88:
-            title: "Search for the Afterlife: Edge of Existence"
-            original_title: "Search for the Afterlife: Edge of Existence"
-            sort_title: "Search for the Afterlife: Edge of Existence"
-            originally_available: 10/21/2018
-          90:
-            title: "Search for the Afterlife: Crossing Over the Edge"
-            original_title: "Search for the Afterlife: Crossing Over the Edge"
-            sort_title: "Search for the Afterlife: Crossing Over the Edge"
-            originally_available: 10/28/2018
       1:
         url_poster: https://theposterdb.com/api/assets/510455
         episodes:

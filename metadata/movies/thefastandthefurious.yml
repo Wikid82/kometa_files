@@ -29,9 +29,9 @@ metadata:
   Fast X:
     mapping_id: 385687
     url_poster: https://theposterdb.com/api/assets/377686
-  Fast X Part 2:
-    mapping_id: 755679
-    url_poster: https://theposterdb.com/api/assets/373081
+#  Fast X Part 2:
+#    mapping_id: 755679
+#    url_poster: https://theposterdb.com/api/assets/373081
   Fast & Furious Presents Hobbs & Shaw:
     mapping_id: 384018
     url_poster: https://theposterdb.com/api/assets/47230
