@@ -1,17 +1,17 @@
 metadata:
 
-  428425: # TVDB id for Side Quest. Set by cordsplitter on MediUX. https://mediux.pro/sets/31567
-    url_poster: https://api.mediux.pro/assets/b748f07b-f43f-4736-be40-193111d97046
-    url_background: https://api.mediux.pro/assets/2abc9e64-b06c-4c6e-bd6e-3a69f0bc6ed2
+  428425: # TVDB id for Side Quest. Set by willtong93 on MediUX. https://mediux.pro/sets/31636
+    url_poster: https://api.mediux.pro/assets/13cbf2ba-6f41-417b-af54-953d4c86c0b0
+    url_background: https://api.mediux.pro/assets/f9c3ac1b-177c-4c57-9dc2-1c21fe64f223
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/8af38673-9c60-4ffa-97fd-de3043c5dd95
+        url_poster: https://api.mediux.pro/assets/cd170bcc-e044-4820-92e8-e913a960b78f
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/36b38974-a6ad-4dc5-b983-8321221a687d
+            url_poster: https://api.mediux.pro/assets/c0e40087-ef5f-40ef-b248-addff03a8f93
           2:
-            url_poster: https://api.mediux.pro/assets/62c2121c-91ab-4195-b5a0-e9fb5a431dc2
+            url_poster: https://api.mediux.pro/assets/0d0fdb99-29d0-4703-8810-ba20b24aec1f
           3:
-            url_poster: https://api.mediux.pro/assets/c8987794-c1c3-42bc-a36e-d3de021986c0
+            url_poster: https://api.mediux.pro/assets/efeddd2c-8b00-49a2-84e9-d3431f67985e
           4:
-            url_poster: https://api.mediux.pro/assets/3a9f6f64-1f8d-4d37-94a0-0748b525c6c7
+            url_poster: https://api.mediux.pro/assets/8983e3d7-2451-4f9a-86f2-8013b7792f3a
