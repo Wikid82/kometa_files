@@ -3,9 +3,4 @@ collections:
     file_poster: /config/kometa_files/collections/images/collectionless.jpg
     collection_mode: hide
     collection_order: release
-    tmdb_movie:
-    - 497698
-    - 524434
-    - 1724
-    - 566525
-    - 894205
+    trakt_list: https://trakt.tv/lists/31065021
