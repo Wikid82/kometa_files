@@ -1,0 +1,7 @@
+collections:
+  Jarhead Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/285564-jarhead-collection
+    url_background: https://image.tmdb.org/t/p/original/A42S1DbCgsGuQk7jSVDqVrB6Ole.jpg
+    url_poster: https://image.tmdb.org/t/p/original/dHiKGct4c6k0h4L9ftjPRhcR2cS.jpg
