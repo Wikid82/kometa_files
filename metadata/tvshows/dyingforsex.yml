@@ -1,0 +1,24 @@
+metadata:
+
+  442867: # TVDB id for Dying for Sex. Set by fwlolx on MediUX. https://mediux.pro/sets/31720
+    url_poster: https://api.mediux.pro/assets/8019c0c3-4322-4b23-975f-bbc5ec4d0eca
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a3bfe6fe-c780-4e35-aa44-570d3e3907de
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/a331bb8b-0f5a-4623-970e-c3bfaa594a53
+          2:
+            url_poster: https://api.mediux.pro/assets/09976ac2-f236-4fe4-8940-614010f3f4c4
+          3:
+            url_poster: https://api.mediux.pro/assets/fcfa52bc-1812-43f3-9256-47e35e67220e
+          4:
+            url_poster: https://api.mediux.pro/assets/821a14d9-d744-404e-934e-d1a4134e3b94
+          5:
+            url_poster: https://api.mediux.pro/assets/b0fdf655-dc11-4809-b0da-d2d039c8d8ac
+          6:
+            url_poster: https://api.mediux.pro/assets/f8f46c17-08e8-4e69-a657-a9e7ff722271
+          7:
+            url_poster: https://api.mediux.pro/assets/9b2cc7d6-4be7-46da-ad66-1ee476b820b1
+          8:
+            url_poster: https://api.mediux.pro/assets/56e6bb37-206a-49d5-b9ff-8add4375051e
