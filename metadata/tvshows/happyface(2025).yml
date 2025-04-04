@@ -1,5 +1,4 @@
 metadata:
-
   414552: # TVDB id for Happy Face. Set by willtong93 on MediUX. https://mediux.pro/sets/31426
     url_poster: https://api.mediux.pro/assets/25215230-d37c-49d9-8d20-f07dd772bc97
     url_background: https://api.mediux.pro/assets/2c8cc522-ba33-497b-a8d5-3a573b999b9c
@@ -13,3 +12,5 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5a541ef1-5afa-44e8-9dae-1dba9f9979aa
           3:
             url_poster: https://api.mediux.pro/assets/cecffbab-1743-401d-802b-f3021bb7cf82
+          4:
+            url_poster: https://api.mediux.pro/assets/0606c0b0-c302-4031-ae39-dbbb251e2d29
