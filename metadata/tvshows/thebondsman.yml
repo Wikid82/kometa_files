@@ -1,7 +1,26 @@
 metadata:
 
-  436695: # TVDB id for The Bondsman. Set by Pejamas on MediUX. https://mediux.pro/sets/31504
-    url_poster: https://api.mediux.pro/assets/fe17f9f3-f492-4506-8e62-34e15d764afe
+  436695: # TVDB id for The Bondsman. Set by willtong93 on MediUX. https://mediux.pro/sets/31853
+    url_poster: https://api.mediux.pro/assets/0374fe89-40b5-47e6-8132-7ca780cd867f
+    url_background: https://api.mediux.pro/assets/4410c80e-543a-4e61-b579-c27333a3479f
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/7076615d-c0db-40ac-b7ec-c89c8a036f02
+        url_poster: https://api.mediux.pro/assets/1fa9243d-e992-4acb-ad6e-9cb52cb18295
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/456e013c-2bc7-4bc7-8cf7-19b47bfb98ff
+          2:
+            url_poster: https://api.mediux.pro/assets/1901daa6-841b-4aa5-9e78-e410a542014c
+          3:
+            url_poster: https://api.mediux.pro/assets/1652aaea-c6ab-48d3-98f7-c2451e558b43
+          4:
+            url_poster: https://api.mediux.pro/assets/f87387ef-95f5-4fdf-86bc-2b82d981cbe1
+          5:
+            url_poster: https://api.mediux.pro/assets/434065d0-d0c0-45e9-b9e1-9e7ef0f87746
+          6:
+            url_poster: https://api.mediux.pro/assets/fab83db0-56c4-4529-9bb5-ade176ff1f51
+          7:
+            url_poster: https://api.mediux.pro/assets/0c0461c1-7641-405e-ba93-3b74b9fe0059
+          8:
+            url_poster: https://api.mediux.pro/assets/1d9e8222-b56b-42b3-a595-9b6c1fc3443a
+
