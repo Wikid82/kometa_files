@@ -3,6 +3,6 @@ collections:
   The Lord of The Rings Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29290682
+    tmdb_collection_details: https://www.themoviedb.org/collection/119-the-lord-of-the-rings-collection
     url_background: https://image.tmdb.org/t/p/original/vlj3kQml7k6k3gL4BbfOQ6c4nfT.jpg
-    url_poster: https://api.mediux.pro/assets/bf87e8ae-c0ba-458d-8bbe-688dda7013f2
+    url_poster: https://api.mediux.pro/assets/f29dfa50-86b3-4faf-a882-67a43dbd3e17

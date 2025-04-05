@@ -1,23 +1,24 @@
 metadata:
   
-  120: # The Lord of the Rings: The Fellowship of the Ring (2001) Poster by Pejamas on MediUX. https://mediux.pro/sets/8564
-    url_poster: https://api.mediux.pro/assets/572b40e3-ca21-41e1-b74e-e1f6943221b2
 
-  121: # The Lord of the Rings: The Two Towers (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/8564
-    url_poster: https://api.mediux.pro/assets/92fc5515-906b-4a04-9372-5e5e68ea70e5
+  120: # The Lord of the Rings: The Fellowship of the Ring (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/26396
+    url_poster: https://api.mediux.pro/assets/832efffa-19e1-4ae4-8f0a-be6894acef01
 
-  122: # The Lord of the Rings: The Return of the King (2003) Poster by Pejamas on MediUX. https://mediux.pro/sets/8564
-    url_poster: https://api.mediux.pro/assets/5fb1d5ac-d6c2-425e-986e-9b2dd3c4cedc
+  121: # The Lord of the Rings: The Two Towers (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26396
+    url_poster: https://api.mediux.pro/assets/235544ef-0cf5-4dbe-b26b-e8e186c6c2b8
+
+  122: # The Lord of the Rings: The Return of the King (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/26396
+    url_poster: https://api.mediux.pro/assets/ac00c8a7-c908-4efd-afcd-8b3c020507ce
 
 
-  49051: # The Hobbit: An Unexpected Journey (2012) Poster by Pejamas on MediUX. https://mediux.pro/sets/8565
-    url_poster: https://api.mediux.pro/assets/b5072bee-9221-4e60-ba07-baa1b789472e
+  49051: # The Hobbit: An Unexpected Journey (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/26395
+    url_poster: https://api.mediux.pro/assets/926a6170-1089-4cee-8260-0155b4cdc777
 
-  57158: # The Hobbit: The Desolation of Smaug (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/8565
-    url_poster: https://api.mediux.pro/assets/8df07b7a-2f92-4247-b965-b590cce5da31
+  57158: # The Hobbit: The Desolation of Smaug (2013) Poster by willtong93 on MediUX. https://mediux.pro/sets/26395
+    url_poster: https://api.mediux.pro/assets/c8edb4fd-7e4a-4cba-b599-545994d106e6
 
-  122917: # The Hobbit: The Battle of the Five Armies (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/8565
-    url_poster: https://api.mediux.pro/assets/a485b41e-e323-4afb-8e97-19d28551fd6a
+  122917: # The Hobbit: The Battle of the Five Armies (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/26395
+    url_poster: https://api.mediux.pro/assets/6ce75c32-2cec-4109-ae4f-0fa3e79f1b3b
 
-  839033: # The Lord of the Rings: The War of the Rohirrim (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/29389
-    url_poster: https://api.mediux.pro/assets/dc34158c-044a-4345-b212-1603e33ef7b9
+  839033: # The Lord of the Rings: The War of the Rohirrim (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/26415
+    url_poster: https://api.mediux.pro/assets/53f4afd3-ab8e-47bb-b296-991179a7ce37

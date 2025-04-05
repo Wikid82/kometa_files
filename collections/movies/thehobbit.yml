@@ -3,6 +3,6 @@ collections:
   The Hobbit Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/1384
+    tmdb_collection_details: https://www.themoviedb.org/collection/121938-the-hobbit-collection
     url_background: https://image.tmdb.org/t/p/original/7wO7MSnP5UcwR2cTHdJFF1vP4Ie.jpg
-    url_poster: https://api.mediux.pro/assets/9e5ddd65-46c7-483f-b2da-632b3bd87ced
+    url_poster: https://api.mediux.pro/assets/5296fc91-6595-46c4-990e-42aff89d109a
