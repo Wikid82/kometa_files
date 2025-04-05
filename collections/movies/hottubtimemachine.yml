@@ -1,0 +1,7 @@
+collections:
+  Hot Tube Time Machine Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/313576-hot-tub-time-machine-collection
+    url_background: https://image.tmdb.org/t/p/original/g2zzOCFRvVLGnDWeaTtNfPkSfuo.jpg
+    url_poster: https://theposterdb.com/api/assets/26837
