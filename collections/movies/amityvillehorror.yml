@@ -3,6 +3,6 @@ collections:
   The Amityville Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8470982-amityville-horror
-    url_background: https://cdn.myportfolio.com/82eae4f0-7840-46b1-a8a2-d723a66224aa/0ecbe84e-0da1-4bb7-84a5-fcdb7521cad2.jpg?h=a54768c6db70af4d3a9f6cf59817a791
+    tmdb_collection_details: https://www.themoviedb.org/collection/397842-the-amityville-collection
+    url_background: https://image.tmdb.org/t/p/original/kPfuozrsE7pmFFolkR0xFicZDJT.jpg
     url_poster: https://theposterdb.com/api/assets/23171
