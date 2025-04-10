@@ -1,0 +1,51 @@
+metadata:
+  337302: # TVDB id for Counterpart. Set by whiskeytime on MediUX. https://mediux.pro/sets/27778
+    url_poster: https://api.mediux.pro/assets/81d5e1e3-02f2-4085-afe3-f5533f7d0ec0
+    url_background: https://api.mediux.pro/assets/f5b9e776-7fed-4088-ad01-6b5cf450f691
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/fad377ed-0770-4b94-ab6b-16c9dd978a5c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/287e4e38-7a1c-494f-993c-189b365f0fe6
+          2:
+            url_poster: https://api.mediux.pro/assets/d702718d-2500-4f04-8f29-06ab62f8d5d6
+          3:
+            url_poster: https://api.mediux.pro/assets/241f29a7-3e68-4fcf-9c10-463c53ed3277
+          4:
+            url_poster: https://api.mediux.pro/assets/47a8acb2-f8f4-4fe7-8af4-01ce5ba4cc7d
+          5:
+            url_poster: https://api.mediux.pro/assets/c3bc7490-d9c8-4c6a-85e0-8f71928f57f3
+          6:
+            url_poster: https://api.mediux.pro/assets/0d9c7cf9-3d38-49d8-a18e-373bcbb9ff35
+          7:
+            url_poster: https://api.mediux.pro/assets/b086a951-3b8d-4f60-93cd-1d7c2fbdba2c
+          8:
+            url_poster: https://api.mediux.pro/assets/2c63d163-0e5f-451f-953f-f5d51e377b38
+          9:
+            url_poster: https://api.mediux.pro/assets/09418e94-11db-41ef-8a01-3cc7d0b33f20
+          10:
+            url_poster: https://api.mediux.pro/assets/573aed85-5cda-49b8-8a4d-ed9102b4c4e1
+      2:
+        url_poster: https://api.mediux.pro/assets/cfe66d83-1515-4f7a-a5ef-eed583307d06
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/52f00763-0371-4119-ac44-c003ec91f111
+          2:
+            url_poster: https://api.mediux.pro/assets/46822f79-de2a-4cd5-8530-38447d09e339
+          3:
+            url_poster: https://api.mediux.pro/assets/cdab33e1-7a41-4d17-8665-47f73074157e
+          4:
+            url_poster: https://api.mediux.pro/assets/3334ebf2-a6e2-48c5-adb0-8cf563608ee7
+          5:
+            url_poster: https://api.mediux.pro/assets/dac3ceb7-183c-4847-ad3b-edbc223d9e4e
+          6:
+            url_poster: https://api.mediux.pro/assets/f98e4361-0933-4aa6-9ff3-ad92d79abab7
+          7:
+            url_poster: https://api.mediux.pro/assets/4d60aedb-bb51-4591-9b75-430dc0cccd36
+          8:
+            url_poster: https://api.mediux.pro/assets/71f61d6b-2ff6-42a2-93de-683998fd6f34
+          9:
+            url_poster: https://api.mediux.pro/assets/a58d003f-2fb9-4031-9233-4b526fca855b
+          10:
+            url_poster: https://api.mediux.pro/assets/9093fdd5-844c-4d27-a917-2b65cfdcb9ee
