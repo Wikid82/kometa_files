@@ -1,0 +1,13 @@
+metadata:
+  276360: # TVDB id for 19-2. Set by gemris on MediUX. https://mediux.pro/sets/20362
+    url_poster: https://api.mediux.pro/assets/7fd63aab-05b3-4211-91c8-8f74023d8c02
+    url_background: https://api.mediux.pro/assets/28a730ae-09bb-4496-863a-17516cee7c92
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0a4bd14b-1fcb-48d5-b22a-c07efeefe527
+      2:
+        url_poster: https://api.mediux.pro/assets/53f16b68-0155-43ae-8f71-651d3df892ed
+      3:
+        url_poster: https://api.mediux.pro/assets/123ed00b-f129-441c-b2bf-893b58e883cf
+      4:
+        url_poster: https://api.mediux.pro/assets/8ae97f7c-3673-4e6c-a05c-39a4aa6e2bf4
