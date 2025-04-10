@@ -1,0 +1,8 @@
+collections:
+  Brother Bear Collection: # Brother Bear Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26838
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/96472-brother-bear-collection
+    url_background: https://api.mediux.pro/assets/f4bed40d-d52f-4de2-9c45-6795bf0b8fdb
+    url_poster: https://api.mediux.pro/assets/06abbbf4-c312-4745-a450-2ae170a81208 
+    

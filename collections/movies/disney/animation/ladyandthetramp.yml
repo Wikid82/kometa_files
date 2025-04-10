@@ -1,0 +1,7 @@
+collections:
+  Lady and the Tramp Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/97460-lady-and-the-tramp-collection
+    url_background: https://api.mediux.pro/assets/0f681a83-20c4-4360-82b3-9cd832a0c5ba
+    url_poster: https://api.mediux.pro/assets/744fca06-4cd2-42ce-bc98-c126b523a1c3

@@ -1,0 +1,8 @@
+---
+collections:
+  Beauty and the Beast Collection: # Beauty and the Beast Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26953
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/153010-beauty-and-the-beast-collection
+    url_background: https://api.mediux.pro/assets/0a12bcbe-5e5c-477b-8cc1-bfc877c64597
+    url_poster: https://api.mediux.pro/assets/a90be09d-486c-48a9-8571-0517cdc02de0

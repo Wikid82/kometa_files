@@ -1,0 +1,7 @@
+collections:
+  Pocahontas Collection: # Pocahontas Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26952
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/136214-pocahontas-collection
+    url_background: https://api.mediux.pro/assets/1c5e6ad4-3c66-4ff3-8c09-6110bcfe4e5b
+    url_poster: https://api.mediux.pro/assets/951b8dc3-1fe0-4ce1-81d6-373dd55a283b

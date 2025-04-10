@@ -1,8 +1,0 @@
----
-collections:
-  Cinderella Collection:
-    collection_mode: hide_items
-    collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29502709
-    url_background: https://image.tmdb.org/t/p/original/f90qgbnPlFBRTd6qF3I0bkeiDwz.jpg
-    url_poster: https://theposterdb.com/api/assets/44918

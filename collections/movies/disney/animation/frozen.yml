@@ -1,0 +1,8 @@
+---
+collections:
+  Frozen Collection: # Frozen Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/24198
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/386382-frozen-collection
+    url_background: https://api.mediux.pro/assets/8125a7e6-f4b5-42f1-9e62-81defa371442
+    url_poster: https://api.mediux.pro/assets/ecf7e762-93a4-4678-b6e2-989fc813eb43 

@@ -1,0 +1,7 @@
+collections:
+  Mulan Collection: # Mulan Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/26837
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/87236-mulan-collection
+    url_background: https://api.mediux.pro/assets/1cb034ae-ff6c-49af-9d8d-9d3c669a0755
+    url_poster: https://api.mediux.pro/assets/33443eb6-ced6-4550-81ae-dc1cb42a5eca 

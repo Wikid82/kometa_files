@@ -1,0 +1,7 @@
+collections:
+  101 Dalmations (Live Action) Collection: # 101 Dalmatians Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/27483
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/124916-101-dalmatians-live-action-collection
+    url_background: https://api.mediux.pro/assets/e70d02cc-73f0-4ac6-9575-e5181bdd9721
+    url_poster: https://api.mediux.pro/assets/e7103d6c-ce48-4750-af73-b534922605ee

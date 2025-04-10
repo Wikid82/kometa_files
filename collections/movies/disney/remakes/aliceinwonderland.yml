@@ -1,0 +1,7 @@
+collections:
+  Alice In Wonderland Collection: # Alice in Wonderland Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/27484
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/261307-alice-in-wonderland-collection
+    url_background: https://api.mediux.pro/assets/c757ca56-1c80-409f-a255-076bddeccf07
+    url_poster: https://api.mediux.pro/assets/3ee68e87-4205-4c13-86f9-09426b0bc73f

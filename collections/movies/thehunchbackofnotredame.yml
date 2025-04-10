@@ -1,7 +1,0 @@
-collections:
-  The Hunchback of Notre Dame Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/97456-the-hunchback-of-notre-dame-collection
-    url_background: https://api.mediux.pro/assets/01ae0d04-3cfb-493e-9653-27b3dc492710
-    url_poster: https://api.mediux.pro/assets/fd34b1da-84cb-4736-9d2c-64ee39ddb98c

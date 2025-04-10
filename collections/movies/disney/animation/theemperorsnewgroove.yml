@@ -1,0 +1,8 @@
+---
+collections:
+  The Emperor's New Groove Collection: # The Emperor's New Groove Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26860
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/178117-the-emperor-s-new-groove-collection
+    url_background: https://api.mediux.pro/assets/c157aa82-0e0f-46f7-893a-65cee2c2a347
+    url_poster: https://api.mediux.pro/assets/6fa44c57-4484-4ce8-ad3c-878c6645909b

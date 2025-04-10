@@ -1,0 +1,7 @@
+collections:
+  Atlantis Collection: # Atlantis: The Lost Empire (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/26836
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/100965-atlantis-collection
+    url_background: https://api.mediux.pro/assets/a1d0348a-cfe1-4e2e-a4c1-8a8f959c9634
+    url_poster: https://api.mediux.pro/assets/3d7ef0ef-b782-47bb-b92d-b98320e5d6aa 

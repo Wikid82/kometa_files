@@ -1,0 +1,7 @@
+collections:
+  Peter Pan Collection: # Peter Pan Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26954
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/55422-peter-pan-collection
+    url_background: https://api.mediux.pro/assets/4476a3b9-e858-475e-8510-eedab46df85c
+    url_poster: https://api.mediux.pro/assets/c1e3db87-a1b7-4c9e-a524-aa4d48276604

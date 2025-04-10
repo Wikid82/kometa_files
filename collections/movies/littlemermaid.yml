@@ -1,8 +1,0 @@
----
-collections:
-  The Little Mermaid Collection:
-    collection_mode: hide_items
-    collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29313995
-    url_background: https://image.tmdb.org/t/p/original/m7Cjc5CGLTraz4VP1aQolsOe3h9.jpg
-    url_poster: https://theposterdb.com/api/assets/46804

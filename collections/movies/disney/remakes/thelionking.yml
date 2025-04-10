@@ -1,0 +1,7 @@
+collections:
+  The Lion King (Reboot) Collection: # The Lion King Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/27480
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/762512-the-lion-king-reboot-collection
+    url_background: https://api.mediux.pro/assets/f5776c55-28f4-4656-ae16-d8738fd077f0
+    url_poster: https://api.mediux.pro/assets/874293a6-19a7-430d-9eab-d026c2d4e84e
