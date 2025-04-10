@@ -1,0 +1,44 @@
+metadata:
+  76321: # TVDB id for Freaks and Geeks. Set by adamboulton on MediUX. https://mediux.pro/sets/16943
+    url_poster: https://api.mediux.pro/assets/e38f7c0f-0a4f-47ac-ad16-5b71daa34c2e
+    url_background: https://api.mediux.pro/assets/33bb8f60-ca3a-4483-94d1-e94677086a4b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b7b7439c-be36-4a41-b320-f8cffc1cac90
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fb8be87a-8a7d-4602-91db-8cd04ef6d629
+          2:
+            url_poster: https://api.mediux.pro/assets/a068d2ed-27fd-45d7-94c6-3da3dd0a0240
+          3:
+            url_poster: https://api.mediux.pro/assets/0471d04b-5cfa-45af-b60a-4ddda636b299
+          4:
+            url_poster: https://api.mediux.pro/assets/e0cd2cb7-b040-4f3e-bd74-7338eef94fb7
+          5:
+            url_poster: https://api.mediux.pro/assets/851facd2-4b85-415f-8756-9a84b9947014
+          6:
+            url_poster: https://api.mediux.pro/assets/8fe5792d-6ba5-4922-b12a-0be993a49760
+          7:
+            url_poster: https://api.mediux.pro/assets/41e48fb6-ffbc-4ca8-9884-85755d016aa5
+          8:
+            url_poster: https://api.mediux.pro/assets/8aebfd64-d524-4a5e-aac8-788d8e57a35d
+          9:
+            url_poster: https://api.mediux.pro/assets/53e684c4-b86c-4919-a78c-c47f09334921
+          10:
+            url_poster: https://api.mediux.pro/assets/a1890f0e-c0e7-42cd-95fa-10aceb2e448f
+          11:
+            url_poster: https://api.mediux.pro/assets/d460f7c4-ef38-40d8-8ba6-3d35d79a6c25
+          12:
+            url_poster: https://api.mediux.pro/assets/bd805cf4-94bf-43f7-bf10-a42e721677c5
+          13:
+            url_poster: https://api.mediux.pro/assets/5876becf-7ed9-4550-9fed-fe1950257395
+          14:
+            url_poster: https://api.mediux.pro/assets/88d8b23b-66af-4715-8c19-ab1f6cd6ba65
+          15:
+            url_poster: https://api.mediux.pro/assets/14d3eb96-9ffe-4ac9-883a-3fc7d36beb8d
+          16:
+            url_poster: https://api.mediux.pro/assets/e5866626-8c0d-4d48-adea-481bf676d5a8
+          17:
+            url_poster: https://api.mediux.pro/assets/e7734fa3-2b45-4391-a3d5-548a26911a92
+          18:
+            url_poster: https://api.mediux.pro/assets/aea6d348-adb2-4e0e-85b9-30d8ade761dc
