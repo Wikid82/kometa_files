@@ -1,10 +1,10 @@
 metadata:
-  Back to the Future:
-    mapping_id: 105
-    url_poster: https://theposterdb.com/api/assets/87589
-  Back to the Future Part II:
-    mapping_id: 165
-    url_poster: https://theposterdb.com/api/assets/87590
-  Back to the Future Part III:
-    mapping_id: 196
-    url_poster: https://theposterdb.com/api/assets/87591
+
+  105: # Back to the Future (1985) Poster by IdentityTheft on MediUX. https://mediux.pro/sets/28155
+    url_poster: https://api.mediux.pro/assets/4a80f6a4-cd68-441f-a69c-351bcf743bfa
+
+  165: # Back to the Future Part II (1989) Poster by IdentityTheft on MediUX. https://mediux.pro/sets/28155
+    url_poster: https://api.mediux.pro/assets/ba247bd1-74fb-4e04-86e6-1ef62f334406
+
+  196: # Back to the Future Part III (1990) Poster by IdentityTheft on MediUX. https://mediux.pro/sets/28155
+    url_poster: https://api.mediux.pro/assets/e5623744-671f-4e8f-b10e-7d76f12f8ce4
