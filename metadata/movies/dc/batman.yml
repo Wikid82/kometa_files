@@ -1,13 +1,13 @@
 metadata:
-  Batman:
-    mapping_id: 268
-    url_poster: https://api.mediux.pro/assets/c7b1872d-0feb-472c-9bf3-ff25e576dba0
-  Batman Returns:
-    mapping_id: 364
-    url_poster: https://api.mediux.pro/assets/754e50a2-ac77-4024-840c-1d6f89e5e1d4
-  Batman Forever:
-    mapping_id: 414
-    url_poster: https://api.mediux.pro/assets/4f547238-81d7-4422-93cd-f3da8cd2ea79
-  Batman & Robin:
-    mapping_id: 415
-    url_poster: https://api.mediux.pro/assets/828fd325-50d1-44b5-9c19-88bbadb7a86f
+
+  268: # Batman (1989) Poster by willtong93 on MediUX. https://mediux.pro/sets/24471
+    url_poster: https://api.mediux.pro/assets/ac4bf3f4-5718-4f41-b7ba-50d13dbefa12
+
+  364: # Batman Returns (1992) Poster by willtong93 on MediUX. https://mediux.pro/sets/24471
+    url_poster: https://api.mediux.pro/assets/c39fd25a-af20-4ebc-9caf-ca0ce2884c42
+
+  414: # Batman Forever (1995) Poster by willtong93 on MediUX. https://mediux.pro/sets/24471
+    url_poster: https://api.mediux.pro/assets/3f8173ae-8af4-4364-a1fa-b2a5deb44763
+
+  415: # Batman & Robin (1997) Poster by willtong93 on MediUX. https://mediux.pro/sets/24471
+    url_poster: https://api.mediux.pro/assets/a259d584-c19c-40e9-a051-90cba874ab40

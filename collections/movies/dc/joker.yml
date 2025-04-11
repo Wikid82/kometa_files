@@ -1,7 +1,7 @@
 collections:
-  Joker Collection:
+  Joker Collection:  # Joker Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/25136
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/987044-joker-collection
-    url_background: https://image.tmdb.org/t/p/original/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg
-    url_poster: https://theposterdb.com/api/assets/523599
+    url_background: https://api.mediux.pro/assets/57cd6a1c-9b83-44a7-a5a8-aba2b518d5ee
+    url_poster: https://api.mediux.pro/assets/ef5fe6c5-db91-442b-acb0-b64bc88719f6

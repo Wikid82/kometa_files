@@ -1,10 +1,10 @@
 metadata:
-  Watchmen:
-    mapping_id: 13183
-    url_poster: https://api.mediux.pro/assets/1aa476d7-7b4d-4ba6-a725-c005c27b2294
-  Watchmen Chapter I:
-    mapping_id: 1155058
+  13183: # Watchmen (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/24523
+    url_poster: https://api.mediux.pro/assets/a52c7c16-53e2-447d-a71a-cd3d3b96eb27
+
+
+  1155058: # Watchmen: Chapter I (2024) Poster by MiniZaki on MediUX. https://mediux.pro/sets/28555
     url_poster: https://api.mediux.pro/assets/c635f406-3209-4674-9a14-124548dc0cfc
-  Watchmen Chapter II:
-    mapping_id: 1299652
+
+  1299652: # Watchmen: Chapter II (2024) Poster by MiniZaki on MediUX. https://mediux.pro/sets/28555
     url_poster: https://api.mediux.pro/assets/e9cdddb8-b036-4a25-ba20-4a6f142c88f6

@@ -1,7 +1,9 @@
 metadata:
-  Joker:
-    mapping_id: 475557
-    url_poster: https://theposterdb.com/api/assets/523601
-  Joker Folie à Deux:
-    mapping_id: 889737
-    url_poster: https://theposterdb.com/api/assets/523600
+
+  475557: # Joker (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/25136
+    url_poster: https://api.mediux.pro/assets/c991dd7e-6719-4e15-a55b-21dcb8580581
+    url_background: https://api.mediux.pro/assets/d6f029fc-4cc7-496f-9f14-236bc59bffdd
+
+  889737: # Joker: Folie à Deux (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/25136
+    url_poster: https://api.mediux.pro/assets/fc494efc-1e56-4ecc-91da-9f9dc29b9cec
+    url_background: https://api.mediux.pro/assets/206b6871-f597-4100-8038-1416c483ac46

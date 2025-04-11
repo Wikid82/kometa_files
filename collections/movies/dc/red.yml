@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/163902-red-collection
-    url_background: https://image.tmdb.org/t/p/original/fLQjbO5Y2a4hXTPYsZCcWAdjcdS.jpg
-    url_poster: https://theposterdb.com/api/assets/79799
+    url_background: https://api.mediux.pro/assets/e8c19473-1c4f-47a0-aeec-376bd2771435
+    url_poster: https://api.mediux.pro/assets/1755fb87-859e-4264-8dff-9f6cbcaa238d

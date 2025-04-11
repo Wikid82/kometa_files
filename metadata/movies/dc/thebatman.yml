@@ -1,9 +1,5 @@
 metadata:
-  The Batman:
-    mapping_id: 414906
-    originally_available: 02/28/2022
-    url_poster: https://theposterdb.com/api/assets/511487
-  #The Batman 2:
-  #  mapping_id: 806704
-  #  originally_available:
-  #  url_poster: https://theposterdb.com/api/assets/511487
+
+  414906: # The Batman (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/23332
+    url_poster: https://api.mediux.pro/assets/b060d65a-4bb5-4e58-87ee-19233f134067
+    url_background: https://api.mediux.pro/assets/78c2e18a-f73b-430b-9095-d73acafcc08b

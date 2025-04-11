@@ -4,4 +4,4 @@ collections:
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29970956
     url_background: https://image.tmdb.org/t/p/original/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg
-    url_poster: https://theposterdb.com/api/assets/144370
+    url_poster: https://api.mediux.pro/assets/a52c7c16-53e2-447d-a71a-cd3d3b96eb27

@@ -1,8 +1,0 @@
----
-collections:
-  The Dark Knight Collection:
-    collection_mode: hide_items
-    collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29
-    url_background: https://image.tmdb.org/t/p/original/tHFBfbKjcRxJQrDkEjQstWHHb0D.jpg
-    url_poster: https://theposterdb.com/api/assets/44451

@@ -1,0 +1,8 @@
+---
+collections:
+  The Dark Knight Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/263-the-dark-knight-collection
+    url_background: https://api.mediux.pro/assets/8f81bed2-78f5-47f7-95ec-5bba917fc8d7
+    url_poster: https://api.mediux.pro/assets/3060365a-13b1-4e7e-b4bd-d2b9947149de
