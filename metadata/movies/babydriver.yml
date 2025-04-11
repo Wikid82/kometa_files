@@ -1,7 +1,5 @@
 metadata:
-  Baby Driver:
-    mapping_id: 339403
-    url_poster: https://theposterdb.com/api/assets/158110
-#  Baby Driver 2:
-#    mapping_id: 628861
-#    url_poster: https://theposterdb.com/api/assets/158109
+
+  339403: # Baby Driver (2017) 
+    url_poster: https://theposterdb.com/api/assets/42524
+    url_background: https://api.mediux.pro/assets/f47fbce2-a68a-4bc1-8c55-f9bfc418198d
