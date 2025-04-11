@@ -1,0 +1,78 @@
+metadata:
+
+  336261: # TVDB id for Tom Clancy's Jack Ryan. Set by willtong93 on MediUX. https://mediux.pro/sets/31934
+    url_poster: https://api.mediux.pro/assets/b74a6cf4-3d07-424f-bbe8-1b541b9571cf
+    url_background: https://api.mediux.pro/assets/73dd6444-f6f8-4fa4-8825-e291537fd40d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/c588d48c-972c-4c20-b36d-8e55993237dd
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/6b414c09-ac27-4d8b-a41f-b776bb0d7681
+          2:
+            url_poster: https://api.mediux.pro/assets/d5c8903b-d428-4390-9a93-f83b9b5a17a8
+          3:
+            url_poster: https://api.mediux.pro/assets/f7f8961e-4406-408e-b05c-ffdec87279f1
+          4:
+            url_poster: https://api.mediux.pro/assets/c7ec3333-e6ff-4900-94eb-d69298ff6ee8
+          5:
+            url_poster: https://api.mediux.pro/assets/1f85e8ee-4566-409f-aac3-ebceaeeedd2f
+          6:
+            url_poster: https://api.mediux.pro/assets/e419de4e-e522-476e-bf9b-2eb13ad9ba49
+          7:
+            url_poster: https://api.mediux.pro/assets/bea928de-41fa-4caa-8a5f-7d2c5c015b12
+          8:
+            url_poster: https://api.mediux.pro/assets/e114837f-820c-4ffa-9032-e112cd3e14b0
+      2:
+        url_poster: https://api.mediux.pro/assets/5284f0c3-7ab7-4831-a852-97ee5a42fe43
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/faaf5229-f6df-4d02-b5b4-486a4d76530c
+          2:
+            url_poster: https://api.mediux.pro/assets/63d986f0-0ba3-48ef-a544-d0acdebfadb4
+          3:
+            url_poster: https://api.mediux.pro/assets/c50ea4fb-19a2-4ac9-a224-7307faad9030
+          4:
+            url_poster: https://api.mediux.pro/assets/ca66dc42-9605-4608-9edf-9e963c15df7e
+          5:
+            url_poster: https://api.mediux.pro/assets/c332737d-5016-467b-84a8-68f4f4d5a907
+          6:
+            url_poster: https://api.mediux.pro/assets/34843db8-d70a-4619-8dc5-af0d14992d19
+          7:
+            url_poster: https://api.mediux.pro/assets/f98f4b2a-9920-42dd-8568-bc2b908a0fed
+          8:
+            url_poster: https://api.mediux.pro/assets/78d30fa3-c492-4b9b-9c73-98b9587bdcb8
+      3:
+        url_poster: https://api.mediux.pro/assets/96b994fd-f1d8-4c0f-8486-143a8698358d
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fc9dc140-0730-48a9-a7a9-8e9e73c73ac0
+          2:
+            url_poster: https://api.mediux.pro/assets/a5357f58-44e4-4c01-8a99-c67bf058a00f
+          3:
+            url_poster: https://api.mediux.pro/assets/04ec06d4-a1e3-487d-86ab-fc7b46e36c51
+          4:
+            url_poster: https://api.mediux.pro/assets/22d96c80-f6c8-4943-af3c-348d566b19b4
+          5:
+            url_poster: https://api.mediux.pro/assets/9175fbcd-1c15-4bfa-82be-56000bace540
+          6:
+            url_poster: https://api.mediux.pro/assets/72fc08cd-9751-4ca4-810f-a84eb4153930
+          7:
+            url_poster: https://api.mediux.pro/assets/d593592d-a0ba-4cb2-82c3-1733b27435bf
+          8:
+            url_poster: https://api.mediux.pro/assets/6b88a8dd-6d63-41f5-8452-05940fbd9500
+      4:
+        url_poster: https://api.mediux.pro/assets/76d006ca-7de5-459f-94a7-1ae38931dd38
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8369f32e-f0bf-47f5-b9dd-27e084953ab1
+          2:
+            url_poster: https://api.mediux.pro/assets/2acad424-6857-4824-b9dc-2feba9c66618
+          3:
+            url_poster: https://api.mediux.pro/assets/b72f517d-10df-42b5-a8e6-499c526a6e72
+          4:
+            url_poster: https://api.mediux.pro/assets/9c46507f-73a1-4f4b-87bd-9ff22bd359a4
+          5:
+            url_poster: https://api.mediux.pro/assets/7a100cf1-065f-4a96-9802-15b5bf2f0942
+          6:
+            url_poster: https://api.mediux.pro/assets/5e9b6ffa-4825-4f42-ac3e-78d49c62aa16
