@@ -1,6 +1,9 @@
 metadata:
-  72850: # The Crow: Stairway To Heavean
-    url_poster: https://theposterdb.com/api/assets/188015
+  72850: # TVDB id for The Crow: Stairway to Heaven. Set by cundallini on MediUX. https://mediux.pro/sets/31968
+    url_poster: https://api.mediux.pro/assets/97073bee-d0c7-47f1-87a1-ccfeafd6eb11
+    url_background: https://api.mediux.pro/assets/2e02a462-4380-45ef-b34f-8eeaf2c21adf
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/188017
+ #     0:
+ #       url_poster: https://api.mediux.pro/assets/0c8e4880-07d7-4a99-b5e7-0f4bf7edbcef
+      1:
+        url_poster: https://api.mediux.pro/assets/725130bf-1a50-4c71-b82f-5ca3f5e32e95
