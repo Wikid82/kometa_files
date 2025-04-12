@@ -1,0 +1,16 @@
+metadata:
+  451408: # TVDB id for Dream Productions. Set by willtong93 on MediUX. https://mediux.pro/sets/29087
+    url_poster: https://api.mediux.pro/assets/b7ce6a77-9a36-49f3-94a2-406ba9300260
+    url_background: https://api.mediux.pro/assets/d29498bd-171b-48db-a096-0fd7476b59e6
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/322fd084-179d-45d5-b74a-dd9e61996c32
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/55ceaec4-8a32-4225-a255-d64b5fc9e3a9
+          2:
+            url_poster: https://api.mediux.pro/assets/ee3fafcc-cc11-47d3-869f-1e7245b894fd
+          3:
+            url_poster: https://api.mediux.pro/assets/ec46f97f-7e57-4c1e-b163-3527e8b1ee15
+          4:
+            url_poster: https://api.mediux.pro/assets/d41150e9-bc0e-4c97-9439-8efd1adfc0a7
