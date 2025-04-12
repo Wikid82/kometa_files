@@ -1,0 +1,7 @@
+collections:
+  Sicario Collection:  # Sicario Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/24915
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1565-28-days-weeks-later-collection
+    url_background: https://api.mediux.pro/assets/913f1b57-7138-4bdf-9546-e1defd505fd7
+    url_poster: https://api.mediux.pro/assets/b08cbd52-126b-40e3-92ad-b94d06b04353
