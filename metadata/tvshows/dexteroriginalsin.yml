@@ -1,28 +1,29 @@
 metadata:
 
-  430780: # TVDB id for Dexter: Original Sin. Set by Kwickflix on MediUX. https://mediux.pro/sets/30425
-    url_poster: https://api.mediux.pro/assets/ce4e7325-284e-4509-a9d2-27d6689b4310
+  430780: # TVDB id for Dexter: Original Sin. Set by willtong93 on MediUX. https://mediux.pro/sets/29252
+    url_poster: https://api.mediux.pro/assets/bb286b06-72be-43b7-ab55-ab11f1013e06
+    url_background: https://api.mediux.pro/assets/8cc334c1-5921-49ca-a751-3f4b2fcfd18c
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/b813698a-ef79-4c0c-b0bc-8887c93ac622
+        url_poster: https://api.mediux.pro/assets/61ad8e51-73f0-4171-8520-cb017303b058
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/dd6b27cf-7574-474b-b8f0-9b270f46acb8
+            url_poster: https://api.mediux.pro/assets/ec06029f-def8-4c78-87db-a162c71c5182
           2:
-            url_poster: https://api.mediux.pro/assets/69967b37-ec5e-48dd-a256-103507ce7b4e
+            url_poster: https://api.mediux.pro/assets/82d0f767-c390-4cfb-9c43-d91a307b9cb7
           3:
-            url_poster: https://api.mediux.pro/assets/30c14d97-7922-4cea-a222-90e86d69c239
+            url_poster: https://api.mediux.pro/assets/98567815-0627-4fe7-a482-03cc13992d2e
           4:
-            url_poster: https://api.mediux.pro/assets/e622c37f-0e61-43da-929e-bdbf7619541e
+            url_poster: https://api.mediux.pro/assets/57df0cca-fa17-4e2c-a6b8-822ed9d6123c
           5:
-            url_poster: https://api.mediux.pro/assets/b1c4036c-5aae-4085-bfd6-b33f200c6510
+            url_poster: https://api.mediux.pro/assets/74daa70f-3d6c-4ab9-a6b4-acf49aaa2894
           6:
-            url_poster: https://api.mediux.pro/assets/b317ad22-0271-474a-91ed-9ef4476e793e
+            url_poster: https://api.mediux.pro/assets/8e31bc85-741c-4dec-add0-cc9793afd33f
           7:
-            url_poster: https://api.mediux.pro/assets/1a9a2d9f-e9d3-493d-9eac-f43c4db7ed27
+            url_poster: https://api.mediux.pro/assets/52aa8593-2d6a-49fe-a6a5-bbd005703482
           8:
-            url_poster: https://api.mediux.pro/assets/aefd145c-9e0e-418b-b4cf-cf22700ba4ad
+            url_poster: https://api.mediux.pro/assets/63221015-6bfd-4b3c-add0-4da424fd3a8f
           9:
-            url_poster: https://api.mediux.pro/assets/2088f3a3-679b-46a8-a776-88cba201d275
+            url_poster: https://api.mediux.pro/assets/653938d1-2458-471f-82d8-26f4d008e358
           10:
-            url_poster: https://api.mediux.pro/assets/ed9233f8-4247-4f1b-b2ae-d085303bb417
+            url_poster: https://api.mediux.pro/assets/ab5cc213-658f-49a9-8295-67d42ba7cf30
