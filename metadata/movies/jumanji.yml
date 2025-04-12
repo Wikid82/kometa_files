@@ -1,10 +1,10 @@
 metadata:
-  Jumanji:
-    mapping_id: 8844
-    url_poster: https://theposterdb.com/api/assets/8781
-  Jumanji Welcome to the Jungle:
-    mapping_id: 353486
-    url_poster: https://theposterdb.com/api/assets/8782
-  Jumanji The Next Level:
-    mapping_id: 512200
-    url_poster: https://theposterdb.com/api/assets/8783
+
+  8844: # Jumanji (1995) Poster by willtong93 on MediUX. https://mediux.pro/sets/29196
+    url_poster: https://api.mediux.pro/assets/ee5a3c0f-d43a-4484-b87a-253757f5c803
+
+  353486: # Jumanji: Welcome to the Jungle (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/29196
+    url_poster: https://api.mediux.pro/assets/4a3b28d6-ca80-4534-ba5c-421ccb6f8310
+
+  512200: # Jumanji: The Next Level (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/29196
+    url_poster: https://api.mediux.pro/assets/c7bc4d8d-8079-4790-afbb-25233bbc0527
