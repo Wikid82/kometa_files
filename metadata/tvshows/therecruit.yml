@@ -1,0 +1,39 @@
+metadata:
+  425260: # TVDB id for The Recruit. Set by willtong93 on MediUX. https://mediux.pro/sets/32002
+    url_poster: https://api.mediux.pro/assets/acd6672e-7048-45e9-aed3-eda34678ef67
+    url_background: https://api.mediux.pro/assets/48068640-8b2f-4e56-a05b-28c8c23a70ad
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/032efa02-3aec-4c4a-81da-4c5ad089d318
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/eeff9a26-2899-4dbf-9d08-2f7753b2b0a4
+          2:
+            url_poster: https://api.mediux.pro/assets/85d2de48-67d4-4488-acc5-75bc733d6564
+          3:
+            url_poster: https://api.mediux.pro/assets/08589999-09e0-4181-992d-1a87586b2cce
+          4:
+            url_poster: https://api.mediux.pro/assets/22272f0f-61c6-43ff-ba60-2b0f668cd311
+          5:
+            url_poster: https://api.mediux.pro/assets/4af46627-5608-49fe-8805-ee3921e2b5a4
+          6:
+            url_poster: https://api.mediux.pro/assets/2a675284-86b5-4c52-9c42-eeddf5fad6e3
+          7:
+            url_poster: https://api.mediux.pro/assets/5e8c6a7e-59f4-49d1-b560-50b66eda381e
+          8:
+            url_poster: https://api.mediux.pro/assets/f9e60479-657b-48d6-9a94-8038237b1ecc
+      2:
+        url_poster: https://api.mediux.pro/assets/a4b94a5c-c5c6-42c0-bb19-288048f734fc
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/541dae3b-6e07-4446-bc63-2d9dd4578e08
+          2:
+            url_poster: https://api.mediux.pro/assets/9b195a3c-736c-451f-ad40-567940deca2b
+          3:
+            url_poster: https://api.mediux.pro/assets/ce462878-ecaa-4a38-a47a-bb00debbf065
+          4:
+            url_poster: https://api.mediux.pro/assets/1943457d-6aa3-45d1-aa12-5013ab76bcb0
+          5:
+            url_poster: https://api.mediux.pro/assets/557ae9a8-3235-478b-8c6e-e8e57c1aa967
+          6:
+            url_poster: https://api.mediux.pro/assets/aff1657a-5605-4448-a15c-9114c2552866
