@@ -1,0 +1,24 @@
+metadata:
+  454565: # TVDB id for Paradise. Set by willtong93 on MediUX. https://mediux.pro/sets/31213
+    url_poster: https://api.mediux.pro/assets/2c6db0c7-2688-4389-ae3e-355e30cebaf9
+    url_background: https://api.mediux.pro/assets/ffff3514-b813-4c1b-a653-e4bcfb45e7c7
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/05f76594-d12a-4475-a5ef-0c247d08eef7
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/a4d7a71a-9d3f-4103-ac91-82c632c75446
+          2:
+            url_poster: https://api.mediux.pro/assets/00108d1b-e34e-453e-9619-3fabe28b1bf0
+          3:
+            url_poster: https://api.mediux.pro/assets/b72b7daf-7860-4a87-942c-b8642ae8ea8e
+          4:
+            url_poster: https://api.mediux.pro/assets/a5d01cd3-f386-4702-a714-cb5c364024c6
+          5:
+            url_poster: https://api.mediux.pro/assets/d46597d4-5c1b-4f7d-90e7-05825b551f3e
+          6:
+            url_poster: https://api.mediux.pro/assets/3a13d8b4-5bed-45a2-b5df-a5bb9d537a40
+          7:
+            url_poster: https://api.mediux.pro/assets/fc6b9d08-496f-4359-8d95-3c4c4283f9f9
+          8:
+            url_poster: https://api.mediux.pro/assets/44675c3d-9fcd-483b-82bb-6081b7a11dcc
