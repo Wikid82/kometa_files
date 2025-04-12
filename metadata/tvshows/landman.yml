@@ -1,27 +1,28 @@
 metadata:
-  397424: # TVDB id for Landman. Set by Ikonok on MediUX. https://mediux.pro/sets/29706
-    url_poster: https://api.mediux.pro/assets/1aebd013-2b8f-4b70-aa82-a087a65da94d
+  397424: # TVDB id for Landman. Set by willtong93 on MediUX. https://mediux.pro/sets/28090
+    url_poster: https://api.mediux.pro/assets/a9eed2f5-d47f-4d27-a4a7-61fd36d05c02
+    url_background: https://api.mediux.pro/assets/80554560-f765-4294-b04a-a7ef96de99c5
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/0525fad3-2373-4cc9-854b-9c350e340fcd
+        url_poster: https://api.mediux.pro/assets/fb6b76c0-8d00-4664-81ee-a917bdd059ba
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/c6849b3c-6dc0-432a-af5d-bfac5f31d723
+            url_poster: https://api.mediux.pro/assets/8fe3d03a-f563-4006-8252-260a1ba900de
           2:
-            url_poster: https://api.mediux.pro/assets/fca83fc2-f0e2-41c4-b8e0-c8a3d3dd79ef
+            url_poster: https://api.mediux.pro/assets/85aebc2d-dc29-437f-9fc8-afa2fc872b44
           3:
-            url_poster: https://api.mediux.pro/assets/b9c63c1a-858e-4a4b-a2a9-71e904f85047
+            url_poster: https://api.mediux.pro/assets/d59e936a-2970-4483-a995-5751a01bdec5
           4:
-            url_poster: https://api.mediux.pro/assets/8bf867c6-4c7d-49ab-9eb3-f796661a0583
+            url_poster: https://api.mediux.pro/assets/009bd8fa-2d76-458f-9bbc-35c0cb2f2bac
           5:
-            url_poster: https://api.mediux.pro/assets/465279b0-5c48-4b73-b968-b43c1b62907a
+            url_poster: https://api.mediux.pro/assets/73026402-7f47-48a8-a321-13774ce1472d
           6:
-            url_poster: https://api.mediux.pro/assets/58b79b6c-990b-4a1b-85c5-27f7d59f760d
+            url_poster: https://api.mediux.pro/assets/b27cb64f-a413-4897-b2f4-a94e7cfc7de7
           7:
-            url_poster: https://api.mediux.pro/assets/46454720-29ae-4ab6-b22d-3eb328c52041
+            url_poster: https://api.mediux.pro/assets/124e4f5e-045e-4376-aa95-3a3f79c4348f
           8:
-            url_poster: https://api.mediux.pro/assets/18163dc8-882b-48d1-8493-d65fb9f42b90
+            url_poster: https://api.mediux.pro/assets/592ce0a2-3807-4da0-aeaf-38db3a4f6e35
           9:
-            url_poster: https://api.mediux.pro/assets/cc84f1c1-e574-41aa-a1b7-b57360418615
+            url_poster: https://api.mediux.pro/assets/24762334-853e-41b2-95c7-a4355adaf2e9
           10:
-            url_poster: https://api.mediux.pro/assets/200e599c-9480-446a-89ef-1f764b54accb
+            url_poster: https://api.mediux.pro/assets/42ffecff-eda6-4549-a6eb-5bed21114681
