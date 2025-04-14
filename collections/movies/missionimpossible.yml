@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/87359-mission-impossible-collection
-    url_background: https://image.tmdb.org/t/p/original/jYl0UuJFcmhymv9ZNO14lPLDY1Z.jpg
-    url_poster: https://theposterdb.com/api/assets/12118
+    url_background: https://api.mediux.pro/assets/d3da3723-2ae5-4a40-8686-c8f789da9939
+    url_poster: https://api.mediux.pro/assets/e506fa74-b48c-4d28-b118-bec1bce2690e

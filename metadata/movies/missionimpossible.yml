@@ -1,26 +1,22 @@
 metadata:
-  Mission Impossible:
-    mapping_id: 954
-    url_poster: https://theposterdb.com/api/assets/12119
-  Mission Impossible 2:
-    mapping_id: 955
-    url_poster: https://theposterdb.com/api/assets/12120
-  Mission Impossible III:
-    mapping_id: 956
-    url_poster: https://theposterdb.com/api/assets/12121
-  Mission Impossible – Ghost Protocol:
-    mapping_id: 56292
-    url_poster: https://theposterdb.com/api/assets/12122
-  Mission Impossible – Rogue Nation:
-    mapping_id: 177677
-    url_poster: https://theposterdb.com/api/assets/12123
-  Mission Impossible – Fallout:
-    mapping_id: 353081
-    url_poster: https://theposterdb.com/api/assets/12124
-  Mission Impossible – Dead Reckoning Part One:
-    mapping_id: 575264
-    url_poster: https://theposterdb.com/api/assets/427114
 
-#  Mission Impossible – Dead Reckoning Part Two:
-#    mapping_id: 575265
-#    url_poster: 
+  954: # Mission: Impossible (1996) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+    url_poster: https://api.mediux.pro/assets/e39787b8-56dd-4818-ad41-465fdb572fa4
+
+  955: # Mission: Impossible II (2000) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+    url_poster: https://api.mediux.pro/assets/a5e2e064-d826-4323-b78e-31d5e987354e
+
+  956: # Mission: Impossible III (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+    url_poster: https://api.mediux.pro/assets/abb317bf-6b69-4ef2-97eb-8e4f73c93803
+
+  56292: # Mission: Impossible - Ghost Protocol (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+    url_poster: https://api.mediux.pro/assets/de061517-2122-410f-bbd2-2c803a202900
+
+  177677: # Mission: Impossible - Rogue Nation (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+    url_poster: https://api.mediux.pro/assets/0c4b47f4-18ee-4283-b6b5-847bbfc423f9
+
+  353081: # Mission: Impossible - Fallout (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+    url_poster: https://api.mediux.pro/assets/1d7299be-1c62-4ed1-afa3-9401ce8b2e05
+
+  575264: # Mission: Impossible - Dead Reckoning Part One (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+    url_poster: https://api.mediux.pro/assets/66abeb91-3d6d-4ecb-8b6b-a6b820db65f9
