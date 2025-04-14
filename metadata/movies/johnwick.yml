@@ -1,16 +1,13 @@
 metadata:
-  John Wick:
-    mapping_id: 245891
-    url_poster: https://theposterdb.com/api/assets/13286
-  John Wick Chapter 2:
-    mapping_id: 324552
-    url_poster: https://theposterdb.com/api/assets/13287
-  John Wick Chapter 3 - Parabellum:
-    mapping_id: 458156
-    url_poster: https://theposterdb.com/api/assets/13288
-  John Wick Chapter 4:
-    mapping_id: 603692
-    url_poster: https://theposterdb.com/api/assets/352449
-#  John Wick Chapter 5:
-#    mapping_id: 730629
-#    url_poster: 
+
+  245891: # John Wick (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/24959
+    url_poster: https://api.mediux.pro/assets/7d7e3ca8-a252-47a9-b224-6e80895c5fa9
+
+  324552: # John Wick: Chapter 2 (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/24959
+    url_poster: https://api.mediux.pro/assets/cea46716-f168-4b18-a5aa-02e07e8a3252
+
+  458156: # John Wick: Chapter 3 - Parabellum (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/24959
+    url_poster: https://api.mediux.pro/assets/62215bc2-be7c-4d4d-a720-b98d26d3d439
+
+  603692: # John Wick: Chapter 4 (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/24959
+    url_poster: https://api.mediux.pro/assets/fd44e22f-a11a-4d86-9e2d-b1f991b33c7a
