@@ -1,16 +1,16 @@
 metadata:
-  The Bourne Identity:
-    mapping_id: 2501
-    url_poster: https://theposterdb.com/api/assets/50612
-  The Bourne Surpremacy:
-    mapping_id: 2502
-    url_poster: https://theposterdb.com/api/assets/50613
-  The Bourne Ultimatum:
-    mapping_id: 2503
-    url_poster: https://theposterdb.com/api/assets/50614
-  The Bourne Legacy:
-    mapping_id: 49040
-    url_poster: https://theposterdb.com/api/assets/50615
-  Jason Bourne:
-    mapping_id: 324668
-    url_poster: https://theposterdb.com/api/assets/528276
+
+  2501: # The Bourne Identity (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26436
+    url_poster: https://api.mediux.pro/assets/0770acb9-9900-4507-ab5e-90cfb00588cd
+
+  2502: # The Bourne Supremacy (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/26436
+    url_poster: https://api.mediux.pro/assets/f71b8a38-3af7-48f4-85c0-2031845fa226
+
+  2503: # The Bourne Ultimatum (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/26436
+    url_poster: https://api.mediux.pro/assets/f4837f78-5907-4dca-9d53-a439c3d5464b
+
+  49040: # The Bourne Legacy (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/26436
+    url_poster: https://api.mediux.pro/assets/db0ed1fb-820c-430c-96d7-7e290ed185cc
+
+  324668: # Jason Bourne (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/26436
+    url_poster: https://api.mediux.pro/assets/b45cd1cc-645b-4c0b-8e28-6aa0a7b8b422
