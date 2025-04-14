@@ -3,6 +3,6 @@ collections:
   Predator Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/official/predator-collection
-    url_background: https://image.tmdb.org/t/p/original/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg
-    url_poster: https://theposterdb.com/api/assets/243
+    trakt_list_details: https://trakt.tv/lists/31144854
+    url_background: https://api.mediux.pro/assets/563b1ab2-f8ab-4296-b11c-bbfa0ee70c2e
+    url_poster: https://api.mediux.pro/assets/eda7559c-c5ce-43a3-9f22-3664d60f89ab

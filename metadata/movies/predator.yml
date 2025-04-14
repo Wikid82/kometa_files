@@ -1,22 +1,16 @@
 metadata:
-  Predator:
-    mapping_id: 106
-    originally_available: 05/11/1987
-    url_poster: https://theposterdb.com/api/assets/244
-  Predator 2:
-    mapping_id: 169
-    originally_available: 11/20/1990
-    url_poster: https://theposterdb.com/api/assets/245
-  The Predator:
-    mapping_id: 346910
-    originally_available: 09/04/2018
-    url_poster: https://theposterdb.com/api/assets/247
-  Predators:
-    mapping_id: 34851
-    originally_available: 07/02/2010
-    edition: Remastered Edition
-    url_poster: https://theposterdb.com/api/assets/246
-  Prey:
-    mapping_id: 766507
-    originally_available: 08/04/2022
-    url_poster: https://theposterdb.com/api/assets/255438
+
+  106: # Predator (1987) Poster by willtong93 on MediUX. https://mediux.pro/sets/25458
+    url_poster: https://api.mediux.pro/assets/e60f26df-136a-412f-8e60-31242396b1c9
+
+  169: # Predator 2 (1990) Poster by willtong93 on MediUX. https://mediux.pro/sets/25458
+    url_poster: https://api.mediux.pro/assets/63e51276-8c9d-420e-97cd-a7a2c51168d9
+
+  34851: # Predators (2010) Poster by willtong93 on MediUX. https://mediux.pro/sets/25458
+    url_poster: https://api.mediux.pro/assets/df9f04c5-e345-42ff-b6f7-729d3300f1b2
+
+  346910: # The Predator (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/25458
+    url_poster: https://api.mediux.pro/assets/7900ee0f-480c-460c-85ec-25a0540237b7
+
+  766507: # Prey (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/25458
+    url_poster: https://api.mediux.pro/assets/f823a8e4-a029-458f-b345-7e370e2cb976
