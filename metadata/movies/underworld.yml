@@ -1,16 +1,19 @@
 metadata:
-  Underworld:
-    mapping_id: 277
-    url_poster: https://theposterdb.com/api/assets/74997
-  Underworld Evolution:
-    mapping_id: 834
-    url_poster: https://theposterdb.com/api/assets/74998
-  Underworld Rise:
-    mapping_id: 12437
-    url_poster: https://theposterdb.com/api/assets/74999
-  Underworld Awakening:
-    mapping_id: 52520
-    url_poster: https://theposterdb.com/api/assets/75001
-  Underworld Blood Wars:
-    mapping_id: 346672
-    url_poster: https://theposterdb.com/api/assets/75002
+
+  277: # Underworld (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/25528
+    url_poster: https://api.mediux.pro/assets/faa17028-c61d-4c92-a4d1-e75d8671bdef
+
+  834: # Underworld: Evolution (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/25528
+    url_poster: https://api.mediux.pro/assets/34b9e506-bad7-4693-a8f7-b98420c24406
+
+  12437: # Underworld: Rise of the Lycans (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/25528
+    url_poster: https://api.mediux.pro/assets/561f1d8f-d695-42ed-a13a-57cb34084324
+
+  52520: # Underworld: Awakening (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/25528
+    url_poster: https://api.mediux.pro/assets/e8f5718b-5705-424a-986d-02dc9b9f8285
+
+  346672: # Underworld: Blood Wars (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/25528
+    url_poster: https://api.mediux.pro/assets/198f8d2d-c0d9-468a-8336-630c64bfcb0b
+
+  161337: # Underworld: Endless War (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/25533
+    url_poster: https://api.mediux.pro/assets/c9d9e9e7-af0c-4015-a54b-36e7f87b0aed
