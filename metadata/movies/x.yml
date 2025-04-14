@@ -1,10 +1,10 @@
 metadata:
-  X:
-    mapping_id: 760104
-    url_poster: https://theposterdb.com/api/assets/277538
-  Pearl:
-    mapping_id: 949423
-    url_poster: https://theposterdb.com/api/assets/277543
-  MaXXXine:
-    mapping_id: 1023922
-    url_poster: https://theposterdb.com/api/assets/512879
+
+  760104: # X (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/28059
+    url_poster: https://api.mediux.pro/assets/c47ba262-42d7-4def-8a45-03f22702c6ea
+
+  949423: # Pearl (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/28059
+    url_poster: https://api.mediux.pro/assets/0d28b801-5e63-4ae9-bf99-371103a57552
+
+  1023922: # MaXXXine (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/28059
+    url_poster: https://api.mediux.pro/assets/a85dfe6f-ae6d-4c2b-8a65-35d5ff969d34
