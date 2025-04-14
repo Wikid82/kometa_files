@@ -1,28 +1,23 @@
 metadata:
-  Alien:
-    mapping_id: tt0078748
-    originally_available: 10/26/1979
-    url_poster: https://theposterdb.com/api/assets/316510
-  Aliens:
-    mapping_id: tt0090605
-    originally_available: 07/17/1986
-    url_poster: https://theposterdb.com/api/assets/316511
-  Alien³:
-    mapping_id: tt0103644
-    originally_available: 05/21/1992
-    url_poster: https://theposterdb.com/api/assets/316512
-  Alien Resurrection:
-    mapping_id: tt0118583
-    originally_available: 11/07/1997
-    url_poster: https://theposterdb.com/api/assets/316513
-  Prometheus:
-    mapping_id: tt1446714
-    originally_available: 05/29/2012
-    url_poster: https://theposterdb.com/api/assets/316516
-  Alien Covenant:
-    mapping_id: tt2316204
-    originally_available: 05/08/2017
-    url_poster: https://theposterdb.com/api/assets/316517
-  Alien Romulus:
-    mapping_id: 945961
-    url_poster: https://theposterdb.com/api/assets/520396
+
+  348: # Alien (1979) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
+    url_poster: https://api.mediux.pro/assets/9a8e936c-ad0c-4140-8d70-7e2695605256
+
+  679: # Aliens (1986) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
+    url_poster: https://api.mediux.pro/assets/6041e74d-1c8d-49d8-af64-d76861508303
+
+  8077: # Alien³ (1992) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
+    url_poster: https://api.mediux.pro/assets/1ed2b8fd-6a50-4fd5-b30b-1d73a5737881
+
+  8078: # Alien Resurrection (1997) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
+    url_poster: https://api.mediux.pro/assets/1cc4d029-7384-4fb6-a5e3-91def743bcfa
+
+
+  70981: # Prometheus (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/25345
+    url_poster: https://api.mediux.pro/assets/3698485a-23da-4989-9db9-38d684ed7e83
+
+  126889: # Alien: Covenant (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/25345
+    url_poster: https://api.mediux.pro/assets/fe87ab06-509a-4a6e-b56b-96bf59e0b1bf
+
+  945961: # Alien: Romulus (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/25346
+    url_poster: https://api.mediux.pro/assets/7917de7c-3da6-4c75-a10e-a712e285ac23
