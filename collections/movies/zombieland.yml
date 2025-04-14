@@ -3,6 +3,6 @@ collections:
   Zombieland Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/6141489
-    url_background: https://image.tmdb.org/t/p/original/bhmfQRJmBZNz7vTfHweG9ICVs1q.jpg
-    url_poster: https://theposterdb.com/api/assets/36446
+    tmdb_collection_details: https://www.themoviedb.org/collection/537982-zombieland-collection
+    url_background: https://api.mediux.pro/assets/b3681074-3248-46f1-8aba-49abb4cec2f1
+    url_poster: https://api.mediux.pro/assets/705fab64-989e-448c-970c-42cf1b1fa5e8

@@ -1,7 +1,7 @@
 metadata:
-  Zombieland:
-    mapping_id: 19908
-    url_poster: https://theposterdb.com/api/assets/36526
-  Zombieland Double Tap:
-    mapping_id: 338967
-    url_poster: https://theposterdb.com/api/assets/13368
+
+  19908: # Zombieland (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/26784
+    url_poster: https://api.mediux.pro/assets/90719f21-43d0-4566-a3d4-048fdfce0625
+
+  338967: # Zombieland: Double Tap (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/26784
+    url_poster: https://api.mediux.pro/assets/b8813686-2b3e-4f3a-9101-6f926dc61d5d
