@@ -1,0 +1,24 @@
+metadata:
+  365700: # TVDB id for KAOS. Set by willtong93 on MediUX. https://mediux.pro/sets/24697
+    url_poster: https://api.mediux.pro/assets/0e7ecf7f-8842-4ee1-a9a8-a4a3cb4f7b3d
+    url_background: https://api.mediux.pro/assets/54b76931-0ce9-44a7-ba9b-0737780fa04e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1ff50105-a55f-45d9-a007-948b47326215
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/405c31c9-7dbd-477f-a9dc-a69e301ab9c1
+          2:
+            url_poster: https://api.mediux.pro/assets/31243f1d-c0eb-48a7-8f26-ab41b36d2450
+          3:
+            url_poster: https://api.mediux.pro/assets/1253117f-7107-4688-b866-da86427be770
+          4:
+            url_poster: https://api.mediux.pro/assets/ca8f01ff-3750-40ab-9e5c-3ab71cecd40c
+          5:
+            url_poster: https://api.mediux.pro/assets/3fc77e24-47a7-4ca6-b026-effe25bd57d1
+          6:
+            url_poster: https://api.mediux.pro/assets/4d79c184-1174-4762-8326-9eb40135664c
+          7:
+            url_poster: https://api.mediux.pro/assets/e4889660-cffb-4cb5-95ef-0bb95e77ef57
+          8:
+            url_poster: https://api.mediux.pro/assets/21b08862-3ef0-4cce-84ff-ec8b3574d0cd
