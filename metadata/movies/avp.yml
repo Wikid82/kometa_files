@@ -1,11 +1,7 @@
 metadata:
-  Alien VS Predator:
-    mapping_id: 395
-    originally_available: 08/11/2004
-    content_rating: Unrated
-    edition: Unrated Edition
-    url_poster: https://theposterdb.com/api/assets/26355
-  AVP Requiem:
-    mapping_id: 440
-    originally_available: 12/07/2007
-    url_poster: https://theposterdb.com/api/assets/26356
+
+  395: # AVP: Alien vs. Predator (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/25344
+    url_poster: https://api.mediux.pro/assets/1ded833e-699d-421f-a299-667416584545
+
+  440: # Aliens vs Predator: Requiem (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/25344
+    url_poster: https://api.mediux.pro/assets/28c4d4b4-c006-4ba4-b14a-a8907677a054

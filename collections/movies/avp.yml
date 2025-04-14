@@ -3,6 +3,6 @@ collections:
   AVP Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/official/avp-collection
-    url_background: https://image.tmdb.org/t/p/original/ezIpXeWRd43inL5AOaaBbT4jaf2.jpg
-    url_poster: https://theposterdb.com/api/assets/143122
+    tmdb_collection_details: https://www.themoviedb.org/collection/115762-avp-collection
+    url_background: https://api.mediux.pro/assets/6cc1b826-d0b0-4a98-abfc-748d3d956507
+    url_poster: https://api.mediux.pro/assets/faceebe9-15b0-4eff-9cc6-0a9bf3ecdc46
