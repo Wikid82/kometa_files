@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/295130-the-maze-runner-collection
-    url_background: https://image.tmdb.org/t/p/original/wpAECQsUCLPbBGn7IMiHkHqZ8l2.jpg
-    url_poster: https://theposterdb.com/api/assets/174
+    url_background: https://api.mediux.pro/assets/2031ca4e-78f1-4154-aa7b-e99468fe7a29
+    url_poster: https://api.mediux.pro/assets/bae28c29-8bcc-4066-adc5-904ab3c50959
