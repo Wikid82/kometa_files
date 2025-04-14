@@ -1,6 +1,5 @@
 metadata:
-  The Book of Boba Fett:
-    mapping_id:  393589 # TVDB id for The Book of Boba Fett. Set by willtong93 on MediUX. https://mediux.pro/sets/10485
+  393589: # TVDB id for The Book of Boba Fett. Set by willtong93 on MediUX. https://mediux.pro/sets/10485
     url_poster: https://api.mediux.pro/assets/c4b010a6-4b67-45e3-b119-bcf7e162fc49
     url_background: https://api.mediux.pro/assets/5fcb75f8-3199-4085-85db-41f81281d1d7
     seasons:
