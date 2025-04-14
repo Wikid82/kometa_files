@@ -1,6 +1,5 @@
 metadata:
-  Obi-Wan Kenobi:
-    mapping_id:  393199 # TVDB id for Obi-Wan Kenobi. Set by willtong93 on MediUX. https://mediux.pro/sets/18583
+  393199: # TVDB id for Obi-Wan Kenobi. Set by willtong93 on MediUX. https://mediux.pro/sets/18583
     url_poster: https://api.mediux.pro/assets/47619247-e856-4f2d-9460-b8f18d33d664
     url_background: https://api.mediux.pro/assets/1184a9ef-448c-4251-8b91-120e8b48b41a
     seasons:
