@@ -1,13 +1,13 @@
 metadata:
-  Rise of the Planet of the Apes:
-    mapping_id: 61791
-    url_poster: https://theposterdb.com/api/assets/97351
-  Dawn of the Planet of the Apes:
-    mapping_id: 119450
-    url_poster: https://theposterdb.com/api/assets/97352
-  War for the Planet of the Apes:
-    mapping_id: 281338
-    url_poster: https://theposterdb.com/api/assets/97353
-  Kingdom of the Planet of the Apes:
-    mapping_id: 653346
-    url_poster: https://theposterdb.com/api/assets/497549
+
+  61791: # Rise of the Planet of the Apes (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/24921
+    url_poster: https://api.mediux.pro/assets/377dae96-7923-4f09-92d5-dc80692d5c55
+
+  119450: # Dawn of the Planet of the Apes (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/24921
+    url_poster: https://api.mediux.pro/assets/ff69d8a2-4a58-42df-9920-c7faed110134
+
+  281338: # War for the Planet of the Apes (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/24921
+    url_poster: https://api.mediux.pro/assets/575083db-8869-4aa1-9014-5cfec541d3fc
+
+  653346: # Kingdom of the Planet of the Apes (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/24921
+    url_poster: https://api.mediux.pro/assets/fa946c3c-7ac3-49ba-9720-05f21d2c6fca
