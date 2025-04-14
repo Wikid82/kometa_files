@@ -1,6 +1,5 @@
 metadata:
-  The Mandalorian:
-    mapping_id:  361753 # TVDB id for The Mandalorian. Set by willtong93 on MediUX. https://mediux.pro/sets/22595
+  361753: # TVDB id for The Mandalorian. Set by willtong93 on MediUX. https://mediux.pro/sets/22595
     url_poster: https://api.mediux.pro/assets/363811a6-d513-4117-987b-8d725ad64d3d
     url_background: https://api.mediux.pro/assets/7ced0180-a8f9-4c0e-894a-4a50d28de10b
     seasons:
