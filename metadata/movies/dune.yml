@@ -1,7 +1,7 @@
 metadata:
-  Dune Part 1:
-    mapping_id: 438631
-    url_poster: https://api.mediux.pro/assets/b70d3503-42be-4d3e-9ec6-c60f929d4eb9
-  Dune Part 2:
-    mapping_id: 693134
-    url_poster: https://api.mediux.pro/assets/b5bee3b7-eda4-44b0-9600-7dc85c39f674
+
+  438631: # Dune (2021) Poster by willtong93 on MediUX. https://mediux.pro/sets/24875
+    url_poster: https://api.mediux.pro/assets/52434702-df8c-404b-8708-ad1793df6cae
+
+  693134: # Dune: Part Two (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/24875
+    url_poster: https://api.mediux.pro/assets/87435de3-1c2c-43ff-91d2-c313ab859aae

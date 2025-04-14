@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29687315
-    url_background: https://image.tmdb.org/t/p/original/fahk0Fu7VUUfK6IkTt1R3waOD9F.jpg
-    url_poster: https://api.mediux.pro/assets/faba54b0-5663-44d7-bffe-5a4012382de5
+    url_background: https://api.mediux.pro/assets/0bd9d530-beb3-4bc3-8b99-b5c1b6ee8303
+    url_poster: https://api.mediux.pro/assets/ae728d09-de4b-4ad3-ad2b-cf972099628c
