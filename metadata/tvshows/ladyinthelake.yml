@@ -1,0 +1,22 @@
+metadata:
+  398270: # TVDB id for Lady in the Lake. Set by willtong93 on MediUX. https://mediux.pro/sets/23023
+    url_poster: https://api.mediux.pro/assets/b0cac75d-8fe5-4571-b61d-21cb3435c587
+    url_background: https://api.mediux.pro/assets/eb1363cd-8605-4ec0-a55e-8e5784b2bbb5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d82e8cb3-4e3a-43b2-84e2-4a33b597773d
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8c6b3ce8-3aa0-43fe-9c35-ea3d85063eb8
+          2:
+            url_poster: https://api.mediux.pro/assets/8ffa32f7-059d-463b-af5f-c3a327fbd1f7
+          3:
+            url_poster: https://api.mediux.pro/assets/8a4a5906-38f9-4632-b6d2-3417e3069d4b
+          4:
+            url_poster: https://api.mediux.pro/assets/99b6e040-d7d5-4e61-9d7c-49a8912703c7
+          5:
+            url_poster: https://api.mediux.pro/assets/e6decec2-8515-494d-b863-3e9e76eed62f
+          6:
+            url_poster: https://api.mediux.pro/assets/7bf2784f-a440-45e5-835a-924d52e81988
+          7:
+            url_poster: https://api.mediux.pro/assets/69327f7c-c11e-4f9e-8fa9-116f8689f85b
