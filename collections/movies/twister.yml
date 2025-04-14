@@ -3,6 +3,6 @@ collections:
   Twister Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/24401589
-    url_background: https://image.tmdb.org/t/p/original/ILeuqXd0sSdXSSSYiwQHm4mgZu.jpg
-    url_poster: https://theposterdb.com/api/assets/510346
+    tmdb_collection_details: https://www.themoviedb.org/collection/1062948-twister-collection
+    url_background: https://api.mediux.pro/assets/5caf114f-b9e3-450d-aa6f-9cdfd490a8b8
+    url_poster: https://api.mediux.pro/assets/459e5671-6087-4b12-8e7a-2d3a00a7a476

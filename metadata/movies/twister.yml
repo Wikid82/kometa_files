@@ -1,7 +1,7 @@
 metadata:
-  Twister:
-    mapping_id: 664
-    url_poster: https://theposterdb.com/api/assets/510348
-  Twisters:
-    mapping_id: 718821
-    url_poster: https://theposterdb.com/api/assets/510347
+
+  664: # Twister (1996) Poster by willtong93 on MediUX. https://mediux.pro/sets/27148
+    url_poster: https://api.mediux.pro/assets/e06a96eb-87e5-40ca-b8d2-3d3ebee02306
+
+  718821: # Twisters (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/27148
+    url_poster: https://api.mediux.pro/assets/a6357b4f-5e96-4d36-bdf0-c86e62fbe8ad
