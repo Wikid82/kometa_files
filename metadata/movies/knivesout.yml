@@ -1,7 +1,7 @@
 metadata:
-  Knives Out:
-    mapping_id: 546554
-    url_poster: https://theposterdb.com/api/assets/303718
-  Glass Onion:
-    mapping_id: 661374
-    url_poster: https://theposterdb.com/api/assets/303719
+
+  546554: # Knives Out (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/26484
+    url_poster: https://api.mediux.pro/assets/fcaf8156-80e6-4b28-bf89-0ef8e2dd38c0
+
+  661374: # Glass Onion: A Knives Out Mystery (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/26484
+    url_poster: https://api.mediux.pro/assets/8fd862bf-08d0-4fae-9b19-7a2899e36769
