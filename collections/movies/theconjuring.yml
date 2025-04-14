@@ -4,5 +4,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/313086-the-conjuring-collection
-    url_background: https://image.tmdb.org/t/p/original/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg
+    url_background: https://api.mediux.pro/assets/5b1dd6b9-f43c-4289-88e3-e84d14ca1c4d
     url_poster: https://api.mediux.pro/assets/1460d6aa-1a0a-45ee-a1b0-9a72b361c18a

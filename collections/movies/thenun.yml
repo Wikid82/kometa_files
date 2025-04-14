@@ -4,5 +4,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/968052-the-nun-collection
-    url_background: https://image.tmdb.org/t/p/original/5kTs5ej0RkERYYlZdsXulXpeiYr.jpg
+    url_background: https://api.mediux.pro/assets/2a1d4eba-ef47-46b6-8be7-c11fff6bb514
     url_poster: https://api.mediux.pro/assets/c8db2a48-9180-46e8-8851-457148544ee0  
