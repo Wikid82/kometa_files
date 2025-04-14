@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
-    url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
-    url_poster: https://theposterdb.com/api/assets/29972
+    url_background: https://api.mediux.pro/assets/f0780435-97f4-48d8-88d6-8946cc7156e6
+    url_poster: https://api.mediux.pro/assets/fd241084-2a9a-496e-b422-30bd8181efe1

@@ -1,13 +1,10 @@
 metadata:
-  Olympus Has Fallen:
-    mapping_id: 117263
-    url_poster: https://theposterdb.com/api/assets/29973
-  London Has Fallen:
-    mapping_id: 267860
-    url_poster: https://theposterdb.com/api/assets/29974
-  Angel Has Fallen:
-    mapping_id: 423204
-    url_poster: https://theposterdb.com/api/assets/29975
-#  Night Has Fallen:
-#    mapping_id: 762409
-#    url_poster: 
+
+  117263: # Olympus Has Fallen (2013) Poster by willtong93 on MediUX. https://mediux.pro/sets/27770
+    url_poster: https://api.mediux.pro/assets/33d8e631-a602-472a-aa52-0ab36535d8f6
+
+  267860: # London Has Fallen (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/27770
+    url_poster: https://api.mediux.pro/assets/1327d202-df10-4b90-bf27-0f8459c30156
+
+  423204: # Angel Has Fallen (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/27770
+    url_poster: https://api.mediux.pro/assets/557f896e-3bb3-49d8-9d2d-fb0f79d22056
