@@ -1,25 +1,24 @@
 metadata:
-  The Acolyte:
-    mapping_id:  393197 # TVDB id for The Acolyte. Set by willtong93 on MediUX. https://mediux.pro/sets/22545
-    url_poster: https://api.mediux.pro/assets/138dc2c2-f59a-4bcf-bc58-0dd8947923dd
-    url_background: https://api.mediux.pro/assets/d837e33d-995f-42b4-971d-3d18e900a175
+  393197: # TVDB id for The Acolyte. Set by willtong93 on MediUX. https://mediux.pro/sets/22546
+    url_poster: https://api.mediux.pro/assets/6a808b56-965a-4a76-842b-cf539425bc82
+    url_background: https://api.mediux.pro/assets/d2b714b2-0fb7-45ba-8152-da786d81566d
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/ea6416e3-36db-47b7-bf37-2a220d1c58dd
+        url_poster: https://api.mediux.pro/assets/d58abfb5-b9d1-4927-ae41-a6f264ddae9d
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/eb5431f5-f55a-4f16-bd36-e2b4d85aa460
+            url_poster: https://api.mediux.pro/assets/7f9269de-da24-48ca-8e5e-2f8760602da4
           2:
-            url_poster: https://api.mediux.pro/assets/271458be-83af-415d-910b-b0ea73f572c7
+            url_poster: https://api.mediux.pro/assets/cce718c8-831a-4c44-b7cf-5e67fe417fc3
           3:
-            url_poster: https://api.mediux.pro/assets/511590fa-caa5-45d9-90c7-bf37ee6be840
+            url_poster: https://api.mediux.pro/assets/6387a59e-d18a-4d12-af18-488978d242a9
           4:
-            url_poster: https://api.mediux.pro/assets/a7876c6c-4802-4f3c-8687-a41c46b108bc
+            url_poster: https://api.mediux.pro/assets/ed932826-e53e-4591-9958-7b43074fd7fa
           5:
-            url_poster: https://api.mediux.pro/assets/b3788952-9213-42ff-b878-d55227116dd4
+            url_poster: https://api.mediux.pro/assets/6c9fdab3-8014-414a-bacc-31f26cb30239
           6:
-            url_poster: https://api.mediux.pro/assets/37bee814-91c2-417f-b33c-9e967911ff37
+            url_poster: https://api.mediux.pro/assets/fe7b76e3-fc67-494a-bb5b-9981f88b5a08
           7:
-            url_poster: https://api.mediux.pro/assets/6a172d08-2865-4d6a-b68d-dec963407e86
+            url_poster: https://api.mediux.pro/assets/12358b3c-c6bd-4418-bb0a-b2a3e8a8759e
           8:
-            url_poster: https://api.mediux.pro/assets/f79e84e4-63c6-4aca-afba-0ae951e749e0
+            url_poster: https://api.mediux.pro/assets/c4fc75e0-0c8e-4903-81d5-5721fa1b32f0
