@@ -1,24 +1,24 @@
 metadata:
-  446180: # TVDB id for Teacup. Set by tallinex on MediUX. https://mediux.pro/sets/26817
-    url_poster: https://api.mediux.pro/assets/4667a1f0-80ae-4f50-a922-f2a8fb4b3037
-    url_background: https://api.mediux.pro/assets/069d142b-fb06-484a-9efc-2b0efa705b44
+  446180: # TVDB id for Teacup. Set by willtong93 on MediUX. https://mediux.pro/sets/26485
+    url_poster: https://api.mediux.pro/assets/50abfead-c767-40f3-acc1-0819019e5502
+    url_background: https://api.mediux.pro/assets/cd9cf8d4-978b-43fd-a4c1-bbba6dfac2d7
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/38379739-e4c9-45ed-833c-f93030f3d189
+        url_poster: https://api.mediux.pro/assets/4c4a0fe6-c9a3-4e0d-85fc-b0423709c0a3
         episodes:
           1:
-            url_poster: https://api.mediux.pro/assets/edeed3ce-3afd-4a4c-bfcc-39661a9674d5
+            url_poster: https://api.mediux.pro/assets/94d81f38-6dc4-4448-b0c5-dbb9e1dc3ca4
           2:
-            url_poster: https://api.mediux.pro/assets/5f9eea77-e500-4c50-88d1-154942841dce
+            url_poster: https://api.mediux.pro/assets/c2929918-14ab-4b37-8447-f51ef2f29387
           3:
-            url_poster: https://api.mediux.pro/assets/c69df085-e73d-4300-b4ed-fbcc7bffb226
+            url_poster: https://api.mediux.pro/assets/5856deb4-4d4d-434e-a1c5-c812ae74a4b3
           4:
-            url_poster: https://api.mediux.pro/assets/48a1b224-acfe-4e51-9d2b-7fa364767450
+            url_poster: https://api.mediux.pro/assets/ffe39205-72e6-4411-b51a-e4e22f437a51
           5:
-            url_poster: https://api.mediux.pro/assets/5c3fae29-a181-49d5-b36c-4159651ea226
+            url_poster: https://api.mediux.pro/assets/7f23baca-643f-47dc-99ee-b155176203b4
           6:
-            url_poster: https://api.mediux.pro/assets/232b0a9c-08bb-4756-8102-e04e35380346
+            url_poster: https://api.mediux.pro/assets/8a8663ec-1e52-473b-8ba7-f6b7e81e2951
           7:
-            url_poster: https://api.mediux.pro/assets/c2b469ec-f9db-4024-950e-fc88aa11b7bd
+            url_poster: https://api.mediux.pro/assets/b87a7d2a-6d6c-42b6-acad-5bbe333b3fe4
           8:
-            url_poster: https://api.mediux.pro/assets/b2e28af5-9cd2-4199-9f64-1053853f2b37
+            url_poster: https://api.mediux.pro/assets/a786e92c-f73b-402c-b9a0-46d20330801b
