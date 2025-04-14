@@ -1,10 +1,10 @@
 metadata:
-  The Da Vinci Code:
-    mapping_id: 591
-    url_poster: https://theposterdb.com/api/assets/842
-  Angels & Demons:
-    mapping_id: 13448
-    url_poster: https://theposterdb.com/api/assets/843
-  Inferno:
-    mapping_id: 207932
-    url_poster: https://theposterdb.com/api/assets/844
+
+  591: # The Da Vinci Code (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/27687
+    url_poster: https://api.mediux.pro/assets/02a04a5e-a53f-4c01-9945-6f24b857b5a9
+
+  13448: # Angels & Demons (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/27687
+    url_poster: https://api.mediux.pro/assets/91893090-7f26-44c4-bf91-92672a2c177a
+
+  207932: # Inferno (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/27687
+    url_poster: https://api.mediux.pro/assets/5dc06132-7d3d-4fef-8c8a-2ea4ecff2c40

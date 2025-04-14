@@ -1,6 +1,6 @@
 metadata:
-  365190: # Dan Brown's The Lost Symbol
-    url_poster: https://theposterdb.com/api/assets/175838
+  365190: # TVDB id for Dan Brown's The Lost Symbol. Set by fwlolx on MediUX. https://mediux.pro/sets/14173
+    url_poster: https://api.mediux.pro/assets/37908fd6-1f6d-4f09-b3df-8ecb369b9252
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/175839
+        url_poster: https://api.mediux.pro/assets/a1f3c047-bfa6-4f9e-be24-78f09b14d855
