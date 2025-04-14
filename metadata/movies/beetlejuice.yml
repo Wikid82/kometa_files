@@ -1,9 +1,7 @@
 metadata:
-  Beetlejuice:
-    mapping_id: 4011
-    originally_available: 12/31/1992
-    url_poster: https://theposterdb.com/api/assets/494487
-  Beetlejuice Beetlejuice:
-    mapping_id: 917496
-    originally_available: 10/08/2024
-    url_poster: https://theposterdb.com/api/assets/509024
+
+  4011: # Beetlejuice (1988) Poster by willtong93 on MediUX. https://mediux.pro/sets/26966
+    url_poster: https://api.mediux.pro/assets/cdb637c6-50fd-4004-9de3-3ee0fd375f1c
+
+  917496: # Beetlejuice Beetlejuice (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/26966
+    url_poster: https://api.mediux.pro/assets/558da460-27c6-42b3-8b01-d8b22a32d192

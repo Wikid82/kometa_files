@@ -3,6 +3,6 @@ collections:
   Beetlejuice Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/23132262
-    url_background: https://image.tmdb.org/t/p/original/mNw5louI7o0fSjUD4nS7tpU85yy.jpg
-    url_poster: https://theposterdb.com/api/assets/494477
+    tmdb_collection_details: https://www.themoviedb.org/collection/945475-beetlejuice-collection
+    url_background: https://api.mediux.pro/assets/e6a89ac1-83f5-4b55-a51f-21236b41a742
+    url_poster: https://api.mediux.pro/assets/1eba2d41-5341-4915-acec-679bfc0ca9aa
