@@ -1,10 +1,10 @@
 metadata:
-  A Quiet Place:
-    mapping_id: 447332
-    url_poster: https://theposterdb.com/api/assets/511154
-  A Quiet Place II:
-    mapping_id: 520763
-    url_poster: https://theposterdb.com/api/assets/511155
-  A Quiet Place Day One:
-    mapping_id: 762441
-    url_poster: https://theposterdb.com/api/assets/511156
+
+  447332: # A Quiet Place (2018) Poster by Pejamas on MediUX. https://mediux.pro/sets/9485
+    url_poster: https://api.mediux.pro/assets/92d2df7c-48f8-42d0-884a-7f77f0d20c1b
+
+  520763: # A Quiet Place Part II (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/9485
+    url_poster: https://api.mediux.pro/assets/d321358d-7eef-4149-9884-218a2211852b
+
+  762441: # A Quiet Place: Day One (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/27599
+    url_poster: https://api.mediux.pro/assets/e9029d5d-9103-4ede-af16-31bee17538d1
