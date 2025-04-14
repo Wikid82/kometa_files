@@ -1,43 +1,40 @@
 metadata:
-  The Fast and the Furious:
-    mapping_id: 9799
-    url_poster: https://theposterdb.com/api/assets/10037
-  2 Fast 2 Furious:
-    mapping_id: 584
-    url_poster: https://theposterdb.com/api/assets/10038
-  The Fast and the Furious Tokyo Drift:
-    mapping_id: 9615
-    url_poster: https://theposterdb.com/api/assets/10039
-  Fast & Furious:
-    mapping_id: 13804
-    url_poster: https://theposterdb.com/api/assets/10040
-  Fast Five:
-    mapping_id: 51497
-    url_poster: https://theposterdb.com/api/assets/10041
-  Fast & Furious 6:
-    mapping_id: 82992
-    url_poster: https://theposterdb.com/api/assets/10042
-  Furious 7:
-    mapping_id: 168259
-    url_poster: https://theposterdb.com/api/assets/10043
-  The Fate of the Furious:
-    mapping_id: 337339
-    url_poster: https://theposterdb.com/api/assets/10044
-  F9:
-    mapping_id: 385128
-    url_poster: https://theposterdb.com/api/assets/165955
-  Fast X:
-    mapping_id: 385687
-    url_poster: https://theposterdb.com/api/assets/377686
-#  Fast X Part 2:
-#    mapping_id: 755679
-#    url_poster: https://theposterdb.com/api/assets/373081
-  Fast & Furious Presents Hobbs & Shaw:
-    mapping_id: 384018
-    url_poster: https://theposterdb.com/api/assets/47230
-  The Turbo Charged Prelude for 2 Fast 2 Furious:
-    mapping_id: 77959
-    url_poster: https://theposterdb.com/api/assets/47243
-  Los Bandoleros:
-    mapping_id: 253835
-    url_poster: https://theposterdb.com/api/assets/47244
+
+  9799: # The Fast and the Furious (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/26375
+    url_poster: https://api.mediux.pro/assets/cebc936a-2c7a-4b10-8914-f59c1d5b288c
+
+  584: # 2 Fast 2 Furious (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/26375
+    url_poster: https://api.mediux.pro/assets/6df9ee68-ebda-4d27-a699-8552d44344da
+
+  9615: # The Fast and the Furious: Tokyo Drift (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/26375
+    url_poster: https://api.mediux.pro/assets/b8837d68-6ffc-43b1-80a7-28796fed75e7
+
+  13804: # Fast & Furious (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/26375
+    url_poster: https://api.mediux.pro/assets/46dfd5e6-09b7-4634-813a-7fc507d55740
+
+  51497: # Fast Five (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/26375
+    url_poster: https://api.mediux.pro/assets/6208ff4d-7bcb-4d53-a5e9-f09e8d96dea5
+
+  82992: # Fast & Furious 6 (2013) Poster by willtong93 on MediUX. https://mediux.pro/sets/26375
+    url_poster: https://api.mediux.pro/assets/fb41ac62-010a-49b1-adc9-9eb85dd5b87a
+
+  168259: # Furious 7 (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/26375
+    url_poster: https://api.mediux.pro/assets/a7b6d487-3a56-4420-b9a6-0fdb0037eea6
+
+  337339: # The Fate of the Furious (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/26375
+    url_poster: https://api.mediux.pro/assets/9e6f0ec0-cf04-4398-bfc7-0aee2f516a85
+
+  385128: # F9 (2021) Poster by willtong93 on MediUX. https://mediux.pro/sets/26375
+    url_poster: https://api.mediux.pro/assets/24f87f46-4709-4d5d-8023-59c7ee908fa5
+
+  385687: # Fast X (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/26375
+    url_poster: https://api.mediux.pro/assets/c489ee00-a90f-4e30-ad43-17b28f1b9953
+
+  384018: # Fast & Furious Presents: Hobbs & Shaw (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/26376
+    url_poster: https://api.mediux.pro/assets/dada0c7f-b8a3-4c43-b052-ac7b68305b79
+
+  77959: # The Turbo Charged Prelude for 2 Fast 2 Furious (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/26377
+    url_poster: https://api.mediux.pro/assets/b92a2caf-15c4-486f-a652-168b691e4e2d
+
+  253835: # Los Bandoleros (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/26378
+    url_poster: https://api.mediux.pro/assets/f674438c-693e-4aeb-8ca2-eee66417743e
