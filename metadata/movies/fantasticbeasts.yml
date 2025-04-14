@@ -1,11 +1,10 @@
 metadata:
-  Fantastic Beasts And Where To Find Them:
-    mapping_id: 259316
-    url_poster: https://theposterdb.com/api/assets/34282
-  Fantastic Beasts The Crimes of Grindelwald:
-    mapping_id: 338952
-    url_poster: https://theposterdb.com/api/assets/34283
-  Fantastic Beasts The Secrets of Dumbledore:
-    mapping_id: 338953
-    url_poster: https://theposterdb.com/api/assets/234426
 
+  259316: # Fantastic Beasts and Where to Find Them (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/26318
+    url_poster: https://api.mediux.pro/assets/99b6efba-ca48-492a-82ab-b92515b91540
+
+  338952: # Fantastic Beasts: The Crimes of Grindelwald (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/26318
+    url_poster: https://api.mediux.pro/assets/e15205b9-b954-425e-a03c-a72ecb6c0cff
+
+  338953: # Fantastic Beasts: The Secrets of Dumbledore (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/26318
+    url_poster: https://api.mediux.pro/assets/82db0dae-a0e1-4b7d-b99f-fa5191d73dc0

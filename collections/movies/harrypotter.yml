@@ -2,6 +2,6 @@ collections:
   Harry Potter Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/official/harry-potter-collection
-    url_background: https://image.tmdb.org/t/p/original/4gV0rKUjB1nLUdZB4zIltLvNZZr.jpg
-    url_poster: https://theposterdb.com/api/assets/34022
+    tmdb_collection_details: https://www.themoviedb.org/collection/1241-harry-potter-collection
+    url_background: https://api.mediux.pro/assets/60da3bd6-4b1f-4729-a8b2-c4a5afada008
+    url_poster: https://api.mediux.pro/assets/fddb4374-62fa-4e29-b0bc-364215ef4280

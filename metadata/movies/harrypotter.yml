@@ -1,25 +1,25 @@
 metadata:
-  Harry Potter and the Sorcerer's Stone:
-    mapping_id: 671
-    url_poster: https://theposterdb.com/api/assets/34023
-  Harry Potter and the Chamber of Secrets:
-    mapping_id: 672
-    url_poster: https://theposterdb.com/api/assets/34024
-  Harry Potter and the Prisoner of Azkaban:
-    mapping_id: 673
-    url_poster: https://theposterdb.com/api/assets/34025
-  Harry Potter and the Goblet of Fire:
-    mapping_id: 674
-    url_poster: https://theposterdb.com/api/assets/34026
-  Harry Potter and the Order of the Phoenix:
-    mapping_id: 675
-    url_poster: https://theposterdb.com/api/assets/34027
-  Harry Potter and the Half-Blood Prince:
-    mapping_id: 767
-    url_poster: https://theposterdb.com/api/assets/34028
-  Harry Potter and the Deathly Hallows Part 1:
-    mapping_id: 12444
-    url_poster: https://theposterdb.com/api/assets/34029
-  Harry Potter and the Deathly Hallows Part 2:
-    mapping_id: 12445
-    url_poster: https://theposterdb.com/api/assets/34030
+
+  671: # Harry Potter and the Philosopher's Stone (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/599e8af2-c002-4f6e-9d35-bfb6e1618cea
+
+  672: # Harry Potter and the Chamber of Secrets (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/8826754d-8a7c-4d29-9981-03903d3886bf
+
+  673: # Harry Potter and the Prisoner of Azkaban (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/67c2106b-32b3-4be0-9c34-bd06b9bc282f
+
+  674: # Harry Potter and the Goblet of Fire (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/626112c9-4d2d-48a1-9694-3b1e7b8bd642
+
+  675: # Harry Potter and the Order of the Phoenix (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/44acab76-4b20-4a26-abef-d827ceea04a8
+
+  767: # Harry Potter and the Half-Blood Prince (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/4fbfba5e-bf6e-42a3-be67-7636a7ed844a
+
+  12444: # Harry Potter and the Deathly Hallows: Part 1 (2010) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/6a2c4755-c2fb-47b5-a0ce-3fcc9c229937
+
+  12445: # Harry Potter and the Deathly Hallows: Part 2 (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/7376d614-dd8c-412c-aae7-5930ce9ecacd

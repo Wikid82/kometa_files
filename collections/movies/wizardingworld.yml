@@ -2,8 +2,8 @@ collections:
   Wizarding World Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list:
-    - https://trakt.tv/lists/official/harry-potter-collection
-    - https://trakt.tv/lists/official/fantastic-beasts-collection
-    url_background: https://image.tmdb.org/t/p/original/xB0HJ5zxqFDvEdnSPYEqee5SEQu.jpg
-    url_poster: https://theposterdb.com/api/assets/34284
+    tmdb_collection_details:
+    - https://www.themoviedb.org/collection/1241-harry-potter-collection
+    - https://www.themoviedb.org/collection/435259-fantastic-beasts-collection
+    url_background: https://api.mediux.pro/assets/60da3bd6-4b1f-4729-a8b2-c4a5afada008
+    url_poster: https://api.mediux.pro/assets/fddb4374-62fa-4e29-b0bc-364215ef4280
