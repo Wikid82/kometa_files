@@ -1,32 +1,25 @@
 metadata:
 
-  1858: # Transformers (2007) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30344
-    url_poster: https://api.mediux.pro/assets/ccf603be-1f1e-4c0a-9e7e-5e1210d78f4f
+  1858: # Transformers (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/25230
+    url_poster: https://api.mediux.pro/assets/063aba21-8450-4272-b408-1070506159c5
 
-  8373: # Transformers: Revenge of the Fallen (2009) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30344
-    url_poster: https://api.mediux.pro/assets/dce71824-f618-463a-bf76-701589746c70
+  8373: # Transformers: Revenge of the Fallen (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/25230
+    url_poster: https://api.mediux.pro/assets/7972a674-fa3c-4205-9381-3dfb8e03837a
 
-  38356: # Transformers: Dark of the Moon (2011) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30344
-    url_poster: https://api.mediux.pro/assets/ef6c7760-ca3c-407a-9fd2-01807bcd8f5d
+  38356: # Transformers: Dark of the Moon (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/25230
+    url_poster: https://api.mediux.pro/assets/3e819de0-0164-410e-b8a6-cd230e2911eb
 
-  91314: # Transformers: Age of Extinction (2014) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30344
-    url_poster: https://api.mediux.pro/assets/a81157a4-b521-45df-9017-68a7bd1c81d3
+  91314: # Transformers: Age of Extinction (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/25230
+    url_poster: https://api.mediux.pro/assets/3e3b5316-d3b2-4f98-a3e0-956ee42949ea
 
-  335988: # Transformers: The Last Knight (2017) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30344
-    url_poster: https://api.mediux.pro/assets/88d2fc6c-d9c6-4dfc-9a3b-8ea6d4906e00
+  335988: # Transformers: The Last Knight (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/25230
+    url_poster: https://api.mediux.pro/assets/286c4fcd-2905-4ed8-bdbc-c139753903c3
 
-  424783: # Bumblebee (2018) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30345
-    url_poster: https://api.mediux.pro/assets/57f2c260-68f4-4148-9f55-cd22519b4c3b
+  424783: # Bumblebee (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/25237
+    url_poster: https://api.mediux.pro/assets/74220fd1-c2ad-4338-891a-7c11d26b7df8
 
-  667538: # Transformers: Rise of the Beasts (2023) Poster by r3draid3r04 on MediUX. https://mediux.pro/sets/30346
-    url_poster: https://api.mediux.pro/assets/c41feae4-f70f-45a5-8bcc-3baa1b3aa685
+  667538: # Transformers: Rise of the Beasts (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/25232
+    url_poster: https://api.mediux.pro/assets/062916ae-28b1-411a-9162-61bbad498c48
 
-    #  Transformers Rise of the Beasts 2:
-    #    mapping_id: 939345
-    #    url_poster: 
-    #  Transformers Rise of the Beasts 3:
-    #    mapping_id: 939347
-    #   url_poster: https://theposterdb.com/api/assets/10043
-  Transformers One:
-    mapping_id: 698687
-    url_poster: https://theposterdb.com/api/assets/537050
+  698687: # Transformers One (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/25234
+    url_poster: https://api.mediux.pro/assets/6f841076-aeac-4ee1-ad55-efc6983a4bdd
