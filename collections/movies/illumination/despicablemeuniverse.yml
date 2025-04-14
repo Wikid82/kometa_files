@@ -1,0 +1,8 @@
+---
+collections:
+  Despicable Me Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/86066-despicable-me-collection
+    url_background: https://api.mediux.pro/assets/76be3db9-09a9-46b6-a8f3-b49bb5f51857
+    url_poster: https://api.mediux.pro/assets/2aa44218-8e7d-4d90-9de0-253cb00592f3

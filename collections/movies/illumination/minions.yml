@@ -1,0 +1,7 @@
+collections:
+  Minions Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/544669-minions-collection
+    url_background: https://api.mediux.pro/assets/3e34d594-57fc-4192-b657-acece9fa48c9
+    url_poster: https://api.mediux.pro/assets/78faba85-6a69-4c8e-91d2-899ab44f081e

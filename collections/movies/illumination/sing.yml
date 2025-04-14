@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/544670-sing-collection
-    url_background: https://image.tmdb.org/t/p/original/kXJpMunIx7Uc0euaqoMH7iVKT9K.jpg
-    url_poster: https://theposterdb.com/api/assets/202717
+    url_background: https://api.mediux.pro/assets/bc2610b7-1017-41e7-8383-0d5ab6a4d0cd
+    url_poster: https://api.mediux.pro/assets/6d5e246b-8ddf-48ea-a459-a9df685d75f9
