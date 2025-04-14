@@ -3,6 +3,6 @@ collections:
   Saw Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/33
-    url_background: https://image.tmdb.org/t/p/original/gRGF3VZjfaI1YvlcwpT1emgBXRs.jpg
-    url_poster: https://theposterdb.com/api/assets/441367
+    tmdb_collection_details: https://www.themoviedb.org/collection/656-saw-collection
+    url_background: https://api.mediux.pro/assets/d76a8cab-1cf7-4e6f-b75c-885481174006
+    url_poster: https://api.mediux.pro/assets/31645fdc-516f-47b9-a8bb-b3ab61738e50

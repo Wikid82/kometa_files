@@ -1,36 +1,31 @@
 metadata:
-  Saw:
-    mapping_id: tt0387564
-    url_poster: https://theposterdb.com/api/assets/414157
-  Saw II:
-    mapping_id: tt0432348
-    url_poster: https://theposterdb.com/api/assets/414158
-  Saw III:
-    mapping_id: tt0489270
-    url_poster: https://theposterdb.com/api/assets/414159
-  Saw IV:
-    mapping_id: tt0890870
-    url_poster: https://theposterdb.com/api/assets/414160
-  Saw V:
-    mapping_id: tt1132626
-    url_poster: https://theposterdb.com/api/assets/414161
-  Saw VI:
-    mapping_id: tt1233227
-    url_poster: https://theposterdb.com/api/assets/414162
-  Saw The Final Chapter:
-    mapping_id: tt1477076
-    title: "Saw: The Final Chapter"
-    sort_title: "Saw: The Final Chapter"
-    url_poster: https://theposterdb.com/api/assets/414163
-  Jigsaw:
-    mapping_id: tt3348730
-    url_poster: https://theposterdb.com/api/assets/414164
-  Spiral:
-    mapping_id: tt10342730
-    url_poster: https://theposterdb.com/api/assets/414165
-  Saw X:
-    mapping_id: tt21807222
-    url_poster: https://theposterdb.com/api/assets/414166
-#  Saw XI:
-#    mapping_id: tt30414742
-#    url_poster: https://theposterdb.com/api/assets/507627
+
+  176: # Saw (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/26811
+    url_poster: https://api.mediux.pro/assets/be1e7269-ecb2-4b34-b7af-08c26680f43d
+
+  215: # Saw II (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/26811
+    url_poster: https://api.mediux.pro/assets/696dbe25-3100-4e98-8633-701d23a62367
+
+  214: # Saw III (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/26811
+    url_poster: https://api.mediux.pro/assets/0dd5239e-65f5-463d-b56e-652e3586fccc
+
+  663: # Saw IV (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/26811
+    url_poster: https://api.mediux.pro/assets/e641ae5c-ad11-4b6e-8ae0-607ad7d02c2f
+
+  11917: # Saw V (2008) Poster by willtong93 on MediUX. https://mediux.pro/sets/26811
+    url_poster: https://api.mediux.pro/assets/8abce7ce-3eb8-40ed-8a04-886ce9bebd47
+
+  22804: # Saw VI (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/26811
+    url_poster: https://api.mediux.pro/assets/418e53b8-e770-453b-8a47-e1495c050009
+
+  41439: # Saw 3D (2010) Poster by willtong93 on MediUX. https://mediux.pro/sets/26811
+    url_poster: https://api.mediux.pro/assets/949ebb99-b21a-461f-a233-06fed0ec5721
+
+  298250: # Jigsaw (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/26811
+    url_poster: https://api.mediux.pro/assets/11f49444-06b9-401e-97dd-814defd0333c
+
+  602734: # Spiral: From the Book of Saw (2021) Poster by willtong93 on MediUX. https://mediux.pro/sets/26811
+    url_poster: https://api.mediux.pro/assets/e9948193-d33d-4d4b-a2a5-8fb1eb6096e6
+
+  951491: # Saw X (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/26811
+    url_poster: https://api.mediux.pro/assets/cf86b97c-46d8-4100-8d68-1932907cfa93
