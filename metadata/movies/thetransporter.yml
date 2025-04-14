@@ -1,13 +1,14 @@
 metadata:
-  The Transporter:
-    mapping_id: 4108
-    url_poster: https://theposterdb.com/api/assets/796
-  Transporter 2:
-    mapping_id: 9335
-    url_poster: https://theposterdb.com/api/assets/797
-  Transporter 3:
-    mapping_id: 13387
-    url_poster: https://theposterdb.com/api/assets/798
-  The Transporter Refueled:
-    mapping_id: 287948
-    url_poster: https://theposterdb.com/api/assets/799
+
+  4108: # The Transporter (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/27503
+    url_poster: https://api.mediux.pro/assets/41602df0-b62a-4dc7-a6ee-77500fd06186
+
+  9335: # Transporter 2 (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/27503
+    url_poster: https://api.mediux.pro/assets/06dfbe57-bb80-4c29-b431-14c5a41b103a
+
+  13387: # Transporter 3 (2008) Poster by willtong93 on MediUX. https://mediux.pro/sets/27503
+    url_poster: https://api.mediux.pro/assets/2e59d3bf-8172-426e-990b-7a00c344c228
+
+  287948: # The Transporter Refueled (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/27504
+    url_poster: https://api.mediux.pro/assets/c66369cd-cd85-4a53-a592-d20a87d6bd9f
+

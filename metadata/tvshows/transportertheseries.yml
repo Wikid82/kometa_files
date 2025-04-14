@@ -1,0 +1,10 @@
+metadata:
+
+  452467: # TVDB id for Transporter The Series (2012)
+    url_poster: https://image.tmdb.org/t/p/original/1FUJ5HRPr3QVHLbTK5nSUov1QyA.jpg
+    url_background: https://image.tmdb.org/t/p/original/cF7uwwwbrqrOmh49N5E2EhpOd0T.jpg
+    seasons:
+      1:
+        url_poster: https://image.tmdb.org/t/p/original/epsYDh7LBBV8TmKWWTqnp7hCrdI.jpg
+      2:
+        url_poster: https://image.tmdb.org/t/p/original/rzVmdI8MqBMbWxVuSPZfsdZa1Js.jpg
