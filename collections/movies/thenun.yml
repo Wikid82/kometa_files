@@ -3,6 +3,6 @@ collections:
   The Nun Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/23416923
+    tmdb_collection_details: https://www.themoviedb.org/collection/968052-the-nun-collection
     url_background: https://image.tmdb.org/t/p/original/5kTs5ej0RkERYYlZdsXulXpeiYr.jpg
-    url_poster: https://theposterdb.com/api/assets/402597
+    url_poster: https://api.mediux.pro/assets/c8db2a48-9180-46e8-8851-457148544ee0  

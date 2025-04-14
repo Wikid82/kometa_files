@@ -1,7 +1,7 @@
 metadata:
-  The Nun:
-    mapping_id: 439079
-    url_poster: https://theposterdb.com/api/assets/23529
-  The Nun 2:
-    mapping_id: 968051
-    url_poster: https://theposterdb.com/api/assets/461995
+
+  439079: # The Nun (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/26984
+    url_poster: https://api.mediux.pro/assets/a8730e9d-83b9-4619-81b6-382c90070c59
+
+  968051: # The Nun II (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/26984
+    url_poster: https://api.mediux.pro/assets/7109b46d-8863-4f35-a5f6-f7b69f3b734a

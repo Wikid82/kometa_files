@@ -1,10 +1,10 @@
 metadata:
-  Annabelle:
-    mapping_id: 250546
-    url_poster: https://theposterdb.com/api/assets/23526
-  Annabelle Creation:
-    mapping_id: 521029
-    url_poster: https://theposterdb.com/api/assets/23528
-  Annabelle Comes Home:
-    mapping_id: 396422
-    url_poster: https://theposterdb.com/api/assets/23531
+
+  250546: # Annabelle (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/26983
+    url_poster: https://api.mediux.pro/assets/965d4fbd-ff37-49a7-822e-911692ead18f
+
+  396422: # Annabelle: Creation (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/26983
+    url_poster: https://api.mediux.pro/assets/9582dc48-b3a2-471e-b4ed-759b8025fc48
+
+  521029: # Annabelle Comes Home (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/26983
+    url_poster: https://api.mediux.pro/assets/d06cb40c-f677-4fb9-b91f-5a9e1b8540c5
