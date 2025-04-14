@@ -1,6 +1,5 @@
 metadata:
-  Ahsoka:
-    mapping_id: 393187 # TVDB id for Ahsoka. Set by willtong93 on MediUX. https://mediux.pro/sets/7857
+  393187: # TVDB id for Ahsoka. Set by willtong93 on MediUX. https://mediux.pro/sets/7857
     url_poster: https://api.mediux.pro/assets/e11ecd6f-1de9-448c-bc4a-501339e99692
     url_background: https://api.mediux.pro/assets/16c0dc7e-4480-44f8-a61f-7e52c42a3d13
     seasons:
