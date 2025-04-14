@@ -1,0 +1,8 @@
+---
+collections:
+  The Hunger Games Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/131635-the-hunger-games-collection
+    url_background: https://api.mediux.pro/assets/f31617fc-fd1f-4791-a155-26e7db7ed038
+    url_poster: https://api.mediux.pro/assets/f24ed2c8-820d-4637-9a09-558186d33d01
