@@ -1,22 +1,19 @@
 metadata:
-  Jurassic Park:
-    mapping_id: 329
-    url_poster: https://theposterdb.com/api/assets/7003
-  The Lost World Jurassic Park:
-    mapping_id: 330
-    url_poster: https://theposterdb.com/api/assets/7004
-  Jurassic Park III:
-    mapping_id: 331
-    url_poster: https://theposterdb.com/api/assets/7005
-  Jurassic World:
-    mapping_id: 135397
-    url_poster: https://theposterdb.com/api/assets/7006
-  Jurassic World Fallen Kingdom:
-    mapping_id: 351286
-    url_poster: https://theposterdb.com/api/assets/7007
-  Jurassic World Dominion:
-    mapping_id: 507086
-    url_poster: https://theposterdb.com/api/assets/298528
-# Jurassic World Rebirth:
-#   mapping_id: 1234821
-#   url_poster: 
+
+  329: # Jurassic Park (1993) Poster by willtong93 on MediUX. https://mediux.pro/sets/26505
+    url_poster: https://api.mediux.pro/assets/b9f67861-6ad6-45b1-9061-08a3201d4891
+
+  330: # The Lost World: Jurassic Park (1997) Poster by willtong93 on MediUX. https://mediux.pro/sets/26505
+    url_poster: https://api.mediux.pro/assets/7f654ffa-06c0-4425-8f16-311ea355014d
+
+  331: # Jurassic Park III (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/26505
+    url_poster: https://api.mediux.pro/assets/f7c9c8b4-fc25-4fa9-baa8-187ffd93648a
+
+  135397: # Jurassic World (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/26505
+    url_poster: https://api.mediux.pro/assets/ab78b587-1138-4dd9-82f8-4112235e52af
+
+  351286: # Jurassic World: Fallen Kingdom (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/26505
+    url_poster: https://api.mediux.pro/assets/5e6ed98f-1dbc-4465-bf7f-01bccb8177bc
+
+  507086: # Jurassic World Dominion (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/26505
+    url_poster: https://api.mediux.pro/assets/8250cec7-ea2c-4ba7-b83b-c01f8b7d018e
