@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/125570-300-collection
-    url_background: https://image.tmdb.org/t/p/original/t6CRIOCY6dBRG12ph7EbF1wf1Bm.jpg
-    url_poster: https://api.mediux.pro/assets/3ea9e894-386c-4522-bd42-f9e58eab8f40
+    url_background: https://api.mediux.pro/assets/0ee828bf-138d-4c88-bbd7-500d4711d1dd
+    url_poster: https://api.mediux.pro/assets/2c6cb89c-3c21-492b-94bb-9da2baacf4af
