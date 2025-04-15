@@ -3,6 +3,6 @@ collections:
   X Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://www.themoviedb.org/collection/950289-x-collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/950289-x-collection
     url_background: https://api.mediux.pro/assets/09114e61-549c-4b78-a02f-94f8020a557a
     url_poster: https://api.mediux.pro/assets/fb47fa69-5618-4549-b88f-78462d3f259f
