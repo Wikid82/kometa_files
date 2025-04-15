@@ -1,0 +1,24 @@
+metadata:
+  418727: # TVDB id for Constellation. Set by willtong93 on MediUX. https://mediux.pro/sets/13549
+    url_poster: https://api.mediux.pro/assets/14e23dfa-b258-455a-959d-c5624e661a2a
+    url_background: https://api.mediux.pro/assets/8c1b4cc8-c4c7-41f3-abf5-69299faef593
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e69443d8-5818-4ec9-a739-9caa19e1f02a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5b65484b-53c3-45b3-a442-df7e0d5ae26a
+          2:
+            url_poster: https://api.mediux.pro/assets/5fdc7ed0-a854-44fc-9371-4c1f7d8d2f80
+          3:
+            url_poster: https://api.mediux.pro/assets/247e3c92-e8d1-4ec3-b202-7e431c5a0d60
+          4:
+            url_poster: https://api.mediux.pro/assets/99f4e05b-37cf-407a-a551-c5eec3ba2a61
+          5:
+            url_poster: https://api.mediux.pro/assets/93d297a2-16ba-4e6b-ae78-1965487f80f3
+          6:
+            url_poster: https://api.mediux.pro/assets/04553c32-a950-4b19-9462-8ba5455764f9
+          7:
+            url_poster: https://api.mediux.pro/assets/e6f0063f-caf2-4156-aa40-637369579907
+          8:
+            url_poster: https://api.mediux.pro/assets/1ba7c014-718f-458f-81c0-68de77f08756
