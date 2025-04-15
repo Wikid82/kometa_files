@@ -9,6 +9,6 @@ metadata:
   271110: # Captain America: Civil War (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/24298
     url_poster: https://api.mediux.pro/assets/4d37694c-04e4-49c1-bc7f-14efabcb202a
 
-#  822119: # Captain America: Brave New World (2025) Poster by willtong93 on MediUX. https://mediux.pro/sets/24298
-#    url_poster: https://api.mediux.pro/assets/f86cd17e-7024-4121-b73b-df58f833e69f
-#    url_background: https://api.mediux.pro/assets/4df6ccbc-2726-47fb-b6a9-8249624ab15f
+  822119: # Captain America: Brave New World (2025) Poster by willtong93 on MediUX. https://mediux.pro/sets/24298
+    url_poster: https://api.mediux.pro/assets/f86cd17e-7024-4121-b73b-df58f833e69f
+    url_background: https://api.mediux.pro/assets/4df6ccbc-2726-47fb-b6a9-8249624ab15f
