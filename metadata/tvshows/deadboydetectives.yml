@@ -1,0 +1,24 @@
+metadata:
+  419024: # TVDB id for Dead Boy Detectives. Set by willtong93 on MediUX. https://mediux.pro/sets/19117
+    url_poster: https://api.mediux.pro/assets/9b2662fc-6a54-4c22-8478-6fe375f8ff73
+    url_background: https://api.mediux.pro/assets/4315e0a1-4070-4fd8-936e-f5941ae43284
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/de62935f-8f73-4620-91e3-a41c421fedb3
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/03785fd2-2e00-46ac-9c13-4fde3610b2cc
+          2:
+            url_poster: https://api.mediux.pro/assets/60575d9e-76ba-41da-9d98-638419ec9687
+          3:
+            url_poster: https://api.mediux.pro/assets/6619e323-6ca5-4593-82d9-1c84255e881a
+          4:
+            url_poster: https://api.mediux.pro/assets/bfa2bf08-9d4d-4151-be79-c3f57a509493
+          5:
+            url_poster: https://api.mediux.pro/assets/834c0dd2-9e8e-4e53-acba-43ffdbcb7fb4
+          6:
+            url_poster: https://api.mediux.pro/assets/00f5f7f1-2066-4513-8381-4927481911c3
+          7:
+            url_poster: https://api.mediux.pro/assets/c2c8e2b0-c54a-4984-9a78-a086f676fc7b
+          8:
+            url_poster: https://api.mediux.pro/assets/5a8d0c71-c9cc-4499-a2b7-0b8ba52808a6
