@@ -1,4 +1,4 @@
 metadata:
-  Blue Beetle:
-    mapping_id: 565770
-    url_poster: https://theposterdb.com/api/assets/411951
+  565770: # Blue Beetle (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/24253
+    url_poster: https://api.mediux.pro/assets/a1b302b1-879e-46ca-867f-cc509d1b555e
+    url_background: https://api.mediux.pro/assets/d9bf27f7-6ad4-45eb-a2a2-7a875f5c1e38

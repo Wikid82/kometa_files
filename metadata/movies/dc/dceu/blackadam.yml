@@ -1,4 +1,4 @@
 metadata:
-  Black Adam:
-    mapping_id: 436270
-    url_poster: https://theposterdb.com/api/assets/290218
+  436270: # Black Adam (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/24224
+    url_poster: https://api.mediux.pro/assets/39052c6b-c6d8-4cdb-9433-00e2705f2418
+    url_background: https://api.mediux.pro/assets/9cd9ebb0-4270-405f-9b8d-7a1421ceb41e

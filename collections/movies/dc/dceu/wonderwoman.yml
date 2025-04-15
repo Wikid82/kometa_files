@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/468552-wonder-woman-collection
-    url_background: https://image.tmdb.org/t/p/original/n9KlvCOBFDmSyw3BgNrkUkxMFva.jpg
-    url_poster: https://theposterdb.com/api/assets/140748
+    url_background: https://api.mediux.pro/assets/e06cfca9-f635-4c73-a2a8-ce12f6fb8f1c
+    url_poster: https://api.mediux.pro/assets/39fdb347-ba7e-441f-8d93-0e8bdd9ee8e4

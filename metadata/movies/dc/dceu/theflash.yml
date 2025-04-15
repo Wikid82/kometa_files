@@ -1,4 +1,4 @@
 metadata:
-  The Flash:
-    mapping_id: 298618
-    url_poster: https://theposterdb.com/api/assets/325497
+  298618: # The Flash (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/24228
+    url_poster: https://api.mediux.pro/assets/804f9866-3ec1-47f2-bb75-03af5d09ceb6
+    url_background: https://api.mediux.pro/assets/a0fcefcd-540f-4798-ab04-0300771bbf9e

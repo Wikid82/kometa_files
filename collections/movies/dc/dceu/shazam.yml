@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/724848-shazam-collection
-    url_background: https://image.tmdb.org/t/p/original/sk2QNb1myzybxWMmeYB8BQ8pS7u.jpg
-    url_poster: https://theposterdb.com/api/assets/370674
+    url_background: https://api.mediux.pro/assets/452e3c8a-3cdc-4980-8bcc-3026870173d7
+    url_poster: https://api.mediux.pro/assets/0dd45a18-6add-4c47-9eb4-84fecae46a85

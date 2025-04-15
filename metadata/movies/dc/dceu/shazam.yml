@@ -1,7 +1,9 @@
 metadata:
-  Shazam!:
-    mapping_id: 287947
-    url_poster: https://theposterdb.com/api/assets/140755
-  Shazam! Fury of the Gods:
-    mapping_id: 594767
-    url_poster: https://theposterdb.com/api/assets/325582
+
+  287947: # Shazam! (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/24246
+    url_poster: https://api.mediux.pro/assets/b96d46c5-7f79-450a-b6cc-499fca931574
+    url_background: https://api.mediux.pro/assets/5c9761ca-85df-441d-b165-30a04c5a0df0
+
+  594767: # Shazam! Fury of the Gods (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/24246
+    url_poster: https://api.mediux.pro/assets/c50cc276-dae8-4de5-94c5-b3ca4063fb03
+    url_background: https://api.mediux.pro/assets/d23b28e7-6a3d-4325-bfbd-f8fabbd37cb6

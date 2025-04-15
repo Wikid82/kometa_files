@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/573693-aquaman-collection
-    url_background: https://image.tmdb.org/t/p/original/rLmN1DhoOG0SFpi5FqBRSmrFdZb.jpg
-    url_poster: https://theposterdb.com/api/assets/140746
+    url_background: https://api.mediux.pro/assets/9aa80883-4d71-4e7a-b7b8-358c3ed1da7f
+    url_poster: https://api.mediux.pro/assets/14d0dfb1-6de6-4029-88e2-bd25cc886be3

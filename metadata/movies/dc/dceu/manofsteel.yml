@@ -1,4 +1,9 @@
 metadata:
-  Man of Steel:
-    mapping_id: 49521
-    url_poster: https://theposterdb.com/api/assets/140749
+
+  49521: # Man of Steel (2013) Poster by willtong93 on MediUX. https://mediux.pro/sets/24214
+    url_poster: https://api.mediux.pro/assets/2d22ecf8-c70a-41c0-9b34-f248e53412c8
+    url_background: https://api.mediux.pro/assets/06e18e92-ff59-40b9-91db-48061cc8cc4e
+
+  209112: # Batman v Superman: Dawn of Justice (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/24214
+    url_poster: https://api.mediux.pro/assets/1386ee4a-973a-4189-a56b-8163537044c5
+    url_background: https://api.mediux.pro/assets/657fadc8-e886-4f4f-adbe-07e50df76403

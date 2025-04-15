@@ -1,7 +1,4 @@
 metadata:
-  Justice League:
-    mapping_id: 141052
-    url_poster: https://theposterdb.com/api/assets/140753
-  Zack Snyder's Justice League:
-    mapping_id: 791373
-    url_poster: https://theposterdb.com/api/assets/140758
+  141052: # Justice League (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/24248
+    url_poster: https://api.mediux.pro/assets/78e73c2d-7be1-4a36-9e82-025f54c1b0d7
+    url_background: https://api.mediux.pro/assets/ed7e67c9-ee88-4c37-a31f-0617a23fc3a6

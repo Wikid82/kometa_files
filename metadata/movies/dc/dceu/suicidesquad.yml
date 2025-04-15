@@ -1,7 +1,10 @@
 metadata:
-  Suicide Squad:
-    mapping_id: 297761
-    url_poster: https://theposterdb.com/api/assets/140751
-  The Suicide Squad:
-    mapping_id: 436969
-    url_poster: https://theposterdb.com/api/assets/140759
+
+  297761: # Suicide Squad (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/24251
+    url_poster: https://api.mediux.pro/assets/f808bb4b-f02b-45da-b823-50c2297da7ac
+    url_background: https://api.mediux.pro/assets/534b0d02-d96a-49d5-9ba5-167a97e11636
+
+
+  436969: # The Suicide Squad (2021) Poster by willtong93 on MediUX. https://mediux.pro/sets/24250
+    url_poster: https://api.mediux.pro/assets/9892be18-fdaa-4f27-8065-7c12413510ed
+    url_background: https://api.mediux.pro/assets/2f8807a1-4b8e-48bd-b7df-6e433c908652

@@ -1,12 +1,6 @@
 collections:
   ZZZ DCEU Collectionless ZZZ:
-    file_poster: /config/kometa_files/collections/images/collectionless.jpg
+    file_poster: https://github.com/Wikid82/kometa_files/blob/main/collections/images/collectionless.jpg
     collection_mode: hide
     collection_order: release
-    tmdb_movie:
-    - 49521
-    - 209112
-    - 495764
-    - 436270
-    - 565770
-    - 298618
+    trakt_list: https://trakt.tv/lists/31151618

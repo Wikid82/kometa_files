@@ -1,7 +1,9 @@
 metadata:
-  Wonder Woman:
-    mapping_id: 297762
-    url_poster: https://theposterdb.com/api/assets/140752
-  Wonder Woman 1984:
-    mapping_id: 464052
-    url_poster: https://theposterdb.com/api/assets/140757
+
+  297762: # Wonder Woman (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/24247
+    url_poster: https://api.mediux.pro/assets/f367868f-7fde-41a5-a97b-f44c89b1d069
+    url_background: https://api.mediux.pro/assets/80cbcb5a-ac24-4c1d-888e-ca6cddff5c37
+
+  464052: # Wonder Woman 1984 (2020) Poster by willtong93 on MediUX. https://mediux.pro/sets/24247
+    url_poster: https://api.mediux.pro/assets/d98abad8-561f-42e4-81fc-1dbe04423c7f
+    url_background: https://api.mediux.pro/assets/be2bcefd-6c08-4610-8e45-d85b512c9573

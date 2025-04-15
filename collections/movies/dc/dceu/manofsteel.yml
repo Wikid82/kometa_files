@@ -1,0 +1,7 @@
+collections:
+  Man of Steel Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/209131-man-of-steel-collection
+    url_background: https://api.mediux.pro/assets/39249f88-5702-4da4-8065-004bc270b8d8
+    url_poster: https://api.mediux.pro/assets/1d476fee-1e28-433e-994f-de32c456af39

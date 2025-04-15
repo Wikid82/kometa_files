@@ -1,7 +1,9 @@
 metadata:
-  Aquaman:
-    mapping_id: 297802
-    url_poster: https://theposterdb.com/api/assets/140754
-  Aquaman and the Lost Kingdom:
-    mapping_id: 572802
-    url_poster: https://theposterdb.com/api/assets/393615
+
+  297802: # Aquaman (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/24222
+    url_poster: https://api.mediux.pro/assets/96e23dd4-e516-43d7-bea5-5bebc214cb1c
+    url_background: https://api.mediux.pro/assets/196515b1-c4b1-4b6e-9bbe-165baeba6016
+
+  572802: # Aquaman and the Lost Kingdom (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/24222
+    url_poster: https://api.mediux.pro/assets/e2d327fd-6992-4b35-9396-79b9354d55ad
+    url_background: https://api.mediux.pro/assets/765cf9ad-da33-4173-b456-e8e048b528b0
