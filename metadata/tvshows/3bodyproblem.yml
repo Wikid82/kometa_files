@@ -1,0 +1,24 @@
+metadata:
+  411959: # TVDB id for 3 Body Problem. Set by willtong93 on MediUX. https://mediux.pro/sets/15914
+    url_poster: https://api.mediux.pro/assets/0b8c8144-4b7f-4fce-b5a7-40f65b21385a
+    url_background: https://api.mediux.pro/assets/8c9a77ba-7db6-4a21-8275-4ef3c6e7cc58
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ad66dc95-0c81-4a45-afae-4a5bf91344f1
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/64ba0b05-78ad-4866-b20c-0af80062a6b3
+          2:
+            url_poster: https://api.mediux.pro/assets/8091d94f-b22c-4929-95f4-845530132a3a
+          3:
+            url_poster: https://api.mediux.pro/assets/f4390db5-d2d6-49a8-a0fa-1b6a5d1c3e1e
+          4:
+            url_poster: https://api.mediux.pro/assets/68b5069a-144e-47e4-83cd-57d69ec61ee3
+          5:
+            url_poster: https://api.mediux.pro/assets/f8e8ee0c-e903-48d7-811e-dcbffe3a0ace
+          6:
+            url_poster: https://api.mediux.pro/assets/dc2f1bf4-9ad6-45a8-87f7-e75469bad58a
+          7:
+            url_poster: https://api.mediux.pro/assets/42b05f5c-fab1-466b-a0e5-f5d4ef743ff3
+          8:
+            url_poster: https://api.mediux.pro/assets/59a34759-501f-4a61-aacf-e3ac43797993
