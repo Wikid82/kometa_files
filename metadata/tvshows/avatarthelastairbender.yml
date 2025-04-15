@@ -1,0 +1,24 @@
+metadata:
+  385925: # TVDB id for Avatar the Last Airbender. Set by willtong93 on MediUX. https://mediux.pro/sets/13809
+    url_poster: https://api.mediux.pro/assets/e05f4908-f09d-4b12-ae55-c6351fcab045
+    url_background: https://api.mediux.pro/assets/d677595a-75be-4d07-8a1e-1a4669aada48
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/bcf0b825-1cea-4fb2-96f4-7dc7475cdf6b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/69d4feef-f5f5-4483-880e-c270501cea4a
+          2:
+            url_poster: https://api.mediux.pro/assets/bc9011c3-5424-42c8-8d2f-a5c7364af089
+          3:
+            url_poster: https://api.mediux.pro/assets/816a47d4-b1a6-4764-9aab-9a3c6deebe59
+          4:
+            url_poster: https://api.mediux.pro/assets/c25f921a-3880-4976-886b-1613320e2c2d
+          5:
+            url_poster: https://api.mediux.pro/assets/4c2d0a6a-98e3-4ecd-8ee6-d6f0a211fc01
+          6:
+            url_poster: https://api.mediux.pro/assets/d10fa471-1c0a-4b05-96d5-2c9419e00716
+          7:
+            url_poster: https://api.mediux.pro/assets/2f8fbeee-6708-4709-8ce6-0b0a630fcbb1
+          8:
+            url_poster: https://api.mediux.pro/assets/c6cd0c91-6909-40c6-a30b-c95d869106dc
