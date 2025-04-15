@@ -3,6 +3,6 @@ collections:
   The Equalizer Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details_details: https://www.themoviedb.org/collection/523855-the-equalizer-collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/523855-the-equalizer-collection
     url_background: https://api.mediux.pro/assets/e6e8be48-c578-4477-bfcd-250cba9970ce
     url_poster: https://api.mediux.pro/assets/d4b7959c-07f2-4739-bf56-35988a3a2ac4
