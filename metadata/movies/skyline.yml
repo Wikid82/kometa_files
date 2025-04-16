@@ -1,10 +1,10 @@
 metadata:
-  Skyline:
-    mapping_id: 42684
-    url_poster: https://theposterdb.com/api/assets/187625
-  Beyond Skyline:
-    mapping_id: 271404
-    url_poster: https://theposterdb.com/api/assets/187626
-  Skylines:
-    mapping_id: 560144
-    url_poster: https://theposterdb.com/api/assets/187627
+
+  42684: # Skyline (2010) Poster by ReaperOfBurgers on MediUX. https://mediux.pro/sets/6394
+    url_poster: https://api.mediux.pro/assets/cee719fc-1089-4078-a042-6220b641d35b
+
+  271404: # Beyond Skyline (2017) Poster by ReaperOfBurgers on MediUX. https://mediux.pro/sets/6394
+    url_poster: https://api.mediux.pro/assets/11d8a493-98e4-4287-9d22-9a3851cb3c51
+
+  560144: # Skylines (2020) Poster by ReaperOfBurgers on MediUX. https://mediux.pro/sets/6394
+    url_poster: https://api.mediux.pro/assets/5e3629be-0a86-4762-930a-133c49e8d69f
