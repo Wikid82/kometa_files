@@ -1,0 +1,51 @@
+metadata:
+  350401: # TVDB id for Project Blue Book. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27603
+    url_poster: https://api.mediux.pro/assets/2155a855-2028-4acc-9910-e71f906585d0
+    url_background: https://api.mediux.pro/assets/624fb64f-1f30-4461-820b-bc942c95d160
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1ec09d31-e13d-421c-8296-a915225a9f1b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/9f85da1e-96bd-4414-a96e-ee4426f40100
+          2:
+            url_poster: https://api.mediux.pro/assets/49c8f797-2063-4186-9a03-ecce84e0118e
+          3:
+            url_poster: https://api.mediux.pro/assets/2d3c9216-1d76-4153-a5af-ecf114e7577c
+          4:
+            url_poster: https://api.mediux.pro/assets/0ae3147a-cced-4356-984c-c7f534de2a9e
+          5:
+            url_poster: https://api.mediux.pro/assets/4c712419-c0e7-4282-abac-5f08ccff7256
+          6:
+            url_poster: https://api.mediux.pro/assets/4f8d7a2a-87fc-49b8-a081-9251e1c9199e
+          7:
+            url_poster: https://api.mediux.pro/assets/e335ee0e-b8af-4bae-aeec-f7236ef758df
+          8:
+            url_poster: https://api.mediux.pro/assets/5345ca1f-68a7-4951-b60b-09cb45fc4de0
+          9:
+            url_poster: https://api.mediux.pro/assets/5ef071cb-3fb5-4d99-8eb9-d0eb0156420f
+          10:
+            url_poster: https://api.mediux.pro/assets/1d1a37fa-b755-45fe-90ca-cabf4098e76d
+      2:
+        url_poster: https://api.mediux.pro/assets/170acbe0-69ab-4df9-a5ff-35c3832bc9bc
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/06825c92-0753-44b4-82c1-081759160791
+          2:
+            url_poster: https://api.mediux.pro/assets/c50a42f5-ae67-42e1-aee7-5034296305b9
+          3:
+            url_poster: https://api.mediux.pro/assets/0b1e6b58-a621-4141-a18b-43f1f606d24e
+          4:
+            url_poster: https://api.mediux.pro/assets/5a1a729a-2157-442d-ae89-a2e62091c7bc
+          5:
+            url_poster: https://api.mediux.pro/assets/ec39675c-1905-471e-a439-261b9baee821
+          6:
+            url_poster: https://api.mediux.pro/assets/bd57285d-d445-4a85-8783-5921194c1338
+          7:
+            url_poster: https://api.mediux.pro/assets/6cb98e50-beb0-476c-a4b5-3da572472f3e
+          8:
+            url_poster: https://api.mediux.pro/assets/e8749bd6-656e-4eb0-9929-ab1378d4e496
+          9:
+            url_poster: https://api.mediux.pro/assets/dd765ada-f340-413a-8053-f0b10472415a
+          10:
+            url_poster: https://api.mediux.pro/assets/9731d461-8846-48cd-8301-0e6e8e21b62f
