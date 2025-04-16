@@ -1,6 +1,9 @@
 metadata:
-  455835: # TVDB id for Expedition Files. Set by DrWhoDalek on MediUX. https://mediux.pro/sets/29096
-    url_poster: https://api.mediux.pro/assets/294ce547-8ddc-4ebd-ba0f-c3d94e86fffc
+  455835: # TVDB id for Expedition Files. 
+    url_poster: https://image.tmdb.org/t/p/original/x2F9ugSeppR0VZIyVt82JzVJqFM.jpg
+    url_background: https://image.tmdb.org/t/p/original/26jSxLlaOdZBM8i0YWMOGO1bSSl.jpg
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/a733817b-bb37-4200-88be-10e83eca2fbf
+        url_poster: https://image.tmdb.org/t/p/original/x2F9ugSeppR0VZIyVt82JzVJqFM.jpg
+      2:
+        url_poster: https://image.tmdb.org/t/p/original/x2F9ugSeppR0VZIyVt82JzVJqFM.jpg
