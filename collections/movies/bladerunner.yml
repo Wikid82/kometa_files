@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/422837-blade-runner-collection
     url_background: https://image.tmdb.org/t/p/original/57zhlMYblPute6qb8v16ZmGSPVv.jpg
-    url_poster: https://theposterdb.com/api/assets/33980
+    url_poster: https://api.mediux.pro/assets/2aec6c80-14b6-44e7-9e9d-51bac4c452be

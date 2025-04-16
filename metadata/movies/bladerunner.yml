@@ -1,7 +1,7 @@
 metadata:
-  Blade Runner:
-    mapping_id: 78
-    url_poster: https://theposterdb.com/api/assets/33979
-  Blade Runner 2049:
-    mapping_id: 335984
-    url_poster: https://theposterdb.com/api/assets/33977
+
+  78: # Blade Runner (1982) Poster by Pejamas on MediUX. https://mediux.pro/sets/11217
+    url_poster: https://api.mediux.pro/assets/231468dc-650c-4d47-bd31-b56e8a49e9d7
+
+  335984: # Blade Runner 2049 (2017) Poster by Pejamas on MediUX. https://mediux.pro/sets/11217
+    url_poster: https://api.mediux.pro/assets/33d392a8-5dd4-43cd-85b0-e445cf955711
