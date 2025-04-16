@@ -27,3 +27,6 @@ metadata:
             url_poster: https://api.mediux.pro/assets/a32ccec9-f601-44c8-9ad3-be5a5dce5a94
       2:
         url_poster: https://api.mediux.pro/assets/1eb1a317-61bc-4b54-9497-e7f4d9a34628
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/dce80995-0f50-43ae-bc4f-baa524c33ff3
