@@ -1,11 +1,7 @@
 metadata:
-  The Boondock Saints:
-    mapping_id: 8374
-    url_poster: https://api.mediux.pro/assets/b8671381-7ba4-4e40-93a2-9ea748c87176
-  The Boondock Saints II All Saints Day:
-    mapping_id: 22821
-    url_poster: https://api.mediux.pro/assets/927dff25-1117-4778-9d72-c6d2ff0e2751
-#  The Boondock Saints III:
-#    mapping_id: 893060
-    #url_poster: 
 
+  8374: # The Boondock Saints (1999) Poster by 13slim on MediUX. https://mediux.pro/sets/9550
+    url_poster: https://api.mediux.pro/assets/b8671381-7ba4-4e40-93a2-9ea748c87176
+
+  22821: # The Boondock Saints II: All Saints Day (2009) Poster by 13slim on MediUX. https://mediux.pro/sets/9550
+    url_poster: https://api.mediux.pro/assets/927dff25-1117-4778-9d72-c6d2ff0e2751
