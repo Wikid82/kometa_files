@@ -1,0 +1,16 @@
+metadata:
+  443433: # TVDB id for Your Friends & Neighbors. Set by willtong93 on MediUX. https://mediux.pro/sets/31981
+    url_poster: https://api.mediux.pro/assets/142c5023-1de3-479d-9659-c85e60a8ce25
+    url_background: https://api.mediux.pro/assets/d12d4518-1662-4023-8ea7-b9f9668c34eb
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/c6567c1e-2689-425a-9120-9b611eee3992
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/da84c7fb-9655-4ded-b200-c9cd429a6486
+          2:
+            url_poster: https://api.mediux.pro/assets/d4b146b2-f757-4851-934e-76111f9670f5
+          3:
+            url_poster: https://api.mediux.pro/assets/6140c61f-4cb8-4a08-8094-adf8079c8a7c
+          4:
+            url_poster: https://api.mediux.pro/assets/944d1220-6deb-4deb-9fa1-b35bb5231088
