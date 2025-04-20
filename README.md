@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.buymeacoffee.com/Wikid82" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
-<p align="center">Support is not necessary, but greatly appriciated. It goes to expanding the server to test files for requests.</p>
+<p align="center">Support is not necessary, but greatly appriciated. It goes to expanding the server to test files so I can add the ability for requests.</p>
 
 <p align="center">
     <h1 align="center">KOMETA_FILES</h1>
