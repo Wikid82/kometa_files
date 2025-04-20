@@ -1,0 +1,47 @@
+metadata:
+  308771: # TVDB id for Vice Principals. Set by Parrillized on MediUX. https://mediux.pro/sets/16282
+    url_poster: https://api.mediux.pro/assets/c3bb1049-0c02-4d6a-a1e0-9cd6bee83186
+    url_background: https://api.mediux.pro/assets/c02531cd-833c-4ccd-b405-247c49b9c509
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/12776e81-9d96-47d8-bc56-43f9054152df
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/bc67e7d8-db01-489a-b420-61f1cdaa2f02
+          2:
+            url_poster: https://api.mediux.pro/assets/0617f2ef-d4f4-497e-9eb5-19093e8b1a68
+          3:
+            url_poster: https://api.mediux.pro/assets/a2fe406d-b366-4681-9db5-cf06696a4870
+          4:
+            url_poster: https://api.mediux.pro/assets/f7cb153f-ad3e-4567-802d-5d49da09b612
+          5:
+            url_poster: https://api.mediux.pro/assets/3a41ec6a-cc5b-477a-a54a-571d0f2af4e0
+          6:
+            url_poster: https://api.mediux.pro/assets/1116273f-89fc-4d52-90a6-b8944afbb13a
+          7:
+            url_poster: https://api.mediux.pro/assets/77be22f4-2654-458b-ad8f-edccbac6fa72
+          8:
+            url_poster: https://api.mediux.pro/assets/07c37f2f-2881-40ee-9cef-8a721f187878
+          9:
+            url_poster: https://api.mediux.pro/assets/2f094a6f-57b7-4f44-84c1-8883fd14c1f2
+      2:
+        url_poster: https://api.mediux.pro/assets/0bfe29bd-cdfd-4ff7-bb11-ea93926fa26c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/439dfea5-3a0f-4485-b836-49968b7398ff
+          2:
+            url_poster: https://api.mediux.pro/assets/1d249d55-1402-470e-9f7e-dc65401743f8
+          3:
+            url_poster: https://api.mediux.pro/assets/d6ded276-8150-4042-a1d7-79da6e6c910d
+          4:
+            url_poster: https://api.mediux.pro/assets/70b50276-149c-4123-b7a6-07d1d5e7c941
+          5:
+            url_poster: https://api.mediux.pro/assets/a18c36e0-50ee-4424-bbac-3510ef0001db
+          6:
+            url_poster: https://api.mediux.pro/assets/5ea980f7-53f7-4e09-8d5e-2b15e6cb880c
+          7:
+            url_poster: https://api.mediux.pro/assets/4168fff7-68d8-414d-9a42-ad949ae168b2
+          8:
+            url_poster: https://api.mediux.pro/assets/e626e547-0b57-43cf-8773-82e5564822d3
+          9:
+            url_poster: https://api.mediux.pro/assets/33029881-4148-4fe1-8e37-08e08ca71193
