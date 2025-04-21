@@ -1,0 +1,8 @@
+---
+collections:
+  Shrek Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/2150-shrek-collection
+    url_background: https://api.mediux.pro/assets/146627b6-2cd2-4be2-81ee-4537e17ecbb8
+    url_poster: https://api.mediux.pro/assets/15a7f994-cbfc-421a-b7be-45233369f683
