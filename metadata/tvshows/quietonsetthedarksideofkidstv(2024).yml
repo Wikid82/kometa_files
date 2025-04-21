@@ -1,0 +1,17 @@
+metadata:
+  445906: # TVDB id for Quiet on Set: The Dark Side of Kids TV. Set by Pejamas on MediUX. https://mediux.pro/sets/17012
+    url_poster: https://api.mediux.pro/assets/ff94ae85-1799-40af-981d-237f742bf8d4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1a23e662-100d-4a38-a936-608935125058
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/4144639f-df99-4c5b-a1cb-13bad242f20a
+          2:
+            url_poster: https://api.mediux.pro/assets/4e4de0a8-df40-4675-aaba-bf5ba0b3745a
+          3:
+            url_poster: https://api.mediux.pro/assets/d508ba2a-1617-4c24-b541-97d21d81c5e1
+          4:
+            url_poster: https://api.mediux.pro/assets/98311fe6-9095-4132-bbfe-5e2f9dfb4b7e
+          5:
+            url_poster: https://api.mediux.pro/assets/f254262a-0995-4ae5-aa0c-bb8c3e1e2c9c
