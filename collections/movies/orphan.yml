@@ -1,0 +1,7 @@
+collections:
+  Orphan Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/760193-orphan-collection
+    url_background: https://api.mediux.pro/assets/8a8800d6-2fde-4934-a3df-ebf250d2079b
+    url_poster: https://api.mediux.pro/assets/6478c805-e0a9-4298-8ae0-139ce681f53f
