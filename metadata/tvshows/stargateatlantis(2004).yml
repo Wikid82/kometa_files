@@ -1,0 +1,15 @@
+metadata:
+  70851: # TVDB id for Stargate Atlantis. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27994
+    url_poster: https://api.mediux.pro/assets/159ee105-1654-4136-a9f4-556f6864ed66
+    url_background: https://api.mediux.pro/assets/ce333b5a-1bc5-4d8a-8642-d577d71bd564
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/73941d9d-a57f-4d07-8e10-e06dfaa4693c
+      2:
+        url_poster: https://api.mediux.pro/assets/dfc0fdb2-e587-497d-805a-414fa5b3bb68
+      3:
+        url_poster: https://api.mediux.pro/assets/953d9ac8-6efa-474f-a8c7-0ba3a66bc8c6
+      4:
+        url_poster: https://api.mediux.pro/assets/5aef5df8-6d25-47b1-8f30-7857a59c0335
+      5:
+        url_poster: https://api.mediux.pro/assets/71efacac-1e0e-40b1-941e-e08af4630d4c

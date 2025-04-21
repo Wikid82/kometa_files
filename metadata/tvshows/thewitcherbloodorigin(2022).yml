@@ -1,0 +1,15 @@
+metadata:
+  399987: # TVDB id for The Witcher: Blood Origin. Set by darkwesley on MediUX. https://mediux.pro/sets/10795
+    url_poster: https://api.mediux.pro/assets/7de7b5d0-cd8d-48bb-92e7-c8bed70d104e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/484cb612-b819-47da-bb26-eaee3d2d6610
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5761378f-36e0-4e03-8380-e1db41ec6890
+          2:
+            url_poster: https://api.mediux.pro/assets/9d29c1fe-44c5-4635-a906-e027548d4fe2
+          3:
+            url_poster: https://api.mediux.pro/assets/f71f28f8-6053-47f8-a951-a0c6b450517f
+          4:
+            url_poster: https://api.mediux.pro/assets/b7be2881-c6a0-454f-a576-be5525da5da4

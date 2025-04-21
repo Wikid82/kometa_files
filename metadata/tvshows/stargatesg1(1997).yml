@@ -1,0 +1,25 @@
+metadata:
+  72449: # TVDB id for Stargate SG-1. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/8125
+    url_poster: https://api.mediux.pro/assets/256c2571-bbe2-42a4-82d7-d9063affb6a7
+    url_background: https://api.mediux.pro/assets/74e4808c-4590-42f2-acaa-58501bf689ec
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/bf7c9be1-c1e1-463d-9d48-c0cec2425420
+      2:
+        url_poster: https://api.mediux.pro/assets/b75716d9-cc05-4f89-b541-198c2a647d55
+      3:
+        url_poster: https://api.mediux.pro/assets/8020c53b-e590-4141-a43a-00eceb096efd
+      4:
+        url_poster: https://api.mediux.pro/assets/8374df11-1b7d-4105-9db6-25f13119bd7b
+      5:
+        url_poster: https://api.mediux.pro/assets/d4d48fbf-207b-4d5c-ba24-2771f947290f
+      6:
+        url_poster: https://api.mediux.pro/assets/d6d5ccbd-708e-4a69-9428-8a3102dcfefe
+      7:
+        url_poster: https://api.mediux.pro/assets/71022cb5-8900-4628-995c-b1f30f752760
+      8:
+        url_poster: https://api.mediux.pro/assets/6ac9f42c-dc2f-4ebe-bf22-cb372951726d
+      9:
+        url_poster: https://api.mediux.pro/assets/cf9b22ab-5809-473f-b9be-c35a96266f21
+      10:
+        url_poster: https://api.mediux.pro/assets/b2d07b0e-4e61-477c-b014-dab791e98a63
