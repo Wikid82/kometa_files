@@ -1,9 +1,7 @@
 metadata:
-  Rio:
-    mapping_id: 46195
-    url_poster: https://theposterdb.com/api/assets/85958
-  Rio 2:
-    mapping_id: 172385
-    url_poster: https://theposterdb.com/api/assets/85959
 
+  46195: # Rio (2011) Poster by plexstreaming on MediUX. https://mediux.pro/sets/29244
+    url_poster: https://api.mediux.pro/assets/81f5895b-83ed-4df5-99e9-56d03c67a493
 
+  172385: # Rio 2 (2014) Poster by plexstreaming on MediUX. https://mediux.pro/sets/29244
+    url_poster: https://api.mediux.pro/assets/8e955bbf-2275-4866-bedf-a6bd925ab50b

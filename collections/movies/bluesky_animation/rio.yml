@@ -3,6 +3,6 @@ collections:
   Rio Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/1352
+    tmdb_collection_details: https://www.themoviedb.org/movie/46195-rio
     url_background: https://image.tmdb.org/t/p/original/9Rgf0Lcp0bZ0ik3r93ACleL1GJp.jpg
-    url_poster: https://theposterdb.com/api/assets/293602
+    url_poster: https://api.mediux.pro/assets/5bbbb95e-6817-43d3-b8bb-83557dd25cba

@@ -1,0 +1,9 @@
+metadata:
+  83237: # TVDB id for Stargate Universe. Set by r3draid3r04 on MediUX. https://mediux.pro/sets/27827
+    url_poster: https://api.mediux.pro/assets/de7fb071-b214-4ce2-850b-4832fca20308
+    url_background: https://api.mediux.pro/assets/cb3e9d9e-4d04-4f51-9a4c-4c7ae12df966
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/fd63d0f2-6272-458f-8c76-f76edbd24614
+      2:
+        url_poster: https://api.mediux.pro/assets/4d076e65-dc2f-4ce7-bfb1-fc4ce95367d0
