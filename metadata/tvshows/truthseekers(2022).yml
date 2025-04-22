@@ -1,0 +1,9 @@
+metadata:
+  440967: # Truthseekers (2022)
+    url_poster: https://image.tmdb.org/t/p/original/aHl4YlXzmDRpnEYoVcUhgfMN9UX.jpg
+    url_background: https://image.tmdb.org/t/p/original/pmUq3JUvKb4TDFf9ApA8AHIzeYC.jpg
+    seasons:
+      1:
+        url_poster: https://image.tmdb.org/t/p/original/aHl4YlXzmDRpnEYoVcUhgfMN9UX.jpg 
+      2:
+        url_poster: https://image.tmdb.org/t/p/original/aHl4YlXzmDRpnEYoVcUhgfMN9UX.jpg
