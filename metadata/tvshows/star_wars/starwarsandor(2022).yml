@@ -1,5 +1,5 @@
 metadata:
-  393189: # TVDB id for Star Wars: Andor. Set by willtong93 on MediUX. https://mediux.pro/sets/7720
+   393189: # TVDB id for Andor. Set by willtong93 on MediUX. https://mediux.pro/sets/7720
     url_poster: https://api.mediux.pro/assets/ef16562a-3ce4-463a-adbd-c3b390f45e8f
     url_background: https://api.mediux.pro/assets/0d1e0931-52cd-43a7-8c06-d60502e703bb
     seasons:
@@ -32,3 +32,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/7ca5852b-b1ad-4120-a001-a1e9c134f73d
       2:
         url_poster: https://api.mediux.pro/assets/b2475f02-9217-4626-b0bb-b00bf720dd23
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/81b982df-1674-4014-babe-3479ae77c9db
+          2:
+            url_poster: https://api.mediux.pro/assets/bd96d865-d9e0-49dc-94bc-8fb8dbe0a744
+          3:
+            url_poster: https://api.mediux.pro/assets/f42844f9-40de-4fed-b3e4-e0cab8c56c5f
