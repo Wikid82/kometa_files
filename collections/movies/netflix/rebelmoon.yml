@@ -1,0 +1,8 @@
+---
+collections:
+  Rebel Moon Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/934765-rebel-moon-collection
+    url_background: https://api.mediux.pro/assets/31090dca-e35c-41a8-9068-2e84f0f456ac
+    url_poster: https://api.mediux.pro/assets/90d52833-a386-4c74-a963-02e9b6024942
