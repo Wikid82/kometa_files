@@ -1,0 +1,8 @@
+---
+collections:
+  Extraction Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/735127-extraction-collection
+    url_background: https://api.mediux.pro/assets/c38fb1d9-366f-46ec-ae72-1b1d82075626
+    url_poster: https://api.mediux.pro/assets/66ba05b1-31da-4595-a8fe-d58b66ee3666
