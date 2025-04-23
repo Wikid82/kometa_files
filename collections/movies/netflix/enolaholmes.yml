@@ -1,0 +1,8 @@
+---
+collections:
+  Enola Holmes Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/829314-enola-holmes-collection
+    url_background: https://api.mediux.pro/assets/43af3f51-eaca-4d65-8ef9-4bf89ac24987
+    url_poster: https://api.mediux.pro/assets/9f37143e-547b-4e2c-b531-6138a9f4bd63

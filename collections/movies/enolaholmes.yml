@@ -1,8 +1,0 @@
----
-collections:
-  Enola Holmes Collection:
-    collection_mode: hide_items
-    collection_order: release
-    trakt_list_details: https://trakt.tv/lists/21491698
-    url_background: https://image.tmdb.org/t/p/original/HScQCcEd3yucY3XYRCnkRzl7Gp.jpg
-    url_poster: https://api.mediux.pro/assets/cd82d0db-74cb-44dc-9924-3bd76ea78443
