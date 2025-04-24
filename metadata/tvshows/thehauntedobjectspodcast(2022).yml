@@ -1,71 +1,72 @@
 metadata:
   452141: # The Haunted Objects Podcast (2022) 
-    url_poster: 
-    url_background: 
+    url_poster: https://artworks.thetvdb.com/banners/v4/series/452141/posters/66901bc027f78.jpg
+    url_background: https://artworks.thetvdb.com/banners/v4/series/452141/backgrounds/66901bec16b85.jpg
     seasons:
       1:
-        url_poster: 
+        url_poster: https://artworks.thetvdb.com/banners/v4/series/452141/posters/66901bc027f78.jpg
         episodes:
           1:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-001.jpg"
           2:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-002.jpg"
           3:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-003.jpg"
           4:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-004.jpg"
           5:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-005.jpg"
           6:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-006.jpg"
           7:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-007.jpg"
           8:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-008.jpg"
           9:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-009.jpg"
           10:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-010.jpg"
           11:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-011.jpg"
           12:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-012.jpg"
           13:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-013.jpg"
           14:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-014.jpg"
           15:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-015.jpg"
           16:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-016.jpg"
           17:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-017.jpg"
           18:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-018.jpg"
           19:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-019.jpg"
       2:
-        url_poster: 
+        url_poster: https://artworks.thetvdb.com/banners/v4/series/452141/posters/66901bc027f78.jpg
         episodes:
           1:
-            url_poster: 
+           
+           file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-020.jpg"
           2:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-021.jpg"
           3:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-022.jpg"
           4:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-023.jpg"
           5:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-024.jpg"
           6:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-025.jpg"
           7:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-026.jpg"
           8:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-027.jpg"
           9:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-028.jpg"
           10:
-            url_poster: 
+            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-029.jpg"
 
 
