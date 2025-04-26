@@ -1,5 +1,5 @@
 metadata:
-  398822: # TVDB id for Poker Face. Set by willtong93 on MediUX. https://mediux.pro/sets/23331
+    398822: # TVDB id for Poker Face. Set by willtong93 on MediUX. https://mediux.pro/sets/23331
     url_poster: https://api.mediux.pro/assets/49b02f75-c36d-423c-9d03-3a5c6a13dff6
     url_background: https://api.mediux.pro/assets/0f950184-6be8-48e6-a5b7-e9195d4ed79c
     seasons:
@@ -26,3 +26,5 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8f5d7b6e-6d0c-46a9-80b3-600d03b7dd55
           10:
             url_poster: https://api.mediux.pro/assets/bc156255-bc62-4823-a565-78edd7005b0f
+      2:
+        url_poster: https://api.mediux.pro/assets/7ee8d215-1e91-4771-a52c-bf55ef3d26df
