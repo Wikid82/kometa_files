@@ -1,0 +1,7 @@
+metadata:
+  458912: # TVDB id for Alien: Earth. Set by willtong93 on MediUX. https://mediux.pro/sets/32310
+    url_poster: https://api.mediux.pro/assets/78fdc34b-9799-424d-8860-6fd71125304d
+    url_background: https://api.mediux.pro/assets/d1449b14-f351-4bd7-b709-3a05b790cb9b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/119dc16e-bc6d-451d-abbe-ec63b1dcb214
