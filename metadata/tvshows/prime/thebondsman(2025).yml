@@ -1,5 +1,4 @@
 metadata:
-
   436695: # TVDB id for The Bondsman. Set by willtong93 on MediUX. https://mediux.pro/sets/31853
     url_poster: https://api.mediux.pro/assets/0374fe89-40b5-47e6-8132-7ca780cd867f
     url_background: https://api.mediux.pro/assets/4410c80e-543a-4e61-b579-c27333a3479f
@@ -23,4 +22,3 @@ metadata:
             url_poster: https://api.mediux.pro/assets/0c0461c1-7641-405e-ba93-3b74b9fe0059
           8:
             url_poster: https://api.mediux.pro/assets/1d9e8222-b56b-42b3-a595-9b6c1fc3443a
-
