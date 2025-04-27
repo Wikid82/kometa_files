@@ -1,0 +1,28 @@
+metadata:
+  430769: # TVDB id for The Agency: Central Intelligence. Set by willtong93 on MediUX. https://mediux.pro/sets/28523
+    url_poster: https://api.mediux.pro/assets/1404dbbb-6fa7-4812-a21d-d587857d1cb3
+    url_background: https://api.mediux.pro/assets/a60cfea5-727c-4619-b031-3db57d440c91
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1da00604-7654-4571-8962-f1f5a4851879
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/cf691dfc-1e09-40a2-be83-10ccda32ed1f
+          2:
+            url_poster: https://api.mediux.pro/assets/970a413a-b405-4e73-9ff7-5843ac929859
+          3:
+            url_poster: https://api.mediux.pro/assets/93fe9330-ed12-4fea-80d2-3a6a50a83511
+          4:
+            url_poster: https://api.mediux.pro/assets/610f07f6-1c8d-49b6-9d9e-147328964f1c
+          5:
+            url_poster: https://api.mediux.pro/assets/b2e4b7f0-c74a-40c6-9774-adbfbd4ee8fc
+          6:
+            url_poster: https://api.mediux.pro/assets/1f3c4db7-59d3-446c-826a-38cf7018f630
+          7:
+            url_poster: https://api.mediux.pro/assets/b8e13399-e6c4-48ae-bb6b-c1c421f7408e
+          8:
+            url_poster: https://api.mediux.pro/assets/25d71f3e-55e2-44ba-8864-3ce28a2a40cf
+          9:
+            url_poster: https://api.mediux.pro/assets/76d8e6f7-8df3-4f20-95f5-dcd55687bac8
+          10:
+            url_poster: https://api.mediux.pro/assets/e9d56406-bcc4-4f06-a0c9-17a6d6130235
