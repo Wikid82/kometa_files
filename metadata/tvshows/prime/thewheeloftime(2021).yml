@@ -1,11 +1,23 @@
 metadata:
-
   355730: # TVDB id for The Wheel of Time. Set by willtong93 on MediUX. https://mediux.pro/sets/31348
     url_poster: https://api.mediux.pro/assets/954040fd-2989-485a-a414-67779447e5ab
     url_background: https://api.mediux.pro/assets/f3817786-4948-438a-b986-db46e3433716
     seasons:
 #      0:
 #        url_poster: https://api.mediux.pro/assets/9290ed47-486d-4ead-8a59-3ee93be3a3ee
+#        episodes:
+#          1:
+#           url_poster: https://api.mediux.pro/assets/c0d6b898-ba56-4344-bd1a-dc6511e5951d
+#          3:
+#            url_poster: https://api.mediux.pro/assets/700a7212-19ee-4d4d-aa20-38c9d0774cf6
+#          5:
+#            url_poster: https://api.mediux.pro/assets/7397634f-e004-44ec-aff8-52e22c6282b1
+#          8:
+#            url_poster: https://api.mediux.pro/assets/9df31f68-4ecf-4a0c-8cfc-7406f310fdf5
+#         11:
+#            url_poster: https://api.mediux.pro/assets/477789db-1be1-4c02-92b3-a0050f8e0d8a
+#          14:
+#            url_poster: https://api.mediux.pro/assets/9fee94b2-264b-4eb2-826a-c64178c5b97c
       1:
         url_poster: https://api.mediux.pro/assets/f202e6d5-994e-4f23-b840-9c0fdb5bdac9
         episodes:
@@ -62,4 +74,4 @@ metadata:
           7:
             url_poster: https://api.mediux.pro/assets/a4776f5f-6940-4118-91e7-fb1508c5735f
           8:
-            url_poster: https://api.mediux.pro/assets/72c3b4a0-95ff-4079-8c1b-50a95e10c131S
+            url_poster: https://api.mediux.pro/assets/72c3b4a0-95ff-4079-8c1b-50a95e10c131
