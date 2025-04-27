@@ -1,0 +1,24 @@
+metadata:
+  446144: # TVDB id for Prime Target. Set by willtong93 on MediUX. https://mediux.pro/sets/31197
+    url_poster: https://api.mediux.pro/assets/0db4602c-ccea-4662-943b-7225ab38410f
+    url_background: https://api.mediux.pro/assets/d0a3964e-0e49-423b-a326-ac3820c7654f
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/671077d1-1cb9-49a4-8626-1dc1e423f1b9
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/0fe62ac4-f2d4-45d6-bcd2-200faf7d53c4
+          2:
+            url_poster: https://api.mediux.pro/assets/aa667063-3523-4503-8965-68df1a42e5fc
+          3:
+            url_poster: https://api.mediux.pro/assets/bf58c1fc-6caf-4e15-a27a-43156bd296d5
+          4:
+            url_poster: https://api.mediux.pro/assets/58c8e808-2d38-4f08-b28d-5cd542687a07
+          5:
+            url_poster: https://api.mediux.pro/assets/762b796a-fd43-4984-9285-aaf52c64b00f
+          6:
+            url_poster: https://api.mediux.pro/assets/52536136-2343-4b31-a218-4d7ad87ef79e
+          7:
+            url_poster: https://api.mediux.pro/assets/31e19caf-b469-4a98-afe9-ffc619d3038b
+          8:
+            url_poster: https://api.mediux.pro/assets/2fdcf0a2-11bc-4218-96dd-ef2a2e28c487
