@@ -1,0 +1,24 @@
+metadata:
+  399917: # TVDB id for The Terminal List. Set by willtong93 on MediUX. https://mediux.pro/sets/6854
+    url_poster: https://api.mediux.pro/assets/4195deb1-e259-429b-8b03-4c2b052aec41
+    url_background: https://api.mediux.pro/assets/0c7441d7-c38b-4fd9-a1bc-67737637f8b4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/aa472f33-59b3-4d90-9567-c436c91e184b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/390dad49-0ec8-49ec-bd05-8826470e91fb
+          2:
+            url_poster: https://api.mediux.pro/assets/ed0c440f-f488-4cf9-94f7-22b9e89f23f0
+          3:
+            url_poster: https://api.mediux.pro/assets/8a9b8033-e7af-45a1-b11e-8cffb8c9afa6
+          4:
+            url_poster: https://api.mediux.pro/assets/cba83e21-a766-44a7-ad0c-fccfecacb893
+          5:
+            url_poster: https://api.mediux.pro/assets/10348a95-3b3f-43c4-9938-27673d662730
+          6:
+            url_poster: https://api.mediux.pro/assets/f613013b-9e37-4116-b658-fe97f6b73613
+          7:
+            url_poster: https://api.mediux.pro/assets/cd35474a-654e-4eb2-acfa-bf37e1839b27
+          8:
+            url_poster: https://api.mediux.pro/assets/56befef7-e09c-4211-816c-d9fbd57d5b28
