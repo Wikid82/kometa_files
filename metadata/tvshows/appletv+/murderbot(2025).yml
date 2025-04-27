@@ -1,0 +1,7 @@
+metadata:
+  443396: # TVDB id for Murderbot. Set by willtong93 on MediUX. https://mediux.pro/sets/32051
+    url_poster: https://api.mediux.pro/assets/a104b154-426e-4e6a-a94f-48b62eb1a4a6
+    url_background: https://api.mediux.pro/assets/176e67bf-6356-4f26-bb9b-8d189e72b080
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/2660a335-c627-4c23-97e2-570b089386b1
