@@ -1,9 +1,10 @@
 metadata:
-
   371980: # TVDB id for Severance. Set by willtong93 on MediUX. https://mediux.pro/sets/9337
     url_poster: https://api.mediux.pro/assets/3e979b29-3d58-4c58-8f90-2749af0fede2
     url_background: https://api.mediux.pro/assets/c21ba4a9-107d-4a1e-b4dc-0158d4e4443a
     seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/c8230e90-91b6-4fd4-b072-0461e0809310
       1:
         url_poster: https://api.mediux.pro/assets/f4479410-0428-4634-8056-e270585bb0f3
         episodes:
