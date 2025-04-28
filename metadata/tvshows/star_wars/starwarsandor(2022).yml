@@ -1,8 +1,10 @@
 metadata:
-   393189: # TVDB id for Andor. Set by willtong93 on MediUX. https://mediux.pro/sets/7720
+  393189: # TVDB id for Andor. Set by willtong93 on MediUX. https://mediux.pro/sets/7720
     url_poster: https://api.mediux.pro/assets/ef16562a-3ce4-463a-adbd-c3b390f45e8f
     url_background: https://api.mediux.pro/assets/0d1e0931-52cd-43a7-8c06-d60502e703bb
     seasons:
+#      0:
+#        url_poster: https://api.mediux.pro/assets/10f1fa1d-d8d3-46d2-aca4-c71a066f443d
       1:
         url_poster: https://api.mediux.pro/assets/10f13898-988b-4e6b-b585-60188e9032d2
         episodes:
