@@ -1,0 +1,24 @@
+metadata:
+  390716: # TVDB id for Dopesick. Set by willtong93 on MediUX. https://mediux.pro/sets/32382
+    url_poster: https://api.mediux.pro/assets/fcf4635d-d689-4069-a2bf-15674a601e25
+    url_background: https://api.mediux.pro/assets/7ba5fb89-d104-4ecb-a76e-86ad3b797209
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1b5e2ef1-6fed-4008-8921-27d25b9b5d2b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5ad484f1-e42a-4920-b8be-1516c240e714
+          2:
+            url_poster: https://api.mediux.pro/assets/ed4cf437-0bb2-4f13-8f6b-a4f15d523d09
+          3:
+            url_poster: https://api.mediux.pro/assets/166a2d7e-a19c-4654-9b74-bcbb3aaa7dfc
+          4:
+            url_poster: https://api.mediux.pro/assets/07597611-27f0-4a00-b934-9c871c36de2f
+          5:
+            url_poster: https://api.mediux.pro/assets/139614cc-7643-4611-8f57-f49b7271bec8
+          6:
+            url_poster: https://api.mediux.pro/assets/d8deb7ce-a3cd-4ceb-9954-365e7e1435e9
+          7:
+            url_poster: https://api.mediux.pro/assets/ab6a0ecd-420b-4710-a30f-1fb0fccba949
+          8:
+            url_poster: https://api.mediux.pro/assets/cd572514-8a57-4500-9d16-db98b5ee8271
