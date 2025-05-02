@@ -1,0 +1,61 @@
+metadata:
+  355837: # TVDB id for Sweet Tooth. Set by ChamikaNLakshan on MediUX. https://mediux.pro/sets/20888
+    url_poster: https://api.mediux.pro/assets/48476ec2-2044-4f6f-8556-6a51e02e7cbb
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/7a5deca0-42dc-4b35-a762-90a801b99599
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/2cff8380-b24c-4dc6-8972-b40b7beadc52
+          2:
+            url_poster: https://api.mediux.pro/assets/73ec5a26-44bb-45d6-8b6c-1bf09259a9f0
+          3:
+            url_poster: https://api.mediux.pro/assets/8bb6a4dd-cccb-44e0-9241-659b85b7ab84
+          4:
+            url_poster: https://api.mediux.pro/assets/d55cc708-00cb-45d8-8a36-89e88bb5e333
+          5:
+            url_poster: https://api.mediux.pro/assets/6eb659ef-ed0b-446a-943b-58f418f55225
+          6:
+            url_poster: https://api.mediux.pro/assets/fd2b5272-a45c-4c15-9bbd-7df872b07751
+          7:
+            url_poster: https://api.mediux.pro/assets/08a8001b-df88-4c99-a234-454afafd8967
+          8:
+            url_poster: https://api.mediux.pro/assets/8aac3ce8-7e49-4bca-b385-2b46ffafea23
+      2:
+        url_poster: https://api.mediux.pro/assets/696492ac-1ab2-4bf6-8815-73921031590a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/2264494e-9115-4370-bd61-833b8c7bc095
+          2:
+            url_poster: https://api.mediux.pro/assets/ed1be7d9-85ab-4e27-a58c-a353fc8431c6
+          3:
+            url_poster: https://api.mediux.pro/assets/1e73250b-dee7-452f-b8f2-cdb728e59be1
+          4:
+            url_poster: https://api.mediux.pro/assets/2ff40774-2bfd-43e6-870e-867a9f51828c
+          5:
+            url_poster: https://api.mediux.pro/assets/b7c0379b-2f52-4c3e-b0d6-948778aaa83f
+          6:
+            url_poster: https://api.mediux.pro/assets/86637c99-f389-49d6-98e2-06358d0fee4c
+          7:
+            url_poster: https://api.mediux.pro/assets/9312a4cc-73a7-406b-8dbb-36db8602eab9
+          8:
+            url_poster: https://api.mediux.pro/assets/e2747e26-1e7a-4bb3-a3a4-0120bb15ee0e
+      3:
+        url_poster: https://api.mediux.pro/assets/d4238f30-c005-491a-bb55-1c39c314f4d8
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/21fd0304-d257-4abe-96d3-8cd3ce2a0e3f
+          2:
+            url_poster: https://api.mediux.pro/assets/bf8a8ebf-1ee2-4d13-91dd-68121ac1ab96
+          3:
+            url_poster: https://api.mediux.pro/assets/f17cfa50-76eb-49ac-9ebc-f0a80ccfc773
+          4:
+            url_poster: https://api.mediux.pro/assets/72112875-b454-436c-8e4c-30ca831b30a0
+          5:
+            url_poster: https://api.mediux.pro/assets/964bbf00-efae-4eed-8d76-21ef326503b4
+          6:
+            url_poster: https://api.mediux.pro/assets/7d02b5f7-14e5-42e8-b7ac-45e275000064
+          7:
+            url_poster: https://api.mediux.pro/assets/ff00deff-a521-44f0-8fd1-461a7531711b
+          8:
+            url_poster: https://api.mediux.pro/assets/13359e05-fab4-4611-bd5e-c2022cc0069f
