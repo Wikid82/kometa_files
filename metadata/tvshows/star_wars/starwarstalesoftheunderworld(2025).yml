@@ -1,0 +1,20 @@
+metadata:
+  462199: # TVDB id for Star Wars: Tales of the Underworld. Set by willtong93 on MediUX. https://mediux.pro/sets/32646
+    url_poster: https://api.mediux.pro/assets/f1103d04-1694-401b-9959-badac2398d7c
+    url_background: https://api.mediux.pro/assets/976674bc-3187-4372-a286-5511b7fdb22b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d37e574f-45aa-4f5f-95fa-8cd14053dcef
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/d359c85d-6f42-4305-8a52-e9de928dd0e3
+          2:
+            url_poster: https://api.mediux.pro/assets/c647c7a6-3d25-4022-906a-01719708a369
+          3:
+            url_poster: https://api.mediux.pro/assets/07ce88b4-c7ee-4851-858b-9b0b071e5495
+          4:
+            url_poster: https://api.mediux.pro/assets/b4de4347-902f-48b4-9667-eebfb53e4002
+          5:
+            url_poster: https://api.mediux.pro/assets/ae23a2e8-8bff-4957-b6a5-d5f5109db71e
+          6:
+            url_poster: https://api.mediux.pro/assets/7187c1f1-18b8-40c1-abab-34a63a3e5193
