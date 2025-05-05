@@ -1,16 +1,16 @@
 metadata:
-  Ghostbusters:
-    mapping_id: 620
-    url_poster: https://theposterdb.com/api/assets/203164
-  Ghostbusters 2:
-    mapping_id: 2978
-    url_poster: https://theposterdb.com/api/assets/203165
-  Ghostbusters (2016):
-    mapping_id: 43074
-    url_poster: https://theposterdb.com/api/assets/203166
-  Ghostbusters Afterlife:
-    mapping_id: 425909
-    url_poster: https://theposterdb.com/api/assets/203167
-  Ghostbusters Frozen Empire:
-    mapping_id: 967847
-    url_poster: https://theposterdb.com/api/assets/475587
+
+  620: # Ghostbusters (1984) Poster by willtong93 on MediUX. https://mediux.pro/sets/32655
+    url_poster: https://api.mediux.pro/assets/a5a9a9c1-3cc6-4f62-ae2a-b5835b06bb13
+
+  2978: # Ghostbusters II (1989) Poster by willtong93 on MediUX. https://mediux.pro/sets/32655
+    url_poster: https://api.mediux.pro/assets/3f7833d3-8153-4ec0-bf6f-c8329a872e7d
+  
+  43074: # Ghostbusters (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/32657
+    url_poster: https://api.mediux.pro/assets/098206dd-577d-451e-ad5c-67135ebdf9a2
+
+  425909: # Ghostbusters: Afterlife (2021) Poster by willtong93 on MediUX. https://mediux.pro/sets/32655
+    url_poster: https://api.mediux.pro/assets/5a9379c1-fdd4-4705-95e4-347bf2b874b5
+
+  967847: # Ghostbusters: Frozen Empire (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/32655
+    url_poster: https://api.mediux.pro/assets/3d24ee9a-d0c0-4d6b-9783-694d5f1bd844
