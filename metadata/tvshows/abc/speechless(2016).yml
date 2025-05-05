@@ -1,0 +1,11 @@
+metadata:
+  311875: # Speechless (2016)
+    url_poster: https://image.tmdb.org/t/p/original/ncQF98XoCH1DgfZwCs9VeDEwzbV.jpg
+    url_background: https://image.tmdb.org/t/p/original/9mkO8dSz5JYNmhssRAgFyKFtgTY.jpg
+    seasons:
+      01:
+        url_poster: https://image.tmdb.org/t/p/original/ahtpNG7PD5wv9HqkHuAi7MfH5Xz.jpg
+      02:
+        url_poster: https://image.tmdb.org/t/p/original/qrbZAVNsiapSAR1mmffxRhIk1gP.jpg
+      03:
+        url_poster: https://image.tmdb.org/t/p/original/wsWZFrkFYMdAoj3MicOfE4TVHhv.jpg
