@@ -2,6 +2,6 @@ collections:
   Anaconda Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/movie/9360-anaconda
+    tmdb_collection_details: https://www.themoviedb.org/collection/105995-anaconda-collection
     url_background: https://api.mediux.pro/assets/bce87185-63e0-4668-8965-c26e8d2b2278
     url_poster: https://api.mediux.pro/assets/5d6d8431-0ebb-4f29-b5c9-d263b9c348c9
