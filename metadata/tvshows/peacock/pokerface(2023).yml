@@ -26,5 +26,12 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8f5d7b6e-6d0c-46a9-80b3-600d03b7dd55
           10:
             url_poster: https://api.mediux.pro/assets/bc156255-bc62-4823-a565-78edd7005b0f
-#      2:
-#        url_poster: https://api.mediux.pro/assets/7ee8d215-1e91-4771-a52c-bf55ef3d26df
+      2:
+        url_poster: https://api.mediux.pro/assets/7ee8d215-1e91-4771-a52c-bf55ef3d26df
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/a40b4396-afe0-4f7c-8b7c-24fa78c8385c
+          2:
+            url_poster: https://api.mediux.pro/assets/fcfc6286-4ee8-4547-9827-79bffca5fa8f
+          3:
+            url_poster: https://api.mediux.pro/assets/fe37e549-f0cc-4e96-8b8b-1f47f1c20308
