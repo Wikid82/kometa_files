@@ -1,7 +1,27 @@
 metadata:
-
-  366532: # TVDB id for Twisted Metal. Set by fwlolx on MediUX. https://mediux.pro/sets/11048
-    url_poster: https://api.mediux.pro/assets/3c9fbe08-3e4f-49e0-b4d0-ecdd8e60520f
+  366532: # TVDB id for Twisted Metal. Set by cuball on MediUX. https://mediux.pro/sets/32807
+    url_poster: https://api.mediux.pro/assets/4e65bcb8-1849-409e-95ac-f6e88950328e
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/3fcdf7c4-56e1-40c1-8410-df6a79dfe869
+        url_poster: https://api.mediux.pro/assets/0e1eb412-a5bc-4c5e-935a-695ff50907ec
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c92a8aa0-d238-4bcc-a40a-3961ee778f4c
+          2:
+            url_poster: https://api.mediux.pro/assets/37d589fa-1313-4678-bcbe-9263bda84872
+          3:
+            url_poster: https://api.mediux.pro/assets/a15e47a8-c340-460b-9ff6-94bd0644728e
+          4:
+            url_poster: https://api.mediux.pro/assets/7cafe61d-b711-4d26-9270-87168a0263c5
+          5:
+            url_poster: https://api.mediux.pro/assets/62dc2152-180d-4c74-ad5e-dae83c83fa41
+          6:
+            url_poster: https://api.mediux.pro/assets/c64e530c-8da6-4535-8f97-510598af0add
+          7:
+            url_poster: https://api.mediux.pro/assets/28f0487e-f386-41ff-9d00-b15139ce2392
+          8:
+            url_poster: https://api.mediux.pro/assets/2238e106-bea9-462c-a772-e6b28841a30d
+          9:
+            url_poster: https://api.mediux.pro/assets/858c4c77-08e4-4e7a-af3c-06770ff66730
+          10:
+            url_poster: https://api.mediux.pro/assets/51e335de-f34a-4a43-921e-3d23ab3e97fd
