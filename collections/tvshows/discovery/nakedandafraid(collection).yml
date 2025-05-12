@@ -5,4 +5,4 @@ collections:
     sync_mode: sync
     trakt_list_details: https://trakt.tv/lists/29533025
     url_background: https://api.mediux.pro/assets/d659f108-cb8e-4379-8fc9-7822b65be12a
-    url_poster: /config/kometa_files/collections/images/nakedandafraid.png
+    file_poster: /config/kometa_files/collections/images/nakedandafraidcollection.png
