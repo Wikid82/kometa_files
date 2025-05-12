@@ -1,0 +1,43 @@
+metadata:
+  270693: # TVDB id for Naked and Afraid. Set by Wikid82 on MediUX. https://mediux.pro/sets/32926
+    url_poster: https://api.mediux.pro/assets/c1c2271b-eec7-48f8-b1ac-06396b35fa6e
+    url_background: https://api.mediux.pro/assets/d659f108-cb8e-4379-8fc9-7822b65be12a
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/d4652cbe-8822-4f48-82c5-6a2181611183
+      1:
+        url_poster: https://api.mediux.pro/assets/e6f3ff3a-004a-4301-b570-26cd7278528e
+      2:
+        url_poster: https://api.mediux.pro/assets/63b1a218-585d-4b09-89e9-de3cc0639836
+      3:
+        url_poster: https://api.mediux.pro/assets/c2c5473c-308e-4dd3-b207-a5e94775620e
+      4:
+        url_poster: https://api.mediux.pro/assets/db21c493-4b33-4842-8855-7a3556d856a4
+      5:
+        url_poster: https://api.mediux.pro/assets/482ebab7-8b05-4824-ae31-0db4340e9897
+      6:
+        url_poster: https://api.mediux.pro/assets/e4599496-6f9b-4b59-bbbc-0f71c5ddab32
+      7:
+        url_poster: https://api.mediux.pro/assets/cf2984f3-c5fa-4626-9aa2-6e75a01c9c77
+      8:
+        url_poster: https://api.mediux.pro/assets/ccf219c4-91ab-4144-9cc2-54c78e9c6910
+      9:
+        url_poster: https://api.mediux.pro/assets/46f513c0-9113-4c9e-a1cd-c758da499aa4
+      10:
+        url_poster: https://api.mediux.pro/assets/42c6f985-d4f9-4b02-8bd0-ad8e52ed98f4
+      11:
+        url_poster: https://api.mediux.pro/assets/1bbe8abb-01fa-466c-aa0f-3a9687878b57
+      12:
+        url_poster: https://api.mediux.pro/assets/354f5979-712c-4933-aa54-986416b4459a
+      13:
+        url_poster: https://api.mediux.pro/assets/0648194a-c859-485e-a7fe-09f04f0d63d3
+      14:
+        url_poster: https://api.mediux.pro/assets/a2bb3502-506d-4a6e-b764-afef3178ec4f
+      15:
+        url_poster: https://api.mediux.pro/assets/7de9f20e-38bb-4794-8110-699b6502fcb1
+      16:
+        url_poster: https://api.mediux.pro/assets/68a21b5c-4efd-4e5c-bba1-ccf4a9e80faf
+      17:
+        url_poster: https://api.mediux.pro/assets/03f46585-cadf-4d88-883d-3f720fa11d45
+      18:
+        url_poster: https://api.mediux.pro/assets/66b8167f-c86c-41ba-8782-4db93a1ab6bb
