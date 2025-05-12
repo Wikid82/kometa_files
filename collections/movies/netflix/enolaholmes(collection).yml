@@ -1,8 +1,8 @@
 ---
 collections:
-  Enola Holmes Collection:
+  Enola Holmes Collection: # Enola Holmes Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/32951
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/829314-enola-holmes-collection
-    url_background: https://api.mediux.pro/assets/43af3f51-eaca-4d65-8ef9-4bf89ac24987
-    url_poster: https://api.mediux.pro/assets/9f37143e-547b-4e2c-b531-6138a9f4bd63
+    url_background: https://api.mediux.pro/assets/f8dd985e-d757-4ac1-b86e-42167e2ba64e
+    url_poster: https://api.mediux.pro/assets/3b193778-ee07-4505-b132-f0bd4ec62c8e
