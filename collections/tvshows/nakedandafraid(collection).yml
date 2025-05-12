@@ -1,8 +1,0 @@
----
-collections:
-  Naked and Afraid Collection:
-    collection_order: release.asc
-    sync_mode: sync
-    trakt_list_details: https://trakt.tv/lists/29533025
-    url_background: https://image.tmdb.org/t/p/original/92nx3yNRsDaxLNBj95UZ1cQEMjv.jpg
-    url_poster: https://theposterdb.com/api/assets/326122
