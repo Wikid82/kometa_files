@@ -9,31 +9,32 @@ external_templates:
   default: templates
   template_variables:
     default:
-      text_<<key>>: <<overlay_name>>
-      horizontal_align: left
-      vertical_align: bottom
-    conditionals:
-      vertical_offset:
-        default: 15
-        conditions:
-          - vertical_align: center
-            value: 0
-          - vertical_align: top
-            value: 15
-          - vertical_align: bottom
-            value: 30
-      horizontal_offset:
-        default: 15
-        conditions:
-          - horizontal_align: center
-            value: 0
-          - horizontal_align: [left, right]
-            value: 15
-    group: quality
-    back_color: "#00000099"
+      key: <<overlay_name>>
+    horizontal_offset: 15
+    horizontal_align: left
+    vertical_offset: 270
+    vertical_align: bottom
     back_width: 305
     back_height: 105
-    final_name: text(<<text_<<key>>>>)
+    back_radius: 30
+    back_color: '#00000099'
+    conditionals:
+      inside_color:
+        default: "c"
+        conditions:
+          - color: false
+            value: ""
+      default:
+        conditions:
+          - file.exists: false
+            file_<<key>>.exists: false
+            url.exists: false
+            url_<<key>>.exists: false
+            git.exists: false
+            git_<<key>>.exists: false
+            repo.exists: false
+            repo_<<key>>.exists: false
+            value: cr/us<<overlay_name>><<inside_color>>
 
 templates:
   cr_us:
