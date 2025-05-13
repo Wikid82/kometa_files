@@ -12,7 +12,7 @@ external_templates:
       key: <<overlay_name>>
     horizontal_offset: 15
     horizontal_align: left
-    vertical_offset: 270
+    vertical_offset: 0
     vertical_align: bottom
     back_width: 305
     back_height: 105
@@ -70,7 +70,7 @@ overlays:
       - name: standard
       - {name: cr_us, rating: "NC-17, gb/R18, gb/X, R18, X, Rx - Hentai"}
 
-  nr:
-    template:
-      - {name: standard, key: nr}
-      - {name: cr_us, rating: "None, NR, Not Rated, Unrated"}
+# nr:
+#    template:
+#      - {name: standard, key: nr}
+#      - {name: cr_us, rating: "None, NR, Not Rated, Unrated"}
