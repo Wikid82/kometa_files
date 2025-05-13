@@ -47,7 +47,7 @@ Table of Contents
 
 ## 📍 Overview
 
-<code>❯ When I found Kometa, I also found myself coding files more than actually watching the media I have on my server. Spend less time coding them yourself. Kometa_Files is my repository for premade, properly mapped, Kometa Files. The individual files make it possible to pick and choose the ones you'd like, or use them all. </code>
+<code>❯ My files' artwork are based on the positioning of the overlays I use. You may prefer different overlays in different positions. Feel free to use these files as a template. Just replace the image urls with your prefered links. See you in the rabbit hole!  </code>
 
 ---
 
@@ -101,7 +101,7 @@ In your Kometa config file add:
     collection_files:
     - folder: /config/collections/tvshows
     overlay_files:
-    - folder: /config/overlays/tvshows
+    - folder: /config/overlays/tvs
 ```
 ```
  playlist_files:
