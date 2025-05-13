@@ -70,7 +70,7 @@ overlays:
       - name: standard
       - {name: cr_us, rating: "NC-17, gb/R18, gb/X, R18, X, Rx - Hentai"}
 
-# nr:
-#    template:
-#      - {name: standard, key: nr}
-#      - {name: cr_us, rating: "None, NR, Not Rated, Unrated"}
+  nr:
+    template:
+      - {name: standard, key: nr}
+      - {name: cr_us, rating: "None, NR, Not Rated, Unrated"}
