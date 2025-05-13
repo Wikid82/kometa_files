@@ -70,6 +70,9 @@ Table of Contents
     ├── metadata
     │   ├── movies
     │   └── tvshows
+    ├── overlays
+    │   ├── movies
+    │   └── tvshows
     └── playlists
 ```
 
