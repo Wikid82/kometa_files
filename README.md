@@ -91,6 +91,8 @@ In your Kometa config file add:
     - folder: /config/metadata/movies
     collection_files:
     - folder: /config/collections/movies
+    overlay_files:
+    - folder: /config/overlays/movies
 ```
 ```
   TV Shows:
@@ -98,6 +100,8 @@ In your Kometa config file add:
     - folder: /config/metadata/tvshows
     collection_files:
     - folder: /config/collections/tvshows
+    overlay_files:
+    - folder: /config/overlays/tvshows
 ```
 ```
  playlist_files:
