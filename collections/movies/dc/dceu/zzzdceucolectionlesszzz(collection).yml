@@ -1,6 +1,0 @@
-collections:
-  ZZZ DCEU Collectionless ZZZ:
-    file_poster: /config/kometa_files/collections/images/collectionless.jpg
-    collection_mode: hide
-    collection_order: release
-    trakt_list: https://trakt.tv/lists/31151618
