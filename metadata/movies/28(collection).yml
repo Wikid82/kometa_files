@@ -1,7 +1,9 @@
 metadata:
 
-  170: # 28 Days Later (2002) Poster by Hikari on MediUX. https://mediux.pro/sets/28080
-    url_poster: https://api.mediux.pro/assets/8b2989d0-7a6c-4feb-be24-0f0b8037db1e
+  170: # 28 Days Later (2002) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33087
+    url_poster: https://api.mediux.pro/assets/cc72dc16-6546-4c58-9e81-31cb1f09622e
+    url_background: https://api.mediux.pro/assets/e41fee59-318e-4c70-b0ed-4b948d3beb4a
 
-  1562: # 28 Weeks Later (2007) Poster by Hikari on MediUX. https://mediux.pro/sets/28080
-    url_poster: https://api.mediux.pro/assets/76543449-b45b-4d0c-a3d5-179136e4a427
+  1562: # 28 Weeks Later (2007) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33087
+    url_poster: https://api.mediux.pro/assets/8087ff67-bb2f-47fa-ad30-893aa80c3af5
+    url_background: https://api.mediux.pro/assets/4153ee6d-4e3b-4f71-9cd9-9f226b350389
