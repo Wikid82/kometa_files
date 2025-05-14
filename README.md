@@ -13,7 +13,9 @@
 </p>
 <p align="center">
 	<a href="https://kometa.wiki/en/latest/" title="Kometa">
-		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="60" height="60"></a>
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="80" height="80"></a>
+
+<br>
 	<a href="https://mediux.pro/" title="MediUX">
 	<img src="https://mediux.pro/mediux.svg" width="60" height="60"></a>
  
