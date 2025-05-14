@@ -14,23 +14,28 @@
 <p align="center">
 	<a href="https://kometa.wiki/en/latest/" title="Kometa">
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png" width="60" height="60"></a>
-	<a href="https://radarr.video" title="Radarr">
+	<a href="https://mediux.pro/" title="MediUX">
+	<img src="https://mediux.pro/mediux.svg" width="60" height="60"></a>
+ 
+  <a href="https://www.themoviedb.org/" title="TMDB">
+	<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tmdb.svg" width="60" height="60"></a>
+  
+  <a href="https://radarr.video" title="Radarr">
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/radarr.svg" width="60" height="60"></a>
 	<a href="https://sonarr.tv" title="Sonarr">
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarr.svg" width="60" height="60"></a>
-  <a href="https://trakt.tv">
- 	<a href="https://www.themoviedb.org/" title="TMDB">
-	<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tmdb.svg" width="60" height="60"></a>
+
+<br>
+
   <a href="https://www.thetvdb.com" title="TVDB">
-	<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tvdb.svg" width="60" height="60"></a>
+	<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tvdb.svg" width="40" height="40"></a>
  	<a href="https://trakt.tv/" title="Trakt">   
-  <img src="https://trakt.tv/assets/logos/logomark.square.gradient-b644b16c38ff775861b4b1f58c1230f6a097a2466ab33ae00445a505c33fcb91.svg" width="60" height="60"></a>
-	<a href="https://mediux.pro/" title="MediUX">
-	<img src="https://mediux.pro/mediux.svg" width="60" height="60"></a>
+   <a href="https://trakt.tv"><img src="https://trakt.tv/assets/logos/logomark.square.gradient-b644b16c38ff775861b4b1f58c1230f6a097a2466ab33ae00445a505c33fcb91.svg" width="40" height="40"></a>
+
   <a href="https://theposterdb.com" title="ThePosterDB">
-	<img src="https://theposterdb.com/assets/logos/icon/color.svg" width="60" height="60"></a>
+	<img src="https://theposterdb.com/assets/logos/icon/color.svg" width="40" height="40"></a>
   <a href="https://fanart.tv/" title="FanArt">
-	<img src="https://github.com/Wikid82/kometa_files/blob/main/readmeimages/fanart.png?raw=true" width="60" height="60"></a>
+	<img src="https://github.com/Wikid82/kometa_files/blob/main/readmeimages/fanart.png?raw=true" width="40" height="40"></a>
 
 
 <br>
