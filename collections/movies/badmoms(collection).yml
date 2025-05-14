@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/487376-bad-moms-collection
-    url_background: https://image.tmdb.org/t/p/original/4jZkEwRWYavVbPju2vt5pdcMXhG.jpg
-    url_poster: https://theposterdb.com/api/assets/52275
+    url_background: https://api.mediux.pro/assets/2176dc87-f9fa-4401-bb18-dbc9d5e8cc1d
+    url_poster: https://api.mediux.pro/assets/2176dc87-f9fa-4401-bb18-dbc9d5e8cc1d
