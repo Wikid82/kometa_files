@@ -1,10 +1,13 @@
 metadata:
-  Anchorman The Legend of Ron Burgundy:
-    mapping_id: 8699
-    url_poster: https://theposterdb.com/api/assets/13974
-  Anchorman 2 The Legend Continues:
-    mapping_id: 109443
-    url_poster: https://theposterdb.com/api/assets/13975
-  Wake Up, Ron Burgundy The Lost Movie:
-    mapping_id: 9965
-    url_poster: https://theposterdb.com/api/assets/14102
+
+  8699: # Anchorman: The Legend of Ron Burgundy (2004) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33085
+    url_poster: https://api.mediux.pro/assets/6edec53d-a066-44c8-ba9d-d6911a0b245b
+    url_background: https://api.mediux.pro/assets/08851ec3-715c-44f6-8911-47dfa477042c
+
+  9965: # Wake Up, Ron Burgundy: The Lost Movie (2004) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33086
+    url_poster: https://api.mediux.pro/assets/5fe89d41-2785-452e-baf3-9a6df1402c4c
+    url_background: https://api.mediux.pro/assets/48ca488c-b2ee-4ad2-8bdb-97f3f3e82777
+
+  109443: # Anchorman 2: The Legend Continues (2013) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33085
+    url_poster: https://api.mediux.pro/assets/b65f266f-f2b0-4f10-9101-3e418f6ab470
+    url_background: https://api.mediux.pro/assets/62449a22-afac-4bbc-b5ef-856e01f9a52d
