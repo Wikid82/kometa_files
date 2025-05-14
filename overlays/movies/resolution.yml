@@ -154,7 +154,7 @@ external_templates:
             value: resolution
     horizontal_offset: 15
     vertical_offset: 15
-    horizontal_align: left
+    horizontal_align: center
     vertical_align: top
 
 templates:
