@@ -36,7 +36,7 @@
 
   <a href="https://theposterdb.com" title="ThePosterDB">
 	<img src="https://theposterdb.com/assets/logos/icon/color.svg" width="40" height="40"></a>
-  <a href="https://fanart.tv/" title="FanArt">
+  <a href="https://fanart.tv/" title="FanArt.tv">
 	<img src="https://github.com/Wikid82/kometa_files/blob/main/readmeimages/fanart.png?raw=true" width="40" height="40"></a>
 
 
