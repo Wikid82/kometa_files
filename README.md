@@ -19,15 +19,15 @@
  
   <a href="https://www.themoviedb.org/" title="TMDB">
 	<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tmdb.svg" width="60" height="60"></a>
-  
-  <a href="https://radarr.video" title="Radarr">
-		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/radarr.svg" width="60" height="60"></a>
-	<a href="https://sonarr.tv" title="Sonarr">
-		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarr.svg" width="60" height="60"></a>
+  <a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="60" height="60"></a>
 
-<a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="60" height="60"></a>
+
+
 <br>
-
+  <a href="https://radarr.video" title="Radarr">
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/radarr.svg" width="40" height="40"></a>
+	<a href="https://sonarr.tv" title="Sonarr">
+		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarr.svg" width="40" height="40"></a>
   <a href="https://www.thetvdb.com" title="TVDB">
 	<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tvdb.svg" width="40" height="40"></a>
  	<a href="https://trakt.tv/" title="Trakt">   
