@@ -1,7 +1,7 @@
 metadata:
-  432470: # American Manhunt: The Boston Marathon Bombing (2023)
-    url_poster: https://image.tmdb.org/t/p/original/tGV2nP7T1C3bvgAe9V44Ofh9ZSS.jpg
-    url_background: https://image.tmdb.org/t/p/original/t46EulNFkhp6Ct4rOLiTug9t4eV.jpg
+  432470: # TVDB id for American Manhunt: The Boston Marathon Bombing. Set by Wikid82 on MediUX. https://mediux.pro/sets/33102
+    url_poster: https://api.mediux.pro/assets/6e3c1a5d-b40f-4b47-9659-6ba71e97cf6e
+    url_background: https://api.mediux.pro/assets/eb576d4d-e23c-4616-89fc-e7d6dd85369d
     seasons:
-      1: 
-        url_poster: https://image.tmdb.org/t/p/original/xsx6qI5qjz8zz5o1CMAYcS3PW0t.jpg
+      1:
+        url_poster: https://api.mediux.pro/assets/dcaa3354-6223-4727-b928-9a86774d2029
