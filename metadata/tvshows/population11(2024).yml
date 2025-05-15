@@ -1,0 +1,6 @@
+  445535: # TVDB id for Population 11. Set by Wikid82 on MediUX. https://mediux.pro/sets/33103
+    url_poster: https://api.mediux.pro/assets/cd771fba-9e20-4c25-b058-053dd7e2ff43
+    url_background: https://api.mediux.pro/assets/0b59a90f-c0cf-49f5-888c-32a7af9092b4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ccbe5872-b2c0-4309-98cf-6b0ebbeef44c
