@@ -1,8 +1,0 @@
----
-collections:
-  The Good Nurse Collection:
-    collection_mode: hide_items
-    collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29314105
-    url_background: https://image.tmdb.org/t/p/original/x2U0R60Z7hmJxZixzsGZfjFJbve.jpg
-    url_poster: https://theposterdb.com/api/assets/280395
