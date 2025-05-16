@@ -1,14 +1,10 @@
 metadata:
-  Friday:
-    mapping_id: 10634
-    url_poster: https://theposterdb.com/api/assets/28462
-  Next Friday:
-    mapping_id: 10471
-    url_poster: https://theposterdb.com/api/assets/28463
-  Friday After Next:
-    mapping_id: 10426
-    url_poster: https://theposterdb.com/api/assets/28464
 
-#  Last Friday:
-#    mapping_id: 487560
-#   url_poster: https://theposterdb.com/api/assets/263886
+  10634: # Friday (1995) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33108
+    url_poster: https://api.mediux.pro/assets/b51de4e9-6c56-44c4-a0be-fee32f4a7446
+
+  10471: # Next Friday (2000) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33108
+    url_poster: https://api.mediux.pro/assets/7d4c83a8-2b7c-4387-8f21-450c07261f4a
+
+  10426: # Friday After Next (2002) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33108
+    url_poster: https://api.mediux.pro/assets/2feffb73-574d-4f51-b80f-d243a0bf63bb
