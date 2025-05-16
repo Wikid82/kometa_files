@@ -1,8 +1,8 @@
 ---
 collections:
-  Final Destination Collection:
+  Final Destination Collection: # Final Destination Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/33162
     collection_mode: hide_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/official/final-destination-collection
-    url_background: https://image.tmdb.org/t/p/original/nkKIm7AgXXVMQ0Wp67wSHJO6wbZ.jpg
-    url_poster: https://theposterdb.com/api/assets/165946
+    tmdb_collection_details: https://trakt.tv/lists/official/final-destination-collection
+    url_background: https://api.mediux.pro/assets/738edc51-7cbf-4d5f-924f-2338d3a235f3
+    url_poster: https://api.mediux.pro/assets/6f3acb5b-8bee-4221-bb1c-ec44a4851c89
