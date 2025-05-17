@@ -1,0 +1,7 @@
+metadata:
+  393204: # TVDB id for Ironheart. Set by willtong93 on MediUX. https://mediux.pro/sets/33177
+    url_poster: https://api.mediux.pro/assets/4ea967ba-c464-45d1-901b-28541519cc03
+    url_background: https://api.mediux.pro/assets/3e4d9d90-2995-4e0b-ab22-34cbeef36d55
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1d920b99-ff53-493d-a846-411f98a685a8
