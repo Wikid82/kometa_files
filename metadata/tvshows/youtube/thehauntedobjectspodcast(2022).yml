@@ -1,72 +1,72 @@
 metadata:
   452141: # The Haunted Objects Podcast (2022) 
-    url_poster: https://artworks.thetvdb.com/banners/v4/series/452141/posters/66901bc027f78.jpg
+    url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/series.jpg
     url_background: https://artworks.thetvdb.com/banners/v4/series/452141/backgrounds/66901bec16b85.jpg
     seasons:
       1:
-        url_poster: https://artworks.thetvdb.com/banners/v4/series/452141/posters/66901bc027f78.jpg
+        url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/series.jpg
         episodes:
           1:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-001.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-001.jpg
           2:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-002.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-002.jpg
           3:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-003.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-003.jpg
           4:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-004.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-004.jpg
           5:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-005.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-005.jpg
           6:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-006.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-006.jpg
           7:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-007.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-007.jpg
           8:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-008.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-008.jpg
           9:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-009.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-009.jpg
           10:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-010.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-010.jpg
           11:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-011.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-011.jpg
           12:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-012.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-012.jpg
           13:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-013.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-013.jpg
           14:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-014.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-014.jpg
           15:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-015.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-015.jpg
           16:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-016.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-016.jpg
           17:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-017.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-017.jpg
           18:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-018.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-018.jpg
           19:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-019.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-019.jpg
       2:
-        url_poster: https://artworks.thetvdb.com/banners/v4/series/452141/posters/66901bc027f78.jpg
+        url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/series.jpg
         episodes:
           1:
            
-           file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-020.jpg"
+           url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-020.jpg
           2:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-021.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-021.jpg
           3:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-022.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-022.jpg
           4:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-023.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-023.jpg
           5:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-024.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-024.jpg
           6:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-025.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-025.jpg
           7:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-026.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-026.jpg
           8:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-027.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-027.jpg
           9:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-028.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-028.jpg
           10:
-            file_poster: "/config/kometa_files/metadata/images/The Haunted Objects Podcast (2022) {tvdb-452141}/episode-029.jpg"
+            url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-029.jpg
 
 
