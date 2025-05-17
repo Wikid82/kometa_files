@@ -1,7 +1,9 @@
 metadata:
 
-  496: # Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006) 
-    url_poster: https://theposterdb.com/api/assets/110383
+  496: # Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006) Poster by IdentityTheft on MediUX. https://mediux.pro/sets/33179
+    url_poster: https://api.mediux.pro/assets/6e4e2f7d-aa6e-4c55-9208-bfb1e26954c7
+    url_background: https://api.mediux.pro/assets/a23b6e62-bb46-4900-ad63-4a9e7fd99c8c
 
-  740985: # Borat Subsequent Moviefilm (2020)
-    url_poster: https://theposterdb.com/api/assets/110384
+  740985: # Borat Subsequent Moviefilm (2020) Poster by IdentityTheft on MediUX. https://mediux.pro/sets/33179
+    url_poster: https://api.mediux.pro/assets/e9bf87a5-8953-48c3-a090-8c722c9cd83d
+    url_background: https://api.mediux.pro/assets/6d438129-f48b-4cb4-a2c7-4e1dfa73a54e

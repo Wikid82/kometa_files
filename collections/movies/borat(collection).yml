@@ -3,5 +3,6 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/747168-borat-moviefilms-collection
-    url_background: https://image.tmdb.org/t/p/original/3Ysvp4ODDC6sucdQ9quHWkMiKED.jpg
-    url_poster: https://theposterdb.com/api/assets/110382
+    url_background: https://api.mediux.pro/assets/b69f4d39-fd25-42ba-a9dd-27edd79a4332
+    url_poster: https://api.mediux.pro/assets/9de794b8-889c-480e-8d54-a61ee11ebc93
+    # Borat Collection Posters by IdentityTheft on MediUX. https://mediux.pro/sets/33179
