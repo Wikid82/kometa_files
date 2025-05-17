@@ -4,4 +4,4 @@ playlists:
     libraries: Movies, TV Shows
     sync_to_users: all
     trakt_list: https://trakt.tv/lists/30253809
-    file_poster: /config/kometa_files/playlists/defenders.png
+    url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/playlists/defenders.jpg?raw=true

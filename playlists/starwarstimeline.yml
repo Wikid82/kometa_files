@@ -4,4 +4,4 @@ playlists:
     libraries: Movies, TV Shows
     sync_to_users: all
     trakt_list: https://trakt.tv/lists/28903516
-    file_poster: /config/kometa_files/playlists/starwarsplaylist.png
+    url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/playlists/starwarsplaylist.jpg?raw=true
