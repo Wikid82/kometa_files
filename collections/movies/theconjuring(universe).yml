@@ -1,0 +1,9 @@
+---
+collections:
+  The Conjuring Universe:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list_details: https://trakt.tv/lists/29687217
+    url_background: https://github.com/Wikid82/kometa_files/blob/main/images/collections/theconjuringuniversebackground.jpg?raw=true
+    url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/collections/theconjuringuniverseposter.jpg?raw=true
+    # Collection images by Wikid82 and hosted on GitHub.
