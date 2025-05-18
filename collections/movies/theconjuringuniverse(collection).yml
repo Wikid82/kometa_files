@@ -4,5 +4,6 @@ collections:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/29687217
-    url_background: https://image.tmdb.org/t/p/original/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg
-    url_poster: https://theposterdb.com/api/assets/23524
+    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/theconjuringuniversebackground.jpg
+    url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/collections/theconjuringuniverseposter.jpg
+    # Collection images by Wikid82 and hosted on GitHub.
