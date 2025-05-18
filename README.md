@@ -33,7 +33,7 @@
   <a href="https://www.thetvdb.com" title="TVDB">
 	<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tvdb.svg" width="40" height="40"></a>
 
- 	<a href="https://picsart.com/" title="Picsart"><img src="https://github.com/Wikid82/kometa_files/blob/main/readmeimages/picsart.png?raw=true" width="40" height="40"></a>
+ 	<a href="https://picsart.com/" title="Picsart"><img src="https://github.com/Wikid82/kometa_files/blob/main/readmeimages/picsart.png" width="40" height="40"></a>
 
  	<a href="https://trakt.tv/" title="Trakt"><img src="https://trakt.tv/assets/logos/logomark.square.gradient-b644b16c38ff775861b4b1f58c1230f6a097a2466ab33ae00445a505c33fcb91.svg" width="40" height="40"></a>
   <a href="https://theposterdb.com" title="ThePosterDB">
