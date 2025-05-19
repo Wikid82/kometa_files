@@ -41,3 +41,18 @@ metadata:
         url_poster: https://api.mediux.pro/assets/03f46585-cadf-4d88-883d-3f720fa11d45
       18:
         url_poster: https://api.mediux.pro/assets/66b8167f-c86c-41ba-8782-4db93a1ab6bb
+        
+
+  433464: # TVDB id for Naked and Afraid: Last One Standing. Set by Wikid82 on MediUX. https://mediux.pro/sets/33256
+    url_poster: https://api.mediux.pro/assets/01f0ecf8-a6a3-4590-85f4-caafd27f6ba5
+    url_background: https://api.mediux.pro/assets/b9562e43-a4e4-41b5-b116-10e966ae1446
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/aa258bbc-9aba-4cf2-a22e-65e40749da61
+      1:
+        url_poster: https://api.mediux.pro/assets/7c0087f1-b7f8-4e0b-a7db-9d5087f4f676
+      2:
+        url_poster: https://api.mediux.pro/assets/cf7b54d9-66b0-463e-9980-f44e7a9790c6
+      3:
+        url_poster: https://api.mediux.pro/assets/f3b2120d-1520-4459-881e-b49d978edbad
+
