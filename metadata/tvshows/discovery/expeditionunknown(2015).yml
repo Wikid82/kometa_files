@@ -1,6 +1,7 @@
+metadata:
   280316: # TVDB id for Expedition Unknown. Set by Wikid82 on MediUX. https://mediux.pro/sets/33270
     url_poster: https://api.mediux.pro/assets/86123859-dbb4-421b-a9d8-d8bfa117ef2a
-    url_background: https://api.mediux.pro/assets/6d07d462-c0a1-484a-af6d-3072acce75b5
+    url_background: https://api.mediux.pro/assets/6d07d462-c0a1-484a-af6d-3072acce75b5?
     seasons:
       0:
         url_poster: https://api.mediux.pro/assets/8f605530-6908-43ee-af9f-196beb0d4afb
