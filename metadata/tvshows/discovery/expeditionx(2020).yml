@@ -1,23 +1,23 @@
 metadata:
   375704: # TVDB id for Expedition X. Set by Wikid82 on MediUX. https://mediux.pro/sets/33274
-    url_poster: https://api.mediux.pro/assets/7f13bdb6-f760-4650-b819-c7edac069001
-    url_background: https://api.mediux.pro/assets/ab6f2912-2820-4779-a508-98138dea0cd5
+    url_poster: https://api.mediux.pro/assets/7f13bdb6-f760-4650-b819-c7edac069001?foo=bar
+    url_background: https://api.mediux.pro/assets/ab6f2912-2820-4779-a508-98138dea0cd5?foo=bar
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/9c62ac83-9742-4d05-b145-cff04de6d959
+        url_poster: https://api.mediux.pro/assets/9c62ac83-9742-4d05-b145-cff04de6d959?foo=bar
       2:
-        url_poster: https://api.mediux.pro/assets/4128f465-7401-42ba-ae65-e2f3ba91da5d
+        url_poster: https://api.mediux.pro/assets/4128f465-7401-42ba-ae65-e2f3ba91da5d?foo=bar
       3:
-        url_poster: https://api.mediux.pro/assets/36c50126-bb54-45fe-8ab3-0d692450a7d0
+        url_poster: https://api.mediux.pro/assets/36c50126-bb54-45fe-8ab3-0d692450a7d0?foo=bar
       4:
-        url_poster: https://api.mediux.pro/assets/cee03d5c-2cdc-4d3a-8bf5-b7df593755ed
+        url_poster: https://api.mediux.pro/assets/cee03d5c-2cdc-4d3a-8bf5-b7df593755ed?foo=bar
       5:
-        url_poster: https://api.mediux.pro/assets/b3de6447-f4c8-49ae-a487-788228c34d95
+        url_poster: https://api.mediux.pro/assets/b3de6447-f4c8-49ae-a487-788228c34d95?foo=bar
       6:
-        url_poster: https://api.mediux.pro/assets/36d7d8fd-0476-4193-b042-c5f8bcdc9d6e
+        url_poster: https://api.mediux.pro/assets/36d7d8fd-0476-4193-b042-c5f8bcdc9d6e?foo=bar
       7:
-        url_poster: https://api.mediux.pro/assets/5a8bbc80-bc92-4097-9ccb-1e4c47c2ef62
+        url_poster: https://api.mediux.pro/assets/5a8bbc80-bc92-4097-9ccb-1e4c47c2ef62?foo=bar
       8:
-        url_poster: https://api.mediux.pro/assets/61542a8f-9838-4c5b-b1d0-bd6be1d99017
+        url_poster: https://api.mediux.pro/assets/61542a8f-9838-4c5b-b1d0-bd6be1d99017?foo=bar
       9:
-        url_poster: https://api.mediux.pro/assets/279be959-c94a-42bb-9980-7ef2f8f29695
+        url_poster: https://api.mediux.pro/assets/279be959-c94a-42bb-9980-7ef2f8f29695?foo=bar
