@@ -1,22 +1,23 @@
 metadata:
-  375704: # Expedition X (2020)
-    url_poster: https://theposterdb.com/api/assets/458316
+  375704: # TVDB id for Expedition X. Set by Wikid82 on MediUX. https://mediux.pro/sets/33274
+    url_poster: https://api.mediux.pro/assets/7f13bdb6-f760-4650-b819-c7edac069001
+    url_background: https://api.mediux.pro/assets/ab6f2912-2820-4779-a508-98138dea0cd5
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/458317
-      02:
-        url_poster: https://theposterdb.com/api/assets/458318
-      03:
-        url_poster: https://theposterdb.com/api/assets/458319
-      04:
-        url_poster: https://theposterdb.com/api/assets/458320
-      05:
-        url_poster: https://theposterdb.com/api/assets/458321
-      06:
-        url_poster: https://theposterdb.com/api/assets/458322
-      07:
-        url_poster: https://theposterdb.com/api/assets/458323
-      08:
-        url_poster: https://theposterdb.com/api/assets/516625
-      09:
-        url_poster: https://theposterdb.com/api/assets/564872
+      1:
+        url_poster: https://api.mediux.pro/assets/9c62ac83-9742-4d05-b145-cff04de6d959
+      2:
+        url_poster: https://api.mediux.pro/assets/4128f465-7401-42ba-ae65-e2f3ba91da5d
+      3:
+        url_poster: https://api.mediux.pro/assets/36c50126-bb54-45fe-8ab3-0d692450a7d0
+      4:
+        url_poster: https://api.mediux.pro/assets/cee03d5c-2cdc-4d3a-8bf5-b7df593755ed
+      5:
+        url_poster: https://api.mediux.pro/assets/b3de6447-f4c8-49ae-a487-788228c34d95
+      6:
+        url_poster: https://api.mediux.pro/assets/36d7d8fd-0476-4193-b042-c5f8bcdc9d6e
+      7:
+        url_poster: https://api.mediux.pro/assets/5a8bbc80-bc92-4097-9ccb-1e4c47c2ef62
+      8:
+        url_poster: https://api.mediux.pro/assets/61542a8f-9838-4c5b-b1d0-bd6be1d99017
+      9:
+        url_poster: https://api.mediux.pro/assets/279be959-c94a-42bb-9980-7ef2f8f29695
