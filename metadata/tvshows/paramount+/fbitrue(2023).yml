@@ -1,6 +1,5 @@
 metadata:
-
-  221122: # TMDB id for FBI TRUE. Set by Wikid82 on MediUX. https://mediux.pro/sets/30070
+  431527: # TVDB id for FBI TRUE. Set by Wikid82 on MediUX. https://mediux.pro/sets/30070
     url_poster: https://api.mediux.pro/assets/bc9d3902-9d6f-4ccf-a5cd-9a46ecc6590e
     url_background: https://api.mediux.pro/assets/fe065dbc-f018-45b9-bc93-0719723c5a84
     seasons:
@@ -16,3 +15,5 @@ metadata:
         url_poster: https://api.mediux.pro/assets/1c183a20-49fa-4e9d-91e7-40fbc61702a5
       6:
         url_poster: https://api.mediux.pro/assets/26659406-58f6-404f-bed9-a37fa08a771f
+      7:
+        url_poster: https://api.mediux.pro/assets/daff6335-5b1c-4932-89ae-482d4470bd2e
