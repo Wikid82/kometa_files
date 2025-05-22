@@ -3,5 +3,6 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/484312-skyline-collection
-    url_background: https://api.mediux.pro/assets/ddf2a3e0-ae0f-4c5c-929e-1262e755e037
-    url_poster: https://api.mediux.pro/assets/bef2801b-87ec-495a-9155-e74d944267f9
+    url_background: https://api.mediux.pro/assets/607deb90-ca98-4a49-a667-3d880733a08d
+    url_poster: https://api.mediux.pro/assets/bef2801b-87ec-495a-9155-e74d944267f9?foo=bar
+    # Skyline Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/32085
