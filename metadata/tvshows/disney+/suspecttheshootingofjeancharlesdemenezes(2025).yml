@@ -1,6 +1,15 @@
 metadata:
-  440562: # TVDB id for Suspect: The Shooting of Jean Charles de Menezes. Set by DrWhoDalek on MediUX. https://mediux.pro/sets/32384
-    url_poster: https://api.mediux.pro/assets/70953ac1-959a-46bc-9662-41fc26824384
+  440562: # TVDB id for Suspect: The Shooting of Jean Charles de Menezes. Set by Pejamas on MediUX. https://mediux.pro/sets/32522
+    url_poster: https://api.mediux.pro/assets/408f2cc1-9ec4-4b0b-96ee-d547adb40b49
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/63981ecc-f8ff-452d-b055-ec8c8849c2f4
+        url_poster: https://api.mediux.pro/assets/e0825ffb-09b4-48ed-8acc-1bfc50e9f23c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/b0ce70c3-0d81-45aa-8a26-1a90f237ef40
+          2:
+            url_poster: https://api.mediux.pro/assets/24a58a3f-f384-4786-be67-71735e8fe920
+          3:
+            url_poster: https://api.mediux.pro/assets/5c294b84-32f3-4846-a12d-0189e0bc7c86
+          4:
+            url_poster: https://api.mediux.pro/assets/c50c6dbb-1722-4003-8445-98f27b6d8a75
