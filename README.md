@@ -60,6 +60,10 @@ Table of Contents
 
 <code>❯ My files' artwork are based on the positioning of the overlays I use. You may prefer different overlays in different positions. Feel free to use these files as a template. Just replace the image urls with your prefered links. See you in the rabbit hole!  </code>
 
+<code>❯ ?foo=bar: What does that mean?
+
+  I can't always find premade posters that I like. When I don't, I make my own. Once they are in Plex, sometimes I don't like them as much as I thought and I do little tweeks. MediUX does not generate a new link when updating a file. I apply the ?foo=bar (thanks to a mod in the Kometa Reddit for the idea). This then fools the Kometa cache that its a new link and will download the updated poster.   </code>
+
 ---
 
 ## 👾 Features
