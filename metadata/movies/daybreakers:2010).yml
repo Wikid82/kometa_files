@@ -1,4 +1,4 @@
 metadata:
   19901: # Daybreakers (2010) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32698
-    url_poster: https://api.mediux.pro/assets/9a21fda3-f732-4374-9874-072e8721eb14
-    url_background: https://api.mediux.pro/assets/280221ab-ae13-4c1c-ab5d-8fa6d9ceb211
+    url_poster: https://api.mediux.pro/assets/9a21fda3-f732-4374-9874-072e8721eb14?foo=bar
+    url_background: https://api.mediux.pro/assets/280221ab-ae13-4c1c-ab5d-8fa6d9ceb211?foo=bar
