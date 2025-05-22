@@ -9,5 +9,5 @@ metadata:
     url_background: https://api.mediux.pro/assets/607deb90-ca98-4a49-a667-3d880733a08d
 
   560144: # Skylines (2020) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32085
-    url_poster: https://api.mediux.pro/assets/ef45e7b0-b599-4372-99f3-82b8ff1a4a5e
+    url_poster: https://api.mediux.pro/assets/ef45e7b0-b599-4372-99f3-82b8ff1a4a5e?foo=bar
     url_background: https://api.mediux.pro/assets/c8298e06-7e18-4809-8025-9a0f4acaa7a5
