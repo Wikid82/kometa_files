@@ -1,12 +1,12 @@
 metadata:
   428876: # TVDB id for Death by Fame. Set by Wikid82 on MediUX. https://mediux.pro/sets/30069
-    url_poster: https://api.mediux.pro/assets/1a92b10e-ad91-477e-b4e8-2d85e582c102
-    url_background: https://api.mediux.pro/assets/5475239e-499d-447c-b7aa-75ab731ff8df
+    url_poster: https://api.mediux.pro/assets/1a92b10e-ad91-477e-b4e8-2d85e582c102?foo=bar
+    url_background: https://api.mediux.pro/assets/5475239e-499d-447c-b7aa-75ab731ff8df?foo=bar
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/2ff734ce-1514-4952-8a5d-b3b9ca5c4a7d
+        url_poster: https://api.mediux.pro/assets/2ff734ce-1514-4952-8a5d-b3b9ca5c4a7d?foo=bar
       2:
-        url_poster: https://api.mediux.pro/assets/6d07e0a3-73ca-49a8-b019-7d18a12a740f
+        url_poster: https://api.mediux.pro/assets/6d07e0a3-73ca-49a8-b019-7d18a12a740f?foo=bar
       3:
-        url_poster: https://api.mediux.pro/assets/18670713-71d4-4336-bca5-d6119c809a5e
+        url_poster: https://api.mediux.pro/assets/18670713-71d4-4336-bca5-d6119c809a5e?foo=bar
 
