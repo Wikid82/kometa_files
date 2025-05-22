@@ -1,7 +1,7 @@
 metadata:
 
-  82690: # Wreck-It Ralph (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/26832
-    url_poster: https://api.mediux.pro/assets/7b2d657b-a6c5-4cd2-b70a-e0aee43c7889
+  82690: # -It Ralph (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/26832
+    url_poster: https://api.mediux.pro/assets/7b2d657b-a6c5-4cd2-b70a-e0aee43c7889?foo=bar
 
   404368: # Ralph Breaks the Internet (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/26832
-    url_poster: https://api.mediux.pro/assets/96ae75a8-37c7-4ba9-b479-e3fb24f96aa2
+    url_poster: https://api.mediux.pro/assets/96ae75a8-37c7-4ba9-b479-e3fb24f96aa2foo=bar

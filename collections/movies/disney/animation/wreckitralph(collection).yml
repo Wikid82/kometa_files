@@ -4,5 +4,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/404825-wreck-it-ralph-collection
-    url_background: https://api.mediux.pro/assets/0a325508-f428-4bc0-9ff1-13255f4b2794
-    url_poster: https://api.mediux.pro/assets/e822e044-2a37-4dfe-9de7-8cf3f8d6fb84
+    url_background: https://api.mediux.pro/assets/0a325508-f428-4bc0-9ff1-13255f4b2794foo=bar
+    url_poster: https://api.mediux.pro/assets/e822e044-2a37-4dfe-9de7-8cf3f8d6fb84foo=bar
