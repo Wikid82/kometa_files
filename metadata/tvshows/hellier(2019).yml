@@ -1,9 +1,9 @@
 metadata:
   357966: # TVDB id for Hellier. Set by Wikid82 on MediUX. https://mediux.pro/sets/33242
-    url_poster: https://api.mediux.pro/assets/f880c603-c14f-4b27-be09-627fedc8f7e6
-    url_background: https://api.mediux.pro/assets/a11aadc2-2cd1-41ab-890b-fa50b0fdc78b
+    url_poster: https://api.mediux.pro/assets/f880c603-c14f-4b27-be09-627fedc8f7e6?foo=bar
+    url_background: https://api.mediux.pro/assets/a11aadc2-2cd1-41ab-890b-fa50b0fdc78b?foo=bar
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/c028caca-6574-4be5-8510-db4582b91d6f
+        url_poster: https://api.mediux.pro/assets/c028caca-6574-4be5-8510-db4582b91d6f?foo=bar
       2:
-        url_poster: https://api.mediux.pro/assets/2849e0de-9ea8-40e8-9385-887705780dd4
+        url_poster: https://api.mediux.pro/assets/2849e0de-9ea8-40e8-9385-887705780dd4?foo=bar

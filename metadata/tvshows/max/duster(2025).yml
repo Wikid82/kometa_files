@@ -1,7 +1,7 @@
 metadata:
   381221: # TVDB id for Duster. Set by Wikid82 on MediUX. https://mediux.pro/sets/33110
-    url_poster: https://api.mediux.pro/assets/0ed50f42-c8d9-420e-95e5-380f70b0540b
-    url_background: https://api.mediux.pro/assets/45355bd5-6141-4280-ab0f-659d2712eaf3
+    url_poster: https://api.mediux.pro/assets/0ed50f42-c8d9-420e-95e5-380f70b0540b?foo=bar
+    url_background: https://api.mediux.pro/assets/45355bd5-6141-4280-ab0f-659d2712eaf3?foo=bar
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/a01a51b6-f91c-4d1c-bb52-74ed3801e41a
+        url_poster: https://api.mediux.pro/assets/a01a51b6-f91c-4d1c-bb52-74ed3801e41a?foo=bar

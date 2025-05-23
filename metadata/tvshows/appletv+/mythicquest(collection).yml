@@ -1,10 +1,10 @@
 metadata:
   362829: # TVDB id for Mythic Quest. Season posters by Wikid82by Wikid82 on MediUX. https://mediux.pro/sets/29522.
-    url_poster: https://api.mediux.pro/assets/6bbb5af6-afbb-4733-a1af-1644da0e85cb?foo=bar
+    url_poster: https://api.mediux.pro/assets/6bbb5af6-afbb-4733-a1af-1644da0e85cb?foo=bar2
     url_background: https://api.mediux.pro/assets/70b76417-0f64-46b9-9117-7e3dd634e111
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/892425e1-bbd0-4909-b5b6-8212d2c187b3?foo=bar
+        url_poster: https://api.mediux.pro/assets/892425e1-bbd0-4909-b5b6-8212d2c187b3?foo=bar2
         episodes: # Title Cards by willtong93 on MediUX. https://mediux.pro/sets/31628
           1:
             url_poster: https://api.mediux.pro/assets/05c22008-2ed8-4f16-96a8-62a5ed6f2f22
@@ -29,7 +29,7 @@ metadata:
           11:
             url_poster: https://api.mediux.pro/assets/00b997b4-7ea8-43d2-b491-58e0e677db0b
       2:
-        url_poster: https://api.mediux.pro/assets/58613dc0-660c-4b15-89d5-9e459461005b?foo=bar
+        url_poster: https://api.mediux.pro/assets/58613dc0-660c-4b15-89d5-9e459461005b?foo=bar2
         episodes: # Title Cards by willtong93 on MediUX. https://mediux.pro/sets/31628
           1:
             url_poster: https://api.mediux.pro/assets/dca0eafe-715c-4cea-a56a-f959e293c93f
@@ -50,7 +50,7 @@ metadata:
           9:
             url_poster: https://api.mediux.pro/assets/460abd22-bcd5-4e52-92b2-f44349ffc9a4
       3:
-        url_poster: https://api.mediux.pro/assets/e3eb8282-bf66-4411-8ac5-f4e121b6cf21?foo=bar
+        url_poster: https://api.mediux.pro/assets/e3eb8282-bf66-4411-8ac5-f4e121b6cf21?foo=bar2
         episodes: # Title Cards by willtong93 on MediUX. https://mediux.pro/sets/31628
           1:
             url_poster: https://api.mediux.pro/assets/d1e98e5c-6e68-4902-b1cf-47c13d6b7005
@@ -73,7 +73,7 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/0ad0a74b-12d8-42bb-a8ed-b7cde73efff6
       4:
-        url_poster: https://api.mediux.pro/assets/bf1c9e26-db74-4df5-9ace-abc7f5142d95?foo=bar
+        url_poster: https://api.mediux.pro/assets/bf1c9e26-db74-4df5-9ace-abc7f5142d95?foo=bar2
         episodes: # Title Cards by willtong93 on MediUX. https://mediux.pro/sets/31628
           1:
             url_poster: https://api.mediux.pro/assets/48c965d2-1b0f-499d-b8b4-72cf0fed1560
@@ -97,11 +97,11 @@ metadata:
             url_poster: https://api.mediux.pro/assets/d6d55f84-30ff-41c9-8bca-b1c232ddf835
 
   428425: # TVDB id for Side Quest. Set by Wikid82 on MediUX. https://mediux.pro/sets/33324
-    url_poster: https://api.mediux.pro/assets/98453f2a-4830-457c-8777-87a6cdc87bee
-    url_background: https://api.mediux.pro/assets/22a19fcb-63a6-41ed-93f4-6a4108604531
+    url_poster: https://api.mediux.pro/assets/98453f2a-4830-457c-8777-87a6cdc87bee?foo=bar
+    url_background: https://api.mediux.pro/assets/22a19fcb-63a6-41ed-93f4-6a4108604531?foo=bar
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/d9301aff-870c-47b2-b0f5-7d528b7794ab
+        url_poster: https://api.mediux.pro/assets/d9301aff-870c-47b2-b0f5-7d528b7794ab?foo=bar
         episodes: # Title Cards by willtong93 on MediUX. https://mediux.pro/sets/3163
           1:
             url_poster: https://api.mediux.pro/assets/c0e40087-ef5f-40ef-b248-addff03a8f93

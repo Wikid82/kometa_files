@@ -1,7 +1,7 @@
 metadata:
   459608: # TVDB id for American Manhunt: Osama bin Laden. Set by Wikid82 on MediUX. https://mediux.pro/sets/33001
-    url_poster: https://api.mediux.pro/assets/c0d69411-d985-4e70-9b26-64fa8f4ee434
-    url_background: https://api.mediux.pro/assets/27433471-90c2-402b-8888-e250bcc90737
+    url_poster: https://api.mediux.pro/assets/c0d69411-d985-4e70-9b26-64fa8f4ee434?foo=bar
+    url_background: https://api.mediux.pro/assets/27433471-90c2-402b-8888-e250bcc90737?foo=bar
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/9c136ada-2bf0-4a79-b03b-4ece5cc529c0
+        url_poster: https://api.mediux.pro/assets/9c136ada-2bf0-4a79-b03b-4ece5cc529c0?foo=bar
