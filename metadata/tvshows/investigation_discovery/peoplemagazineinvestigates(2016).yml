@@ -1,21 +1,21 @@
 metadata:
   319556: # TVDB id for People Magazine Investigates. Set by Wikid82 on MediUX. https://mediux.pro/sets/29299
-    url_poster: https://api.mediux.pro/assets/bb80841c-4d4e-4846-a4f5-954217c76f95
-    url_background: https://api.mediux.pro/assets/e274ad03-4385-45ef-973e-d5c4142961d6
+    url_poster: https://api.mediux.pro/assets/bb80841c-4d4e-4846-a4f5-954217c76f95?foo=bar
+    url_background: https://api.mediux.pro/assets/e274ad03-4385-45ef-973e-d5c4142961d6?foo=bar
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/4e90c935-33bd-44cd-a2d4-f382112f31a2
+        url_poster: https://api.mediux.pro/assets/4e90c935-33bd-44cd-a2d4-f382112f31a2?foo=bar
       2:
-        url_poster: https://api.mediux.pro/assets/eabaea89-2807-406b-a20f-2a2d94da40b1
+        url_poster: https://api.mediux.pro/assets/eabaea89-2807-406b-a20f-2a2d94da40b1?foo=bar
       3:
-        url_poster: https://api.mediux.pro/assets/d2d6b38e-9580-42ce-8f8d-3cf9c42c9156
+        url_poster: https://api.mediux.pro/assets/d2d6b38e-9580-42ce-8f8d-3cf9c42c9156?foo=bar
       4:
-        url_poster: https://api.mediux.pro/assets/1bb03c1e-79ef-4544-885c-c98a6845594f
+        url_poster: https://api.mediux.pro/assets/1bb03c1e-79ef-4544-885c-c98a6845594f?foo=bar
       5:
-        url_poster: https://api.mediux.pro/assets/76378ce9-3f6a-4ade-9af7-673ad9e86cb1
+        url_poster: https://api.mediux.pro/assets/76378ce9-3f6a-4ade-9af7-673ad9e86cb1?foo=bar
       6:
-        url_poster: https://api.mediux.pro/assets/853927da-6fe4-46d6-b3a1-4af66a4e1756
+        url_poster: https://api.mediux.pro/assets/853927da-6fe4-46d6-b3a1-4af66a4e1756?foo=bar
       7:
-        url_poster: https://api.mediux.pro/assets/d9921b80-dd2e-4baa-a336-971972f73425
+        url_poster: https://api.mediux.pro/assets/d9921b80-dd2e-4baa-a336-971972f73425?foo=bar
       8:
-        url_poster: https://api.mediux.pro/assets/ac9fb3fb-5b80-4071-8f0a-f3012e6562ea
+        url_poster: https://api.mediux.pro/assets/ac9fb3fb-5b80-4071-8f0a-f3012e6562ea?foo=bar
