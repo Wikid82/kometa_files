@@ -1,4 +1,4 @@
 metadata:
   755566: # Day Shift (2022) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32944
-    url_poster: https://api.mediux.pro/assets/88382cb4-9eb7-47a0-b0f9-bd2f044fa31a
-    url_background: https://api.mediux.pro/assets/2b4a6d2f-59aa-4bd3-98cb-85f1faab9df5
+    url_poster: https://api.mediux.pro/assets/88382cb4-9eb7-47a0-b0f9-bd2f044fa31a?foo=bar
+    url_background: https://api.mediux.pro/assets/2b4a6d2f-59aa-4bd3-98cb-85f1faab9df5?foo=bar

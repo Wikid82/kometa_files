@@ -1,4 +1,4 @@
 metadata:
   777443: # The Electric State (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33023
-    url_poster: https://api.mediux.pro/assets/6d498d6f-4eec-4a30-b87c-69d075b1a0a9
-    url_background: https://api.mediux.pro/assets/b5169279-7fbd-417a-b685-7a85cb7008bf
+    url_poster: https://api.mediux.pro/assets/6d498d6f-4eec-4a30-b87c-69d075b1a0a9?foo=bar
+    url_background: https://api.mediux.pro/assets/b5169279-7fbd-417a-b685-7a85cb7008bf?foo=bar

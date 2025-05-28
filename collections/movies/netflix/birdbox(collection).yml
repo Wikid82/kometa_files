@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/731067-bird-box-collection
-    url_background: https://api.mediux.pro/assets/abc75a35-2c87-4995-a8aa-792109901528
-    url_poster: https://api.mediux.pro/assets/1760cebc-4014-4f59-bd42-c3eac7de723d
+    url_background: https://api.mediux.pro/assets/7701e81e-74b3-4bf0-86eb-a8bb048be225?foo=bar
+    url_poster: https://api.mediux.pro/assets/1760cebc-4014-4f59-bd42-c3eac7de723d?foo=bar

@@ -1,4 +1,4 @@
 metadata:
   406990: # What Happened to Monday (2017) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33031
-    url_poster: https://api.mediux.pro/assets/5a3a43ce-0d68-4180-bf97-05e9192c861c
-    url_background: https://api.mediux.pro/assets/7259fac3-f951-4ff2-999d-eef88d6871d1
+    url_poster: https://api.mediux.pro/assets/5a3a43ce-0d68-4180-bf97-05e9192c861c?foo=bar
+    url_background: https://api.mediux.pro/assets/7259fac3-f951-4ff2-999d-eef88d6871d1?foo=bar

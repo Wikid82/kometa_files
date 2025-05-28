@@ -1,4 +1,4 @@
 metadata:
   993710: # Back in Action (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32894
-    url_poster: https://api.mediux.pro/assets/37f684f1-5eb5-4632-a213-20c1535da3d8
-    url_background: https://api.mediux.pro/assets/9d30d7cb-849a-4b4d-b7b6-dbc385a920cc
+    url_poster: https://api.mediux.pro/assets/37f684f1-5eb5-4632-a213-20c1535da3d8?foo=bar
+    url_background: https://api.mediux.pro/assets/9d30d7cb-849a-4b4d-b7b6-dbc385a920cc?foo=bar

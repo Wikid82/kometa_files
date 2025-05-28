@@ -1,4 +1,4 @@
 metadata:
   400106: # Bright (2017) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32927
-    url_poster: https://api.mediux.pro/assets/1694ca38-9e93-4057-8517-dc7b91ba8431
-    url_background: https://api.mediux.pro/assets/e22cd9a7-7501-4970-89b6-1867e7f882a4
+    url_poster: https://api.mediux.pro/assets/1694ca38-9e93-4057-8517-dc7b91ba8431?foo=bar
+    url_background: https://api.mediux.pro/assets/e22cd9a7-7501-4970-89b6-1867e7f882a4?foo=bar

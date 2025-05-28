@@ -1,4 +1,4 @@
 metadata:
   614933: # Atlas (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32880
-    url_poster: https://api.mediux.pro/assets/9367be7d-b134-4dc1-983c-fc323dbe4e3d
-    url_background: https://api.mediux.pro/assets/9a3cb8a5-5a08-4040-897c-ddc681c514c1
+    url_poster: https://api.mediux.pro/assets/9367be7d-b134-4dc1-983c-fc323dbe4e3d?foo=bar
+    url_background: https://api.mediux.pro/assets/9a3cb8a5-5a08-4040-897c-ddc681c514c1?foo=bar

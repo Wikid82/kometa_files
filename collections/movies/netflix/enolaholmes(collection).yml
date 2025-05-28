@@ -4,5 +4,6 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/829314-enola-holmes-collection
-    url_background: https://api.mediux.pro/assets/f8dd985e-d757-4ac1-b86e-42167e2ba64e
-    url_poster: https://api.mediux.pro/assets/3b193778-ee07-4505-b132-f0bd4ec62c8e
+    url_background: https://api.mediux.pro/assets/14b906c4-83ec-4f15-b89e-fedfb7ede02e?foo=bar
+    url_poster: https://api.mediux.pro/assets/3b193778-ee07-4505-b132-f0bd4ec62c8e?foo=bar
+    

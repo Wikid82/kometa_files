@@ -1,4 +1,4 @@
 metadata:
   1005331: # Carry-On (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32928
-    url_poster: https://api.mediux.pro/assets/3f2ad639-d60b-42c4-b4a0-9948075a1a7d
-    url_background: https://api.mediux.pro/assets/96cc2318-92ee-41c8-bceb-f00d43f252c2
+    url_poster: https://api.mediux.pro/assets/3f2ad639-d60b-42c4-b4a0-9948075a1a7d?foo=bar
+    url_background: https://api.mediux.pro/assets/96cc2318-92ee-41c8-bceb-f00d43f252c2?foo=bar

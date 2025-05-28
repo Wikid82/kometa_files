@@ -1,4 +1,4 @@
 metadata:
   636706: # Spaceman (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33000
-    url_poster: https://api.mediux.pro/assets/d56aa977-0792-41cd-95a5-67e96a8c45f1
-    url_background: https://api.mediux.pro/assets/0b4830d3-17f0-429f-976f-453f122f327a
+    url_poster: https://api.mediux.pro/assets/d56aa977-0792-41cd-95a5-67e96a8c45f1?foo=bar
+    url_background: https://api.mediux.pro/assets/0b4830d3-17f0-429f-976f-453f122f327a?foo=bar
