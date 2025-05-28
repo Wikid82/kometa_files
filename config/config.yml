@@ -1,0 +1,331 @@
+libraries:
+  Movies:
+    remove_overlays: false
+    reapply_overlays: false
+    report_path: /config/reports/movies_report.yml
+    metadata_files:    
+    - folder: /config/kometa_files/metadata/movies/a24
+    - folder: /config/kometa_files/metadata/movies/appletv+
+    - folder: /config/kometa_files/metadata/movies/bluesky_animation
+    - folder: /config/kometa_files/metadata/movies/dc
+    - folder: /config/kometa_files/metadata/movies/dc/dceu
+#    - folder: /config/kometa_files/metadata/movies/disney
+    - folder: /config/kometa_files/metadata/movies/disney/animation
+    - folder: /config/kometa_files/metadata/movies/disney/live_action
+    - folder: /config/kometa_files/metadata/movies/dreamworks/animation
+    - folder: /config/kometa_files/metadata/movies/illumination
+    - folder: /config/kometa_files/metadata/movies/laika_animation
+    - folder: /config/kometa_files/metadata/movies/marvel/in_association_with
+    - folder: /config/kometa_files/metadata/movies/marvel/mcu
+    - folder: /config/kometa_files/metadata/movies/marvel/ssu
+    - folder: /config/kometa_files/metadata/movies/netflix
+    - folder: /config/kometa_files/metadata/movies/pixar
+    - folder: /config/kometa_files/metadata/movies/prime
+    - folder: /config/kometa_files/metadata/movies/sony/animation
+    - folder: /config/kometa_files/metadata/movies/star_wars   
+    - folder: /config/kometa_files/metadata/movies    
+    collection_files:
+#    - default: resolution
+    - folder: /config/kometa_files/collections/movies/a24
+#    - folder: /config/kometa_files/collections/movies/appletv+
+    - folder: /config/kometa_files/collections/movies/bluesky_animation
+    - folder: /config/kometa_files/collections/movies/dc
+    - folder: /config/kometa_files/collections/movies/dc/dceu
+    - folder: /config/kometa_files/collections/movies/disney/animation
+    - folder: /config/kometa_files/collections/movies/disney/live_action
+    - folder: /config/kometa_files/collections/movies/dreamworks/animation
+    - folder: /config/kometa_files/collections/movies/illumination
+#    - folder: /config/kometa_files/collections/movies/laika_animation
+    - folder: /config/kometa_files/collections/movies/marvel/in_association_with
+    - folder: /config/kometa_files/collections/movies/marvel/mcu
+    - folder: /config/kometa_files/collections/movies/marvel/ssu
+    - folder: /config/kometa_files/collections/movies/netflix
+    - folder: /config/kometa_files/collections/movies/pixar
+    - folder: /config/kometa_files/collections/movies/prime
+    - folder: /config/kometa_files/collections/movies/sony/animation
+    - folder: /config/kometa_files/collections/movies/star_wars
+    - folder: /config/kometa_files/collections/movies
+    overlay_files:
+    - file: /config/kometa_files/overlays/movies/content_rating_us_movies.yml
+      template_variables:
+        use_nr: false
+    - file: /config/kometa_files/overlays/movies/mediastinger.yml
+    - file: /config/kometa_files/overlays/movies/ratings.yml
+      template_variables:
+        minimum_rating: 2.0
+        rating1: critic
+        rating1_image: rt_tomato
+        rating2: audience
+        rating2_image: rt_popcorn
+        rating3: user
+        rating3_image: trakt
+    - file: /config/kometa_files/overlays/movies/resolution.yml
+    - file: /config/kometa_files/overlays/movies/ribbons.yml
+    operations:
+#      schedule: weekly (friday)
+#      mass_poster_update:
+#        source: plex
+      mass_genre_update:
+      - tmdb
+      mass_originally_available_update:
+      - mdb
+      - mdb_digital
+      - 1900-01-01
+      mass_critic_rating_update:
+      - mdb_tomatoes
+      - 1.0
+      mass_audience_rating_update:
+      - mdb_tomatoesaudience
+      - 1.0
+      mass_user_rating_update:
+      - trakt_user
+      - 1.0
+      delete_collections:
+        configured: false
+        managed: false
+        ignore_empty_smart_collections: false
+        less: 2
+  TV Shows:
+    remove_overlays: false
+    reapply_overlays: false
+    report_path: /config/reports/tvshows_report.yml
+    metadata_files:
+    - folder: /config/kometa_files/metadata/tvshows/a&e
+    - folder: /config/kometa_files/metadata/tvshows/abc
+    - folder: /config/kometa_files/metadata/tvshows/amc
+    - folder: /config/kometa_files/metadata/tvshows/appletv+
+    - folder: /config/kometa_files/metadata/tvshows/bbcone
+    - folder: /config/kometa_files/metadata/tvshows/cbs
+    - folder: /config/kometa_files/metadata/tvshows/crave
+    - folder: /config/kometa_files/metadata/tvshows/ctv
+    - folder: /config/kometa_files/metadata/tvshows/dc
+    - folder: /config/kometa_files/metadata/tvshows/discovery
+    - folder: /config/kometa_files/metadata/tvshows/discovery+
+    - folder: /config/kometa_files/metadata/tvshows/disney
+    - folder: /config/kometa_files/metadata/tvshows/disney+
+    - folder: /config/kometa_files/metadata/tvshows/fox
+    - folder: /config/kometa_files/metadata/tvshows/fx
+    - folder: /config/kometa_files/metadata/tvshows/hbo
+    - folder: /config/kometa_files/metadata/tvshows/history
+    - folder: /config/kometa_files/metadata/tvshows/hulu
+    - folder: /config/kometa_files/metadata/tvshows/investigation_discovery
+    - folder: /config/kometa_files/metadata/tvshows/marvel
+    - folder: /config/kometa_files/metadata/tvshows/marvel/mcu
+    - folder: /config/kometa_files/metadata/tvshows/max
+    - folder: /config/kometa_files/metadata/tvshows/national_geographic
+    - folder: /config/kometa_files/metadata/tvshows/nbc
+    - folder: /config/kometa_files/metadata/tvshows/netflix
+    - folder: /config/kometa_files/metadata/tvshows/paramount+
+    - folder: /config/kometa_files/metadata/tvshows/peacock
+    - folder: /config/kometa_files/metadata/tvshows/prime
+    - folder: /config/kometa_files/metadata/tvshows/science
+    - folder: /config/kometa_files/metadata/tvshows/showtime
+    - folder: /config/kometa_files/metadata/tvshows/skyatlantic
+    - folder: /config/kometa_files/metadata/tvshows/star_wars
+    - folder: /config/kometa_files/metadata/tvshows/starz
+    - folder: /config/kometa_files/metadata/tvshows/tnt
+    - folder: /config/kometa_files/metadata/tvshows/truetv
+    - folder: /config/kometa_files/metadata/tvshows
+    collection_files:
+#    - default: resolution
+    #- folder: /config/kometa_files/collections/tvshows/appletv+
+    - folder: /config/kometa_files/collections/tvshows/dc    
+#    - folder: /config/kometa_files/collections/tvshows/dc/dceu 
+    - folder: /config/kometa_files/collections/tvshows/discovery
+    - folder: /config/kometa_files/collections/tvshows/marvel
+    - folder: /config/kometa_files/collections/tvshows/marvel/mcu
+#    - folder: /config/kometa_files/collections/tvshows/netflix
+#    - folder: /config/kometa_files/collections/tvshows/peacock
+    - folder: /config/kometa_files/collections/tvshows/star_wars
+    - folder: /config/kometa_files/collections/tvshows     
+    overlay_files:
+    - file: /config/kometa_files/overlays/tvshows/content_rating_us_shows.yml
+      template_variables:
+        use_nr: false
+    - file: /config/kometa_files/overlays/tvshows/mediastinger.yml
+    - file: /config/kometa_files/overlays/tvshows/ratings.yml
+      template_variables:
+        minimum_rating: 2.0
+        rating1: critic
+        rating1_image: rt_tomato
+        rating2: audience
+        rating2_image: rt_popcorn
+        rating3: user
+        rating3_image: trakt
+    - file: /config/kometa_files/overlays/tvshows/resolution.yml
+    - file: /config/kometa_files/overlays/tvshows/ribbons.yml
+    operations:
+#      schedule: weekly (friday)
+#      mass_poster_update:
+#        source: plex
+      mass_genre_update:
+      - tmdb
+      mass_originally_available_update:
+      - tmdb
+      - 2024-10-07
+      mass_critic_rating_update:
+      - mdb_tomatoes
+      - 1.0
+      mass_audience_rating_update:
+      - mdb_tomatoesaudience
+      - 1.0
+      mass_user_rating_update: 
+      - trakt_user
+      - 1.0
+      mass_episode_audience_rating_update:
+      - tmdb
+      - 1.0
+      mass_episode_critic_rating_update:
+      - imdb
+      - 1.0
+      delete_collections:
+        configured: false
+        managed: false
+        ignore_empty_smart_collections: false
+        less: 2
+playlist_files:
+- folder: /config/kometa_files/playlists
+  schedule: daily
+  template_variables:
+    libraries: Movies, TV Shows
+  delete_playlist: true
+settings:
+  run_order:
+  - operations
+  - metadata
+  - overlays
+  - collections
+  cache: true
+  cache_expiration: 14
+  asset_directory: config/assets
+  asset_folders: true
+  asset_depth: 3
+  create_asset_folders: true
+  prioritize_assets: true
+  dimensional_asset_rename: false
+  download_url_assets: false
+  show_missing_season_assets: false
+  show_missing_episode_assets: false
+  show_asset_not_needed: false
+  sync_mode: sync
+  minimum_items: 1
+  default_collection_order: release
+  delete_below_minimum: true
+  delete_not_scheduled: true
+  run_again_delay: 2
+  missing_only_released: true
+  only_filter_missing: false
+  show_unmanaged: true
+  show_unconfigured: true
+  show_filtered: true
+  show_options: true
+  show_missing: false
+  show_missing_assets: false
+  save_report: true
+  tvdb_language: eng
+  ignore_ids:
+  ignore_imdb_ids:
+  item_refresh_delay: 0
+  playlist_sync_to_users: all
+  playlist_exclude_users:
+  playlist_report: true
+  verify_ssl: true
+  custom_repo: https://github.com/Wikid82/kometa_files
+  overlay_artwork_filetype: jpg
+  overlay_artwork_quality: 75
+  show_unfiltered: false
+webhooks:
+  error: notifiarr
+  version: notifiarr
+  run_start: notifiarr
+  run_end: notifiarr
+  changes: notifiarr
+  delete:
+plex:
+  # Can be individually specified per library as well; REQUIRED for the script to run
+  url: <private>
+  token: <private>
+  timeout: 60
+  db_cache:
+  clean_bundles: true
+  empty_trash: true
+  optimize: true
+  verify_ssl:
+tmdb:
+  # REQUIRED for the script to run
+  apikey: <private>
+  language: en
+  cache_expiration: 7
+  region:
+tautulli:
+  # Can be individually specified per library as well
+  url: <private>
+  apikey: <private>
+github:
+  token: <private>
+omdb:
+  apikey: <private>
+  cache_expiration: 7
+mdblist:
+  apikey: <private>
+  cache_expiration: 7
+notifiarr:
+  apikey: <private>
+  #gotify:
+  #  url: ##########
+  #  token: ##########
+  #anidb:
+  # Not required for AniDB builders unless you want mature content
+  #  username: ######
+  #  password: ######
+  #  language: en
+  #  client: ##########
+radarr:
+  # Can be individually specified per library as well
+  url: <private>
+  token: <private>
+  add_missing: false
+  add_existing: false
+  upgrade_existing: false
+  monitor_existing: false
+  root_folder_path: <private>
+  monitor: true
+  availability: released
+  quality_profile: BluRay 1080
+  tag: kometa
+  search: false
+  radarr_path: /plex
+  plex_path: /plex
+  ignore_cache: false
+sonarr:
+  # Can be individually specified per library as well
+  url: <private>
+  token: <private>
+  add_missing: false
+  add_existing: false
+  upgrade_existing: false
+  monitor_existing: false
+  root_folder_path: <private>
+  monitor: all
+  quality_profile: '1080'
+  language_profile: English
+  series_type: standard
+  season_folder: true
+  tag: kometa
+  search: false
+  cutoff_search: false
+  sonarr_path: /plex
+  plex_path: /plex
+  ignore_cache: false
+trakt:
+  client_id: <private>
+  client_secret: <private>
+  pin:
+  authorization:
+    # everything below is autofilled by the script
+    access_token: <private>
+    token_type: <private>
+    expires_in: <private>
+    refresh_token: <private>
+    scope: public<private>
+    created_at: <private>
