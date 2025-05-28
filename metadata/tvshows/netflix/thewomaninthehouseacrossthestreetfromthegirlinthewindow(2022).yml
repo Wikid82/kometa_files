@@ -1,0 +1,7 @@
+metadata:
+  390537: # TVDB id for The Woman in the House Across the Street from the Girl in the Window. Set by Wikid82 on MediUX. https://mediux.pro/sets/33552
+    url_poster: https://api.mediux.pro/assets/462b4b76-c20a-46a2-b16a-b7ac4de52027
+    url_background: https://api.mediux.pro/assets/e4e787fc-c2d1-4b31-a0c4-bed4be735659
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9c44ef5b-9c19-4b33-b271-13f8d88c2b36
