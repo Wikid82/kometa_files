@@ -13,5 +13,5 @@ metadata:
     url_background: https://api.mediux.pro/assets/8437d258-1683-4106-a75e-9ba9b13e6566
 
   1001414: # Fear Street: Prom Queen (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33353
-    url_poster: https://api.mediux.pro/assets/e61a8b59-300e-46a6-bf71-4ed9862016a8
+    url_poster: https://api.mediux.pro/assets/e61a8b59-300e-46a6-bf71-4ed9862016a8?foo=bar
     url_background: https://api.mediux.pro/assets/4cbf40d3-2e1c-4ef4-bf8a-d8c582766db7
