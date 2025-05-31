@@ -1,4 +1,4 @@
 metadata:
   1313194: # Summer of 69 (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32855
-    url_poster: https://api.mediux.pro/assets/37416be4-acd1-48e3-ab2b-9bff13a91b97
-    url_background: https://api.mediux.pro/assets/f9e1cbd9-5767-4bb5-bec8-e5ad158a2849
+    url_poster: https://api.mediux.pro/assets/37416be4-acd1-48e3-ab2b-9bff13a91b97?foo=bar
+    url_background: https://api.mediux.pro/assets/f9e1cbd9-5767-4bb5-bec8-e5ad158a2849?foo=bar
