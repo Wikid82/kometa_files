@@ -1,0 +1,7 @@
+metadata:
+  462818: # TVDB id for Cold Case: The Tylenol Murders. Set by Wikid82 on MediUX. https://mediux.pro/sets/33692
+    url_poster: https://api.mediux.pro/assets/40996f05-9482-4aa6-b6d2-e193f2c3f2f4
+    url_background: https://api.mediux.pro/assets/c9a9ffd3-4eb0-4ca3-be8e-9e0e359906b5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/66b5a2be-42bd-4b1a-941c-6494232dc511
