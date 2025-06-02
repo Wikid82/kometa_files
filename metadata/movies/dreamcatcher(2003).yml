@@ -1,4 +1,4 @@
 metadata:
   6171: # Dreamcatcher (2003) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32765
-    url_poster: https://api.mediux.pro/assets/23689403-da34-4971-9cda-dcc0812d3947
-    url_background: https://api.mediux.pro/assets/cb243885-65e6-45fe-bd2c-4074776d4701
+    url_poster: https://api.mediux.pro/assets/23689403-da34-4971-9cda-dcc0812d3947?foo=bar
+    url_background: https://api.mediux.pro/assets/cb243885-65e6-45fe-bd2c-4074776d4701?foo=bar
