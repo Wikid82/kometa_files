@@ -79,7 +79,7 @@ Table of Contents
     │   │     ├── collections
     │   │     ├── metadata
     │   │     └── overlays
-    │   └── tvshows
+    │   └── series
     │         ├── collections
     │         ├── metadata
     │         └── overlays    
@@ -100,20 +100,20 @@ In your Kometa config file add:
 ```
   Movies:
     metadata_files:
-    - folder: /config/metadata/movies
+    - folder: /config/movies/metadata
     collection_files:
-    - folder: /config/collections/movies
+    - folder: /config/movies/collections
     overlay_files:
-    - folder: /config/overlays/movies
+    - folder: /config/movies/overlays
 ```
 ```
   TV Shows:
     metadata_files:
-    - folder: /config/metadata/tvshows
+    - folder: /config/series/metadata
     collection_files:
-    - folder: /config/collections/tvshows
+    - folder: /config/series/collections
     overlay_files:
-    - folder: /config/overlays/tvs
+    - folder: /config/series/overlays
 ```
 ```
  playlist_files:
