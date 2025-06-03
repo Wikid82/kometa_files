@@ -92,7 +92,7 @@ Table of Contents
 
 ### 🔖 Prerequisites
 
-**Kometa** 
+ <a href="https://kometa.wiki/en/latest/" title="Kometa">**Kometa**</a>
 
 ### 📦 Installation
 
