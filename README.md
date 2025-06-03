@@ -76,11 +76,11 @@ Table of Contents
     ├── images
     ├── media libraries
     │   ├── movies
-    |   |     ├── collections
-    |   |     ├── metadata
+    │   │     ├── collections
+    │   │     ├── metadata
     │   └── tvshows
-    |         ├── collections
-    |         ├── metadata
+    │         ├── collections
+    │         ├── metadata
     ├── overlays
     │   ├── movies
     │   └── tvshows
