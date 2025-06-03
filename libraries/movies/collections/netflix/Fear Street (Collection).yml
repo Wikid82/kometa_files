@@ -1,0 +1,8 @@
+collections:
+  Fear Street Collection:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list_details: https://trakt.tv/lists/30431424
+    url_background: https://api.mediux.pro/assets/e88b5554-548b-4e83-90f6-821a8a11dcf1
+    url_poster: https://api.mediux.pro/assets/9931f20f-43d6-4d43-9f06-dd980cb13a16
+    # Fear Street Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/33352
