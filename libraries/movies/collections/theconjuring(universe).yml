@@ -1,9 +1,0 @@
----
-collections:
-  The Conjuring Universe:
-    collection_mode: hide_items
-    collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29687217
-    url_background: https://api.mediux.pro/assets/9c20df8b-e156-4ea3-891e-c42c7759e4f2
-    url_poster: https://api.mediux.pro/assets/2f19f71f-b856-4f41-82d8-02ddb7ab6353
-    # Collection images by Wikid82 and hosted on GitHub.
