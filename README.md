@@ -78,12 +78,11 @@ Table of Contents
     │   ├── movies
     │   │     ├── collections
     │   │     ├── metadata
+    │   │     └── overlays
     │   └── tvshows
     │         ├── collections
     │         ├── metadata
-    ├── overlays
-    │   ├── movies
-    │   └── tvshows
+    │         └── overlays    
     ├── playlists
     ├── README.md 
     └── config.yml.template
