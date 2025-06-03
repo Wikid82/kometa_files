@@ -3,5 +3,6 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/870339-the-accountant-collection
-    url_background: https://image.tmdb.org/t/p/original/bTLQ4JmPrOiV7mQOcyHgemCFcwu.jpg
-    url_poster: https://api.mediux.pro/assets/479f80c9-c827-4fbe-9bb6-ae50d80376a7 # The Accountant (Collection) Poster by willtong93 on MediUX. https://mediux.pro/sets/31248
+    url_background: https://api.mediux.pro/assets/357b5529-2a67-4c6f-9d36-cde3fd8ddb1c
+    url_poster: https://api.mediux.pro/assets/e2f449d3-bb4f-4029-ac65-fc9b76ed5bf3
+    # The Accountant Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/33842

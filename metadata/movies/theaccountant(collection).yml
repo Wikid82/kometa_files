@@ -1,7 +1,9 @@
 metadata:
 
-  302946: # The Accountant (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/31248
-    url_poster: https://api.mediux.pro/assets/930329eb-b8c6-400d-b0ba-49b318e45919
+  302946: # The Accountant (2016) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33842
+    url_poster: https://api.mediux.pro/assets/5e100efe-2cf6-48d7-9aed-b2745a739d94
+    url_background: https://api.mediux.pro/assets/82afd0cc-c699-49cd-9a8c-7f15f9b5562b
 
-  870028: # The Accountant 2 (2025) Poster by willtong93 on MediUX. https://mediux.pro/sets/31248
-    url_poster: https://api.mediux.pro/assets/514fb7b9-e695-49a5-80f5-2c65954ddd63
+  870028: # The Accountant² (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33842
+    url_poster: https://api.mediux.pro/assets/feb38137-d61e-4659-b985-eb3f4943ee8b
+    url_background: https://api.mediux.pro/assets/b70f9d62-0dbe-472c-a557-331e502a2b3d
