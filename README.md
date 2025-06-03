@@ -73,17 +73,20 @@ Table of Contents
 └── kometa_files/
     ├── .github
     │   └── ISSUE_TEMPLATE
-    ├── README.md
-    ├── collections
+    ├── images
+    ├── media libraries
     │   ├── movies
+    |   |     ├── collections
+    |   |     ├── metadata
     │   └── tvshows
-    ├── metadata
-    │   ├── movies
-    │   └── tvshows
+    |         ├── collections
+    |         ├── metadata
     ├── overlays
     │   ├── movies
     │   └── tvshows
-    └── playlists
+    ├── playlists
+    ├── README.md 
+    └── config.yml.template
 ```
 
 ## 🚀 Getting Started
