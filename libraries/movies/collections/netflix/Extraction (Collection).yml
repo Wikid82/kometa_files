@@ -1,0 +1,9 @@
+---
+collections:
+  Extraction Collection: 
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/735127-extraction-collection
+    url_background: https://api.mediux.pro/assets/c64375c6-919a-4334-9c00-770e4c171c07?foo=bar
+    url_poster: https://api.mediux.pro/assets/1c97fd42-0034-457d-b5c9-90dadd0f1d0b?foo=bar
+    # Extraction Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/32958
