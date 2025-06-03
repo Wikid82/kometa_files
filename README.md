@@ -74,7 +74,7 @@ Table of Contents
     ├── .github
     │   └── ISSUE_TEMPLATE
     ├── images
-    ├── media libraries
+    ├── libraries
     │   ├── movies
     │   │     ├── collections
     │   │     ├── metadata
