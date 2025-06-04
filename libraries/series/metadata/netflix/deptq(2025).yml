@@ -1,0 +1,26 @@
+metadata:
+  445802: # TVDB id for Dept. Q. Set by willtong93 on MediUX. https://mediux.pro/sets/33367
+    url_poster: https://api.mediux.pro/assets/1bb5ccd7-8b68-4c26-8207-c8db42474c77
+    url_background: https://api.mediux.pro/assets/cf744475-bb6b-4087-a549-daceff371432
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/01e9ac26-ea76-47ba-a015-3c8efbcaf578
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/ddd9e3d5-2fce-4d7e-ad05-8451e4895e69
+          2:
+            url_poster: https://api.mediux.pro/assets/f61b3031-4032-4651-bf4c-5e6d7c293346
+          3:
+            url_poster: https://api.mediux.pro/assets/18adf578-28e8-49e1-a796-3a4afee32fed
+          4:
+            url_poster: https://api.mediux.pro/assets/142e5e63-a18f-411e-981a-8a0894a00eba
+          5:
+            url_poster: https://api.mediux.pro/assets/cc1a6e2c-cc19-418d-ab87-7f549fd387fe
+          6:
+            url_poster: https://api.mediux.pro/assets/bbf92cb2-2ddd-4bda-b9ae-35f3ff2930ff
+          7:
+            url_poster: https://api.mediux.pro/assets/4b69a1d0-6e52-4d8f-9139-b83ba46db0b9
+          8:
+            url_poster: https://api.mediux.pro/assets/c95e1289-9f6a-42b7-b4a5-d00d3fb2bad2
+          9:
+            url_poster: https://api.mediux.pro/assets/9e09d900-e7b3-4311-870a-5d99d3f69a42
