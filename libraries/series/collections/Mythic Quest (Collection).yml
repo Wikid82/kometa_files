@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     trakt_list: https://trakt.tv/lists/30987354
-    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/mythicquestcollectionbg.png
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/mythicquestcollectionposter.png
+    url_background: https://github.com/Wikid82/kometa_files/blob/main/images/collections/mythicquestcollectionbg.png?raw=true
+    url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/collections/mythicquestcollectionposter.png?raw=true
