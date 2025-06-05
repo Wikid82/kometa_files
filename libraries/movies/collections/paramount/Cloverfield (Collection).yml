@@ -4,5 +4,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     trakt_list_details: https://trakt.tv/lists/31563087
-    url_background: https://image.tmdb.org/t/p/original/A6xcpNenk5ClG9rPYpy1W1mApTR.jpg
-    url_poster: https://theposterdb.com/api/assets/80058
+    url_background: https://github.com/Wikid82/kometa_files/blob/main/images/collections/cloverfieldccollectionBG.jpg?raw=true
+    url_poster: https://github.com/Wikid82/kometa_files/blob/main/images/collections/cloverfieldcollection.jpg?raw=true
