@@ -20,6 +20,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/elevation
     - folder: /config/kometa_files/libraries/movies/metadata/illumination
     - folder: /config/kometa_files/libraries/movies/metadata/laika
+    - folder: /config/kometa_files/libraries/movies/metadata/lionsgate
     - folder: /config/kometa_files/libraries/movies/metadata/netflix
     - folder: /config/kometa_files/libraries/movies/metadata/paramount
     - folder: /config/kometa_files/libraries/movies/metadata/prime_video
@@ -40,6 +41,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/dreamworks/animation
     - folder: /config/kometa_files/libraries/movies/collections/elevation
     - folder: /config/kometa_files/libraries/movies/collections/illumination
+    - folder: /config/kometa_files/libraries/movies/collections/lionsgate
     - folder: /config/kometa_files/libraries/movies/collections/netflix
     - folder: /config/kometa_files/libraries/movies/collections/paramount
     - folder: /config/kometa_files/libraries/movies/collections/prime_video
