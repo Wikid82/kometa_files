@@ -1,8 +1,0 @@
----
-collections:
-  Beverly Hills Cop Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/85861-beverly-hills-cop-collection
-    url_background: https://api.mediux.pro/assets/712ac46c-fae9-460c-9421-1bc4c0d677e5
-    url_poster: https://api.mediux.pro/assets/9d8f94a8-9ff2-4d54-99a3-48c383d72c32

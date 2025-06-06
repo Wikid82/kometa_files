@@ -1,0 +1,9 @@
+---
+collections:
+  Beverly Hills Cop Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/85861-beverly-hills-cop-collection
+    url_background: https://api.mediux.pro/assets/f670b683-9b79-4635-b314-d1bcf92191c3
+    url_poster: https://api.mediux.pro/assets/5a0f91f0-932e-4fae-862e-57e1aef2e479
+    # Beverly Hills Cop Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/33999

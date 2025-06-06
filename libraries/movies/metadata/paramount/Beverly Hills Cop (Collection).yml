@@ -1,0 +1,18 @@
+metadata:
+
+  90: # Beverly Hills Cop (1984) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33999
+    url_poster: https://api.mediux.pro/assets/84443960-52bb-4ee0-9a59-d790599a8f4f
+    url_background: https://api.mediux.pro/assets/fa13582f-9ec7-47c2-8e83-17fa347f2c5b
+
+  96: # Beverly Hills Cop II (1987) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33999
+    url_poster: https://api.mediux.pro/assets/4bf0f074-ec63-4ffc-a50d-c9e0f02b788c
+    url_background: https://api.mediux.pro/assets/60f51ca4-81c5-477a-b95d-a81951ba4c78
+
+  306: # Beverly Hills Cop III (1994) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33999
+    url_poster: https://api.mediux.pro/assets/bb1bbce6-5cd6-48f7-a02f-786fb079705f
+    url_background: https://api.mediux.pro/assets/d3187fbf-ae9b-4b2f-a94a-2050ab153b13
+
+  280180: # Beverly Hills Cop: Axel F (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33999
+    url_poster: https://api.mediux.pro/assets/1c13d2f5-f122-4146-9287-af7704b54a02 #With Netflix Indicator
+#    url_poster: https://api.mediux.pro/assets/d6b4f7b0-128e-4b21-96c9-2aeba923a891 # Without Netflix Indicator
+    url_background: https://api.mediux.pro/assets/05452e29-7540-4e82-8d30-e6c5a384d2ed
