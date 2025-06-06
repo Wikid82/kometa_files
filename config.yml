@@ -9,7 +9,6 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/bluesky_animation
     - folder: /config/kometa_files/libraries/movies/metadata/dc
     - folder: /config/kometa_files/libraries/movies/metadata/dc/dceu
-#    - folder: /config/kometa_files/libraries/movies/metadata/disney
     - folder: /config/kometa_files/libraries/movies/metadata/disney/animation
     - folder: /config/kometa_files/libraries/movies/metadata/disney/live_action
     - folder: /config/kometa_files/libraries/movies/metadata/disney/lucasfilm
