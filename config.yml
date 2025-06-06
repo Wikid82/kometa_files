@@ -15,6 +15,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/disney/marvel/marvel_studios
     - folder: /config/kometa_files/libraries/movies/collections/disney/marvel/ssu
     - folder: /config/kometa_files/libraries/movies/collections/disney/pixar
+    - folder: /config/kometa_files/libraries/movies/collections/dreamworks/
     - folder: /config/kometa_files/libraries/movies/collections/dreamworks/animation
     - folder: /config/kometa_files/libraries/movies/collections/elevation
     - folder: /config/kometa_files/libraries/movies/collections/focus_features
@@ -42,6 +43,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/disney/marvel/marvel_studios
     - folder: /config/kometa_files/libraries/movies/metadata/disney/marvel/ssu
     - folder: /config/kometa_files/libraries/movies/metadata/disney/pixar
+    - folder: /config/kometa_files/libraries/movies/metadata/dreamworks/
     - folder: /config/kometa_files/libraries/movies/metadata/dreamworks/animation
     - folder: /config/kometa_files/libraries/movies/metadata/elevation
     - folder: /config/kometa_files/libraries/movies/metadata/focus_features
