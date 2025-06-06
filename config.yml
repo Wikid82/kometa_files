@@ -17,6 +17,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/disney/pixar
     - folder: /config/kometa_files/libraries/movies/collections/dreamworks/animation
     - folder: /config/kometa_files/libraries/movies/collections/elevation
+    - folder: /config/kometa_files/libraries/movies/collections/focus_features
     - folder: /config/kometa_files/libraries/movies/collections/fox
     - folder: /config/kometa_files/libraries/movies/collections/illumination
     - folder: /config/kometa_files/libraries/movies/collections/lionsgate
@@ -40,6 +41,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/disney/pixar
     - folder: /config/kometa_files/libraries/movies/metadata/dreamworks/animation
     - folder: /config/kometa_files/libraries/movies/metadata/elevation
+    - folder: /config/kometa_files/libraries/movies/metadata/focus_features
     - folder: /config/kometa_files/libraries/movies/metadata/fox
     - folder: /config/kometa_files/libraries/movies/metadata/illumination
     - folder: /config/kometa_files/libraries/movies/metadata/laika
@@ -48,7 +50,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/paramount
     - folder: /config/kometa_files/libraries/movies/metadata/prime_video
     - folder: /config/kometa_files/libraries/movies/metadata/sony/animation    
-    - folder: /config/kometa_files/libraries/movies/metadata 
+    - folder: /config/kometa_files/libraries/movies/metadata  
     overlay_files:
     - file: /config/kometa_files/overlays/movies/content_rating_us_movies.yml
       template_variables:
