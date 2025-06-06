@@ -6,6 +6,7 @@ libraries:
     collection_files:
     - folder: /config/kometa_files/libraries/movies/collections/a24
     - folder: /config/kometa_files/libraries/movies/collections/bluesky_animation
+    - folder: /config/kometa_files/libraries/movies/collections/buena_vista
     - folder: /config/kometa_files/libraries/movies/collections/dc
     - folder: /config/kometa_files/libraries/movies/collections/dc/dceu
     - folder: /config/kometa_files/libraries/movies/collections/disney/animation
@@ -35,6 +36,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/a24
     - folder: /config/kometa_files/libraries/movies/metadata/appletv+
     - folder: /config/kometa_files/libraries/movies/metadata/bluesky_animation
+    - folder: /config/kometa_files/libraries/movies/metadata/buena_vista
     - folder: /config/kometa_files/libraries/movies/metadata/dc
     - folder: /config/kometa_files/libraries/movies/metadata/dc/dceu
     - folder: /config/kometa_files/libraries/movies/metadata/disney/animation
