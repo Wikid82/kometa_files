@@ -29,6 +29,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/prime_video
     - folder: /config/kometa_files/libraries/movies/collections/sony
     - folder: /config/kometa_files/libraries/movies/collections/sony/animation
+    - folder: /config/kometa_files/libraries/movies/collections/stx
     - folder: /config/kometa_files/libraries/movies/collections/universal
     - folder: /config/kometa_files/libraries/movies/collections/warner_bros
     - folder: /config/kometa_files/libraries/movies/collections
@@ -60,6 +61,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/prime_video
     - folder: /config/kometa_files/libraries/movies/metadata/sony
     - folder: /config/kometa_files/libraries/movies/metadata/sony/animation
+    - folder: /config/kometa_files/libraries/movies/metadata/stx
     - folder: /config/kometa_files/libraries/movies/metadata/universal
     - folder: /config/kometa_files/libraries/movies/metadata/warner_bros
     - folder: /config/kometa_files/libraries/movies/metadata 
