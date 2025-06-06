@@ -27,6 +27,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/new_line
     - folder: /config/kometa_files/libraries/movies/collections/paramount
     - folder: /config/kometa_files/libraries/movies/collections/prime_video
+    - folder: /config/kometa_files/libraries/movies/collections/sky
     - folder: /config/kometa_files/libraries/movies/collections/sony
     - folder: /config/kometa_files/libraries/movies/collections/sony/animation
     - folder: /config/kometa_files/libraries/movies/collections/stx
@@ -59,6 +60,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/new_line
     - folder: /config/kometa_files/libraries/movies/metadata/paramount
     - folder: /config/kometa_files/libraries/movies/metadata/prime_video
+    - folder: /config/kometa_files/libraries/movies/metadata/sky
     - folder: /config/kometa_files/libraries/movies/metadata/sony
     - folder: /config/kometa_files/libraries/movies/metadata/sony/animation
     - folder: /config/kometa_files/libraries/movies/metadata/stx
