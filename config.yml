@@ -23,6 +23,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/illumination
     - folder: /config/kometa_files/libraries/movies/collections/lionsgate
     - folder: /config/kometa_files/libraries/movies/collections/netflix
+    - folder: /config/kometa_files/libraries/movies/collections/new_line
     - folder: /config/kometa_files/libraries/movies/collections/paramount
     - folder: /config/kometa_files/libraries/movies/collections/prime_video
     - folder: /config/kometa_files/libraries/movies/collections/sony
@@ -52,6 +53,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/laika
     - folder: /config/kometa_files/libraries/movies/metadata/lionsgate
     - folder: /config/kometa_files/libraries/movies/metadata/netflix
+    - folder: /config/kometa_files/libraries/movies/metadata/new_line
     - folder: /config/kometa_files/libraries/movies/metadata/paramount
     - folder: /config/kometa_files/libraries/movies/metadata/prime_video
     - folder: /config/kometa_files/libraries/movies/metadata/sony
