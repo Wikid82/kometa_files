@@ -1,0 +1,9 @@
+---
+collections:
+  Knives Out Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/722971-knives-out-collection
+    url_background: https://api.mediux.pro/assets/72e19ad9-132b-4145-94fe-443940b034d8
+    url_poster: https://api.mediux.pro/assets/9b6200c1-eebf-4f0e-9794-354a4a2842f6
+    # Knives Out Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/34001
