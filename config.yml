@@ -25,6 +25,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/paramount
     - folder: /config/kometa_files/libraries/movies/collections/prime_video
     - folder: /config/kometa_files/libraries/movies/collections/sony/animation
+    - folder: /config/kometa_files/libraries/movies/collections/warner_bros
     - folder: /config/kometa_files/libraries/movies/collections
     metadata_files:    
     - folder: /config/kometa_files/libraries/movies/metadata/a24
@@ -49,8 +50,9 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/netflix
     - folder: /config/kometa_files/libraries/movies/metadata/paramount
     - folder: /config/kometa_files/libraries/movies/metadata/prime_video
-    - folder: /config/kometa_files/libraries/movies/metadata/sony/animation    
-    - folder: /config/kometa_files/libraries/movies/metadata  
+    - folder: /config/kometa_files/libraries/movies/metadata/sony/animation
+    - folder: /config/kometa_files/libraries/movies/metadata/warner_bros
+    - folder: /config/kometa_files/libraries/movies/metadata 
     overlay_files:
     - file: /config/kometa_files/overlays/movies/content_rating_us_movies.yml
       template_variables:
