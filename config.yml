@@ -3,6 +3,28 @@ libraries:
     remove_overlays: false
     reapply_overlays: false
     report_path: /config/reports/movies_report.yml
+    collection_files:
+    - folder: /config/kometa_files/libraries/movies/collections/a24
+    - folder: /config/kometa_files/libraries/movies/collections/bluesky_animation
+    - folder: /config/kometa_files/libraries/movies/collections/dc
+    - folder: /config/kometa_files/libraries/movies/collections/dc/dceu
+    - folder: /config/kometa_files/libraries/movies/collections/disney/animation
+    - folder: /config/kometa_files/libraries/movies/collections/disney/live_action
+    - folder: /config/kometa_files/libraries/movies/collections/disney/lucasfilm
+    - folder: /config/kometa_files/libraries/movies/collections/disney/marvel/in_association_with
+    - folder: /config/kometa_files/libraries/movies/collections/disney/marvel/marvel_studios
+    - folder: /config/kometa_files/libraries/movies/collections/disney/marvel/ssu
+    - folder: /config/kometa_files/libraries/movies/collections/disney/pixar
+    - folder: /config/kometa_files/libraries/movies/collections/dreamworks/animation
+    - folder: /config/kometa_files/libraries/movies/collections/elevation
+    - folder: /config/kometa_files/libraries/movies/collections/fox
+    - folder: /config/kometa_files/libraries/movies/collections/illumination
+    - folder: /config/kometa_files/libraries/movies/collections/lionsgate
+    - folder: /config/kometa_files/libraries/movies/collections/netflix
+    - folder: /config/kometa_files/libraries/movies/collections/paramount
+    - folder: /config/kometa_files/libraries/movies/collections/prime_video
+    - folder: /config/kometa_files/libraries/movies/collections/sony/animation
+    - folder: /config/kometa_files/libraries/movies/collections
     metadata_files:    
     - folder: /config/kometa_files/libraries/movies/metadata/a24
     - folder: /config/kometa_files/libraries/movies/metadata/appletv+
@@ -18,6 +40,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/disney/pixar
     - folder: /config/kometa_files/libraries/movies/metadata/dreamworks/animation
     - folder: /config/kometa_files/libraries/movies/metadata/elevation
+    - folder: /config/kometa_files/libraries/movies/metadata/fox
     - folder: /config/kometa_files/libraries/movies/metadata/illumination
     - folder: /config/kometa_files/libraries/movies/metadata/laika
     - folder: /config/kometa_files/libraries/movies/metadata/lionsgate
@@ -25,28 +48,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/paramount
     - folder: /config/kometa_files/libraries/movies/metadata/prime_video
     - folder: /config/kometa_files/libraries/movies/metadata/sony/animation    
-    - folder: /config/kometa_files/libraries/movies/metadata    
-    collection_files:
-    - folder: /config/kometa_files/libraries/movies/collections/a24
-    - folder: /config/kometa_files/libraries/movies/collections/bluesky_animation
-    - folder: /config/kometa_files/libraries/movies/collections/dc
-    - folder: /config/kometa_files/libraries/movies/collections/dc/dceu
-    - folder: /config/kometa_files/libraries/movies/collections/disney/animation
-    - folder: /config/kometa_files/libraries/movies/collections/disney/live_action
-    - folder: /config/kometa_files/libraries/movies/collections/disney/lucasfilm
-    - folder: /config/kometa_files/libraries/movies/collections/disney/marvel/in_association_with
-    - folder: /config/kometa_files/libraries/movies/collections/disney/marvel/marvel_studios
-    - folder: /config/kometa_files/libraries/movies/collections/disney/marvel/ssu
-    - folder: /config/kometa_files/libraries/movies/collections/disney/pixar
-    - folder: /config/kometa_files/libraries/movies/collections/dreamworks/animation
-    - folder: /config/kometa_files/libraries/movies/collections/elevation
-    - folder: /config/kometa_files/libraries/movies/collections/illumination
-    - folder: /config/kometa_files/libraries/movies/collections/lionsgate
-    - folder: /config/kometa_files/libraries/movies/collections/netflix
-    - folder: /config/kometa_files/libraries/movies/collections/paramount
-    - folder: /config/kometa_files/libraries/movies/collections/prime_video
-    - folder: /config/kometa_files/libraries/movies/collections/sony/animation
-    - folder: /config/kometa_files/libraries/movies/collections
+    - folder: /config/kometa_files/libraries/movies/metadata 
     overlay_files:
     - file: /config/kometa_files/overlays/movies/content_rating_us_movies.yml
       template_variables:
