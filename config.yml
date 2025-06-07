@@ -6,6 +6,7 @@ libraries:
     collection_files:
     - folder: /config/kometa_files/libraries/movies/collections/a24
     - folder: /config/kometa_files/libraries/movies/collections/bluesky_animation
+#    - folder: /config/kometa_files/libraries/movies/collections/brainstorm
 #    - folder: /config/kometa_files/libraries/movies/collections/buena_vista
 #    - folder: /config/kometa_files/libraries/movies/collections/columbia
     - folder: /config/kometa_files/libraries/movies/collections/dc
@@ -47,6 +48,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/a24
     - folder: /config/kometa_files/libraries/movies/metadata/appletv+
     - folder: /config/kometa_files/libraries/movies/metadata/bluesky_animation
+    - folder: /config/kometa_files/libraries/movies/metadata/brainstorm
     - folder: /config/kometa_files/libraries/movies/metadata/buena_vista
     - folder: /config/kometa_files/libraries/movies/metadata/columbia 
     - folder: /config/kometa_files/libraries/movies/metadata/dc
