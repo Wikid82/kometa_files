@@ -42,9 +42,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/stx
 #    - folder: /config/kometa_files/libraries/movies/collections/sumarian
 #    - folder: /config/kometa_files/libraries/movies/collections/tristar
-#    - folder: /config/kometa_files/libraries/movies/collections/universal
-#    - folder: /config/kometa_files/libraries/movies/collections/vertical
-    - folder: /config/kometa_files/libraries/movies/collections/warner_bros
+#    - folder: /config/kometa_files/libraries/movies/collections/we_go
     - folder: /config/kometa_files/libraries/movies/collections
     metadata_files:    
     - folder: /config/kometa_files/libraries/movies/metadata/a24
@@ -90,7 +88,8 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/universal
     - folder: /config/kometa_files/libraries/movies/metadata/vertical
     - folder: /config/kometa_files/libraries/movies/metadata/warner_bros
-    - folder: /config/kometa_files/libraries/movies/metadata 
+    - folder: /config/kometa_files/libraries/movies/metadata/we_go
+    - folder: /config/kometa_files/libraries/movies/metadata  
     overlay_files:
     - file: /config/kometa_files/overlays/movies/content_rating_us_movies.yml
       template_variables:
