@@ -1,0 +1,8 @@
+collections:
+  Critters Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/10893-critters-collection
+    url_background: https://api.mediux.pro/assets/0e4ca530-7b7e-4e7e-add0-79104631c114
+    url_poster: https://api.mediux.pro/assets/59b0dfa2-de25-4adc-9089-8dd05b547e4c
+     # Critters Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/33290
