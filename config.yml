@@ -29,6 +29,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/lionsgate
 #    - folder: /config/kometa_files/libraries/movies/collections/magnolia
 #    - folder: /config/kometa_files/libraries/movies/collections/miramax
+#    - folder: /config/kometa_files/libraries/movies/collections/megenta_light
     - folder: /config/kometa_files/libraries/movies/collections/netflix
     - folder: /config/kometa_files/libraries/movies/collections/new_line
     - folder: /config/kometa_files/libraries/movies/collections/paramount
@@ -72,6 +73,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/laika
     - folder: /config/kometa_files/libraries/movies/metadata/lionsgate
     - folder: /config/kometa_files/libraries/movies/metadata/magnolia
+    - folder: /config/kometa_files/libraries/movies/metadata/megenta_light
     - folder: /config/kometa_files/libraries/movies/metadata/miramax
     - folder: /config/kometa_files/libraries/movies/metadata/netflix
     - folder: /config/kometa_files/libraries/movies/metadata/new_line
