@@ -39,6 +39,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/sony
     - folder: /config/kometa_files/libraries/movies/collections/sony/animation
     - folder: /config/kometa_files/libraries/movies/collections/stx
+#    - folder: /config/kometa_files/libraries/movies/collections/sumarian
 #    - folder: /config/kometa_files/libraries/movies/collections/tristar
 #    - folder: /config/kometa_files/libraries/movies/collections/universal
 #    - folder: /config/kometa_files/libraries/movies/collections/vertical
@@ -82,6 +83,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/sony
     - folder: /config/kometa_files/libraries/movies/metadata/sony/animation
     - folder: /config/kometa_files/libraries/movies/metadata/stx
+    - folder: /config/kometa_files/libraries/movies/metadata/sumarian
     - folder: /config/kometa_files/libraries/movies/metadata/tristar
     - folder: /config/kometa_files/libraries/movies/metadata/universal
     - folder: /config/kometa_files/libraries/movies/metadata/vertical
