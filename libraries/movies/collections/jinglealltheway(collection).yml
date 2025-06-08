@@ -1,0 +1,7 @@
+collections:
+  Jingle All The Way Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/307637-jingle-all-the-way-collection
+    url_background: https://image.tmdb.org/t/p/original/rnn6sGMGPpM8VfVmCMFxsjKvz7q.jpg
+    url_poster: https://image.tmdb.org/t/p/original/uwD8CDeHwPFKqwToEhu3nR0swhH.jpg
