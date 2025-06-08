@@ -151,9 +151,9 @@ libraries:
 #    - folder: /config/kometa_files/libraries/series/collections/ctv
     - folder: /config/kometa_files/libraries/series/collections/dc
     - folder: /config/kometa_files/libraries/series/collections/discovery
-    - folder: /config/kometa_files/libraries/series/collections/discovery+
-    - folder: /config/kometa_files/libraries/series/collections/disney
-    - folder: /config/kometa_files/libraries/series/collections/disney+
+#    - folder: /config/kometa_files/libraries/series/collections/discovery+
+#    - folder: /config/kometa_files/libraries/series/collections/disney
+#    - folder: /config/kometa_files/libraries/series/collections/disney+
     - folder: /config/kometa_files/libraries/series/collections/disney+/marvel
     - folder: /config/kometa_files/libraries/series/collections/disney+/marvel/mcu
     - folder: /config/kometa_files/libraries/series/collections/disney+/star_wars    
@@ -162,7 +162,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/series/collections/hbo
     - folder: /config/kometa_files/libraries/series/collections/history
 #    - folder: /config/kometa_files/libraries/series/collections/hulu
-    - folder: /config/kometa_files/libraries/series/collections/investigation_discovery
+#    - folder: /config/kometa_files/libraries/series/collections/investigation_discovery
 #    - folder: /config/kometa_files/libraries/series/collections/max
 #    - folder: /config/kometa_files/libraries/series/collections/national_geographic
 #    - folder: /config/kometa_files/libraries/series/collections/nbc
@@ -175,7 +175,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/series/collections/sky_atlantic
 #    - folder: /config/kometa_files/libraries/series/collections/starz
 #    - folder: /config/kometa_files/libraries/series/collections/syfy
-    - folder: /config/kometa_files/libraries/series/collections/tnt
+#    - folder: /config/kometa_files/libraries/series/collections/tnt
 #    - folder: /config/kometa_files/libraries/series/collections/truetv
     - folder: /config/kometa_files/libraries/series/collections  
     metadata_files:
