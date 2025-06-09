@@ -73,3 +73,10 @@ metadata:
         url_poster: https://api.mediux.pro/assets/57fab718-3afb-4203-bcbe-8a77f7e39adc?foo=bar
       2:
         url_poster: https://api.mediux.pro/assets/444aa4c7-c24e-4909-8141-2d433ecce07d?foo=bar
+
+  423602: # TVDB id for Tales From The Explorers Club. Set by Wikid82 on MediUX. https://mediux.pro/sets/34075
+    url_poster: https://api.mediux.pro/assets/b57e1c88-b7f4-4e45-bb7b-1ebac3107928
+    url_background: https://api.mediux.pro/assets/f041a6a1-c435-4f80-a212-da76fd6fc48b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/420f0e13-fc8d-4569-8391-21fe1cda9b8d
