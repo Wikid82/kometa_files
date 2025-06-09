@@ -1,9 +1,9 @@
 metadata:
   279553: # TVDB id for Ascension. Set by Wikid82 on MediUX. https://mediux.pro/sets/33394
-    url_poster: https://api.mediux.pro/assets/36b285dc-5ca3-4f8f-8736-f6243be1f65a
-    url_background: https://api.mediux.pro/assets/5131631a-2798-473a-ae93-34af464bc773
+    url_poster: https://api.mediux.pro/assets/36b285dc-5ca3-4f8f-8736-f6243be1f65a?foo=bar
+    url_background: https://api.mediux.pro/assets/5131631a-2798-473a-ae93-34af464bc773?foo=bar
     seasons:
 #      0:
-#        url_poster: https://api.mediux.pro/assets/398bb9d8-eacf-41e1-becf-4f305ee1f677
+#        url_poster: https://api.mediux.pro/assets/398bb9d8-eacf-41e1-becf-4f305ee1f677?foo=bar
       1:
-        url_poster: https://api.mediux.pro/assets/641715f2-3bf8-4181-89a2-9c9732887ec0
+        url_poster: https://api.mediux.pro/assets/641715f2-3bf8-4181-89a2-9c9732887ec0?foo=bar
