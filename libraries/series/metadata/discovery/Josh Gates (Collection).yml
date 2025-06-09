@@ -1,4 +1,21 @@
 metadata:
+
+  80251: # TVDB id for Destination Truth (2007). Set by Wikid82 on MediUX. https://mediux.pro/sets/34076
+    url_poster: https://api.mediux.pro/assets/67b3b4b0-0b71-4587-b861-7ad532ea1557
+    url_background: https://api.mediux.pro/assets/9e31b326-3220-45a0-8daf-3bcd9e94e8d4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3dd49686-826a-48f5-8c60-7d42076d0fbb
+      2:
+        url_poster: https://api.mediux.pro/assets/efccc212-4b8c-4758-b0f6-7232fb1a681f
+      3:
+        url_poster: https://api.mediux.pro/assets/c10ac6ec-2974-44a5-be07-9b81b93f3370
+      4:
+        url_poster: https://api.mediux.pro/assets/ebfbbe9e-d631-41f8-aba6-c54929140479
+      5:
+        url_poster: https://api.mediux.pro/assets/1c252c50-f952-41c0-8bff-7294b4d90c26
+
+
   280316: # TVDB id for Expedition Unknown (2015). Set by Wikid82 on MediUX. https://mediux.pro/sets/33270
     url_poster: https://api.mediux.pro/assets/86123859-dbb4-421b-a9d8-d8bfa117ef2a
     url_background: https://api.mediux.pro/assets/6d07d462-c0a1-484a-af6d-3072acce75b5?
