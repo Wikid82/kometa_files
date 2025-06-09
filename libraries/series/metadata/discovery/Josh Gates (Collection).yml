@@ -55,6 +55,14 @@ metadata:
       16:
         url_poster: https://api.mediux.pro/assets/8c2be96a-3b15-4144-beba-4d7f1b5cb7df
 
+  335652: # TVDB id for Legendary Locations (2017). Set by Wikid82 on MediUX. https://mediux.pro/sets/34074
+    url_poster: https://api.mediux.pro/assets/7d292fa7-873a-44da-8004-c468a302e55c
+    url_background: https://api.mediux.pro/assets/51be1107-19c5-444d-a8e3-a2d621ac0efc
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0c6d898f-01fa-420f-a362-db713285e0ff
+      2:
+        url_poster: https://api.mediux.pro/assets/683c813e-eb39-487d-906a-3401bc3abf1b
 
 
   375704: # TVDB id for Expedition X (2020). Set by Wikid82 on MediUX. https://mediux.pro/sets/33274
