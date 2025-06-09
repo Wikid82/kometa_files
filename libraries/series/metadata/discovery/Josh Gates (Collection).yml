@@ -1,5 +1,5 @@
 metadata:
-  280316: # TVDB id for Expedition Unknown. Set by Wikid82 on MediUX. https://mediux.pro/sets/33270
+  280316: # TVDB id for Expedition Unknown (2015). Set by Wikid82 on MediUX. https://mediux.pro/sets/33270
     url_poster: https://api.mediux.pro/assets/86123859-dbb4-421b-a9d8-d8bfa117ef2a
     url_background: https://api.mediux.pro/assets/6d07d462-c0a1-484a-af6d-3072acce75b5?
     seasons:
@@ -40,7 +40,7 @@ metadata:
 
 
 
-  375704: # TVDB id for Expedition X. Set by Wikid82 on MediUX. https://mediux.pro/sets/33274
+  375704: # TVDB id for Expedition X (2020). Set by Wikid82 on MediUX. https://mediux.pro/sets/33274
     url_poster: https://api.mediux.pro/assets/7f13bdb6-f760-4650-b819-c7edac069001?foo=bar
     url_background: https://api.mediux.pro/assets/ab6f2912-2820-4779-a508-98138dea0cd5?foo=bar
     seasons:
@@ -64,8 +64,15 @@ metadata:
         url_poster: https://api.mediux.pro/assets/279be959-c94a-42bb-9980-7ef2f8f29695?foo=bar2
 
 
+  423602: # TVDB id for Tales From The Explorers Club (2022). Set by Wikid82 on MediUX. https://mediux.pro/sets/34075
+    url_poster: https://api.mediux.pro/assets/b57e1c88-b7f4-4e45-bb7b-1ebac3107928
+    url_background: https://api.mediux.pro/assets/f041a6a1-c435-4f80-a212-da76fd6fc48b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/420f0e13-fc8d-4569-8391-21fe1cda9b8d
 
-  455835: # TVDB id for Expedition Files. Set by Wikid82 on MediUX. https://mediux.pro/sets/33276
+
+  455835: # TVDB id for Expedition Files (2024). Set by Wikid82 on MediUX. https://mediux.pro/sets/33276
     url_poster: https://api.mediux.pro/assets/79df80c5-122a-4c35-b37c-0de4b9bd6f37
     url_background: https://api.mediux.pro/assets/f3791124-4d3b-40d7-99be-6b3b572af713
     seasons:
@@ -73,10 +80,3 @@ metadata:
         url_poster: https://api.mediux.pro/assets/57fab718-3afb-4203-bcbe-8a77f7e39adc?foo=bar
       2:
         url_poster: https://api.mediux.pro/assets/444aa4c7-c24e-4909-8141-2d433ecce07d?foo=bar
-
-  423602: # TVDB id for Tales From The Explorers Club. Set by Wikid82 on MediUX. https://mediux.pro/sets/34075
-    url_poster: https://api.mediux.pro/assets/b57e1c88-b7f4-4e45-bb7b-1ebac3107928
-    url_background: https://api.mediux.pro/assets/f041a6a1-c435-4f80-a212-da76fd6fc48b
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/420f0e13-fc8d-4569-8391-21fe1cda9b8d
