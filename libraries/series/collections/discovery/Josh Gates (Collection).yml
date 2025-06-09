@@ -1,0 +1,7 @@
+collections:
+  Josh Gates Collection:
+    collection_order: release.asc
+    sync_mode: sync
+    trakt_list_details: https://trakt.tv/lists/29380046
+    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/joshgatescollectionBG.jpg
+    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/joshgatescollection.jpg
