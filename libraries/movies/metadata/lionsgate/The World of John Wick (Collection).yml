@@ -1,0 +1,21 @@
+metadata:
+
+  245891: # John Wick (2014) Poster by Wikid82 on MediUX. https://mediux.pro/sets/34150
+    url_poster: https://api.mediux.pro/assets/6da97423-16fd-4613-89d9-7efdee3b61b2
+    url_background: https://api.mediux.pro/assets/e9d80009-458b-40c8-afa0-83505ebc26ce
+
+  324552: # John Wick: Chapter 2 (2017) Poster by Wikid82 on MediUX. https://mediux.pro/sets/34150
+    url_poster: https://api.mediux.pro/assets/f0ec207b-e30e-423d-a671-8ae123d11ce6
+    url_background: https://api.mediux.pro/assets/4ca5bf54-b3a1-488b-8608-94ca19c91c5e
+
+  458156: # John Wick: Chapter 3 - Parabellum (2019) Poster by Wikid82 on MediUX. https://mediux.pro/sets/34150
+    url_poster: https://api.mediux.pro/assets/59d3b8c8-19aa-40b2-a147-301721151e20
+    url_background: https://api.mediux.pro/assets/6a50b32b-f0e5-43ff-94fc-0cc478fd65be
+
+  603692: # John Wick: Chapter 4 (2023) Poster by Wikid82 on MediUX. https://mediux.pro/sets/34150
+    url_poster: https://api.mediux.pro/assets/ef5fad8c-3efd-4722-af05-af975f86dad4
+    url_background: https://api.mediux.pro/assets/7aeccd75-87b8-4704-ad38-99a11f3377ed
+
+  541671: # Ballerina (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/34152
+    url_poster: https://api.mediux.pro/assets/22f522c3-0fd0-483c-93ce-a112a39799e9
+    url_background: https://api.mediux.pro/assets/94f4b3c3-279d-4670-9276-07683098d906

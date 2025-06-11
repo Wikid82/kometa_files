@@ -1,8 +1,0 @@
----
-collections:
-  John Wick Collection:
-    collection_mode: hide_items
-    collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29629060
-    url_background: https://api.mediux.pro/assets/3ab7303b-7481-45bc-bbfa-83c40aec4308
-    url_poster: https://api.mediux.pro/assets/7e22a2f6-af71-430d-8d84-bc9420f88b8a
