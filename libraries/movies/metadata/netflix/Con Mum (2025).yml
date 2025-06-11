@@ -1,4 +1,4 @@
 metadata:
   1442440: # Con Mum (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33970
-    url_poster: https://api.mediux.pro/assets/d7f94c81-9dae-4279-9113-c13245735409
-    url_background: https://api.mediux.pro/assets/aa591760-1e5c-47b3-958c-3cf940c7698a
+    url_poster: https://api.mediux.pro/assets/d7f94c81-9dae-4279-9113-c13245735409?foo=bar
+    url_background: https://api.mediux.pro/assets/aa591760-1e5c-47b3-958c-3cf940c7698a?foo=bar

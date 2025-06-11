@@ -5,6 +5,6 @@ metadata:
     url_background: https://api.mediux.pro/assets/8c996d07-315a-4935-a5b9-21c01f4092d0
 
   932420: # Code 8 Part II (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33995
-    url_poster: https://api.mediux.pro/assets/76c6b5b2-2222-4245-b316-8def66e4834e # With Netflix Indicastor
+    url_poster: https://api.mediux.pro/assets/76c6b5b2-2222-4245-b316-8def66e4834e?foo=bar # With Netflix Indicastor
 #    url_poster: https://api.mediux.pro/assets/3c4398ea-4ed3-4dce-a671-afd72d6ac345 # Without Netflix Indicastor
     url_background: https://api.mediux.pro/assets/fd05e89b-d624-44c7-aa6f-5ec030991228

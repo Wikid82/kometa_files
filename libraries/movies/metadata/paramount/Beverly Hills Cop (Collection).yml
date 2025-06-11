@@ -13,6 +13,6 @@ metadata:
     url_background: https://api.mediux.pro/assets/d3187fbf-ae9b-4b2f-a94a-2050ab153b13
 
   280180: # Beverly Hills Cop: Axel F (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33999
-    url_poster: https://api.mediux.pro/assets/1c13d2f5-f122-4146-9287-af7704b54a02 #With Netflix Indicator
+    url_poster: https://api.mediux.pro/assets/1c13d2f5-f122-4146-9287-af7704b54a02?foo=bar #With Netflix Indicator
 #    url_poster: https://api.mediux.pro/assets/d6b4f7b0-128e-4b21-96c9-2aeba923a891 # Without Netflix Indicator
     url_background: https://api.mediux.pro/assets/05452e29-7540-4e82-8d30-e6c5a384d2ed

@@ -1,4 +1,4 @@
 metadata:
   1261924: # What Jennifer Did (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33952
-    url_poster: https://api.mediux.pro/assets/717582e0-733f-430e-bd32-52cdb5307d3d
-    url_background: https://api.mediux.pro/assets/0aa65434-a462-4037-803f-dfe767383e19
+    url_poster: https://api.mediux.pro/assets/717582e0-733f-430e-bd32-52cdb5307d3d?foo=bar
+    url_background: https://api.mediux.pro/assets/0aa65434-a462-4037-803f-dfe767383e19?foo=bar

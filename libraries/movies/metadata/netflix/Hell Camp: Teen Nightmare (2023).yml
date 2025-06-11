@@ -1,4 +1,4 @@
 metadata:
   1215278: # Hell Camp: Teen Nightmare (2023) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33924
-    url_poster: https://api.mediux.pro/assets/2ffd6034-567c-423b-bdb1-9d6a75a78058
-    url_background: https://api.mediux.pro/assets/6134a20b-9f2a-42f6-a62c-1a51585f7e4f
+    url_poster: https://api.mediux.pro/assets/2ffd6034-567c-423b-bdb1-9d6a75a78058?foo=bar
+    url_background: https://api.mediux.pro/assets/6134a20b-9f2a-42f6-a62c-1a51585f7e4f?foo=bar

@@ -3,6 +3,6 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/847029-the-old-guard-collection
-    url_background: https://api.mediux.pro/assets/f9b07d6c-bdd5-4925-93c0-debacdc10598
-    url_poster: https://api.mediux.pro/assets/7a537f8f-a141-4a85-bbf3-351a996c1585
+    url_background: https://api.mediux.pro/assets/f9b07d6c-bdd5-4925-93c0-debacdc10598?foo=bar
+    url_poster: https://api.mediux.pro/assets/7a537f8f-a141-4a85-bbf3-351a996c1585?foo=bar
     # The Old Guard Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/33623

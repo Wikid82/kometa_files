@@ -1,4 +1,4 @@
 metadata:
   1391409: # Biggest Heist Ever (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33955
-    url_poster: https://api.mediux.pro/assets/e6c0993b-f4f8-43fa-a9c8-cf5c28a93b2f
-    url_background: https://api.mediux.pro/assets/c8a1394b-911d-4c7c-8247-a42038e532b8
+    url_poster: https://api.mediux.pro/assets/e6c0993b-f4f8-43fa-a9c8-cf5c28a93b2f?foo=bar
+    url_background: https://api.mediux.pro/assets/c8a1394b-911d-4c7c-8247-a42038e532b8?foo=bar

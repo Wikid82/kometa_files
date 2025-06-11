@@ -1,4 +1,4 @@
 metadata:
   615678: # Thunder Force (2021) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33690
-    url_poster: https://api.mediux.pro/assets/299cd531-f10b-4807-b761-cdc48adef9a7
-    url_background: https://api.mediux.pro/assets/5952a9ea-8765-4aac-a739-83ee693c42ba
+    url_poster: https://api.mediux.pro/assets/299cd531-f10b-4807-b761-cdc48adef9a7?foo=bar
+    url_background: https://api.mediux.pro/assets/5952a9ea-8765-4aac-a739-83ee693c42ba?foo=bar

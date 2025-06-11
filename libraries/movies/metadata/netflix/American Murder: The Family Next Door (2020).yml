@@ -1,4 +1,4 @@
 metadata:
   743601: # American Murder: The Family Next Door (2020) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33651
-    url_poster: https://api.mediux.pro/assets/c8cdf234-265a-4e39-9bf1-ebdfb8f3df0f
-    url_background: https://api.mediux.pro/assets/c45dace0-31cc-4eab-9908-2fbb5ad0c142
+    url_poster: https://api.mediux.pro/assets/c8cdf234-265a-4e39-9bf1-ebdfb8f3df0f?foo=bar
+    url_background: https://api.mediux.pro/assets/c45dace0-31cc-4eab-9908-2fbb5ad0c142?foo=bar

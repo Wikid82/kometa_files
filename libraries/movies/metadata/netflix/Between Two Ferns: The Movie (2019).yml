@@ -1,4 +1,4 @@
 metadata:
   584962: # Between Two Ferns: The Movie (2019) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33620
-    url_poster: https://api.mediux.pro/assets/6606bc18-b31d-48d6-be44-3c074ff0d1d0
-    url_background: https://api.mediux.pro/assets/c9011cd3-e317-47ff-9365-8c08482b9535
+    url_poster: https://api.mediux.pro/assets/6606bc18-b31d-48d6-be44-3c074ff0d1d0?foo=bar
+    url_background: https://api.mediux.pro/assets/c9011cd3-e317-47ff-9365-8c08482b9535?foo=bar

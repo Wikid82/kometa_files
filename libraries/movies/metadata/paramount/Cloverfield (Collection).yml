@@ -9,6 +9,6 @@ metadata:
     url_background: https://api.mediux.pro/assets/def15755-933a-4080-b74b-54805849c735
 
   384521: # The Cloverfield Paradox (2018) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33975
-    url_poster: https://api.mediux.pro/assets/ffd159b2-7ace-46ce-a61e-63c5ae73af81 # Poster With Netflix Indicator
+    url_poster: https://api.mediux.pro/assets/ffd159b2-7ace-46ce-a61e-63c5ae73af81?foo=bar # Poster With Netflix Indicator
 #    url_poster: https://api.mediux.pro/assets/2cd5b2c5-75fd-4b2c-a6ed-1b195cf61dae # Poster Without Netflix Indicator
     url_background: https://api.mediux.pro/assets/befddda0-ad6d-4a26-9c7a-4f7da487e3ea

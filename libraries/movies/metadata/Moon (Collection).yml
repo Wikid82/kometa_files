@@ -4,6 +4,6 @@ metadata:
     url_background: https://api.mediux.pro/assets/aadc54cb-27c3-47d6-ab0f-ab42a48da806
 
   401371: # Mute (2018) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33610
-    url_poster: https://api.mediux.pro/assets/085af167-9142-4a27-8e32-bcce56703d7e # Poster with Netflix indicator
+    url_poster: https://api.mediux.pro/assets/085af167-9142-4a27-8e32-bcce56703d7e?foo=bar # Poster with Netflix indicator
 #    url_poster: https://api.mediux.pro/assets/054cf432-abf1-41fa-b3ac-d1b6134bf2fb # Poster without Netflix indicator
     url_background: https://api.mediux.pro/assets/ebb4a360-2bf2-4d7c-8162-390c47d6a7fa

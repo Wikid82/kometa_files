@@ -1,4 +1,4 @@
 metadata:
   499932: # The Devil All the Time (2020) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33648
-    url_poster: https://api.mediux.pro/assets/8ce76c45-53d9-4591-b420-6e6c7d204df9
-    url_background: https://api.mediux.pro/assets/a014d836-3402-4d0e-8d8c-4f56f1ca4ed5
+    url_poster: https://api.mediux.pro/assets/8ce76c45-53d9-4591-b420-6e6c7d204df9?foo=bar
+    url_background: https://api.mediux.pro/assets/a014d836-3402-4d0e-8d8c-4f56f1ca4ed5?foo=bar

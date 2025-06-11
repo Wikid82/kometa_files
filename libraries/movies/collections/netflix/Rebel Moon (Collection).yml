@@ -6,8 +6,8 @@ collections:
 #    collection_mode: hide_items
 #    collection_order: release
 #    tmdb_collection_details: https://www.themoviedb.org/collection/934765-rebel-moon-collection
-#    url_background: https://api.mediux.pro/assets/2127ed13-2fcb-4bb9-8bd3-354f651077ba?foo=bar
-#    url_poster: https://api.mediux.pro/assets/1cb26a3b-eee2-48f2-b777-ea5d8225156e?foo=bar
+#    url_background: https://api.mediux.pro/assets/2127ed13-2fcb-4bb9-8bd3-354f651077ba?foo=bar2
+#    url_poster: https://api.mediux.pro/assets/1cb26a3b-eee2-48f2-b777-ea5d8225156e?foo=bar2
      # Rebel Moon - Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/32967
 
 
@@ -16,6 +16,6 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/934765-rebel-moon-collection
-    url_background: https://api.mediux.pro/assets/2127ed13-2fcb-4bb9-8bd3-354f651077ba?foo=bar
-    url_poster: https://api.mediux.pro/assets/1cb26a3b-eee2-48f2-b777-ea5d8225156e?foo=bar
+    url_background: https://api.mediux.pro/assets/2127ed13-2fcb-4bb9-8bd3-354f651077ba?foo=bar2
+    url_poster: https://api.mediux.pro/assets/1cb26a3b-eee2-48f2-b777-ea5d8225156e?foo=bar2
     # Rebel Moon - Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/32967

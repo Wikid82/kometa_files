@@ -1,4 +1,4 @@
 metadata:
   407436: # Mowgli: Legend of the Jungle (2018) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33612
-    url_poster: https://api.mediux.pro/assets/8d5cb55c-f851-46d8-92c7-e5e7f04281ee
-    url_background: https://api.mediux.pro/assets/45f54e5d-18ca-48bc-afa9-fd59de8c3dcf
+    url_poster: https://api.mediux.pro/assets/8d5cb55c-f851-46d8-92c7-e5e7f04281ee?foo=bar
+    url_background: https://api.mediux.pro/assets/45f54e5d-18ca-48bc-afa9-fd59de8c3dcf?foo=bar

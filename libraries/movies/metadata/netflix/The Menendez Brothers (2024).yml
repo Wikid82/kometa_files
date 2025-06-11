@@ -1,4 +1,4 @@
 metadata:
   1360610: # The Menendez Brothers (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33953
-    url_poster: https://api.mediux.pro/assets/e43fcc37-68dc-4be7-b7b7-62e584e7d1dc
-    url_background: https://api.mediux.pro/assets/cc62d371-517c-4773-93a7-96f76d492335
+    url_poster: https://api.mediux.pro/assets/e43fcc37-68dc-4be7-b7b7-62e584e7d1dc?foo=bar
+    url_background: https://api.mediux.pro/assets/cc62d371-517c-4773-93a7-96f76d492335?foo=bar

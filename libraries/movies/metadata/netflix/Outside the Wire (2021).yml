@@ -1,4 +1,4 @@
 metadata:
   775996: # Outside the Wire (2021) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33689
-    url_poster: https://api.mediux.pro/assets/e4a19370-9131-41d9-842d-5d81ac3282d8
-    url_background: https://api.mediux.pro/assets/9e6876b4-ad05-45b7-91e5-388551c4bc9f
+    url_poster: https://api.mediux.pro/assets/e4a19370-9131-41d9-842d-5d81ac3282d8?foo=bar
+    url_background: https://api.mediux.pro/assets/9e6876b4-ad05-45b7-91e5-388551c4bc9f?foo=bar

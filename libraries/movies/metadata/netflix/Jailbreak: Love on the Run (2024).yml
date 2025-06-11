@@ -1,4 +1,4 @@
 metadata:
   1341685: # Jailbreak: Love on the Run (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33954
-    url_poster: https://api.mediux.pro/assets/74c61691-028c-4da6-ac36-892fefac7e6a
-    url_background: https://api.mediux.pro/assets/bcbf5220-e046-441b-9107-3cf4d8fdf5e7
+    url_poster: https://api.mediux.pro/assets/74c61691-028c-4da6-ac36-892fefac7e6a?foo=bar
+    url_background: https://api.mediux.pro/assets/bcbf5220-e046-441b-9107-3cf4d8fdf5e7?foo=bar

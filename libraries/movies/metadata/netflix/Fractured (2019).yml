@@ -1,4 +1,4 @@
 metadata:
   568091: # Fractured (2019) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33634
-    url_poster: https://api.mediux.pro/assets/89fb5338-ea13-4b01-9624-3e2176a83ea8
-    url_background: https://api.mediux.pro/assets/fecb7539-278d-4fad-a938-e3eb172ac6fc
+    url_poster: https://api.mediux.pro/assets/89fb5338-ea13-4b01-9624-3e2176a83ea8?foo=bar
+    url_background: https://api.mediux.pro/assets/fecb7539-278d-4fad-a938-e3eb172ac6fc?foo=bar

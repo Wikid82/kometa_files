@@ -5,6 +5,6 @@ metadata:
     url_background: https://api.mediux.pro/assets/3390a3a4-c768-4a16-9005-b0a87aeaf621
 
   661374: # Glass Onion: A Knives Out Mystery (2022) Poster by Wikid82 on MediUX. https://mediux.pro/sets/34001
-    url_poster: https://api.mediux.pro/assets/1e812a33-88ff-4ff8-a637-7a934dff8ca4 # Without Netflix Indicator
+    url_poster: https://api.mediux.pro/assets/1e812a33-88ff-4ff8-a637-7a934dff8ca4?foo=bar # Without Netflix Indicator
 #    url_poster: https://api.mediux.pro/assets/3c6d3893-c46b-4c5a-8a87-48eb021e3c19 # Without Netflix Indicator
     url_background: https://api.mediux.pro/assets/c4d96d31-1b41-46f2-9188-948b93011a01

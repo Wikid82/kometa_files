@@ -1,4 +1,4 @@
 metadata:
   419700: # Sandy Wexler (2017) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33597
-    url_poster: https://api.mediux.pro/assets/8015e839-4086-46ac-b585-b5f9535f637a
-    url_background: https://api.mediux.pro/assets/8ced5a84-2422-4be4-a4f7-c7b8d961518b
+    url_poster: https://api.mediux.pro/assets/8015e839-4086-46ac-b585-b5f9535f637a?foo=bar
+    url_background: https://api.mediux.pro/assets/8ced5a84-2422-4be4-a4f7-c7b8d961518b?foo=bar

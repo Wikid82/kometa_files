@@ -1,4 +1,4 @@
 metadata:
   844185: # Unfrosted (2024) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33925
-    url_poster: https://api.mediux.pro/assets/06e032c9-27cb-4fa0-afeb-233c5b880fc8
-    url_background: https://api.mediux.pro/assets/3883f5c6-f957-429c-b527-05a51b6428cf
+    url_poster: https://api.mediux.pro/assets/06e032c9-27cb-4fa0-afeb-233c5b880fc8?foo=bar
+    url_background: https://api.mediux.pro/assets/3883f5c6-f957-429c-b527-05a51b6428cf?foo=bar

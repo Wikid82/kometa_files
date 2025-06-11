@@ -1,4 +1,4 @@
 metadata:
   433249: # IO (2019) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33613
-    url_poster: https://api.mediux.pro/assets/342c1c03-5539-49dd-a279-b35b889f98cd
-    url_background: https://api.mediux.pro/assets/35450a22-a775-4268-bb01-40e377547be6
+    url_poster: https://api.mediux.pro/assets/342c1c03-5539-49dd-a279-b35b889f98cd?foo=bar
+    url_background: https://api.mediux.pro/assets/35450a22-a775-4268-bb01-40e377547be6?foo=bar

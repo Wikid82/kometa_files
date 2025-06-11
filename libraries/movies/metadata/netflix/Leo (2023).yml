@@ -1,4 +1,4 @@
 metadata:
   1075794: # Leo (2023) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33574
-    url_poster: https://api.mediux.pro/assets/7096854c-8d25-4891-9f87-8249bbf19065
-    url_background: https://api.mediux.pro/assets/e652999e-c9d5-46ff-828d-6f6e8f3d9b93
+    url_poster: https://api.mediux.pro/assets/7096854c-8d25-4891-9f87-8249bbf19065?foo=bar
+    url_background: https://api.mediux.pro/assets/e652999e-c9d5-46ff-828d-6f6e8f3d9b93?foo=bar

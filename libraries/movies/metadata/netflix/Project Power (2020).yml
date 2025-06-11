@@ -1,4 +1,4 @@
 metadata:
   605116: # Project Power (2020) Poster by Wikid82 on MediUX. https://mediux.pro/sets/33647
-    url_poster: https://api.mediux.pro/assets/7ab2f2d8-bffc-4de6-8917-86cd03d6a630
-    url_background: https://api.mediux.pro/assets/f2c85b9b-b47a-421f-a9f8-7f7e4382604b
+    url_poster: https://api.mediux.pro/assets/7ab2f2d8-bffc-4de6-8917-86cd03d6a630?foo=bar
+    url_background: https://api.mediux.pro/assets/f2c85b9b-b47a-421f-a9f8-7f7e4382604b?foo=bar
