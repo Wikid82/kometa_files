@@ -1,7 +1,7 @@
 metadata:
   432470: # TVDB id for American Manhunt: The Boston Marathon Bombing. Set by Wikid82 on MediUX. https://mediux.pro/sets/33102
-    url_poster: https://api.mediux.pro/assets/6e3c1a5d-b40f-4b47-9659-6ba71e97cf6e?foo=bar
-    url_background: https://api.mediux.pro/assets/eb576d4d-e23c-4616-89fc-e7d6dd85369d?foo=bar
+    url_poster: https://api.mediux.pro/assets/6e3c1a5d-b40f-4b47-9659-6ba71e97cf6e?foo=bar2
+    url_background: https://api.mediux.pro/assets/eb576d4d-e23c-4616-89fc-e7d6dd85369d?foo=bar2
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/dcaa3354-6223-4727-b928-9a86774d2029?foo=bar
+        url_poster: https://api.mediux.pro/assets/dcaa3354-6223-4727-b928-9a86774d2029?foo=bar2

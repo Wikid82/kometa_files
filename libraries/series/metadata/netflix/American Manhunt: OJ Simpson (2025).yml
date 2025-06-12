@@ -1,7 +1,7 @@
 metadata:
   459067: # TVDB id for American Manhunt: O.J. Simpson. Set by Wikid82 on MediUX. https://mediux.pro/sets/33101
-    url_poster: https://api.mediux.pro/assets/fc65a0c0-6638-41d8-9e54-945f71a2ad30?foo=bar
-    url_background: https://api.mediux.pro/assets/75fdfa98-cc0f-4257-be1d-f8b503b12ce9?foo=bar
+    url_poster: https://api.mediux.pro/assets/fc65a0c0-6638-41d8-9e54-945f71a2ad30?foo=bar2
+    url_background: https://api.mediux.pro/assets/75fdfa98-cc0f-4257-be1d-f8b503b12ce9?foo=bar2
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/2bc76f0f-f5b7-4ce4-96b8-c742c2ffa9d6?foo=bar
+        url_poster: https://api.mediux.pro/assets/2bc76f0f-f5b7-4ce4-96b8-c742c2ffa9d6?foo=bar2
