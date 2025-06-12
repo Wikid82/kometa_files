@@ -58,7 +58,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/columbia 
     - folder: /config/kometa_files/libraries/movies/metadata/dc
     - folder: /config/kometa_files/libraries/movies/metadata/dc/dceu
-    - folder: /config/kometa_files/libraries/movies/metadata/disney/20th_century_studios
+#    - folder: /config/kometa_files/libraries/movies/metadata/disney/20th_century_studios
     - folder: /config/kometa_files/libraries/movies/metadata/disney/animation
     - folder: /config/kometa_files/libraries/movies/metadata/disney/live_action
     - folder: /config/kometa_files/libraries/movies/metadata/disney/lucasfilm
