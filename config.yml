@@ -172,6 +172,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/series/collections/prime_video
 #    - folder: /config/kometa_files/libraries/series/collections/science
 #    - folder: /config/kometa_files/libraries/series/collections/showtime
+     - folder: /config/kometa_files/libraries/series/collections/shudder
 #    - folder: /config/kometa_files/libraries/series/collections/sky_atlantic
 #    - folder: /config/kometa_files/libraries/series/collections/starz
 #    - folder: /config/kometa_files/libraries/series/collections/syfy
@@ -210,12 +211,13 @@ libraries:
     - folder: /config/kometa_files/libraries/series/metadata/prime_video
     - folder: /config/kometa_files/libraries/series/metadata/science
     - folder: /config/kometa_files/libraries/series/metadata/showtime
+    - folder: /config/kometa_files/libraries/series/metadata/shudder
     - folder: /config/kometa_files/libraries/series/metadata/sky_atlantic
     - folder: /config/kometa_files/libraries/series/metadata/starz
     - folder: /config/kometa_files/libraries/series/metadata/syfy
     - folder: /config/kometa_files/libraries/series/metadata/tnt
     - folder: /config/kometa_files/libraries/series/metadata/truetv
-    - folder: /config/kometa_files/libraries/series/metadata   
+    - folder: /config/kometa_files/libraries/series/metadata      
     overlay_files:
     - file: /config/kometa_files/overlays/tvshows/content_rating_us_shows.yml
       template_variables:
