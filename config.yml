@@ -11,7 +11,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/movies/collections/columbia
     - folder: /config/kometa_files/libraries/movies/collections/dc
     - folder: /config/kometa_files/libraries/movies/collections/dc/dceu
-    - folder: /config/kometa_files/libraries/movies/collections/disney/20th_century_studios
+#    - folder: /config/kometa_files/libraries/movies/collections/disney/20th_century_studios
     - folder: /config/kometa_files/libraries/movies/collections/disney/animation
     - folder: /config/kometa_files/libraries/movies/collections/disney/live_action
     - folder: /config/kometa_files/libraries/movies/collections/disney/lucasfilm
@@ -58,7 +58,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/columbia 
     - folder: /config/kometa_files/libraries/movies/metadata/dc
     - folder: /config/kometa_files/libraries/movies/metadata/dc/dceu
-#    - folder: /config/kometa_files/libraries/movies/metadata/disney/20th_century_studios
+    - folder: /config/kometa_files/libraries/movies/metadata/disney/20th_century_studios
     - folder: /config/kometa_files/libraries/movies/metadata/disney/animation
     - folder: /config/kometa_files/libraries/movies/metadata/disney/live_action
     - folder: /config/kometa_files/libraries/movies/metadata/disney/lucasfilm
@@ -99,13 +99,11 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/vertical
     - folder: /config/kometa_files/libraries/movies/metadata/warner_bros
     - folder: /config/kometa_files/libraries/movies/metadata/we_go
-    - folder: /config/kometa_files/libraries/movies/metadata    
+    - folder: /config/kometa_files/libraries/movies/metadata 
     overlay_files:
-    - file: /config/kometa_files/overlays/movies/content_rating_us_movies.yml
-      template_variables:
-        use_nr: false
-    - file: /config/kometa_files/overlays/movies/mediastinger.yml
-    - file: /config/kometa_files/overlays/movies/ratings.yml
+    - file: /config/kometa_files/libraries/movies/overlays/content_rating_us_movies.yml
+    - file: /config/kometa_files/libraries/movies/overlays/mediastinger.yml
+    - file: /config/kometa_files/libraries/movies/overlays/ratings.yml
       template_variables:
         minimum_rating: 2.0
         rating1: critic
@@ -114,8 +112,8 @@ libraries:
         rating2_image: rt_popcorn
         rating3: user
         rating3_image: trakt
-    - file: /config/kometa_files/overlays/movies/resolution.yml
-    - file: /config/kometa_files/overlays/movies/ribbons.yml
+    - file: /config/kometa_files/libraries/movies/overlays/resolution.yml
+    - file: /config/kometa_files/libraries/movies/overlays/ribbons.yml
     operations:
 #      schedule: weekly (friday)
 #      mass_poster_update:
@@ -176,7 +174,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/series/collections/prime_video
 #    - folder: /config/kometa_files/libraries/series/collections/science
 #    - folder: /config/kometa_files/libraries/series/collections/showtime
-     - folder: /config/kometa_files/libraries/series/collections/shudder
+    - folder: /config/kometa_files/libraries/series/collections/shudder
 #    - folder: /config/kometa_files/libraries/series/collections/sky_atlantic
 #    - folder: /config/kometa_files/libraries/series/collections/starz
 #    - folder: /config/kometa_files/libraries/series/collections/syfy
@@ -221,7 +219,7 @@ libraries:
     - folder: /config/kometa_files/libraries/series/metadata/syfy
     - folder: /config/kometa_files/libraries/series/metadata/tnt
     - folder: /config/kometa_files/libraries/series/metadata/truetv
-    - folder: /config/kometa_files/libraries/series/metadata      
+    - folder: /config/kometa_files/libraries/series/metadata         
     overlay_files:
     - file: /config/kometa_files/overlays/tvshows/content_rating_us_shows.yml
       template_variables:
