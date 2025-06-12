@@ -30,6 +30,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/illumination
 #    - folder: /config/kometa_files/libraries/movies/collections/invincible
     - folder: /config/kometa_files/libraries/movies/collections/lionsgate
+    - folder: /config/kometa_files/libraries/movies/collections/magnet
 #    - folder: /config/kometa_files/libraries/movies/collections/magnolia
 #    - folder: /config/kometa_files/libraries/movies/collections/miramax
 #    - folder: /config/kometa_files/libraries/movies/collections/megenta_light
@@ -78,6 +79,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/invincible
     - folder: /config/kometa_files/libraries/movies/metadata/laika
     - folder: /config/kometa_files/libraries/movies/metadata/lionsgate
+    - folder: /config/kometa_files/libraries/movies/metadata/magnet
     - folder: /config/kometa_files/libraries/movies/metadata/magnolia
     - folder: /config/kometa_files/libraries/movies/metadata/megenta_light
     - folder: /config/kometa_files/libraries/movies/metadata/miramax
@@ -99,7 +101,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/vertical
     - folder: /config/kometa_files/libraries/movies/metadata/warner_bros
     - folder: /config/kometa_files/libraries/movies/metadata/we_go
-    - folder: /config/kometa_files/libraries/movies/metadata 
+    - folder: /config/kometa_files/libraries/movies/metadata  
     overlay_files:
     - file: /config/kometa_files/libraries/movies/overlays/content_rating_us_movies.yml
     - file: /config/kometa_files/libraries/movies/overlays/mediastinger.yml
