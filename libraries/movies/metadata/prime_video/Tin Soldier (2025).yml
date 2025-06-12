@@ -1,4 +1,4 @@
 metadata:
   977294: # Tin Soldier (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32853
-    url_poster: https://api.mediux.pro/assets/a971f824-7f29-43d3-9422-115cc589c99d
-    url_background: https://api.mediux.pro/assets/f5b690ee-4b73-463a-b524-4e4b1dcd27b6
+    url_poster: https://api.mediux.pro/assets/a971f824-7f29-43d3-9422-115cc589c99d?foo=bar
+    url_background: https://api.mediux.pro/assets/f5b690ee-4b73-463a-b524-4e4b1dcd27b6?foo=bar
