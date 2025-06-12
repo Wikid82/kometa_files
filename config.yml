@@ -27,7 +27,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/movies/collections/foton
     - folder: /config/kometa_files/libraries/movies/collections/fox
     - folder: /config/kometa_files/libraries/movies/collections/illumination
-    - folder: /config/kometa_files/libraries/movies/collections/invincible
+#    - folder: /config/kometa_files/libraries/movies/collections/invincible
     - folder: /config/kometa_files/libraries/movies/collections/lionsgate
 #    - folder: /config/kometa_files/libraries/movies/collections/magnolia
 #    - folder: /config/kometa_files/libraries/movies/collections/miramax
@@ -37,6 +37,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/paramount
 #    - folder: /config/kometa_files/libraries/movies/collections/polygram
     - folder: /config/kometa_files/libraries/movies/collections/prime_video
+#    - folder: /config/kometa_files/libraries/movies/collections/rlje
 #    - folder: /config/kometa_files/libraries/movies/collections/saban
 #    - folder: /config/kometa_files/libraries/movies/collections/screen_gems
 #    - folder: /config/kometa_files/libraries/movies/collections/sky
@@ -83,6 +84,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/paramount
     - folder: /config/kometa_files/libraries/movies/metadata/polygram
     - folder: /config/kometa_files/libraries/movies/metadata/prime_video
+    - folder: /config/kometa_files/libraries/movies/metadata/rlje
     - folder: /config/kometa_files/libraries/movies/metadata/saban
     - folder: /config/kometa_files/libraries/movies/metadata/screen_gems
     - folder: /config/kometa_files/libraries/movies/metadata/sky
@@ -95,7 +97,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/vertical
     - folder: /config/kometa_files/libraries/movies/metadata/warner_bros
     - folder: /config/kometa_files/libraries/movies/metadata/we_go
-    - folder: /config/kometa_files/libraries/movies/metadata    
+    - folder: /config/kometa_files/libraries/movies/metadata   
     overlay_files:
     - file: /config/kometa_files/overlays/movies/content_rating_us_movies.yml
       template_variables:
