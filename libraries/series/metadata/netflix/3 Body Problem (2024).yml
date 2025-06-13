@@ -1,11 +1,11 @@
 metadata:
-  411959: # TVDB id for 3 Body Problem. Set by willtong93 on MediUX. https://mediux.pro/sets/15914
-    url_poster: https://api.mediux.pro/assets/0b8c8144-4b7f-4fce-b5a7-40f65b21385a
-    url_background: https://api.mediux.pro/assets/8c9a77ba-7db6-4a21-8275-4ef3c6e7cc58
+  411959: # TVDB id for 3 Body Problem. Set by Wikid82 on MediUX. https://mediux.pro/sets/34255
+    url_poster: https://api.mediux.pro/assets/77b0662d-1004-4de4-bfee-c58e50bf18c1
+    url_background: https://api.mediux.pro/assets/f484ebb3-70d3-4adb-94bf-9fa9a5017ab0
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/ad66dc95-0c81-4a45-afae-4a5bf91344f1
-        episodes:
+        url_poster: https://api.mediux.pro/assets/97b82bea-2a41-4105-9403-a767bba93ce5
+        episodes: # Title card set by willtong93 on MediUX. https://mediux.pro/sets/15914
           1:
             url_poster: https://api.mediux.pro/assets/64ba0b05-78ad-4866-b20c-0af80062a6b3
           2:
