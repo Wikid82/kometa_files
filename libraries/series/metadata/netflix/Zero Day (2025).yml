@@ -1,0 +1,7 @@
+metadata:
+  431842: # TVDB id for Zero Day. Set by Wikid82 on MediUX. https://mediux.pro/sets/34257
+    url_poster: https://api.mediux.pro/assets/3c3df209-af92-4341-a27a-d823424ccac6
+    url_background: https://api.mediux.pro/assets/c692e1aa-a9e5-408c-8f18-5a09d0484fcc
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e4bdbdd7-d7b3-47d9-9d6e-226b88430a39
