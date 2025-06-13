@@ -1,0 +1,7 @@
+metadata:
+  452467: # TVDB id for Adolescence. Set by Wikid82 on MediUX. https://mediux.pro/sets/34259
+    url_poster: https://api.mediux.pro/assets/0318a67d-e7b0-4a35-8607-3208936affb6
+    url_background: https://api.mediux.pro/assets/901004ba-9d21-442d-9b30-ccc76add70a9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f38700e4-7afa-4c09-acfe-a6d9549f50fc
