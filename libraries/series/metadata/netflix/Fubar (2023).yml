@@ -1,0 +1,9 @@
+metadata:
+  427281: # TVDB id for FUBAR. Set by Wikid82 on MediUX. https://mediux.pro/sets/34192
+    url_poster: https://api.mediux.pro/assets/2e82d1f8-97db-451c-8e50-ef70d1520e71
+    url_background: https://api.mediux.pro/assets/adedae3a-589a-4c5d-97b5-ca5794539802
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5a6dabeb-9467-4181-b877-de6196f2c78d
+      2:
+        url_poster: https://api.mediux.pro/assets/507c941c-7ece-44d8-8b3c-92bdd8a0cd98
