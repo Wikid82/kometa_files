@@ -1,4 +1,14 @@
 metadata:
   1125899: # Cleaner (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32669
-    url_poster: https://api.mediux.pro/assets/1afca9c8-d775-4526-8a8d-ead13454c76d
-    url_background: https://api.mediux.pro/assets/67fd51c5-df23-4cea-b86d-60dbeadf1e6d
+
+# With Sky Cinema Indicator
+  1125899: # Cleaner (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/34260
+    url_poster: https://api.mediux.pro/assets/223b5d95-b6dd-40b2-83e9-6bae3fe5d9c2
+    url_background: https://api.mediux.pro/assets/5626ed77-b0db-4e24-b469-15b950d2112b
+
+
+# Without Sky Cinema Indicator
+#  1125899: # Cleaner (2025) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32669
+#    url_poster: https://api.mediux.pro/assets/1afca9c8-d775-4526-8a8d-ead13454c76d
+#    url_background: https://api.mediux.pro/assets/67fd51c5-df23-4cea-b86d-60dbeadf1e6d
+
