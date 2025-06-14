@@ -1,4 +1,12 @@
 metadata:
-  840: # Close Encounters of the Third Kind (1977) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32672
-    url_poster: https://api.mediux.pro/assets/92fb82b9-8984-44a9-8267-ec0b521d759f
-    url_background: https://api.mediux.pro/assets/1214e8ec-54f4-484b-9c85-b11d09e06b91
+
+# Poster 1
+  840: # Close Encounters of the Third Kind (1977) Poster by Wikid82 on MediUX. https://mediux.pro/sets/34298
+    url_poster: https://api.mediux.pro/assets/1684d266-e3af-4216-9f56-9a7814b7982b
+    url_background: https://api.mediux.pro/assets/1b2073c7-ac08-4023-a18e-0f33864c14ae
+
+
+# Poster 2  
+#  840: # Close Encounters of the Third Kind (1977) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32672
+#    url_poster: https://api.mediux.pro/assets/92fb82b9-8984-44a9-8267-ec0b521d759f?foo=bar
+#    url_background: https://api.mediux.pro/assets/1214e8ec-54f4-484b-9c85-b11d09e06b91?foo=bar
