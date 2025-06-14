@@ -4,7 +4,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/ea50368a-b39c-47b0-92e3-e597b37a6be0
     url_background: https://api.mediux.pro/assets/97754f2e-636e-4ffa-bed1-5ae0c105e92c
     seasons:
-     1:
+      1:
         url_poster: https://api.mediux.pro/assets/09db830d-be73-4424-a19d-6ddf0e480354
       2:
         url_poster: https://api.mediux.pro/assets/35655bf6-da76-49f5-bfeb-28afc0b04b0d
