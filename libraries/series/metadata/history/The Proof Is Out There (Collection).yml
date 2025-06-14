@@ -1,0 +1,47 @@
+metadata:
+
+  394331: # TVDB id for The Proof Is Out There. Set by Wikid82 on MediUX. https://mediux.pro/sets/34446
+    url_poster: https://api.mediux.pro/assets/ea50368a-b39c-47b0-92e3-e597b37a6be0
+    url_background: https://api.mediux.pro/assets/97754f2e-636e-4ffa-bed1-5ae0c105e92c
+    seasons:
+     1:
+        url_poster: https://api.mediux.pro/assets/09db830d-be73-4424-a19d-6ddf0e480354
+      2:
+        url_poster: https://api.mediux.pro/assets/35655bf6-da76-49f5-bfeb-28afc0b04b0d
+      3:
+        url_poster: https://api.mediux.pro/assets/ef967b6e-3c8c-469a-b92d-ce3c50db1760
+      4:
+        url_poster: https://api.mediux.pro/assets/df7a9e43-3835-44a1-8e48-f346de64d8fa
+      5:
+        url_poster: https://api.mediux.pro/assets/ced39e69-3b33-4417-9ec6-15fe2779b235
+
+
+  427615: # TVDB id for The Proof Is Out There: Bermuda Triangle Edition. Set by Wikid82 on MediUX. https://mediux.pro/sets/34450
+    url_poster: https://api.mediux.pro/assets/86af7fc6-3cb1-43fd-9750-1aef1f56c352
+    url_background: https://api.mediux.pro/assets/215fc823-8ed2-4a8a-b866-486f075acc26
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/2bb1e5c5-8374-4f3a-882d-efb36a04494d
+
+
+  427618: # TVDB id for The Proof Is Out There: Skinwalker Edition. Set by Wikid82 on MediUX. https://mediux.pro/sets/34451
+    url_poster: https://api.mediux.pro/assets/23a21306-1839-404d-8006-fb9d1dda8312
+    url_background: https://api.mediux.pro/assets/139d6ab2-19b7-4ce5-9ba0-33d6d261673e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/392e22e2-a204-4f3f-81d7-6c8a56c7aaee
+
+  451486: # TVDB id for The Proof Is Out There: Alien Edition. Set by Wikid82 on MediUX. https://mediux.pro/sets/34452
+    url_poster: https://api.mediux.pro/assets/84d3c852-4798-4bc8-93f4-b47bd04ae279
+    url_background: https://api.mediux.pro/assets/d43450e6-fb66-4be5-a7f3-d20bb29baf59
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3d57769d-f064-4e8b-b723-4235d6c3781c
+
+  449286: # TVDB id for The Proof Is Out There: Military Mysteries. Set by Wikid82 on MediUX. https://mediux.pro/sets/34453
+    url_poster: https://api.mediux.pro/assets/b407984b-5843-44ab-9e4a-99c2e938d2b5
+    url_background: https://api.mediux.pro/assets/730afad4-97d3-4e7f-a84c-e684f74a98b5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/40d043ea-31c1-434e-a3b2-74ff9b891265
+

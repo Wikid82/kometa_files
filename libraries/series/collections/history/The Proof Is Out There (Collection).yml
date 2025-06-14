@@ -1,0 +1,8 @@
+---
+collections:
+  The Proof Is Out There Collection:
+    collection_order: release.asc
+    sync_mode: sync
+    trakt_list_details: https://trakt.tv/lists/29533142
+    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/theproofisouttherecollectionbg.jpg
+    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/theproofisouttherecollection.jpg
