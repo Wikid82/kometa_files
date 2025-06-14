@@ -1,0 +1,8 @@
+collections:
+  Honey, I Shrunk The Kids Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/72119-honey-i-shrunk-the-kids-collection
+    url_background: https://api.mediux.pro/assets/a35b6a39-9b2b-4f24-9442-15753116ac2b
+    url_poster: https://api.mediux.pro/assets/db4589bb-99b7-44ba-8d6b-ce90ae184982
+    # Honey, I Shrunk the Kids Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/34335
