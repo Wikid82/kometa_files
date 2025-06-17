@@ -1,0 +1,29 @@
+metadata:
+  314158: # TVDB id for Unearthed. Set by Wikid82 on MediUX. https://mediux.pro/sets/34640
+    url_poster: https://api.mediux.pro/assets/e1f3942e-92b5-4018-bae8-e7e7ed198696
+    url_background: https://api.mediux.pro/assets/ca5fa40d-b25b-42f3-be02-148dcf35c6bc
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/7d6fb2c4-d38d-4283-8114-b8d243e6c957
+      1:
+        url_poster: https://api.mediux.pro/assets/9aeaf539-64a9-4268-9715-474c2ef2a5a3
+      2:
+        url_poster: https://api.mediux.pro/assets/daf745f2-de6a-4d98-991e-6b214bc05e8b
+      3:
+        url_poster: https://api.mediux.pro/assets/ae78e28d-ec2e-4968-91ca-85340a130025
+      4:
+        url_poster: https://api.mediux.pro/assets/6f6a0349-2310-4cfe-81e0-827597f5dacf
+      5:
+        url_poster: https://api.mediux.pro/assets/890776ef-2948-4802-a7c8-57074d220e97
+      6:
+        url_poster: https://api.mediux.pro/assets/0a7d41d9-aebc-412d-b311-a83916b8b21b
+      7:
+        url_poster: https://api.mediux.pro/assets/024685f3-13aa-41e9-af48-cbef461be13f
+      8:
+        url_poster: https://api.mediux.pro/assets/1a904686-3352-4d2c-9ec9-f2bd62d7d8a6
+      9:
+        url_poster: https://api.mediux.pro/assets/882e5bd8-1912-4ebd-8d5d-7b3d640e7638
+      10:
+        url_poster: https://api.mediux.pro/assets/4e754bdd-c084-42a2-83a0-815d5c51b3df
+      11:
+        url_poster: https://api.mediux.pro/assets/dcd1c17a-0653-4339-a39c-088ea5a29484
