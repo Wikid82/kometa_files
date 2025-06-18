@@ -1,0 +1,15 @@
+metdata:
+  164021: # TVDB id for Raising Hope. Set by Wikid82 on MediUX. https://mediux.pro/sets/34662
+    url_poster: https://api.mediux.pro/assets/bf7172d4-4453-4700-aee0-8625e5131264
+    url_background: https://api.mediux.pro/assets/f2fc51a2-c105-4aaf-a9a2-0da064b9c516
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/bd2a9641-681b-401f-870a-ff08e0b67a11
+      1:
+        url_poster: https://api.mediux.pro/assets/a9e35c91-61bc-4dd2-95e7-adb982042e74
+      2:
+        url_poster: https://api.mediux.pro/assets/f8fce213-ab39-4105-bc51-a4dde434eda5
+      3:
+        url_poster: https://api.mediux.pro/assets/23c836f0-cd9f-44ae-8d82-252c4e7679aa
+      4:
+        url_poster: https://api.mediux.pro/assets/25bb9e9c-f765-4467-915f-74e672d2aa77
