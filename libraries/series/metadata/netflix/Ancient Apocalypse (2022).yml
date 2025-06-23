@@ -1,0 +1,9 @@
+metadata:
+  426211: # TVDB id for Ancient Apocalypse (2022). Temporarily uploaded to GitHub.
+    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Ancient%20Apocalypse%20(2022)%20%7Btvdb-426211%7D/s.jpg
+    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Ancient%20Apocalypse%20(2022)%20%7Btvdb-426211%7D/aaBG.jpg
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Ancient%20Apocalypse%20(2022)%20%7Btvdb-426211%7D/s1.jpg
+      2:
+        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Ancient%20Apocalypse%20(2022)%20%7Btvdb-426211%7D/s2.jpg
