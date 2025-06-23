@@ -5,7 +5,7 @@ metadata:
     seasons:
       1:
         url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Madness%20(2024)%20%7Btvdb-429600%7D/s1.jpg
-        episodes: Set by willtong93 on MediUX. https://mediux.pro/sets/28527
+        episodes: # Set by willtong93 on MediUX. https://mediux.pro/sets/28527
           1:
             url_poster: https://api.mediux.pro/assets/d081d956-0204-4ffd-9778-890e10b6badd
           2:
