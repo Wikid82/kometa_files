@@ -1,0 +1,7 @@
+metadata:
+  368523: # TVDB id for Living with Yourself. Set by Wikid82 on MediUX. https://mediux.pro/sets/34952
+    url_poster: https://api.mediux.pro/assets/1254db46-c9e2-412c-8d31-aa100cd99aa1
+    url_background: https://api.mediux.pro/assets/4c909402-acb2-467d-afd8-84c9e378d900
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b8f30cfd-3816-4cf5-ab59-2466b769ab7b
