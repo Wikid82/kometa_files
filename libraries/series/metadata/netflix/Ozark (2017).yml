@@ -1,13 +1,13 @@
 metadata:
-  329089: # Ozark (2017). Temporarily uploaded to GitHub.
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Ozark%20(2017)%20%7Btvdb-329089%7D/s.jpg
-    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Ozark%20(2017)%20%7Btvdb-329089%7D/ozarkBG.jpg
+  329089: # TVDB id for Ozark. Set by Wikid82 on MediUX. https://mediux.pro/sets/34888
+    url_poster: https://api.mediux.pro/assets/bc63a064-0251-4c45-9438-ed1f06d52c9f
+    url_background: https://api.mediux.pro/assets/42923f67-fb9b-4929-856b-8aa6b854b22d
     seasons:
       1:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Ozark%20(2017)%20%7Btvdb-329089%7D/s1.jpg
+        url_poster: https://api.mediux.pro/assets/34d5db0d-57d8-4b8c-9e65-a11cbdc1c2a1
       2:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Ozark%20(2017)%20%7Btvdb-329089%7D/s2.jpg
+        url_poster: https://api.mediux.pro/assets/df2306de-c84f-4fc0-97ce-57f3e9037f79
       3:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Ozark%20(2017)%20%7Btvdb-329089%7D/s3.jpg
+        url_poster: https://api.mediux.pro/assets/e193e825-7260-4e13-be8d-9339b1cae556
       4:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Ozark%20(2017)%20%7Btvdb-329089%7D/s4.jpg
+        url_poster: https://api.mediux.pro/assets/92aa32ba-43c5-4b57-b9b6-75f9e8d97c6b
