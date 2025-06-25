@@ -1,7 +1,7 @@
 metadata:
-  463760: # TVDB id for Cocaine Air - Smugglers at 30,000 Ft. (2025). Temporarily uploaded to GitHub.
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Cocaine%20Air%20-%20Smugglers%20at%2030%2C000%20Ft.%20(2025)%20%7Btvdb-463760%7D/s.jpg
-    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Cocaine%20Air%20-%20Smugglers%20at%2030%2C000%20Ft.%20(2025)%20%7Btvdb-463760%7D/casa3kfBG.jpg
+  463760: # TVDB id for Cocaine Air: Smugglers at 30,000 Ft.. Set by Wikid82 on MediUX. https://mediux.pro/sets/34883
+    url_poster: https://api.mediux.pro/assets/d39c9c50-dd2b-4a3f-81a2-ade3889f5982
+    url_background: https://api.mediux.pro/assets/8eff326b-07c6-417e-8a25-404fbc8f2a12
     seasons:
       1:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Cocaine%20Air%20-%20Smugglers%20at%2030%2C000%20Ft.%20(2025)%20%7Btvdb-463760%7D/s1.jpg
+        url_poster: https://api.mediux.pro/assets/5f7b3a62-9e58-4808-a441-34b48fb5feda
