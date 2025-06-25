@@ -1,7 +1,7 @@
 metadata:
-  450096: # TVDB id for The Waterfront (2025). uploaded temperarily to GitHub.
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Waterfront%20(2025)%20%7Btvdb-450096%7D/s.jpg
-    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Waterfront%20(2025)%20%7Btvdb-450096%7D/twBG.jpg
+  450096: # TVDB id for The Waterfront. Set by Wikid82 on MediUX. https://mediux.pro/sets/34881
+    url_poster: https://api.mediux.pro/assets/fe434800-7c3f-4c42-aa74-1437071dbca1
+    url_background: https://api.mediux.pro/assets/af28cf3e-6aef-4f37-b9ad-f633401dec3d
     seasons:
       1:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Waterfront%20(2025)%20%7Btvdb-450096%7D/s1foobar.jpg
+        url_poster: https://api.mediux.pro/assets/45923b74-3550-44ba-a5b9-b4087ac17ae1
