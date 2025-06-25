@@ -1,7 +1,7 @@
 metadata:
-  452357: # TVDB id for Worst Ex Ever (2024). uploaded temperarily to GitHub.
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Worst%20Ex%20Ever%20(2024)%20%7Btvdb-452357%7D/s.jpg
-    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Worst%20Ex%20Ever%20(2024)%20%7Btvdb-452357%7D/weeBG.jpg
+  452357: # TVDB id for Worst Ex Ever. Set by Wikid82 on MediUX. https://mediux.pro/sets/34885
+    url_poster: https://api.mediux.pro/assets/6708da50-1787-40d0-a9c2-0d7a43beb645
+    url_background: https://api.mediux.pro/assets/1c4c0f4f-7dbf-40a0-a00b-b9ba64637715
     seasons:
       1:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Worst%20Ex%20Ever%20(2024)%20%7Btvdb-452357%7D/s1.jpg
+        url_poster: https://api.mediux.pro/assets/12343404-2b4a-4130-8a81-b66643c3dadd
