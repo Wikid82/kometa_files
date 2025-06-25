@@ -1,4 +1,4 @@
 metadata:
   9275: # Death to Smoochy (2002) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32700
-    url_poster: https://api.mediux.pro/assets/09e7111b-e434-470b-b1c5-489d6b971e5c
-    url_background: https://api.mediux.pro/assets/4c1a0b07-522f-427d-84b6-f42dfabee6ef
+    url_poster: https://api.mediux.pro/assets/09e7111b-e434-470b-b1c5-489d6b971e5c?foo=bar
+    url_background: https://api.mediux.pro/assets/4c1a0b07-522f-427d-84b6-f42dfabee6ef?foo=bar
