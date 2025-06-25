@@ -1,0 +1,7 @@
+metadata:
+  450932: # TVDB id for Countdown. Set by Wikid82 on MediUX. https://mediux.pro/sets/34944
+    url_poster: https://api.mediux.pro/assets/9fabcc20-c474-4ee8-9b75-9ef55cbb352d
+    url_background: https://api.mediux.pro/assets/2ccf9146-8112-44a5-95ac-552bfa58c774
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0ef4c62f-5b90-4ff3-b478-3fa5bc22d09f
