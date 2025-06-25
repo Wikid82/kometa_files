@@ -1,11 +1,11 @@
 metadata:
-  415503: # TVDB id for Worst Roommate Ever (2022). uploaded temperarily to GitHub.
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Worst%20Roommate%20Ever%20(2022)%20%7Btvdb-415503%7D/s.jpg
-    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Worst%20Roommate%20Ever%20(2022)%20%7Btvdb-415503%7D/wreBG.jpg
+  415503: # TVDB id for Worst Roommate Ever. Set by Wikid82 on MediUX. https://mediux.pro/sets/34884
+    url_poster: https://api.mediux.pro/assets/11665e37-84f3-4fa9-83cc-9dc201eee628
+    url_background: https://api.mediux.pro/assets/8cc389f8-addc-4e5c-8e99-61c21a7cc557
     seasons:
       1:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Worst%20Roommate%20Ever%20(2022)%20%7Btvdb-415503%7D/s1.jpg
+        url_poster: https://api.mediux.pro/assets/7c557c33-9e22-4ec9-9e74-9f9b3490ac85
       2:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Worst%20Roommate%20Ever%20(2022)%20%7Btvdb-415503%7D/s2.jpg
+        url_poster: https://api.mediux.pro/assets/90f6ecd0-c716-4218-947d-4b36e28b677e
       3:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Worst%20Roommate%20Ever%20(2022)%20%7Btvdb-415503%7D/s3.jpg
+        url_poster: https://api.mediux.pro/assets/f3acf44e-c252-4370-8edd-e8f34c5a3472
