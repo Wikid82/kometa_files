@@ -1,4 +1,4 @@
 metadata:
   207: # Dead Poets Society (1989) Poster by Wikid82 on MediUX. https://mediux.pro/sets/32699
-    url_poster: https://api.mediux.pro/assets/bd0ed450-68ce-4aac-b16c-281b15cf84eb
-    url_background: https://api.mediux.pro/assets/42a858db-b99d-4100-bd40-f0fdb388e587
+    url_poster: https://api.mediux.pro/assets/bd0ed450-68ce-4aac-b16c-281b15cf84eb?foo=bar
+    url_background: https://api.mediux.pro/assets/42a858db-b99d-4100-bd40-f0fdb388e587?foo=bar
