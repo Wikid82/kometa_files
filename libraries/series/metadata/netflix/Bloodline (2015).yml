@@ -1,11 +1,11 @@
 metadata:
-  287314: # TVDB id for Bloodline (2015). uploaded temperarily to GitHub.
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Bloodline%20(2015)%20%7Btvdb-287314%7D/s.jpg
-    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Bloodline%20(2015)%20%7Btvdb-287314%7D/bloodlineBG.jpg
+  287314: # TVDB id for Bloodline. Set by Wikid82 on MediUX. https://mediux.pro/sets/34889
+    url_poster: https://api.mediux.pro/assets/70da7d95-aac7-4d7a-bf3e-a5c304500f92
+    url_background: https://api.mediux.pro/assets/6c1011aa-82e8-40bd-920f-baea866d6031
     seasons:
       1:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Bloodline%20(2015)%20%7Btvdb-287314%7D/s1.jpg
+        url_poster: https://api.mediux.pro/assets/c183510b-352b-43da-97e0-3b1ba87719e6
       2:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Bloodline%20(2015)%20%7Btvdb-287314%7D/s2.jpg
+        url_poster: https://api.mediux.pro/assets/1579ca80-2d90-49ba-b40f-a7d8d7b2ced3
       3:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/Bloodline%20(2015)%20%7Btvdb-287314%7D/s3.jpg
+        url_poster: https://api.mediux.pro/assets/a9d46e59-42dc-4ba6-9ea8-d9d497a7993d
