@@ -1,11 +1,11 @@
 metadata:
-  429600: # TVDB id for The Madness. Temporarily uploaded to GitHub.
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Madness%20(2024)%20%7Btvdb-429600%7D/s.jpg
-    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Madness%20(2024)%20%7Btvdb-429600%7D/tmBG.jpg
+  429600: # TVDB id for The Madness. Set by Wikid82 on MediUX. https://mediux.pro/sets/34882
+    url_poster: https://api.mediux.pro/assets/28a1b2eb-b129-42ff-b6a2-76333e1b7d36
+    url_background: https://api.mediux.pro/assets/d3cd5fb9-37b2-4760-93ff-54cf926f7cd3
     seasons:
       1:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Madness%20(2024)%20%7Btvdb-429600%7D/s1.jpg
-        episodes: # Set by willtong93 on MediUX. https://mediux.pro/sets/28527
+        url_poster: https://api.mediux.pro/assets/9d620261-8450-42b7-8486-f59631178ee8
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/28527
           1:
             url_poster: https://api.mediux.pro/assets/d081d956-0204-4ffd-9778-890e10b6badd
           2:
