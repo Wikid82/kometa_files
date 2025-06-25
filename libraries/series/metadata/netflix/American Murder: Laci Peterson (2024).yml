@@ -1,7 +1,7 @@
 metadata:
-  452965: # American Murder: Laci Peterson (2024). Temporarily uploaded to GitHub.
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/American%20Murder%20-%20Laci%20Peterson%20(2024)%20%7Btvdb-452965%7D/s.jpg
-    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/American%20Murder%20-%20Laci%20Peterson%20(2024)%20%7Btvdb-452965%7D/amlpBG.jpg
+  452965: # TVDB id for American Murder: Laci Peterson. Set by Wikid82 on MediUX. https://mediux.pro/sets/34887
+    url_poster: https://api.mediux.pro/assets/bed468c6-9c6a-44bf-af53-a49feb9db23a
+    url_background: https://api.mediux.pro/assets/2467957a-81a7-4716-875d-cebf65278f4a
     seasons:
       1:
-        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/American%20Murder%20-%20Laci%20Peterson%20(2024)%20%7Btvdb-452965%7D/s1.jpg
+        url_poster: https://api.mediux.pro/assets/054e8d8e-0bd2-4fc3-9139-3c039bbcc16c
