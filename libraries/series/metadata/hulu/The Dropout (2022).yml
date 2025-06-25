@@ -1,0 +1,7 @@
+metadata:
+  363024: # TVDB id for The Dropout. Set by Wikid82 on MediUX. https://mediux.pro/sets/34951
+    url_poster: https://api.mediux.pro/assets/e8351554-e68a-422a-b1b7-bb37ab319f45
+    url_background: https://api.mediux.pro/assets/18441c23-5f2b-448f-9105-99e1ea7bc081
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/da90cbe0-7b02-4481-89c4-61053f8cea02
