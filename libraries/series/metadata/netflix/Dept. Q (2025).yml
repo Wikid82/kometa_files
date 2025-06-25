@@ -1,11 +1,11 @@
 metadata:
-  445802: # TVDB id for Dept. Q. Set by willtong93 on MediUX. https://mediux.pro/sets/33367
-    url_poster: https://api.mediux.pro/assets/1bb5ccd7-8b68-4c26-8207-c8db42474c77
-    url_background: https://api.mediux.pro/assets/cf744475-bb6b-4087-a549-daceff371432
+  445802: # TVDB id for Dept. Q. Set by Wikid82 on MediUX. https://mediux.pro/sets/34954
+    url_poster: https://api.mediux.pro/assets/93fc17a7-c72a-49d2-8f78-026adf81b79d
+    url_background: https://api.mediux.pro/assets/61901cb1-ca93-4355-802b-41c05cf7f15c
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/01e9ac26-ea76-47ba-a015-3c8efbcaf578
-        episodes:
+        url_poster: https://api.mediux.pro/assets/7e84cf82-3ca9-4b78-8e0d-f72e89d57d84
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/33367
           1:
             url_poster: https://api.mediux.pro/assets/ddd9e3d5-2fce-4d7e-ad05-8451e4895e69
           2:
