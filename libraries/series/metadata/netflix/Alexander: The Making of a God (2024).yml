@@ -1,0 +1,7 @@
+metadata:
+  444188: # TVDB id for Alexander: The Making of a God. Set by Wikid82 on MediUX. https://mediux.pro/sets/34958
+    url_poster: https://api.mediux.pro/assets/dd360f6a-a2b5-4224-b55f-8d08e74ca570
+    url_background: https://api.mediux.pro/assets/43c19d34-c7a9-45e2-bfb8-f25fe14db54b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e0c401cc-4035-473a-957c-39283a6500c0
