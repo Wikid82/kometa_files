@@ -1,0 +1,7 @@
+metadata:
+  435726: # TVDB id for American Nightmare. Set by Wikid82 on MediUX. https://mediux.pro/sets/34957
+    url_poster: https://api.mediux.pro/assets/eb97a91b-5225-4e96-9f0b-10bb105fbc80
+    url_background: https://api.mediux.pro/assets/8f9fb697-e984-4992-b3b7-29e17cf1b390
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/30d4625a-6ec2-4ba2-8b68-c106f5de66ef
