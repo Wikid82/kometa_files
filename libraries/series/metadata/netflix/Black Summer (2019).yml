@@ -1,0 +1,9 @@
+metadata:
+  350587: # TVDB id for Black Summer. Set by Wikid82 on MediUX. https://mediux.pro/sets/34978
+    url_poster: https://api.mediux.pro/assets/b19be899-f378-4733-b177-d4a7867c5f61
+    url_background: https://api.mediux.pro/assets/b4bcca09-cefa-4039-b4e7-e116db95d012
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/7a9733ee-71eb-4ded-8d26-652f9658e35a
+      2:
+        url_poster: https://api.mediux.pro/assets/53e2bfda-ba55-487d-bf7e-c2cdc17700b3
