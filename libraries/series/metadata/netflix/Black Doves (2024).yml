@@ -1,11 +1,11 @@
 metadata:
-  441315: # TVDB id for Black Doves. Set by willtong93 on MediUX. https://mediux.pro/sets/28618
-    url_poster: https://api.mediux.pro/assets/82611cac-a8a0-4431-9aba-15ee6dcbfe3c
-    url_background: https://api.mediux.pro/assets/d49b3a7a-2352-42b5-adec-1ba11657e25a
+  441315: # TVDB id for Black Doves. Set by Wikid82 on MediUX. https://mediux.pro/sets/34977
+    url_poster: https://api.mediux.pro/assets/9c31c0ad-5775-4d5d-9322-36390c83aa95
+    url_background: https://api.mediux.pro/assets/3edf16fd-adb3-451b-8657-d5419c85ee21
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/30aee358-57f1-47d6-8bfd-e5aa22393e30
-        episodes:
+        url_poster: https://api.mediux.pro/assets/330811e6-8bca-4725-9f00-03291deb76ce
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/28618
           1:
             url_poster: https://api.mediux.pro/assets/51a1b031-12b2-4670-847d-d0560c1af203
           2:
