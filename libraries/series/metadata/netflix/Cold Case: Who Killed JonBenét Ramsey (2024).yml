@@ -1,0 +1,7 @@
+metadata:
+  455934: # TVDB id for Cold Case: Who Killed JonBenét Ramsey. Set by Wikid82 on MediUX. https://mediux.pro/sets/35008
+    url_poster: https://api.mediux.pro/assets/490fafba-3f06-4b2f-af3d-74365a9dcd51
+    url_background: https://api.mediux.pro/assets/f769f74e-b2de-4015-8c51-49bd274fcc60
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/16cf63e5-f43a-47b2-8d13-bd7c1f6a79de
