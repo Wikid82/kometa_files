@@ -1,0 +1,17 @@
+metadata:
+  349934: # TVDB id for I AM A KILLER. Set by Wikid82 on MediUX. https://mediux.pro/sets/35014
+    url_poster: https://api.mediux.pro/assets/abae4cca-1529-405f-b6db-86857d80bd74
+    url_background: https://api.mediux.pro/assets/eab0e474-dc0d-4e86-aae6-a50a7f371fd6
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3f9f8d70-a4a2-4433-b592-4c7dffe0ab5b
+      2:
+        url_poster: https://api.mediux.pro/assets/fbcef7fb-66e5-43d4-92ce-af6d0df04ddc
+      3:
+        url_poster: https://api.mediux.pro/assets/94fc02f4-63fc-4db3-81ab-0e0e4423d170
+      4:
+        url_poster: https://api.mediux.pro/assets/e77ceeb8-a169-45c1-bd91-a5859983c878
+      5:
+        url_poster: https://api.mediux.pro/assets/5256d90d-d4cb-4da8-b0e6-d8e3f544d78b
+      6:
+        url_poster: https://api.mediux.pro/assets/12b89a97-00e5-48a9-8013-699af0234b4d
