@@ -1,0 +1,7 @@
+metadata:
+  455407: # TVDB id for Investigation Alien. Set by Wikid82 on MediUX. https://mediux.pro/sets/35013
+    url_poster: https://api.mediux.pro/assets/601413b9-b7dc-4784-9598-5c00ad9b3ae5
+    url_background: https://api.mediux.pro/assets/858fd896-6d31-466b-9ebf-6da1941e7a25
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a5fae3c1-5c07-4b82-9c38-546941e1d7a0
