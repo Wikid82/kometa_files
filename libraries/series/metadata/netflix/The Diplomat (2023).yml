@@ -1,11 +1,11 @@
 metadata:
-  415239: # TVDB id for The Diplomat. Set by willtong93 on MediUX. https://mediux.pro/sets/13156
-    url_poster: https://api.mediux.pro/assets/84dca53b-0ea7-44ce-91c6-11ca4a4c6f72
-    url_background: https://api.mediux.pro/assets/fb681144-e2e1-4e23-b33b-ab4e50918077
+  415239: # TVDB id for The Diplomat. Set by Wikid82 on MediUX. https://mediux.pro/sets/35010
+    url_poster: https://api.mediux.pro/assets/d9ded392-fc11-4046-979e-9de99e6d47fd
+    url_background: https://api.mediux.pro/assets/1dd2ff2c-e433-4c51-9d4e-06b4a87ee021
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/5fe00513-e25a-4e47-891a-988cd7c1c54f
-        episodes:
+        url_poster: https://api.mediux.pro/assets/85046050-fc59-427b-aceb-3bdbbbfe9f16
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/13156
           1:
             url_poster: https://api.mediux.pro/assets/1360949d-4bae-4b17-aea1-5488dc01de5a
           2:
@@ -23,8 +23,8 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/bc377337-0d98-4aab-ba70-6576081cfc53
       2:
-        url_poster: https://api.mediux.pro/assets/04b6423f-bdf9-468b-b6bb-2b2400d0feeb
-        episodes:
+        url_poster: https://api.mediux.pro/assets/477a7cb9-8f54-45c0-a8c5-fa96d4360452
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/13156
           1:
             url_poster: https://api.mediux.pro/assets/8395168e-5467-4f32-baa4-31c222caeb00
           2:
