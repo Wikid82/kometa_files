@@ -1,0 +1,7 @@
+metadata:
+  371944: # TVDB id for Inventing Anna. Set by Wikid82 on MediUX. https://mediux.pro/sets/35017
+    url_poster: https://api.mediux.pro/assets/23bfbaf5-797b-43aa-af75-b7daafaa83a7
+    url_background: https://api.mediux.pro/assets/be79f00d-d170-4ade-a1f3-11912fb840c4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/961b5ba2-feb2-40ed-ae25-8c23ed794051
