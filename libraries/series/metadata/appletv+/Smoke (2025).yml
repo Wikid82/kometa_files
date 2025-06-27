@@ -1,0 +1,7 @@
+metadata:
+  428137: # TVDB id for Smoke. Set by Wikid82 on MediUX. https://mediux.pro/sets/35004
+    url_poster: https://api.mediux.pro/assets/b893a4cb-eb2c-4e92-8441-9f7691087c48
+    url_background: https://api.mediux.pro/assets/e5380e3c-0f13-43e1-b4c3-4a5911ba6e37
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4693d515-f271-4a44-9cad-131d93be1950
