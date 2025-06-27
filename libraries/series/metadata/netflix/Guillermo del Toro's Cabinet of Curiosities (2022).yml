@@ -1,11 +1,11 @@
 metadata:
-  409559: # TVDB id for Guillermo del Toro's Cabinet of Curiosities. Set by willtong93 on MediUX. https://mediux.pro/sets/23184
-    url_poster: https://api.mediux.pro/assets/3fc1c7d7-8f3d-42f9-8050-77cbe4a5e9de
-    url_background: https://api.mediux.pro/assets/25857b5a-fab4-492a-aa52-b65e1e6c2ac2
+  409559: # TVDB id for Guillermo del Toro's Cabinet of Curiosities. Set by Wikid82 on MediUX. https://mediux.pro/sets/35012
+    url_poster: https://api.mediux.pro/assets/8870c898-263d-47fe-a161-93d6cf7ab964
+    url_background: https://api.mediux.pro/assets/46e47454-0fba-4e1c-8218-f5e8af5454cc
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/9b559b09-d955-4735-82ef-330b2c0afd96
-        episodes:
+        url_poster: https://api.mediux.pro/assets/72b76442-9558-407f-8705-bd480882f08b
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/23184
           1:
             url_poster: https://api.mediux.pro/assets/dc83e960-f203-4fad-91e9-e896551d4d28
           2:
