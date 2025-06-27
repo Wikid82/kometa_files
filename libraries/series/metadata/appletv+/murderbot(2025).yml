@@ -5,12 +5,20 @@ metadata:
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/2660a335-c627-4c23-97e2-570b089386b1?foo=bar
-        episodes:
+        episodes: # Title Card Set by tallinex on MediUX. https://mediux.pro/sets/32108
           1:
-            url_poster: https://api.mediux.pro/assets/2e1ec8b0-f854-4b63-84a3-8920e7cca3d1
+            url_poster: https://api.mediux.pro/assets/9b981cba-054c-45ec-ac50-dcac8c180404
           2:
-            url_poster: https://api.mediux.pro/assets/f97fa0f8-d085-44aa-af41-0a2e545f1b64
+            url_poster: https://api.mediux.pro/assets/0b62d523-adf6-452d-82bd-21646866ab21
           3:
-            url_poster: https://api.mediux.pro/assets/292571c6-0a96-4fe5-87af-35c100649091
+            url_poster: https://api.mediux.pro/assets/17f0dfe4-a8f7-43bb-827a-b5d799b66350
           4:
-            url_poster: https://api.mediux.pro/assets/77609ca8-704f-4dce-9bef-330582733f3b
+            url_poster: https://api.mediux.pro/assets/fcc3a450-1779-45a9-a1b5-12f9bf3839db
+          5:
+            url_poster: https://api.mediux.pro/assets/0e5a0c5d-2474-4b57-8e0d-be024bbeffe3
+          6:
+            url_poster: https://api.mediux.pro/assets/49a223c5-8661-442a-992e-079af162007c
+          7:
+            url_poster: https://api.mediux.pro/assets/87ae1cd1-d44a-4ef2-9240-21e3a4b85a59
+          8:
+            url_poster: https://api.mediux.pro/assets/52a3b9b3-9229-4801-b54c-e0bc5d94ab79
