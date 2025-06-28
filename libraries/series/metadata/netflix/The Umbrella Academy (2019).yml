@@ -1,0 +1,13 @@
+metadata:
+  353764: # TVDB id for The Umbrella Academy. Set by Wikid82 on MediUX. https://mediux.pro/sets/35032
+    url_poster: https://api.mediux.pro/assets/19724fbe-2f9d-472f-b9ab-99f745b6192a
+    url_background: https://api.mediux.pro/assets/685c29f7-8b83-4e4b-b7a4-7343bfdb6854
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/dd00c663-b94a-4509-9e83-46531db10fc8
+      2:
+        url_poster: https://api.mediux.pro/assets/c44ba1e8-e9f0-4301-9a09-6daceae14a91
+      3:
+        url_poster: https://api.mediux.pro/assets/c113646f-4e8f-4b82-9d6a-e00794171a36
+      4:
+        url_poster: https://api.mediux.pro/assets/a9ee60ac-4c6a-417a-9f3e-4180c8637545
