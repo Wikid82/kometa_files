@@ -97,6 +97,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/stx
     - folder: /config/kometa_files/libraries/movies/metadata/sumarian
     - folder: /config/kometa_files/libraries/movies/metadata/tristar
+    - folder: /config/kometa_files/libraries/movies/metadata/tubi
     - folder: /config/kometa_files/libraries/movies/metadata/universal
     - folder: /config/kometa_files/libraries/movies/metadata/vertical
     - folder: /config/kometa_files/libraries/movies/metadata/warner_bros
