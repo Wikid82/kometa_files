@@ -1,0 +1,7 @@
+metadata:
+  405793: # TVDB id for Echoes. Set by Wikid82 on MediUX. https://mediux.pro/sets/35085
+    url_poster: https://api.mediux.pro/assets/3e6d9011-49d6-463b-9342-e5261399a5aa
+    url_background: https://api.mediux.pro/assets/3898644d-e8b2-47fb-973d-57a1a2d4e884
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a2296861-0aec-4b8f-a86d-74e44297f8cc
