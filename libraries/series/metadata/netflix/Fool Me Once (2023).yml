@@ -1,0 +1,7 @@
+metadata:
+  431352: # TVDB id for Fool Me Once. Set by Wikid82 on MediUX. https://mediux.pro/sets/35086
+    url_poster: https://api.mediux.pro/assets/e36acea1-3b2b-436b-9a06-5120db86caa7
+    url_background: https://api.mediux.pro/assets/c5fbaae8-84e3-4de1-a28a-f328f969ef1e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/886d9e36-b728-47d8-bb84-64ae57cb801f
