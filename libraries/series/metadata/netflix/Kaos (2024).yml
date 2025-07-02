@@ -1,11 +1,11 @@
 metadata:
-  365700: # TVDB id for KAOS. Set by willtong93 on MediUX. https://mediux.pro/sets/24697
-    url_poster: https://api.mediux.pro/assets/0e7ecf7f-8842-4ee1-a9a8-a4a3cb4f7b3d
-    url_background: https://api.mediux.pro/assets/54b76931-0ce9-44a7-ba9b-0737780fa04e
+  365700: # TVDB id for KAOS. Set by Wikid82 on MediUX. https://mediux.pro/sets/35091
+    url_poster: https://api.mediux.pro/assets/57e6bf86-ddaa-4001-9deb-13fb7c7f7779
+    url_background: https://api.mediux.pro/assets/d700a60e-9366-4759-91fc-77b0b342b974
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/1ff50105-a55f-45d9-a007-948b47326215
-        episodes:
+        url_poster: https://api.mediux.pro/assets/0e135d70-f9b5-4791-bf49-c96ff1ed4352
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/24697
           1:
             url_poster: https://api.mediux.pro/assets/405c31c9-7dbd-477f-a9dc-a69e301ab9c1
           2:
