@@ -1,0 +1,7 @@
+metadata:
+  327175: # TVDB id for The Keepers. Set by Wikid82 on MediUX. https://mediux.pro/sets/35093
+    url_poster: https://api.mediux.pro/assets/78d51a96-a8a6-42c2-8df2-cbbf438d1069
+    url_background: https://api.mediux.pro/assets/c3d8099b-228e-4bf0-8c9a-1f49e8cc512d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4cb618d6-d225-455a-a673-609c46d35fcf
