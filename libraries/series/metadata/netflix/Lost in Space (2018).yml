@@ -1,0 +1,12 @@
+  343253: # TVDB id for Lost in Space. Set by Wikid82 on MediUX. https://mediux.pro/sets/35095
+    url_poster: https://api.mediux.pro/assets/e24c6d18-8452-4ad4-b7e7-fccdf6ee6096
+    url_background: https://api.mediux.pro/assets/4747ad15-9270-46cf-91db-9885804e7906
+    seasons:
+#      0:
+#        url_poster: https://api.mediux.pro/assets/9107cb92-bacc-4acf-a138-5f3091935075
+      1:
+        url_poster: https://api.mediux.pro/assets/3fb6647e-61ec-4ff9-8ff4-fcde48d3fe62
+      2:
+        url_poster: https://api.mediux.pro/assets/9e805f73-1d5d-432b-97a9-045704028ed3
+      3:
+        url_poster: https://api.mediux.pro/assets/2b02a485-c487-40bb-bdcd-9e75f22a5f68
