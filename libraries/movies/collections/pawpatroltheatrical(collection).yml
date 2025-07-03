@@ -1,8 +1,8 @@
 ---
 collections:
-  Paw Patrol Collection:
+  Paw Patrol (Theatrical) Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8496545-paw-patrol
+    tmdb_collection_details: https://www.themoviedb.org/collection/893731-paw-patrol-theatrical-collection
     url_background: https://image.tmdb.org/t/p/original/gjHZbURgyqjBMHQICu3VZQf41gF.jpg
     url_poster: https://theposterdb.com/api/assets/451558
