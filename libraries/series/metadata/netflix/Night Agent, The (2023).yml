@@ -1,11 +1,11 @@
 metadata:
-  407281: # TVDB id for The Night Agent. Set by willtong93 on MediUX. https://mediux.pro/sets/6524
-    url_poster: https://api.mediux.pro/assets/3b88cd17-b345-4f67-977c-ff9d629a303e
-    url_background: https://api.mediux.pro/assets/3b03a63f-b88e-4b2b-8550-823d17ae0d47
+  407281: # TVDB id for The Night Agent. Set by Wikid82 on MediUX. https://mediux.pro/sets/35107
+    url_poster: https://api.mediux.pro/assets/25aa0182-683e-4442-a1b5-b1fa91bd07a2
+    url_background: https://api.mediux.pro/assets/8c543d35-b353-4232-97a9-4b374171db23
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/bb15139d-7f39-47fd-a87f-c560832b151e
-        episodes:
+        url_poster: https://api.mediux.pro/assets/479dad60-d284-445a-a53a-d0e0af5a45dc
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/6524
           1:
             url_poster: https://api.mediux.pro/assets/d741b7f7-04be-4c1f-ac48-73af2106ab96
           2:
@@ -27,8 +27,8 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/3999862a-f8ed-4ceb-906e-17956fdc4653
       2:
-        url_poster: https://api.mediux.pro/assets/aa17868c-0757-4d0c-a83b-fcc52a64a883
-        episodes:
+        url_poster: https://api.mediux.pro/assets/3bd9ae8a-9b53-4fb9-80ae-ffe5847588d8
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/6524
           1:
             url_poster: https://api.mediux.pro/assets/1654a3be-ea4c-44f8-8e03-4f3e4b87339c
           2:
