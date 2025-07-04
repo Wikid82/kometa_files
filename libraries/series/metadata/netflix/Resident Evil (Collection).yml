@@ -1,10 +1,11 @@
 metadata:
-  387525: # Resident Evil (2022)
-    url_poster: https://theposterdb.com/api/assets/250997
+  387525: # TVDB id for Resident Evil. Set by Wikid82 on MediUX. https://mediux.pro/sets/35125
+    url_poster: https://api.mediux.pro/assets/604dfdd8-18c7-4ab5-81bb-2d064dac9026
+    url_background: https://api.mediux.pro/assets/61e663e9-6ff6-4f84-a735-c02ecd16f1e1
     seasons:
-      01:
-        url_poster: https://theposterdb.com/api/assets/250997
-        episodes:
+      1:
+        url_poster: https://api.mediux.pro/assets/c2e59dcb-3d06-43a1-9d6a-14b645e31e0c
+        episodes: #Title Card Set by fireninja on MediUX. https://mediux.pro/sets/31394
           1:
             url_poster: https://api.mediux.pro/assets/23a4608e-e17f-4b01-a10c-f5b0754f0e39
           2:
@@ -21,4 +22,3 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e630f432-072b-4149-9ef4-30a897d3a8be
           8:
             url_poster: https://api.mediux.pro/assets/b01c5ecc-5364-47bd-ac1c-404b2fb3e1db
-
