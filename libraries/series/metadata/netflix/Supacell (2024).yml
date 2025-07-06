@@ -1,11 +1,11 @@
 metadata:
-  427116: # TVDB id for Supacell. 
-    url_poster: https://api.mediux.pro/assets/fed63c72-530d-4d18-a99e-778efe1f301d
-    url_background: https://api.mediux.pro/assets/6a0f5e8c-5dea-4037-95c7-a52865cdd7ae
+  427116: # TVDB id for Supacell. Set by Wikid82 on MediUX. https://mediux.pro/sets/35193
+    url_poster: https://api.mediux.pro/assets/98301ad5-9615-4a09-84a9-bcbdae3878e9
+    url_background: https://api.mediux.pro/assets/1d01f4f7-cb9a-46c2-84c1-cc75dea37596
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/34617fa7-475f-43cc-9a94-5aa15d53a6ee
-        episodes:
+        url_poster: https://api.mediux.pro/assets/d7cc86d8-8cb7-4c50-be47-9ac6993cfddd
+        episodes: # Title Card Set by Tiederian on MediUX. https://mediux.pro/sets/22364
           1:
             url_poster: https://api.mediux.pro/assets/691af2fe-fc50-4e38-9e20-d3d09d87cd8b
           2:
