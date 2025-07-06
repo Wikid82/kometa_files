@@ -1,0 +1,18 @@
+metadata:
+  446472: # TVDB id for Sirens. Set by Wikid82 on MediUX. https://mediux.pro/sets/35195
+    url_poster: https://api.mediux.pro/assets/dc484a53-bf1c-4531-b648-45c11b3c5859
+    url_background: https://api.mediux.pro/assets/5e626d13-0090-4f8c-baaa-f2419a5fbd89
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/79419497-9d58-4a28-9e88-e583092b5904
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/33279
+          1:
+            url_poster: https://api.mediux.pro/assets/0a74adf2-3802-4b3a-bac9-060bf5f14a4d
+          2:
+            url_poster: https://api.mediux.pro/assets/0d4df40b-e2d9-4d80-ba89-726bd0013018
+          3:
+            url_poster: https://api.mediux.pro/assets/683bbfeb-4701-4c32-ab66-6ff0ca116694
+          4:
+            url_poster: https://api.mediux.pro/assets/cc6fc9b6-6d0b-4a92-8cfd-63fa40860365
+          5:
+            url_poster: https://api.mediux.pro/assets/ecdb3262-a002-421e-8347-e3f09a486615
