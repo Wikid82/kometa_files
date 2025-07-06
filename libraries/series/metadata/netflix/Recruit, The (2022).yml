@@ -1,11 +1,11 @@
 metadata:
-  425260: # TVDB id for The Recruit. Set by willtong93 on MediUX. https://mediux.pro/sets/32002
-    url_poster: https://api.mediux.pro/assets/acd6672e-7048-45e9-aed3-eda34678ef67
-    url_background: https://api.mediux.pro/assets/48068640-8b2f-4e56-a05b-28c8c23a70ad
+  425260: # TVDB id for The Recruit. Set by Wikid82 on MediUX. https://mediux.pro/sets/35146
+    url_poster: https://api.mediux.pro/assets/a329573e-0e06-4d9e-86a3-6ac696438db7
+    url_background: https://api.mediux.pro/assets/0125391f-0d76-4be3-862f-6fa7bf255ded
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/032efa02-3aec-4c4a-81da-4c5ad089d318
-        episodes:
+        url_poster: https://api.mediux.pro/assets/769f0177-d5e9-4943-8688-ee8ca1c96172
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/32002
           1:
             url_poster: https://api.mediux.pro/assets/eeff9a26-2899-4dbf-9d08-2f7753b2b0a4
           2:
@@ -23,8 +23,8 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/f9e60479-657b-48d6-9a94-8038237b1ecc
       2:
-        url_poster: https://api.mediux.pro/assets/a4b94a5c-c5c6-42c0-bb19-288048f734fc
-        episodes:
+        url_poster: https://api.mediux.pro/assets/eebe041c-c232-43c6-8cb8-a150bbfaffde
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/32002
           1:
             url_poster: https://api.mediux.pro/assets/541dae3b-6e07-4446-bc63-2d9dd4578e08
           2:
