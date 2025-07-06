@@ -1,11 +1,12 @@
 metadata:
-  305288: # TVDB id for Stranger Things. Set by willtong93 on MediUX. https://mediux.pro/sets/12020
-    url_poster: https://api.mediux.pro/assets/0d1abe67-92ad-4dec-bdd3-7685942fa6ff
-    url_background: https://api.mediux.pro/assets/25b8e961-1351-46e7-b658-c273a04f6d5f
+
+  305288: # TVDB id for Stranger Things. Set by Wikid82 on MediUX. https://mediux.pro/sets/35196
+    url_poster: https://api.mediux.pro/assets/0e6b8b76-5dd8-4f38-99fb-a26b1e1e78b8
+    url_background: https://api.mediux.pro/assets/3e861e52-869a-4ac4-9320-77b4a543d04a
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/9ac3375c-1ef1-42f1-9042-1d0f24179d1c
-        episodes:
+        url_poster: https://api.mediux.pro/assets/4cc7f20c-5314-4919-945e-3a86f8d81cf1
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/12020
           1:
             url_poster: https://api.mediux.pro/assets/b00a6f44-2876-43de-a742-388e7e80312d
           2:
@@ -23,7 +24,7 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/c6a02998-98aa-4b08-8ca2-18b3ffdabb4c
       2:
-        url_poster: https://api.mediux.pro/assets/42fa37a7-b622-4dea-a3a7-44c610703359
+        url_poster: https://api.mediux.pro/assets/2830a394-10e8-4349-9c24-de3d56b67c2b
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/cbb5e911-3b38-4506-b928-ec41d16db9f9
@@ -44,7 +45,7 @@ metadata:
           9:
             url_poster: https://api.mediux.pro/assets/71fd043e-632d-4e8c-bd98-cea31c050e13
       3:
-        url_poster: https://api.mediux.pro/assets/12b5cd54-130a-4114-91d9-73aa9b99f181
+        url_poster: https://api.mediux.pro/assets/807ab360-797d-4965-9f06-6c19225750ee
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/a63c232f-0b74-4d62-aeb6-2aacf52d7776
@@ -63,7 +64,7 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/2fc36503-7be7-4a0e-85bf-ac901d22c042
       4:
-        url_poster: https://api.mediux.pro/assets/f1baa8b1-9815-4736-b95b-43fec468ed06
+        url_poster: https://api.mediux.pro/assets/562d9b8f-f359-4859-b524-4d318c204125
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/7be51cfa-4e12-4a70-8c07-1cc354639074
