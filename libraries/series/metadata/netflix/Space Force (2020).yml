@@ -1,11 +1,12 @@
 metadata:
-  368667: # TVDB id for Space Force. Set by Parrillized on MediUX. https://mediux.pro/sets/15980
-    url_poster: https://api.mediux.pro/assets/0d31eaa2-4141-46d4-beb9-c0961f8cbf58
-    url_background: https://api.mediux.pro/assets/5cf29511-1e36-4e4e-9a5e-a6a3ae23d88f
+
+  368667: # TVDB id for Space Force. Set by Wikid82 on MediUX. https://mediux.pro/sets/35197
+    url_poster: https://api.mediux.pro/assets/a8eccd53-e2d8-43dd-9d7a-df2f141de55f
+    url_background: https://api.mediux.pro/assets/3148ed8a-4309-49bb-8add-6c65fdff8413
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/18b7be29-9535-47e0-bb78-fe8fa2fe5b1a
-        episodes:
+        url_poster: https://api.mediux.pro/assets/aeaa7497-16d6-4600-b3fe-97dd830e74e5
+        episodes: # Title Card Set by Parrillized on MediUX. https://mediux.pro/sets/15980
           1:
             url_poster: https://api.mediux.pro/assets/0234d6f3-6669-40d8-abed-7b6517c563e6
           2:
@@ -27,7 +28,7 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/6980428a-f554-41f5-bbd6-a2dcbd468d97
       2:
-        url_poster: https://api.mediux.pro/assets/28dc3944-16f8-4db4-a1c8-40482d3fe3bb
+        url_poster: https://api.mediux.pro/assets/2ea5518c-49be-48bf-b3fa-ee12ac7d10fc
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/5c3b8291-0a28-4419-98f5-9774931e6954
