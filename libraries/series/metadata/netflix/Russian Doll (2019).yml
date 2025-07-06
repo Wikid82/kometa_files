@@ -1,11 +1,11 @@
 metadata:
-
-  356640: # TVDB id for Russian Doll.
-    url_poster: https://theposterdb.com/api/assets/138360
+  356640: # TVDB id for Russian Doll. Set by Wikid82 on MediUX. https://mediux.pro/sets/35147
+    url_poster: https://api.mediux.pro/assets/44533ba1-5f7e-47bf-803a-e6082672a44d
+    url_background: https://api.mediux.pro/assets/1dc00ace-ebf1-4d09-838c-aa0cd3911593
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/138361
-        episodes:
+        url_poster: https://api.mediux.pro/assets/7185fe64-649d-432e-9522-e61243d9fc8c
+        episodes: # Title Card Set by RandalPink87 on MediUX. https://mediux.pro/sets/30585
           1:
             url_poster: https://api.mediux.pro/assets/fe782a0b-412f-4060-ab6d-e3c608b9d809
           2:
@@ -23,8 +23,8 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/84ce6f93-d809-40db-a2df-cbde1b7da46e
       2:
-        url_poster: https://theposterdb.com/api/assets/227411
-        episodes:
+        url_poster: https://api.mediux.pro/assets/13e888d7-d072-4fff-bd6b-2640e6297956
+        episodes: # Title Card Set by RandalPink87 on MediUX. https://mediux.pro/sets/30585
           1:
             url_poster: https://api.mediux.pro/assets/a8317aac-ece8-442f-849e-e415f5607ff9
           2:
