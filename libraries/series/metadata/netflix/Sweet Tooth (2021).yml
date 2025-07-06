@@ -1,10 +1,12 @@
 metadata:
-  355837: # TVDB id for Sweet Tooth. Set by ChamikaNLakshan on MediUX. https://mediux.pro/sets/20888
-    url_poster: https://api.mediux.pro/assets/48476ec2-2044-4f6f-8556-6a51e02e7cbb
+
+  355837: # TVDB id for Sweet Tooth. Set by Wikid82 on MediUX. https://mediux.pro/sets/35198
+    url_poster: https://api.mediux.pro/assets/8a08c0f0-6ba6-4668-a01e-877df0abdab1
+    url_background: https://api.mediux.pro/assets/43dcd81c-679d-453c-810d-5cc03da9fecb
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/7a5deca0-42dc-4b35-a762-90a801b99599
-        episodes:
+        url_poster: https://api.mediux.pro/assets/385edf32-bc59-4413-98ec-25d966dc7469
+        episodes: # Title Card Set by ChamikaNLakshan on MediUX. https://mediux.pro/sets/20888
           1:
             url_poster: https://api.mediux.pro/assets/2cff8380-b24c-4dc6-8972-b40b7beadc52
           2:
@@ -22,7 +24,7 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/8aac3ce8-7e49-4bca-b385-2b46ffafea23
       2:
-        url_poster: https://api.mediux.pro/assets/696492ac-1ab2-4bf6-8815-73921031590a
+        url_poster: https://api.mediux.pro/assets/59f923c8-1820-4ad7-b5fc-86de067f63b7
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/2264494e-9115-4370-bd61-833b8c7bc095
@@ -41,7 +43,7 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/e2747e26-1e7a-4bb3-a3a4-0120bb15ee0e
       3:
-        url_poster: https://api.mediux.pro/assets/d4238f30-c005-491a-bb55-1c39c314f4d8
+        url_poster: https://api.mediux.pro/assets/be89df8c-896a-4f5e-a77e-303387644237
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/21fd0304-d257-4abe-96d3-8cd3ce2a0e3f
