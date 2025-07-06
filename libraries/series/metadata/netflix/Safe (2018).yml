@@ -1,0 +1,7 @@
+metadata:
+  341291: # TVDB id for Safe. Set by Wikid82 on MediUX. https://mediux.pro/sets/35149
+    url_poster: https://api.mediux.pro/assets/35e34d32-4a95-4b03-af01-e6b4a5bd2762
+    url_background: https://api.mediux.pro/assets/90bdd6e6-4995-4163-ade6-120fc501e734
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9c2b310e-63c2-4cb8-880d-fa180b1a45c5
