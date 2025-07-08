@@ -1,0 +1,9 @@
+metadata:
+  447029: # TVDB id for Homicide. Set by Wikid82 on MediUX. https://mediux.pro/sets/35273
+    url_poster: https://api.mediux.pro/assets/b18ef6a2-9078-4d7a-bf53-3be16361c504
+    url_background: https://api.mediux.pro/assets/3efc3e71-771d-4585-8fe8-c4590786f646
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3420e393-2031-4003-93ed-efb7c1212333
+      2:
+        url_poster: https://api.mediux.pro/assets/4dcc05d5-ea99-4626-b5ad-8e7b72b1f22e
