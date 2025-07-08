@@ -1,0 +1,13 @@
+metadata:
+  349271: # TVDB id for Manifest. Set by Wikid82 on MediUX. https://mediux.pro/sets/35270
+    url_poster: https://api.mediux.pro/assets/60050f4c-f525-4602-baeb-6a754ce865b8
+    url_background: https://api.mediux.pro/assets/eb97dcbf-55d2-4951-b669-8db77effad20
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/bc02e620-6f40-4815-9d55-b406926177a2
+      2:
+        url_poster: https://api.mediux.pro/assets/f0c84cae-1ceb-44f8-a5d6-268be9b7a665
+      3:
+        url_poster: https://api.mediux.pro/assets/4612a99c-aee8-45a5-a2c3-9820d9f0bf54
+      4:
+        url_poster: https://api.mediux.pro/assets/dab799e4-518b-4c59-b066-1d88becbafe3
