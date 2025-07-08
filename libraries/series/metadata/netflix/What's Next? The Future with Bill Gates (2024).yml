@@ -1,0 +1,7 @@
+metadata:
+  453320: # TVDB id for What's Next? The Future with Bill Gates. Set by Wikid82 on MediUX. https://mediux.pro/sets/35253
+    url_poster: https://api.mediux.pro/assets/0f794dbb-32eb-48fd-b040-ff9a805642da
+    url_background: https://api.mediux.pro/assets/14f9ef1b-ef18-4858-ba3e-3384b5b8bf98
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e1ca2857-feba-4c6a-983d-dc408a275b97
