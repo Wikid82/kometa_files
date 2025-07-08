@@ -1,0 +1,24 @@
+metadata:
+  404605: # TVDB id for Twilight of the Gods. Set by Wikid82 on MediUX. https://mediux.pro/sets/35245
+    url_poster: https://api.mediux.pro/assets/1950182f-9a7a-475e-bce5-c74ed1db8993
+    url_background: https://api.mediux.pro/assets/3059b59e-961d-47ba-b9da-f81f0edb6ed6
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/93cff1f0-0fbd-47f1-8df1-29c38d10182d
+        episodes: # Title Card Set by iAMbeingSARCASTIC on MediUX. https://mediux.pro/sets/33047
+          1:
+            url_poster: https://api.mediux.pro/assets/270cfecc-8ac9-4086-ba33-49ab32b73aad
+          2:
+            url_poster: https://api.mediux.pro/assets/2c8d634f-aeda-42b0-a197-ad7e589e4d36
+          3:
+            url_poster: https://api.mediux.pro/assets/c2b1bd1f-a480-4260-974d-6d8ef241f46e
+          4:
+            url_poster: https://api.mediux.pro/assets/fd332106-4db7-4ee6-8b14-2e8ee2001676
+          5:
+            url_poster: https://api.mediux.pro/assets/d3e7bdda-dff0-4fd8-91ee-a54a2a348e26
+          6:
+            url_poster: https://api.mediux.pro/assets/a6198f32-38f8-4319-ba3c-5d6820b90c29
+          7:
+            url_poster: https://api.mediux.pro/assets/1abc99ff-e0d8-4769-8bd6-5b95e6cf771b
+          8:
+            url_poster: https://api.mediux.pro/assets/a318e2d8-44ac-4dcf-bf98-5895a7a958d7
