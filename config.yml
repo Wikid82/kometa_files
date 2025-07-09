@@ -48,15 +48,16 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/stx
 #    - folder: /config/kometa_files/libraries/movies/collections/sumarian
 #    - folder: /config/kometa_files/libraries/movies/collections/tristar
+    - folder: /config/kometa_files/libraries/movies/collections/universal
 #    - folder: /config/kometa_files/libraries/movies/collections/we_go
     - folder: /config/kometa_files/libraries/movies/collections
-    metadata_files:    
+    metadata_files:
     - folder: /config/kometa_files/libraries/movies/metadata/a24
     - folder: /config/kometa_files/libraries/movies/metadata/appletv+
     - folder: /config/kometa_files/libraries/movies/metadata/bluesky_animation
     - folder: /config/kometa_files/libraries/movies/metadata/brainstorm
     - folder: /config/kometa_files/libraries/movies/metadata/buena_vista
-    - folder: /config/kometa_files/libraries/movies/metadata/columbia 
+    - folder: /config/kometa_files/libraries/movies/metadata/columbia
     - folder: /config/kometa_files/libraries/movies/metadata/dc
     - folder: /config/kometa_files/libraries/movies/metadata/dc/dceu
     - folder: /config/kometa_files/libraries/movies/metadata/disney/20th_century_studios
@@ -102,7 +103,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/metadata/vertical
     - folder: /config/kometa_files/libraries/movies/metadata/warner_bros
     - folder: /config/kometa_files/libraries/movies/metadata/we_go
-    - folder: /config/kometa_files/libraries/movies/metadata  
+    - folder: /config/kometa_files/libraries/movies/metadata
     overlay_files:
     - file: /config/kometa_files/libraries/movies/overlays/content_rating_us_movies.yml
     - file: /config/kometa_files/libraries/movies/overlays/mediastinger.yml
@@ -161,7 +162,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/series/collections/disney+
     - folder: /config/kometa_files/libraries/series/collections/disney+/marvel
     - folder: /config/kometa_files/libraries/series/collections/disney+/marvel/mcu
-    - folder: /config/kometa_files/libraries/series/collections/disney+/star_wars    
+    - folder: /config/kometa_files/libraries/series/collections/disney+/star_wars
 #    - folder: /config/kometa_files/libraries/series/collections/fox
 #    - folder: /config/kometa_files/libraries/series/collections/fx
 #    - folder: /config/kometa_files/libraries/series/collections/hbo
@@ -183,7 +184,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/series/collections/syfy
 #    - folder: /config/kometa_files/libraries/series/collections/tnt
 #    - folder: /config/kometa_files/libraries/series/collections/truetv
-    - folder: /config/kometa_files/libraries/series/collections  
+    - folder: /config/kometa_files/libraries/series/collections
     metadata_files:
     - folder: /config/kometa_files/libraries/series/metadata/a&e
     - folder: /config/kometa_files/libraries/series/metadata/abc
@@ -222,7 +223,7 @@ libraries:
     - folder: /config/kometa_files/libraries/series/metadata/syfy
     - folder: /config/kometa_files/libraries/series/metadata/tnt
     - folder: /config/kometa_files/libraries/series/metadata/truetv
-    - folder: /config/kometa_files/libraries/series/metadata         
+    - folder: /config/kometa_files/libraries/series/metadata     
     overlay_files:
     - file: /config/kometa_files/overlays/tvshows/content_rating_us_shows.yml
       template_variables:
