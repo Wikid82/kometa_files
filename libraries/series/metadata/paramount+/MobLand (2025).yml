@@ -1,11 +1,11 @@
 metadata:
-  446831: # TVDB id for MobLand. Set by willtong93 on MediUX. https://mediux.pro/sets/31643
-    url_poster: https://api.mediux.pro/assets/f05fa2a8-fd8f-4f3d-98e4-f65dc2b6c85e
-    url_background: https://api.mediux.pro/assets/ebb50b2e-21db-45bb-a2f4-35f51c498760
+  446831: # TVDB id for MobLand. Set by Wikid82 on MediUX. https://mediux.pro/sets/35327
+    url_poster: https://api.mediux.pro/assets/a9e15ff2-0ec0-4285-a6da-d0f57eebd9ea
+    url_background: https://api.mediux.pro/assets/dc38cd82-c440-4ac2-ba80-33bc1d1fe8bb
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/e1c7371c-d457-4abd-9f41-3c4c82681fe1
-        episodes:
+        url_poster: https://api.mediux.pro/assets/931962f0-9f06-4827-b334-f1d6e34ec906
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/31643
           1:
             url_poster: https://api.mediux.pro/assets/7c836f85-1191-4536-af86-95978add0ff9
           2:
