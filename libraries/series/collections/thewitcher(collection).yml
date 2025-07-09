@@ -1,7 +1,0 @@
-collections:
-  The Witcher Collection:
-    collection_order: release.asc
-    sync_mode: sync
-    trakt_list_details: https://trakt.tv/lists/30855861
-    url_background: https://image.tmdb.org/t/p/original/fmnllHV62CkWuAokGGBZPvi8NcX.jpg
-    url_poster: https://image.tmdb.org/t/p/original/kyyimj6qsgBZjZQacxt2h5Um1BM.jpg
