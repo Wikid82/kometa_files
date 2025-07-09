@@ -1,0 +1,7 @@
+metadata:
+  450308: # TVDB id for How Music Got Free. Set by Wikid82 on MediUX. https://mediux.pro/sets/35326
+    url_poster: https://api.mediux.pro/assets/0249aee1-7437-495e-8514-0034061c3f6a
+    url_background: https://api.mediux.pro/assets/841faaf6-3b7a-4d18-b6fe-f6458b7ba3a7
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/52c0b3a0-74f0-469a-bb1d-1612a4f6af00
