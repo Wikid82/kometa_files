@@ -1,0 +1,7 @@
+metadata:
+  449544: # TVDB id for Pillowcase Murders. Set by Wikid82 on MediUX. https://mediux.pro/sets/35329
+    url_poster: https://api.mediux.pro/assets/da839853-cfd7-4f98-b62d-9bb28ed7dc5a
+    url_background: https://api.mediux.pro/assets/2f291059-2fdf-4af7-a948-19cf2de03797
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5a5607ad-5feb-4a83-8011-2a5424c876fb
