@@ -1,0 +1,7 @@
+metadata:
+  447950: # TVDB id for CTRL+ALT+DESIRE. Set by Wikid82 on MediUX. https://mediux.pro/sets/35325
+    url_poster: https://api.mediux.pro/assets/75ec3a23-def0-4b39-b359-d68dce24feec
+    url_background: https://api.mediux.pro/assets/008ba8a0-1bad-40f0-982f-7ce5c566ffd4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5f67937b-1a59-4d29-a766-5392fe1df213
