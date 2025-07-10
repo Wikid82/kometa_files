@@ -1,11 +1,12 @@
 metadata:
-  388589: # TVDB id for Lioness. Set by willtong93 on MediUX. https://mediux.pro/sets/26886
-    url_poster: https://api.mediux.pro/assets/311baa92-cba3-48b2-a0dc-abf6404c611d
-    url_background: https://api.mediux.pro/assets/46d2a1af-5583-40a0-abab-815121370eba
+
+  388589: # TVDB id for Lioness. Set by Wikid82 on MediUX. https://mediux.pro/sets/35332
+    url_poster: https://api.mediux.pro/assets/11a1e22f-4f21-4bee-a74e-dd9e216ad0ca
+    url_background: https://api.mediux.pro/assets/9e6e6647-6126-4621-860b-3d1fd02bf9c8
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/ff612e9f-1731-4db6-93f8-62a7f559258f
-        episodes:
+        url_poster: https://api.mediux.pro/assets/6aa59d6e-a016-41ba-85b5-a1b60904b32d
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/26886
           1:
             url_poster: https://api.mediux.pro/assets/14497f32-11d8-4b85-944a-99c20b659432
           2:
@@ -23,7 +24,7 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/5f657984-e2d3-4a74-9f3d-8b341c318207
       2:
-        url_poster: https://api.mediux.pro/assets/58e19bf0-6f27-474f-9012-4a6124a02048
+        url_poster: https://api.mediux.pro/assets/6f0cd71a-ecae-46be-8a44-de0fce718ae8
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/9ec564b6-b877-4d83-af85-a996f04a299c
