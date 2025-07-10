@@ -1,0 +1,7 @@
+metadata:
+  434894: # TVDB id for Crush. Set by Wikid82 on MediUX. https://mediux.pro/sets/35338
+    url_poster: https://api.mediux.pro/assets/2cca8f01-d309-4a22-979f-cbd752d331e9
+    url_background: https://api.mediux.pro/assets/43c71bff-a50f-450d-8d24-5f6fb14b6d8d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a04beac0-ef9b-4047-addd-e3f973d9a492
