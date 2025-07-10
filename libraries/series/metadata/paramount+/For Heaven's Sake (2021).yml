@@ -1,0 +1,7 @@
+metadata:
+  397799: # TVDB id for For Heaven's Sake. Set by Wikid82 on MediUX. https://mediux.pro/sets/35339
+    url_poster: https://api.mediux.pro/assets/87f9ce57-a065-4bb4-850a-321806440a7f
+    url_background: https://api.mediux.pro/assets/fbc06500-1e60-4565-97a7-8ade86185241
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/628312ce-01b1-4d81-b339-8ca2378b0d91
