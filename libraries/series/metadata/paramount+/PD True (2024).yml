@@ -1,0 +1,9 @@
+metadata:
+  452400: # TVDB id for PD True. Set by Wikid82 on MediUX. https://mediux.pro/sets/35340
+    url_poster: https://api.mediux.pro/assets/c4d3b3b4-ff5f-4080-8e4d-97a12039e072
+    url_background: https://api.mediux.pro/assets/71c3a03a-2f74-484c-a87e-9b84ded9d714
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/aff1e457-e26d-4cd5-939d-ad9632271ce4
+      2:
+        url_poster: https://api.mediux.pro/assets/8ea93a4c-7157-4be7-b67a-72afd1d975ad
