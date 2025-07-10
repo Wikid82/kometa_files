@@ -1,0 +1,7 @@
+metadata:
+  440295: # TVDB id for Painkiller: The Tylenol Murders. Set by Wikid82 on MediUX. https://mediux.pro/sets/35337
+    url_poster: https://api.mediux.pro/assets/400f3a37-3cdd-44fe-bc98-ee33f37677db
+    url_background: https://api.mediux.pro/assets/01344797-4bad-411e-869b-22bf401cfd51
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/402784ea-a516-4ba3-9fb7-ac2a7897070c
