@@ -1,8 +1,0 @@
----
-collections:
-  Sonic The Hedgehog Collection:
-    collection_mode: hide_items
-    collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29292315
-    url_background: https://api.mediux.pro/assets/a1a746c2-e0ea-40d6-bbf5-8e7eb2b909ec
-    url_poster: https://api.mediux.pro/assets/567854a2-358d-43a9-80bb-35abbc810a80

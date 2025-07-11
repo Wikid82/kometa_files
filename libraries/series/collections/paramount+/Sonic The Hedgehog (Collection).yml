@@ -1,0 +1,9 @@
+---
+collections:
+  Sonic The Hedgehog Collection:
+    collection_mode: hide_items
+    collection_order: release
+    trakt_list_details: https://trakt.tv/lists/29292315
+    url_background: https://api.mediux.pro/assets/a05b94b5-9f99-4743-b6d1-18d496e4956d
+    url_poster: https://api.mediux.pro/assets/b36947a1-f261-4976-8ac4-d1b0fd6d9668
+    # Sonic the Hedgehog Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/35344

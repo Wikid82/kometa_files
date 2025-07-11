@@ -1,0 +1,7 @@
+metadata:
+  417393: # TVDB id for Knuckles. Set by Wikid82 on MediUX. https://mediux.pro/sets/35345
+    url_poster: https://api.mediux.pro/assets/ad91497f-e9a9-413a-9368-018ef7b3c256
+    url_background: https://api.mediux.pro/assets/e11ee0d1-b6e9-43cc-a0e9-f4ecdb1e161b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6d1331a6-bd86-4392-a2fc-72db3b1e97bd
