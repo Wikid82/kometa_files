@@ -5,3 +5,17 @@ metadata:
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/6d1331a6-bd86-4392-a2fc-72db3b1e97bd
+        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/19041
+          1:
+            url_poster: https://api.mediux.pro/assets/7a7be7ec-eee6-434e-8752-b63ae1a21648
+          2:
+            url_poster: https://api.mediux.pro/assets/e33b5835-c3e3-4ed0-86b6-86307333770c
+          3:
+            url_poster: https://api.mediux.pro/assets/d3cd835d-8c61-4895-88f6-1fd7ace9759a
+          4:
+            url_poster: https://api.mediux.pro/assets/aa7b58c5-a39c-4563-bc78-bde25e2d441a
+          5:
+            url_poster: https://api.mediux.pro/assets/6b229de3-a929-436b-a720-2a3f320f8560
+          6:
+            url_poster: https://api.mediux.pro/assets/9bb9d220-dd1c-4144-9914-d5b468c25753
+
