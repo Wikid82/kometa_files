@@ -173,7 +173,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/series/collections/national_geographic
 #    - folder: /config/kometa_files/libraries/series/collections/nbc
 #    - folder: /config/kometa_files/libraries/series/collections/netflix
-#    - folder: /config/kometa_files/libraries/series/collections/paramount+
+    - folder: /config/kometa_files/libraries/series/collections/paramount+
 #    - folder: /config/kometa_files/libraries/series/collections/peacock
 #    - folder: /config/kometa_files/libraries/series/collections/prime_video
 #    - folder: /config/kometa_files/libraries/series/collections/science
