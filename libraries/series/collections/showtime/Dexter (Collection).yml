@@ -1,0 +1,7 @@
+collections:
+  Dexter Collection:
+    collection_order: release.asc
+    sync_mode: sync
+    tmdb_list_details: hhttps://www.themoviedb.org/list/8500427-dexter
+    url_background: https://api.mediux.pro/assets/1998d306-b9a6-463d-8ad5-e453f393f425
+    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/dextercollectionposter.webp
