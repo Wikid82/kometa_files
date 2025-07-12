@@ -1,0 +1,13 @@
+metadata:
+  363955: # TVDB id for Evil. Set by Wikid82 on MediUX. https://mediux.pro/sets/35388
+    url_poster: https://api.mediux.pro/assets/542ee9df-1869-40d2-8014-55bd5d1ae31c
+    url_background: https://api.mediux.pro/assets/5247ddfb-a226-4929-9c47-288a1ed5928e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1f002673-05d9-4fde-adca-5625a2797816
+      2:
+        url_poster: https://api.mediux.pro/assets/b96fe099-657a-448e-be9f-29463f739bfa
+      3:
+        url_poster: https://api.mediux.pro/assets/90f929cc-197d-4ecc-bbcb-c68eb60b3101
+      4:
+        url_poster: https://api.mediux.pro/assets/03d070ff-f9ef-4e6b-97ee-5d99b2779c76
