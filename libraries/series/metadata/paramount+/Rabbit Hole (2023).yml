@@ -1,0 +1,7 @@
+metadata:
+  415584: # TVDB id for Rabbit Hole. Set by Wikid82 on MediUX. https://mediux.pro/sets/35386
+    url_poster: https://api.mediux.pro/assets/82e5ecb0-6a69-47dd-9849-b46b257f4137
+    url_background: https://api.mediux.pro/assets/1bbb987c-0ba5-4f83-aeeb-56402d95b268
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4f810600-b9b5-4841-bae6-60f9e23e2e4a
