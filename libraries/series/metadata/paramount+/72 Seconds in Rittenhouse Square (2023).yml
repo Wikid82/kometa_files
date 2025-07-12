@@ -1,0 +1,7 @@
+metadata:
+  439879: # TVDB id for 72 Seconds in Rittenhouse Square. Set by Wikid82 on MediUX. https://mediux.pro/sets/35385
+    url_poster: https://api.mediux.pro/assets/05e1f02c-7e81-4745-950b-1059fb09a00d
+    url_background: https://api.mediux.pro/assets/93f3162f-f488-41fa-83e0-9e452af8d269
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/463fd6a9-0d8b-4228-8549-17652b3a614c
