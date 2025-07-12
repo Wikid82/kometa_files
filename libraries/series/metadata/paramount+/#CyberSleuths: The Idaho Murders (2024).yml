@@ -1,0 +1,7 @@
+metadata:
+  445149: # TVDB id for #CyberSleuths: The Idaho Murders. Set by Wikid82 on MediUX. https://mediux.pro/sets/35381
+    url_poster: https://api.mediux.pro/assets/94eef1c1-dc97-4bc5-8b49-6e6df82c1278
+    url_background: https://api.mediux.pro/assets/90a35a59-ccc9-43ce-9b18-ca5cd44f6b46
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/066aadf7-d364-45f4-8415-6f302a3f7875
