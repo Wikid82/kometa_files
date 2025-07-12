@@ -1,0 +1,9 @@
+metadata:
+  413215: # TVDB id for Tulsa King. Set by Wikid82 on MediUX. https://mediux.pro/sets/35389
+    url_poster: https://api.mediux.pro/assets/1655ff6c-2a18-4bae-8acd-91f98d99b991
+    url_background: https://api.mediux.pro/assets/5d1c60e1-98cd-4335-873a-43045a79e38c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b1e37e13-9c59-4db2-8edb-55ad506fd6a2
+      2:
+        url_poster: https://api.mediux.pro/assets/aef40280-a709-439e-9a93-f748214485fe
