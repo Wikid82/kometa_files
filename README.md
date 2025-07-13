@@ -95,9 +95,11 @@ Table of Contents
 
 ### 🔖 Prerequisites
 
+ <a href="https://www.plex.tv/personal-media-server/" title="Kometa">**Plex Media Server**</a>
+
  <a href="https://kometa.wiki/en/latest/" title="Kometa">**Kometa**</a>
 
-### 📦 Installation
+### 📦 Kometa Configuration
 
 In your Kometa config file add:
 ```
