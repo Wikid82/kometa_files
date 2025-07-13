@@ -101,33 +101,8 @@ Table of Contents
 
 ### 📦 Kometa Configuration
 
-In your Kometa config file add:
-```
-  Movies:
-    metadata_files:
-    - folder: /config/movies/metadata
-    collection_files:
-    - folder: /config/movies/collections
-    overlay_files:
-    - folder: /config/movies/overlays
-```
-```
-  TV Shows:
-    metadata_files:
-    - folder: /config/series/metadata
-    collection_files:
-    - folder: /config/series/collections
-    overlay_files:
-    - folder: /config/series/overlays
-```
-```
- playlist_files:
-    - folder: /config/playlists
-```
+<a href="https://github.com/Wikid82/kometa_files/blob/main/config.yml" title="Sample Kometa Config File">**Sample Kometa Config File**</a>
 
-Extract the files to their respective folders. Kometa will read the folder of files so you don't have to add each file indifidually. More on that <a href="https://kometa.wiki/en/latest/config/files/#location-types-and-paths">here</a>
-
-Files can also be used by adding a Custom Repo. More on that <a href="https://kometa.wiki/en/latest/config/settings/?h=custom_repo#attributes">here</a> and <a href="https://kometa.wiki/en/latest/config/files/#location-types-and-paths">here</a>
 
 
 ## 🤝 Contributing
