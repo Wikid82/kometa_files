@@ -177,7 +177,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/series/collections/peacock
 #    - folder: /config/kometa_files/libraries/series/collections/prime_video
 #    - folder: /config/kometa_files/libraries/series/collections/science
-#    - folder: /config/kometa_files/libraries/series/collections/showtime
+    - folder: /config/kometa_files/libraries/series/collections/showtime
     - folder: /config/kometa_files/libraries/series/collections/shudder
 #    - folder: /config/kometa_files/libraries/series/collections/sky_atlantic
 #    - folder: /config/kometa_files/libraries/series/collections/starz
