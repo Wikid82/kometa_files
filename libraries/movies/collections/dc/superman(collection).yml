@@ -2,6 +2,6 @@ collections: # Superman Collection Posters by willtong93 on MediUX. https://medi
   Superman Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/8537-superman-collection
+    tmdb_list_details: https://www.themoviedb.org/list/8543307-superman
     url_background: https://api.mediux.pro/assets/0f673d46-aa07-4f99-8edf-a9349145643c
     url_poster: https://api.mediux.pro/assets/f3e9bfbc-fb19-4e7f-b25f-af447914c0ef
