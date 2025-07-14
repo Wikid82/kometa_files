@@ -3,6 +3,6 @@ collections:
   Halloween Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/129
+    tmdb_collection_details: https://www.themoviedb.org/collection/91361-halloween-collection
     url_background: https://image.tmdb.org/t/p/original/hUa3JDVZ1L0U7jSfFu4uvzoCJxs.jpg
     url_poster: https://theposterdb.com/api/assets/190032
