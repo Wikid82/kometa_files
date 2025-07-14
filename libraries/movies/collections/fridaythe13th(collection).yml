@@ -3,6 +3,6 @@ collections:
   Friday The 13th Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29349926
+    tmdb_collection_details: https://www.themoviedb.org/collection/9735-friday-the-13th-collection
     url_background: https://image.tmdb.org/t/p/original/yz9EdlfKU8bpN0hbdJMy6QkFBoN.jpg
     url_poster: https://theposterdb.com/api/assets/169888
