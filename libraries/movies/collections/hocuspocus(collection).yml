@@ -3,6 +3,6 @@ collections:
   Hocus Pocus Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/19882586
+    tmdb_collection_details: https://www.themoviedb.org/collection/751156-hocus-pocus-collection
     url_background: https://image.tmdb.org/t/p/original/id8vrPNR5VGDV9NUeEEcBkxBS9g.jpg
     url_poster: https://theposterdb.com/api/assets/270908
