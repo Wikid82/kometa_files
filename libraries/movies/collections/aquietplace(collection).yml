@@ -3,6 +3,6 @@ collections:
   A Quiet Place Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29317642
+    tmdb_list_details: https://www.themoviedb.org/list/8543038-a-quiet-place
     url_background: https://api.mediux.pro/assets/42229d4f-153c-400a-897f-e2f77e5d00d6
     url_poster: https://api.mediux.pro/assets/2294cb8b-f74e-43de-b4dc-5847c3ee6245
