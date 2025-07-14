@@ -2,6 +2,6 @@ collections:
   Firestarter Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/30931694
+    tmdb_list_details: https://www.themoviedb.org/list/8543303-firestarter
     url_background: https://image.tmdb.org/t/p/original/uwjrB3XsYW4oZOO6Ym5P3dWWfLA.jpg
     url_poster: https://theposterdb.com/api/assets/486495
