@@ -3,6 +3,6 @@ collections:
   ETs Among Us Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/25958313
+    tmdb_collection_details: https://www.themoviedb.org/collection/1132590-ets-among-us-collection
     url_background: https://image.tmdb.org/t/p/original/h9nwbV2Zfcc5nbtUiDLXrD38Iwx.jpg
     url_poster: https://image.tmdb.org/t/p/original/aSu0aJgQSU9qVKWIU5OHq0Tjzhm.jpg
