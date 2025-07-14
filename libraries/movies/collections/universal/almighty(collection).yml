@@ -3,6 +3,6 @@ collections:
   Almighty Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/collection/124949-almighty-collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/124949-almighty-collection
     url_background: https://image.tmdb.org/t/p/original/38Ju5vQsV9wH7E2hFIHW0vSlbD2.jpg
     url_poster: https://theposterdb.com/api/assets/51450
