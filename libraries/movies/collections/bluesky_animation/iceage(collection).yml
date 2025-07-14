@@ -3,6 +3,6 @@ collections:
   Ice Age Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/58
+    tmdb_collection_details: https://www.themoviedb.org/collection/8354-ice-age-collection
     url_background: https://image.tmdb.org/t/p/original/2aMEn3wawIXva2xFFlQ2NClLEeW.jpg
     url_poster: https://theposterdb.com/api/assets/136
