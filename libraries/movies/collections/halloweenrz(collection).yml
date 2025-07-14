@@ -3,6 +3,6 @@ collections:
   Halloween (Rob Zombie Series) Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/193
+    tmdb_collection_details: https://www.themoviedb.org/collection/126209-halloween-rob-zombie-series-collection
     url_background: https://image.tmdb.org/t/p/original/tXXPOkcFLcDiJ4OU5SOU3JnhQrg.jpg
     url_poster: https://theposterdb.com/api/assets/20177
