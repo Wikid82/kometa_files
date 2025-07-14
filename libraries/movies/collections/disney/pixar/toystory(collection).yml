@@ -3,6 +3,6 @@ collections:
   Toy Story Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/30784564
+    tmdb_collection_details: https://www.themoviedb.org/collection/10194-toy-story-collection
     url_background: https://api.mediux.pro/assets/e2f64e6d-bea8-4fbf-8c1c-22f1c004e756
     url_poster: https://api.mediux.pro/assets/00313faf-d056-48c2-a240-b4f359ac7152  # Toy Story Collections Posters by willtong93 on MediUX. https://mediux.pro/sets/26741
