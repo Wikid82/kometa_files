@@ -3,6 +3,6 @@ collections:
   The Lord of The Rings Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/119-the-lord-of-the-rings-collection
+    tmdb_list_details: https://www.themoviedb.org/list/8543426-the-lord-of-the-rings
     url_background: https://image.tmdb.org/t/p/original/vlj3kQml7k6k3gL4BbfOQ6c4nfT.jpg
     url_poster: https://api.mediux.pro/assets/f29dfa50-86b3-4faf-a882-67a43dbd3e17
