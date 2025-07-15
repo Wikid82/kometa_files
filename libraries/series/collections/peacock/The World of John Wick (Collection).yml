@@ -3,7 +3,7 @@ collections:
   The World of John Wick Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29629060
+    tmdb_list_details: https://www.themoviedb.org/list/8543513-the-world-of-john-wick
     url_background: https://api.mediux.pro/assets/9b200b6b-5601-4e89-9a72-54b120bc8151
     url_poster: https://api.mediux.pro/assets/07998d41-c70a-4248-bf1c-67916b0d9491
     # John Wick Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/34150
