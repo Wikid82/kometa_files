@@ -2,6 +2,7 @@ collections:
   Guardians of the Galaxy Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29591530
-    url_background: https://image.tmdb.org/t/p/original/piWxcM7yNkOQfxDjtO4OlPSrcmE.jpg
-    url_poster: https://theposterdb.com/api/assets/162891
+    tmdb_list_details: https://www.themoviedb.org/list/8543509-guardians-of-the-galaxy
+    url_background: https://api.mediux.pro/assets/4eeb0a9a-341d-4267-9837-c716b88aa937
+    url_poster: https://api.mediux.pro/assets/1d8e24ea-7029-43a8-895b-84be90a30769 
+    # Guardians of the Galaxy Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/24338
