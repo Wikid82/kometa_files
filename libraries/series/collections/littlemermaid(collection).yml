@@ -3,6 +3,6 @@ collections:
   The Little Mermaid Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29313995
+    tmdb_list_details: https://www.themoviedb.org/list/8543414-the-little-mermaid
     url_background: https://image.tmdb.org/t/p/original/m7Cjc5CGLTraz4VP1aQolsOe3h9.jpg
     url_poster: https://theposterdb.com/api/assets/46804
