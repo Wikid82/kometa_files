@@ -3,6 +3,6 @@ collections:
   Moana Collection: # Moana Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26843
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/1241984-moana-collection
+    tmdb_list_details: https://www.themoviedb.org/list/8543501-moana
     url_background: https://api.mediux.pro/assets/b0ccfa42-d533-4566-8d99-0ef05f9a89e3
     url_poster: https://api.mediux.pro/assets/4e24802f-c787-48a6-9a7e-7c8f7a20bead
