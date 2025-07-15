@@ -3,6 +3,6 @@ collections:
   The Lego Movie Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29292139
+    tmdb_list_details: https://www.themoviedb.org/list/8543418-lego-movie
     url_background: https://image.tmdb.org/t/p/original/1k75UOVwioSC9BtG2Co3EJw70w9.jpg
     url_poster: https://theposterdb.com/api/assets/75599
