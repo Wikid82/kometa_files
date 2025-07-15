@@ -120,3 +120,29 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/acb51d89-391a-491e-894f-397c679b8a25 
 
+  418712: # TVDB id for Orphan Black: Echoes. Set by fwlolx on MediUX. https://mediux.pro/sets/20848
+    url_poster: https://api.mediux.pro/assets/fc909b7b-150c-4b62-b874-31e889348dab
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/45753303-71ab-4282-804e-95399d7768bf
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/594e1f88-0934-463e-8e40-cd50783a0789
+          2:
+            url_poster: https://api.mediux.pro/assets/97a81794-c91e-48b0-8f78-af30ccf1f441
+          3:
+            url_poster: https://api.mediux.pro/assets/31a7e6a2-b995-40ce-b2ef-57543c94ee8f
+          4:
+            url_poster: https://api.mediux.pro/assets/96a33713-0f61-440a-9529-e8d85cf0ee82
+          5:
+            url_poster: https://api.mediux.pro/assets/3e4df884-1da2-409e-974a-d790777eb8ce
+          6:
+            url_poster: https://api.mediux.pro/assets/ff9845f3-30bd-402d-af03-dc0910a8fe34
+          7:
+            url_poster: https://api.mediux.pro/assets/72ee33b7-ca84-4864-89ac-49d242562f5b
+          8:
+            url_poster: https://api.mediux.pro/assets/dbb76433-2d87-4da8-a558-9667755483e3
+          9:
+            url_poster: https://api.mediux.pro/assets/86b7526c-4d11-4cd3-a209-08f9b455e666
+          10:
+            url_poster: https://api.mediux.pro/assets/25cb611a-cb73-4789-b3d9-673e246049a4
