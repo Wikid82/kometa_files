@@ -3,6 +3,6 @@ collections:
   Ghostbusters Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29290514
+    tmdb_list_details: https://www.themoviedb.org/list/8543690-ghostbusters
     url_background: https://api.mediux.pro/assets/5382424a-d91d-4591-8d9b-cdaa8cb62778
     url_poster: https://api.mediux.pro/assets/35d6fe42-b06a-473d-a1f5-08fc935b5311
