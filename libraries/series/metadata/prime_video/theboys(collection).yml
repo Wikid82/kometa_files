@@ -81,3 +81,33 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e46eebd2-0f48-4332-b4d5-bff590f0745e
           8:
             url_poster: https://api.mediux.pro/assets/091ab58d-f503-4cf8-a95f-e0426f58a8f6
+
+  413188: # TVDB id for The Boys Presents: Diabolical. Set by willtong93 on MediUX. https://mediux.pro/sets/23363
+    url_poster: https://api.mediux.pro/assets/6d4ff1b6-a5b4-4f60-8999-017af6981865
+    url_background: https://api.mediux.pro/assets/05544b65-e462-4d0c-90ae-621683f55dcf
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9d7dafb7-fe93-498e-a3b4-3f88c6e8647a
+
+  417909: # TVDB id for Gen V. Set by willtong93 on MediUX. https://mediux.pro/sets/5496
+    url_poster: https://api.mediux.pro/assets/4d334f7a-e9d7-4921-bd6d-868a4e792465
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/90eb907a-ddfd-482b-b6ce-fe46824ab24e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/f052eff6-f979-4c9d-a77d-547c32dbbc8a
+          2:
+            url_poster: https://api.mediux.pro/assets/a40f53d3-4a2d-471f-b35d-37aaa1a483ec
+          3:
+            url_poster: https://api.mediux.pro/assets/e5908f48-0a5d-4f27-b4e5-54d2604aaf8f
+          4:
+            url_poster: https://api.mediux.pro/assets/571e8f6d-915a-4271-b0f3-8821343d55e1
+          5:
+            url_poster: https://api.mediux.pro/assets/ea8a562b-03a7-40ba-9996-5f8c26d82375
+          6:
+            url_poster: https://api.mediux.pro/assets/52b1db80-473b-44e2-9878-de5a56e185f6
+          7:
+            url_poster: https://api.mediux.pro/assets/02513265-b4cc-450d-8785-eea541e40da7
+          8:
+            url_poster: https://api.mediux.pro/assets/46c4002b-b977-4c99-bbd7-a7b28a26bf64
