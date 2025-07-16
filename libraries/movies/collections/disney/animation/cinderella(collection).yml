@@ -3,6 +3,6 @@ collections:
   Cinderella Collection: # Cinderella Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26835
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/55419-cinderella-collection
+    tmdb_list_details: https://www.themoviedb.org/list/8543639-cinderella
     url_background: https://api.mediux.pro/assets/f9dd8d60-e82f-4cdb-94d4-2e28c7449c7f
     url_poster: https://api.mediux.pro/assets/91d18aee-9e3a-446f-bc27-dbb8324db60e 
