@@ -3,6 +3,6 @@ collections:
   The Crow Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29289956
+    tmdb_list_details: https://www.themoviedb.org/list/8543517-the-crow
     url_background: https://image.tmdb.org/t/p/original/uJe52x0yLJDBd3GuwBLS1U9ypv0.jpg
     url_poster: https://theposterdb.com/api/assets/111879
