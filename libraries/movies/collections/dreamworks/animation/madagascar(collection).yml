@@ -3,6 +3,6 @@ collections:
   Madagascar Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29435018
+    tmdb_list_details: https://www.themoviedb.org/list/8543647-madagascar
     url_background: https://api.mediux.pro/assets/3bf18e79-1d4b-4915-b909-0420bcf52a52
     url_poster: https://api.mediux.pro/assets/d87e548c-f8e5-4652-9111-c414930e17e4 # Madagascar Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26567
