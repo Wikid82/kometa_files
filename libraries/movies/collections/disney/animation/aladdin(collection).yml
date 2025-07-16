@@ -3,6 +3,6 @@ collections:
   Aladdin Collection: # Aladdin Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26919
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/86027-aladdin-collection
+    tmdb_list_details: https://www.themoviedb.org/list/8543685-aladdin
     url_background: https://api.mediux.pro/assets/640a8b87-dc23-4aaa-9cbf-5ae7299bb1e6
     url_poster: https://api.mediux.pro/assets/1723c32b-8de3-408b-b319-854b832054eb
