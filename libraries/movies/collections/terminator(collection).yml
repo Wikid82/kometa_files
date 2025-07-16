@@ -3,6 +3,6 @@ collections:
   Terminator Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29634529
+    tmdb_list_details: https://www.themoviedb.org/list/8543516-the-terminator
     url_background: https://image.tmdb.org/t/p/original/gSo16GCwEGC0ik4J9QUHF0BbYr2.jpg
     url_poster: https://theposterdb.com/api/assets/13194
