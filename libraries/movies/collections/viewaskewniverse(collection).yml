@@ -3,6 +3,6 @@ collections:
   A View Askewniverse Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/11349672
+    tmdb_list_details: https://www.themoviedb.org/list/8543684-the-view-askewniverse
     url_background: https://image.tmdb.org/t/p/original/m1VA6XjIESUqOi1JD0nqLWGHCkR.jpg
     url_poster: https://theposterdb.com/api/assets/61802
