@@ -3,6 +3,6 @@ collections:
   'X-Men: The Complete Fox Collection':
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29676578
+    tmdb_list_details: https://www.themoviedb.org/list/8543692-x-men-the-complete-fox-collection
     url_background: https://image.tmdb.org/t/p/original/ykVHlrE3aSvHYeIXOrWDsYZ18vv.jpg
     url_poster: https://api.mediux.pro/assets/f69cb745-5117-49f4-bfc5-f8f84cd8aa35
