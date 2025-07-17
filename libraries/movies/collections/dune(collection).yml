@@ -2,6 +2,6 @@ collections:
   Dune Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29687315
+    tmdb_list_details: https://www.themoviedb.org/list/8543823-dune
     url_background: https://api.mediux.pro/assets/0bd9d530-beb3-4bc3-8b99-b5c1b6ee8303
     url_poster: https://api.mediux.pro/assets/ae728d09-de4b-4ad3-ad2b-cf972099628c
