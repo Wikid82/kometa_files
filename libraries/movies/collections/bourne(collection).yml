@@ -3,6 +3,6 @@ collections:
   The Bourne Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29687074
+    tmdb_list_details: https://www.themoviedb.org/list/8543822-bourne
     url_background: https://api.mediux.pro/assets/fd360a94-dae1-4e65-8f77-d5d80b117705
     url_poster: https://api.mediux.pro/assets/e80f4192-dc06-41d1-b039-7ac35309e443
