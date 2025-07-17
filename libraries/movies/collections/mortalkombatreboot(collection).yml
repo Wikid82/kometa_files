@@ -1,8 +1,7 @@
----
 collections:
   Mortal Kombat Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/9818-mortal-kombat-collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/931431-mortal-kombat-reboot-collection
     url_background: https://image.tmdb.org/t/p/original/mEHa7n1CTYchiDxiKJJk6yv9oCW.jpg
-    url_poster: https://theposterdb.com/api/assets/6106
+    url_poster: https://api.mediux.pro/assets/5f35f8c7-fdcc-49c6-b363-3f4e03fd06d9
