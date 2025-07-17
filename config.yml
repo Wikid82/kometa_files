@@ -49,6 +49,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/movies/collections/sumarian
 #    - folder: /config/kometa_files/libraries/movies/collections/tristar
     - folder: /config/kometa_files/libraries/movies/collections/universal
+    - folder: /config/kometa_files/libraries/movies/collections/warner_bros
 #    - folder: /config/kometa_files/libraries/movies/collections/we_go
     - folder: /config/kometa_files/libraries/movies/collections
     metadata_files:
