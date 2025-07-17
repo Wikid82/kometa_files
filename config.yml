@@ -113,9 +113,9 @@ libraries:
         rating1: critic
         rating1_image: rt_tomato
         rating2: audience
-        rating2_image: rt_popcorn
+        rating2_image: tmdb
         rating3: user
-        rating3_image: trakt
+        rating3_image: star
     - file: /config/kometa_files/libraries/movies/overlays/resolution.yml
     - file: /config/kometa_files/libraries/movies/overlays/ribbons.yml
     operations:
@@ -132,11 +132,11 @@ libraries:
       - mdb_tomatoes
       - 1.0
       mass_audience_rating_update:
-      - mdb_tomatoesaudience
+      - tmdb
       - 1.0
-      mass_user_rating_update:
-      - trakt_user
-      - 1.0
+#      mass_user_rating_update:
+#      - trakt_user
+#      - 1.0
       delete_collections:
         configured: false
         managed: false
@@ -235,9 +235,9 @@ libraries:
         rating1: critic
         rating1_image: rt_tomato
         rating2: audience
-        rating2_image: rt_popcorn
+        rating2_image: tmdb
         rating3: user
-        rating3_image: trakt
+        rating3_image: star
     - file: /config/kometa_files/overlays/tvshows/resolution.yml
     - file: /config/kometa_files/overlays/tvshows/ribbons.yml
     operations:
@@ -253,11 +253,11 @@ libraries:
       - mdb_tomatoes
       - 1.0
       mass_audience_rating_update:
-      - mdb_tomatoesaudience
+      - tmdb
       - 1.0
-      mass_user_rating_update: 
-      - trakt_user
-      - 1.0
+ #     mass_user_rating_update: 
+ #     - trakt_user
+ #     - 1.0
       mass_episode_audience_rating_update:
       - tmdb
       - 1.0
