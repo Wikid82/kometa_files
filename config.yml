@@ -225,11 +225,9 @@ libraries:
     - folder: /config/kometa_files/libraries/series/metadata/truetv
     - folder: /config/kometa_files/libraries/series/metadata     
     overlay_files:
-    - file: /config/kometa_files/overlays/tvshows/content_rating_us_shows.yml
-      template_variables:
-        use_nr: false
-    - file: /config/kometa_files/overlays/tvshows/mediastinger.yml
-    - file: /config/kometa_files/overlays/tvshows/ratings.yml
+    - file: /config/kometa_files/libraries/series/overlays/content_rating_us_shows.yml
+    - file: /config/kometa_files/libraries/series/overlays/mediastinger.yml
+    - file: /config/kometa_files/libraries/series/overlays/ratings.yml
       template_variables:
         minimum_rating: 2.0
         rating1: critic
@@ -238,8 +236,8 @@ libraries:
         rating2_image: tmdb
         rating3: user
         rating3_image: star
-    - file: /config/kometa_files/overlays/tvshows/resolution.yml
-    - file: /config/kometa_files/overlays/tvshows/ribbons.yml
+    - file: /config/kometa_files/libraries/series/overlays/resolution.yml
+    - file: /config/kometa_files/libraries/mseries/overlays/ribbons.yml
     operations:
 #      schedule: weekly (friday)
 #      mass_poster_update:
