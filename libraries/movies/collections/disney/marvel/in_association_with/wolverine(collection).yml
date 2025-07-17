@@ -3,6 +3,6 @@ collections:
   Wolverine Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/29676860
+    tmdb_list_details: https://www.themoviedb.org/list/8543819-wolverine
     url_background: https://image.tmdb.org/t/p/original/hbNMx7sxxqvkX8rLOsTryiSrCPY.jpg
     url_poster: https://api.mediux.pro/assets/3d1d4040-97c0-4260-941c-590e817418d6
