@@ -237,7 +237,7 @@ libraries:
         rating3: user
         rating3_image: star
     - file: /config/kometa_files/libraries/series/overlays/resolution.yml
-    - file: /config/kometa_files/libraries/mseries/overlays/ribbons.yml
+    - file: /config/kometa_files/libraries/series/overlays/ribbons.yml
     operations:
 #      schedule: weekly (friday)
 #      mass_poster_update:
