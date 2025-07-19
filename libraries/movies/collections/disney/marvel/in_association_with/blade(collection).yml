@@ -2,6 +2,6 @@ collections:
   Blade Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/735-blade-collection
+    tmdb_list_details: https://www.themoviedb.org/list/8544014-blade
     url_background: https://image.tmdb.org/t/p/original/gSWCo8z7bNNSKA7HGeu2oSfYGsd.jpg
     url_poster: https://api.mediux.pro/assets/8847dd38-32c3-4862-8952-69b0772f4c04 # Blade Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/24406
