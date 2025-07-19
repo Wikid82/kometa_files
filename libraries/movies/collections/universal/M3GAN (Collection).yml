@@ -1,0 +1,7 @@
+collections:
+  M3GAN Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1071588-m3gan-collection
+    url_background: https://api.mediux.pro/assets/a0e69424-59e8-4be2-ab61-1d3bf223367c
+    url_poster: https://api.mediux.pro/assets/a0e69424-59e8-4be2-ab61-1d3bf223367c
