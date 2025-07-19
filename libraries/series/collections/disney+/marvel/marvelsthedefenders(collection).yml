@@ -2,6 +2,6 @@ collections:
   Marvel's The Defenders Collection:
     collection_mode: show_items
     collection_order: release
-    trakt_list: https://trakt.tv/lists/30253037
+    tmdb_list_details: https://www.themoviedb.org/list/8544017-marve-s-the-defenders
    # url_background: 
     url_poster: https://theposterdb.com/api/assets/227837
