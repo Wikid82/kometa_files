@@ -2,6 +2,6 @@ collections:
   The Transporter Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/31141286
+    tmdb_list_details: https://www.themoviedb.org/list/8496096-the-transporter
     url_background: https://api.mediux.pro/assets/a1cb744d-12aa-44d6-a7ce-bf68c6f1e4d1
     url_poster: https://api.mediux.pro/assets/03f067b4-4d2a-4faa-98db-416a836a64db
