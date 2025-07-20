@@ -2,6 +2,6 @@ collections:
   The Punisher Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://www.themoviedb.org/list/8544015-the-punisher
+    tmdb_list_details: https://www.themoviedb.org/list/8544015-the-punisher
     url_background: https://image.tmdb.org/t/p/original/vokIGmTkY2ZqTYiPZYGM4S6Zbzh.jpg
     url_poster: https://api.mediux.pro/assets/6b063473-73f0-4b40-bebb-1e1f92a4e271
