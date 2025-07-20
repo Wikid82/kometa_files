@@ -2,7 +2,7 @@ collections:
   Anchorman Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/31398096
+    tmdb_list_details: https://www.themoviedb.org/list/8495501-anchorman
     url_background: https://api.mediux.pro/assets/b626a3d5-b80b-4b03-a189-e8f63e6cbe44
     url_poster: https://api.mediux.pro/assets/aafa21c9-9fbb-4598-8b9c-fded91dd38a4
     # Anchorman Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/33085
