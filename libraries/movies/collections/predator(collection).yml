@@ -3,6 +3,6 @@ collections:
   Predator Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/31144854
+    tmdb_list_details: https://www.themoviedb.org/list/8545336-predator
     url_background: https://api.mediux.pro/assets/563b1ab2-f8ab-4296-b11c-bbfa0ee70c2e
     url_poster: https://api.mediux.pro/assets/eda7559c-c5ce-43a3-9f22-3664d60f89ab
