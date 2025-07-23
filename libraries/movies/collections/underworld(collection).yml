@@ -3,6 +3,6 @@ collections:
   Underworld Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/31144795
+    tmdb_list_details: https://www.themoviedb.org/list/8545335-underworld
     url_background: https://api.mediux.pro/assets/d9588727-627b-4381-9ee8-11b6c857462f
     url_poster: https://api.mediux.pro/assets/14e234bf-828e-4811-a35d-d52182d1ee58
