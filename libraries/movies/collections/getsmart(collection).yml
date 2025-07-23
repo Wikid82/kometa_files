@@ -2,6 +2,6 @@ collections:
   Get Smart Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/31089886
+    tmdb_list_details: https://www.themoviedb.org/list/8545334-get-smart
     url_background: https://image.tmdb.org/t/p/original/5zdRyHdvPvEDhnFumbO5RXxDxt.jpg
     url_poster: https://image.tmdb.org/t/p/original/dH7S9Scrqki6rWyiuvx7xnO4S3n.jpg
