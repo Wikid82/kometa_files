@@ -3,6 +3,6 @@ collections:
   Cloverfield Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/31563087
+    tmdb_list_details: https://www.themoviedb.org/list/8546202-cloverfield
     url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/cloverfieldccollectionBG.jpg
     url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/cloverfieldcollection.jpg
