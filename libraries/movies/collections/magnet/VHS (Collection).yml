@@ -2,7 +2,7 @@ collections:
   V/H/S Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/31620306
+    tmdb_list_details: https://www.themoviedb.org/list/8546207-v-h-s
     url_background: https://api.mediux.pro/assets/8521e937-c1b4-4b06-a397-59611fb7047a
     url_poster: https://api.mediux.pro/assets/4782c2d1-bb6d-4d3f-bdf1-0e11a7783ebb
     # V/H/S Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/34168
