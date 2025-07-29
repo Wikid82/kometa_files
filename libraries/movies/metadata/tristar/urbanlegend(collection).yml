@@ -1,0 +1,12 @@
+metadata:
+  9877: # Urban Legend (1998)
+    url_background: https://image.tmdb.org/t/p/original/1MllG91Hzn5cgmN4uFn0Jg2D0i6.jpg
+    url_poster: https://image.tmdb.org/t/p/original/mnDQWDbLGenENfK7kNelZ0PdAiT.jpg
+
+  12212: # Urban Legends: Final Cut (2000)
+    url_background: https://image.tmdb.org/t/p/original/rnbKZ1pOZFByC66rmZn7S5OrP6L.jpg
+    url_poster: https://image.tmdb.org/t/p/original/9kjGrnhMz37RYEd5BFcrU1qkPkl.jpg
+
+  10292: # Urban Legends: Bloody Mary (2005)
+    url_background: https://image.tmdb.org/t/p/original/mciZyjgKYEmHTi5fE0J7b66YTde.jpg
+    url_poster: https://image.tmdb.org/t/p/original/cLVSMShUVQKEy0upBiLvG5dzAwH.jpg
