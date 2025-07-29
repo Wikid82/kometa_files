@@ -3,6 +3,6 @@ collections:
   Missing 411 Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/20155902
+    tmdb_collection_details: https://www.themoviedb.org/collection/753247-missing-411-collection
     url_background: https://image.tmdb.org/t/p/original/txheJTRBjB93EGbzo9MnkVYsW98.jpg
     url_poster: https://theposterdb.com/api/assets/215935
