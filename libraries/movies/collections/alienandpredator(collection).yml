@@ -3,6 +3,6 @@ collections:
   Alien & Predator Timeline Collection:
     collection_mode: hide_items
     collection_order: custom.asc
-    trakt_list_details: https://trakt.tv/lists/28919124
+    imdb_list: https://www.imdb.com/list/ls033451595/
     url_background: https://image.tmdb.org/t/p/original/ezIpXeWRd43inL5AOaaBbT4jaf2.jpg
     url_poster: https://theposterdb.com/api/assets/146111
