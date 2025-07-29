@@ -1,0 +1,8 @@
+collections:
+  Urban Legend Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/52760-urban-legend-collection
+    url_background: https://image.tmdb.org/t/p/original/1MllG91Hzn5cgmN4uFn0Jg2D0i6.jpg
+    url_poster: https://image.tmdb.org/t/p/original/oa0QIdVg3BLZHU6fm9kAF2lXCVq.jpg
+   
