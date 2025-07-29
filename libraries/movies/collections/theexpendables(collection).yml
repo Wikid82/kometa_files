@@ -3,6 +3,6 @@ collections:
   The Expendables Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/1065
+    tmdb_collection_details: https://www.themoviedb.org/collection/126125-the-expendables-collection
     url_background: https://api.mediux.pro/assets/39b873cd-bc57-4cd7-9d6a-9060effaa5a5
     url_poster: https://api.mediux.pro/assets/7b2caa74-dadb-4bc7-9122-04e75e86a1ea
