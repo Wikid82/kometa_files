@@ -3,5 +3,5 @@ playlists:
     sync_mode: sync
     libraries: Movies, TV Shows
     sync_to_users: all
-    trakt_list: https://trakt.tv/lists/28919124
+    imdb_list: https://www.imdb.com/list/ls033451595/
     url_poster: https://theposterdb.com/api/assets/465191
