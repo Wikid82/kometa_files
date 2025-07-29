@@ -3,6 +3,6 @@ collections:
   How The Grinch Stole Christmas Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/9637597
+    tmdb_list_details: https://www.themoviedb.org/list/8546428-how-the-grinch-stole-christmas
     url_background: https://image.tmdb.org/t/p/original/lqtqsNeD3oWkYM7ExIFQnPE0Btf.jpg
     url_poster: https://theposterdb.com/api/assets/4407
