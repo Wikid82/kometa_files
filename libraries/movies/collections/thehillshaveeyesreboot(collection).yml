@@ -3,6 +3,6 @@ collections:
   The Hills Have Eyes Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/434
+    tmdb_collection_details: https://www.themoviedb.org/collection/8918-the-hills-have-eyes-reboot-collection
     url_background: https://image.tmdb.org/t/p/original/A0LX8YBYBZtfj0gR5Pkgz87cmcb.jpg
     url_poster: https://theposterdb.com/api/assets/8502
