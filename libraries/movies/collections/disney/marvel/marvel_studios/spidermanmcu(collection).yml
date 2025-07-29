@@ -2,6 +2,6 @@ collections:
   Spider-Man (MCU) Collection:
     collection_mode: hide_items
     collection_order: release
-    trakt_list_details: https://trakt.tv/lists/5025265
+    tmdb_collection_details: https://www.themoviedb.org/collection/531241-spider-man-mcu-collection
     url_background: https://api.mediux.pro/assets/49926461-e6d9-4724-8e4a-7ff4ae058b82
     url_poster: https://api.mediux.pro/assets/c3d5982f-1baa-4959-b764-361f40342d8e # Spider-Man Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/24304
