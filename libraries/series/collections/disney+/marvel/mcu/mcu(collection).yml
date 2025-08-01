@@ -1,8 +1,11 @@
 collections:
   Marvel Cinimatic Universe:
     collection_mode: hide_items
-    collection_order: release
-    imdb_list: https://www.imdb.com/list/ls029032797/
+    collection_order: custom.asc
+    sync_mode: sync
+    imdb_list: 
+      list_id: ls029032797
+      sort_by: custom.asc
     url_background: https://image.tmdb.org/t/p/original/smLccpWC4ElF5xyjD9Xt0Zu2gna.jpg
     url_poster: https://theposterdb.com/api/assets/162885
    # summary: The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios. The films are based on characters that appear in American comic books published by Marvel Comics. The franchise also includes several television series, short films, digital series, and literature. The shared universe, much like the original Marvel Universe in comic books, was established by crossing over common plot elements, settings, cast, and characters.
