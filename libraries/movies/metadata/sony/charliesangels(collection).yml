@@ -1,0 +1,8 @@
+metadata:
+  4327: # TMDB ID for Charlie's Angels (2000)
+    url_poster: https://image.tmdb.org/t/p/original/u5GbILxLgfeNHCnTtTRuhmAC9i4.jpg
+    url_background: https://image.tmdb.org/t/p/original/gMkr8Qh5jhTFW8hfS5jdrAOTbV7.jpg
+
+  9471: # TMDB ID for Charlie's Angels: Full Throttle (2003)
+    url_poster: https://image.tmdb.org/t/p/original/wHPX8WWfuivIZQatwhauyBipRyG.jpg
+    url_background: https://image.tmdb.org/t/p/original/rS3QJdsCPyhhQ0mJEr8VirNmOMm.jpg
