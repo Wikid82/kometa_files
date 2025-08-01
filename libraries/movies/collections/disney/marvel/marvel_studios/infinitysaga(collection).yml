@@ -1,8 +1,11 @@
 collections:
   "Marvel: The Infinity Saga":
     collection_mode: hide_items
-    collection_order: custom
-    imdb_list: https://www.imdb.com/list/ls093938481/
+    collection_order: custom.asc
+    sync_mode: sync
+    imdb_list: 
+      list_id: ls093938481
+      sort_by: custom.asc
     url_background: https://image.tmdb.org/t/p/original/pbnxUEoC1rXqGwd52UV9pNA8gR6.jpg
     url_poster: https://theposterdb.com/api/assets/315073
     #summary: "The Infinity Saga is the name given to the first three phases of the Marvel Cinematic Universe (MCU), encompassing 23 films and 8 short films. These phases, spanning from 2008 to 2019, revolve around the overarching narrative of the Infinity Stones and the quest to protect them from Thanos. The saga culminates in the epic battles of Avengers: Infinity War and Avengers: Endgame."
