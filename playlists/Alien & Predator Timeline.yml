@@ -3,5 +3,7 @@ playlists:
     sync_mode: sync
     libraries: Movies, TV Shows
     sync_to_users: all
-    imdb_list: https://www.imdb.com/list/ls033451595/
+    imdb_list: 
+      list_id: ls033451595
+      sort_by: custom.asc
     url_poster: https://theposterdb.com/api/assets/465191
