@@ -1,8 +1,11 @@
 collections:
   "Marvel: The Multiverse Saga":
     collection_mode: hide_items
-    collection_order: custom
-    imdb_list: https://www.imdb.com/list/ls554083056/
+    collection_order: custom.asc
+    sync_mode: sync
+    imdb_list: 
+      list_id: ls554083056
+      sort_by: custom.asc
     url_background: https://image.tmdb.org/t/p/original/aRNMwIvEnYEMwGHLCAACyuq2I1K.jpg
     url_poster: https://theposterdb.com/api/assets/315076
    # summary: "The Multiverse Saga is a saga of films, television series, and television specials of the Marvel Cinematic Universe, encompassing Phase Four, Phase Five, and Phase Six. The saga began in 2021 with WandaVision and will conclude in 2027 with Avengers: Secret Wars. The saga gets its name from its prominent theme of the Multiverse
