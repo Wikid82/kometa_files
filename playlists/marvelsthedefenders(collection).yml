@@ -1,9 +1,10 @@
 playlists:
   Marvel's The Defenders Timeline:
-    sync_mode: sync
-    libraries: Movies, TV Shows
-    sync_to_users: all
     imdb_list: 
       list_id: ls082528698
-      sort_by: custom.asc
+      sort_by: custom.asc    
+    sync_mode: sync
+    collection_order: custom
+    libraries: Movies, TV Shows
+    sync_to_users: all
     url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/playlists/defenders.jpg
