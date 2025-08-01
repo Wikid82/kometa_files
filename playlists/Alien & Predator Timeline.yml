@@ -1,9 +1,10 @@
 playlists:
   Alien / Predator Timeline:
-    sync_mode: sync
-    libraries: Movies, TV Shows
-    sync_to_users: all
     imdb_list: 
       list_id: ls033451595
       sort_by: custom.asc
+    sync_mode: sync
+    collection_order: custom
+    libraries: Movies, TV Shows
+    sync_to_users: all
     url_poster: https://theposterdb.com/api/assets/465191
