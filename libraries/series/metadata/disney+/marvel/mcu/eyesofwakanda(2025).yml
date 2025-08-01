@@ -1,0 +1,6 @@
+metadata:
+  443358: # TVDB id for Eyes of Wakanda. Set by Pejamas on MediUX. https://mediux.pro/sets/35861
+    url_poster: https://api.mediux.pro/assets/4f285ae8-4ed9-4449-ad81-fb538e8e4a7a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1c1ddb36-b020-49b7-9942-d7b2de24b20d
