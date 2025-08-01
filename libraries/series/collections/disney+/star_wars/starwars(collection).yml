@@ -2,7 +2,10 @@
 collections:
   Star Wars Collection:
     collection_mode: show_items
-    collection_order: custom
-    imdb_list: https://www.imdb.com/list/ls072034866/
+    collection_order: custom.asc
+    sync_mode: sync
+    imdb_list: 
+      list_id: ls072034866
+      sort_by: custom.asc
     url_background: https://image.tmdb.org/t/p/original/eO3PyZbDe7UlkyypMgfHWdeo9VZ.jpg
     url_poster: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae
