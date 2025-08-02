@@ -1,0 +1,7 @@
+metadata:
+  405898: # TVDB id for 9/11: One Day in America. Set by Wikid82 on MediUX. https://mediux.pro/sets/35941
+    url_poster: https://api.mediux.pro/assets/60275588-e12b-40c5-af02-4858dbacce54
+    url_background: https://api.mediux.pro/assets/1eedbe2f-2a43-4006-a82a-fd03613c2d32
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b2668fce-dc54-44b5-8d2e-9113947191eb
