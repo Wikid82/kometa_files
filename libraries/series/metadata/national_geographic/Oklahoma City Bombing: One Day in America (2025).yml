@@ -1,0 +1,7 @@
+metadata:
+  461600: # TVDB id for Oklahoma City Bombing: One Day in America. Set by Wikid82 on MediUX. https://mediux.pro/sets/35945
+    url_poster: https://api.mediux.pro/assets/a9124042-f087-4fa5-947a-3610734c204c
+    url_background: https://api.mediux.pro/assets/aa17a7f4-a2ff-40ed-9704-ac97ebbd8211
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5d94757b-a1eb-430a-ac2d-ce2bea3d500b
