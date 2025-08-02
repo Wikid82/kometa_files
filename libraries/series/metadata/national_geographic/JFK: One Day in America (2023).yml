@@ -1,0 +1,7 @@
+metadata:
+  438921: # TVDB id for JFK: One Day in America. Set by Wikid82 on MediUX. https://mediux.pro/sets/35944
+    url_poster: https://api.mediux.pro/assets/8b4bf23e-4b15-44aa-a2d3-087d135f1be5
+    url_background: https://api.mediux.pro/assets/515955bc-c38b-40d9-aa34-cd46148ac572
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/44a12f38-dd2c-4af4-9590-d28a7aa44bfe
