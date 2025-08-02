@@ -1,0 +1,14 @@
+metadata:
+  422600: # TVDB id for Trainwreck: Woodstock '99. Set by Wikid82 on MediUX. https://mediux.pro/sets/34672
+    url_poster: https://api.mediux.pro/assets/c264bdbb-7839-4234-87fd-9b7503899c48
+    url_background: https://api.mediux.pro/assets/2069e79c-6fac-4f53-8f89-adad7570f6ab
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/c0f7f233-e02b-4e42-b410-d383fe78bd22
+
+  466307: # TVDB id for Trainwreck: Storm Area 51.
+    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/temp/trainwreck_storm_area_51/s.webp
+    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/temp/trainwreck_storm_area_51/tsa51BG.webp
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/temp/trainwreck_storm_area_51/s1.webp
