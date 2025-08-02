@@ -1,0 +1,7 @@
+metadata:
+  456098: # TVDB id for Tsunami: Race Against Time. Set by Wikid82 on MediUX. https://mediux.pro/sets/35938
+    url_poster: https://api.mediux.pro/assets/3df24135-bc79-4563-bacd-72b56207977f
+    url_background: https://api.mediux.pro/assets/5fa447bf-cffe-4ee8-8361-8e3890cd4a23
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ab2effd3-d087-4af2-ad00-d2c8a659a456
