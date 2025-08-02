@@ -5,3 +5,16 @@ metadata:
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/b2668fce-dc54-44b5-8d2e-9113947191eb
+        episodes: # Title Card Set by valexv on MediUX. https://mediux.pro/sets/24147
+          1:
+            url_poster: https://api.mediux.pro/assets/70f2a74e-b02c-48b5-822a-e5c5e399f523
+          2:
+            url_poster: https://api.mediux.pro/assets/d3b84762-2065-4302-aa26-329beada73b7
+          3:
+            url_poster: https://api.mediux.pro/assets/c766cc4f-2e94-410c-88c1-6aad40eb1ac8
+          4:
+            url_poster: https://api.mediux.pro/assets/4f580863-7ccd-41e0-8058-65eea1457c21
+          5:
+            url_poster: https://api.mediux.pro/assets/8fe91dd9-1a00-48a5-b42d-9a6f8e3ca805
+          6:
+            url_poster: https://api.mediux.pro/assets/682d9062-9e3a-4410-ac64-3beadaff9629
