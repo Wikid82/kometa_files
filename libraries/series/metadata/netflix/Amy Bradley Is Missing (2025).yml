@@ -1,0 +1,7 @@
+metadata:
+  465157: # TVDB id for Amy Bradley Is Missing. Set by Wikid82 on MediUX. https://mediux.pro/sets/35967
+    url_poster: https://api.mediux.pro/assets/1683e23e-fc5d-43ed-9c84-4bd3f922a9ab
+    url_background: https://api.mediux.pro/assets/0e875088-d9a1-4ea8-8e36-672bb2ba238c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b17a2cef-9716-4440-9f63-48222d80595c
