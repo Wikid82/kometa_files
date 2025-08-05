@@ -1,0 +1,7 @@
+collections:
+  DragonHeart Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/169452-dragonheart-collection
+    url_background: https://image.tmdb.org/t/p/original/hRucBWgzCc7iA9avUE2k5gc7dkj.jpg
+    url_poster: https://image.tmdb.org/t/p/original/bZsqwJnO65wlZ3ez7dopUQMYALY.jpg
