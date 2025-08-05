@@ -1,0 +1,8 @@
+metadata:
+  300669: # TMDB id for Don't Breathe (2016)
+    url_background: https://image.tmdb.org/t/p/original/20rdYjWhr1UrOm76zNS4Wx7DU0M.jpg
+    url_poster: https://image.tmdb.org/t/p/original/t5NHV3o0Ir1UXH53TWm0oqfgCgn.jpg
+
+  482373: # TMDB id for Don't Breathe 2 (2021)
+    url_background: https://image.tmdb.org/t/p/original/dUn7N9n50lcv9lAhU8cIEBHCsa4.jpg
+    url_poster: https://image.tmdb.org/t/p/original/hRMfgGFRAZIlvwVWy8DYJdLTpvN.jpg
