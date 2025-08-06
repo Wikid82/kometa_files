@@ -1,7 +1,0 @@
-collections:
-  Pet Sematary Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/10789-pet-sematary-collection
-    url_background: https://image.tmdb.org/t/p/original/ZkSBmKmi7aZVBmuHEXdPhj6Ylt.jpg
-    url_poster: https://api.mediux.pro/assets/29586cf0-2110-4f05-a833-407620e4b63f

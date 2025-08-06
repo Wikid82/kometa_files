@@ -1,7 +1,0 @@
-collections:
-  The Flintstones Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/351684-the-flintstones-collection
-    url_background: https://image.tmdb.org/t/p/original/qD0rip0E8EcRcjCPcdu5wUknLZJ.jpg
-    url_poster: https://image.tmdb.org/t/p/original/d9fvJfCItbQFjjHXCqnenMYxsP8.jpg
