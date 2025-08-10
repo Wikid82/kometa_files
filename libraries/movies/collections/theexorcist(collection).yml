@@ -1,7 +1,0 @@
-collections:
-  The Exorcist Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/12263-the-exorcist-collection
-    url_background: https://image.tmdb.org/t/p/original/tuORKw8hnP7Gd03BdBV6TmySR2G.jpg
-    url_poster: https://theposterdb.com/api/assets/18704

@@ -1,7 +1,0 @@
-collections:
-  Jack Ryan Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8543316-jack-ryan
-    url_background: https://image.tmdb.org/t/p/original/qYlcVBifq5T4wyWV00a5Awq0kUi.jpg
-    url_poster: https://theposterdb.com/api/assets/150531

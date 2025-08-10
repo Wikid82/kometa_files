@@ -1,7 +1,0 @@
-collections:
-  Austin Powers Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/1006-austin-powers-collection
-    url_background: https://image.tmdb.org/t/p/original/6KaDpeoPbvrbzXAuFdjIQpWk9PY.jpg
-    url_poster: https://theposterdb.com/api/assets/13969

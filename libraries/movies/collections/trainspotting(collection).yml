@@ -1,7 +1,0 @@
-collections:
-  Trainspotting Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/424202-trainspotting-collection
-    url_background: https://image.tmdb.org/t/p/original/1oup2PxeBta8U7B4bWhj9Mhel8M.jpg
-    url_poster: https://api.mediux.pro/assets/9344abf8-3d7d-4c58-922c-377322458de7

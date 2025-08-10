@@ -1,7 +1,0 @@
-collections:
-  Ride Along Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/376650-ride-along-collection
-    url_background: https://image.tmdb.org/t/p/original/3ZX5hvXjMxWJ5joyJxmWJT5nZDo.jpg
-    url_poster: https://theposterdb.com/api/assets/63947

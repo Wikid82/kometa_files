@@ -1,7 +1,0 @@
-collections:
-  Basic Instinct Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/86336-basic-instinct-collection
-    url_background: https://image.tmdb.org/t/p/original/lODqdHFBB4PIDEPM4Dj5ebNTXhH.jpg
-    url_poster: https://api.mediux.pro/assets/15e4d29e-6760-4498-bd1b-11c800386420

@@ -1,8 +1,0 @@
----
-collections:
-  Bad Boys Collection: # Bad Boys Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/25107
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/14890-bad-boys-collection
-    url_background: https://api.mediux.pro/assets/562f48fb-2516-482a-9f79-167dbe214513
-    url_poster: https://api.mediux.pro/assets/a2516782-50d5-46a2-80df-a6d6a396ca87

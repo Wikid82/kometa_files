@@ -1,7 +1,0 @@
-collections:
-  The Skulls Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/8647-the-skulls-collection
-    url_background: https://image.tmdb.org/t/p/original/mTPVUQJ87z7FzJvtmCjXixJb8iD.jpg
-    url_poster: https://api.mediux.pro/assets/177b8fe7-e1c4-4ba5-beaf-2185354e1ccd

@@ -1,7 +1,0 @@
-collections:
-  A Simple Favor Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/975201-a-simple-favor-collection
-    url_background: https://image.tmdb.org/t/p/original/ugDSJKMEexMt1d38uyzRnVFsDIh.jpg
-    url_poster: https://theposterdb.com/api/assets/598804

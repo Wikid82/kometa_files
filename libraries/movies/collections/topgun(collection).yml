@@ -1,7 +1,0 @@
-collections:
-  Top Gun Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/531330-top-gun-collection
-    url_background: https://api.mediux.pro/assets/0f200cc7-f68a-4b7a-a822-080af66d58f8
-    url_poster: https://api.mediux.pro/assets/33b15191-2526-4dcd-970f-acd84067ce21

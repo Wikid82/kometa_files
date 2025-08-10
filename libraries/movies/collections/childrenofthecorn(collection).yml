@@ -1,7 +1,0 @@
-collections:
-  Children of the Corn Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8543407-children-of-the-corn
-    url_background: https://image.tmdb.org/t/p/original/g4aK8Up5zSegesJdMYbxDcndn20.jpg
-    url_poster: https://theposterdb.com/api/assets/7942

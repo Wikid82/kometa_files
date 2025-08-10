@@ -1,7 +1,0 @@
-collections:
-  Analyze Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/110127-analyze-this
-    url_background: https://image.tmdb.org/t/p/original/bNcKGfgqck8SQALVlZcMRcjOwBE.jpg
-    url_poster: https://api.mediux.pro/assets/8eff7043-004a-4570-be72-c620eefabcb7
