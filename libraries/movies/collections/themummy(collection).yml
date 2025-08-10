@@ -2,6 +2,6 @@ collections:
   The Mummy Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/1733-the-mummy-collection
+    tmdb_list_details: https://www.themoviedb.org/list/8549553-the-mummy
     url_background: https://api.mediux.pro/assets/4febced4-65f0-4242-b035-52c4e602fea2
     url_poster: https://api.mediux.pro/assets/c4923ec1-19ba-4a50-a071-5bda650a3d5d
