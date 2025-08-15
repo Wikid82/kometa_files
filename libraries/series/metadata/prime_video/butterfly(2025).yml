@@ -1,0 +1,20 @@
+metadata:
+  438640: # TVDB id for Butterfly. Set by willtong93 on MediUX. https://mediux.pro/sets/36103
+    url_poster: https://api.mediux.pro/assets/2539b617-52de-4900-aa86-be7722d432dd
+    url_background: https://api.mediux.pro/assets/d51ee9c7-a122-43c5-84c8-562838b8bfd4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/67d2879c-f71a-43c5-add4-b53910fc5d5f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/9e8f0e19-423a-4ad9-8473-029633a60417
+          2:
+            url_poster: https://api.mediux.pro/assets/6c62db40-f95f-4610-88c3-d3c76432097b
+          3:
+            url_poster: https://api.mediux.pro/assets/758ecfd2-f02e-460e-b0cc-2f9091d064f6
+          4:
+            url_poster: https://api.mediux.pro/assets/6bcc295e-4b66-45d4-b44e-7204625261a8
+          5:
+            url_poster: https://api.mediux.pro/assets/080a0291-bf38-41f8-9d65-120c164b7eb6
+          6:
+            url_poster: https://api.mediux.pro/assets/3b65a078-caf4-4d49-bad8-05a02d69e787
