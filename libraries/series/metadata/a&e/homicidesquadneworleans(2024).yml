@@ -1,0 +1,8 @@
+metadata:
+  458274: # TVDB id for Homicide Squad New Orleans. Set by Pejamas on MediUX. https://mediux.pro/sets/36214
+    url_poster: https://api.mediux.pro/assets/fc10947e-76c9-4db0-a307-aa2ff04d66c9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/47fafdfd-019a-45dc-b521-cad4d21479bd
+      2:
+        url_poster: https://api.mediux.pro/assets/a95d3aaa-4d5b-49b8-a808-892213b1866b
