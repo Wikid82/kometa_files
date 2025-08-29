@@ -2,6 +2,6 @@ collections:
   Spirit Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: hhttps://www.themoviedb.org/collection/806483-spirit-collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/806483-spirit-collection
     url_background: https://api.mediux.pro/assets/ffa36d93-e8f2-4017-bc6a-62cc4710f27d
     url_poster: https://api.mediux.pro/assets/6b2bfecf-dd01-4e01-afc4-e5e6e6e2afd3 # Spirit Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26594
