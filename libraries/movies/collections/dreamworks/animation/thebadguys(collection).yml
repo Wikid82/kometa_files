@@ -1,0 +1,7 @@
+collections:
+  The Bad Guys Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1231053-the-bad-guys-collection
+    url_background: https://api.mediux.pro/assets/7f8288da-2c71-4ce1-b6f3-ed324232a27d
+    url_poster: https://api.mediux.pro/assets/3ccfbf81-005c-4884-b98d-c27b69088435
