@@ -4,6 +4,9 @@ libraries:
     reapply_overlays: false
     report_path: /config/reports/movies_report.yml
     collection_files:
+#    - default: universe
+#    - default: franchise
+#    - default: resolution
     - folder: /config/kometa_files/libraries/movies/collections/a24
     - folder: /config/kometa_files/libraries/movies/collections/bluesky_animation
 #    - folder: /config/kometa_files/libraries/movies/collections/brainstorm
@@ -32,7 +35,7 @@ libraries:
     - folder: /config/kometa_files/libraries/movies/collections/lionsgate
     - folder: /config/kometa_files/libraries/movies/collections/magnet
 #    - folder: /config/kometa_files/libraries/movies/collections/magnolia
-#    - folder: /config/kometa_files/libraries/movies/collections/miramax
+    - folder: /config/kometa_files/libraries/movies/collections/miramax
 #    - folder: /config/kometa_files/libraries/movies/collections/megenta_light
     - folder: /config/kometa_files/libraries/movies/collections/netflix
     - folder: /config/kometa_files/libraries/movies/collections/new_line
@@ -116,7 +119,7 @@ libraries:
         rating2: audience
         rating2_image: tmdb
         rating3: user
-        rating3_image: star
+        rating3_image: trakt
     - file: /config/kometa_files/libraries/movies/overlays/resolution.yml
     - file: /config/kometa_files/libraries/movies/overlays/ribbons.yml
     operations:
@@ -126,18 +129,18 @@ libraries:
       mass_genre_update:
       - tmdb
       mass_originally_available_update:
-      - mdb
-      - mdb_digital
+      - tmdb
+      #- mdb_digital
       - 1900-01-01
       mass_critic_rating_update:
-      - mdb_tomatoes
+      - plex_tomatoes
       - 1.0
       mass_audience_rating_update:
-      - tmdb
+      - plex_tmdb
       - 1.0
-#      mass_user_rating_update:
-#      - trakt_user
-#      - 1.0
+      mass_user_rating_update:
+      - trakt_user
+      - 1.0
       delete_collections:
         configured: false
         managed: false
@@ -148,6 +151,9 @@ libraries:
     reapply_overlays: false
     report_path: /config/reports/tvshows_report.yml
     collection_files:
+#    - default: universe
+#    - default: franchise
+#    - default: resolution
 #    - folder: /config/kometa_files/libraries/series/collections/a&e
 #    - folder: /config/kometa_files/libraries/series/collections/abc
 #    - folder: /config/kometa_files/libraries/series/collections/amc
@@ -179,7 +185,7 @@ libraries:
 #    - folder: /config/kometa_files/libraries/series/collections/prime_video
 #    - folder: /config/kometa_files/libraries/series/collections/science
     - folder: /config/kometa_files/libraries/series/collections/showtime
-    - folder: /config/kometa_files/libraries/series/collections/shudder
+#S    - folder: /config/kometa_files/libraries/series/collections/shudder
 #    - folder: /config/kometa_files/libraries/series/collections/sky_atlantic
 #    - folder: /config/kometa_files/libraries/series/collections/starz
 #    - folder: /config/kometa_files/libraries/series/collections/syfy
@@ -218,13 +224,15 @@ libraries:
     - folder: /config/kometa_files/libraries/series/metadata/prime_video
     - folder: /config/kometa_files/libraries/series/metadata/science
     - folder: /config/kometa_files/libraries/series/metadata/showtime
-    - folder: /config/kometa_files/libraries/series/metadata/shudder
+#    - folder: /config/kometa_files/libraries/series/metadata/shudder
     - folder: /config/kometa_files/libraries/series/metadata/sky_atlantic
+    - folder: /config/kometa_files/libraries/series/metadata/stan
     - folder: /config/kometa_files/libraries/series/metadata/starz
     - folder: /config/kometa_files/libraries/series/metadata/syfy
     - folder: /config/kometa_files/libraries/series/metadata/tnt
     - folder: /config/kometa_files/libraries/series/metadata/truetv
-    - folder: /config/kometa_files/libraries/series/metadata     
+    - folder: /config/kometa_files/libraries/series/metadata/usa
+    - folder: /config/kometa_files/libraries/series/metadata
     overlay_files:
     - file: /config/kometa_files/libraries/series/overlays/content_rating_us_shows.yml
     - file: /config/kometa_files/libraries/series/overlays/mediastinger.yml
