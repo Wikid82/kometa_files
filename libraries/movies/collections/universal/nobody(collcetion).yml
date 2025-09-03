@@ -1,0 +1,7 @@
+collections:
+  Nobody Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1129084-nobody-collection
+    url_background: https://api.mediux.pro/assets/eff75654-22ce-4849-82db-5d84d01522b8
+    url_poster: https://api.mediux.pro/assets/15f4844f-5673-4905-8865-2c00206d7312
