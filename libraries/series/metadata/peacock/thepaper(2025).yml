@@ -1,0 +1,7 @@
+metadata:
+  449872: # TVDB id for The Paper. Set by willtong93 on MediUX. https://mediux.pro/sets/36641
+    url_poster: https://api.mediux.pro/assets/6f08a59b-10a5-4c43-b424-49be753cda49
+    url_background: https://api.mediux.pro/assets/a3e49b21-f6b4-45c7-a798-d5b03b47496f
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/81e3ff5a-3c5b-472f-8dae-2f5b41286397
