@@ -22,7 +22,7 @@
   <a href="https://www.themoviedb.org/" title="TMDB">
 	<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tmdb.svg" width="40" height="40"></a>
   <a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"></a>
-   <a href="https://gimp.org" title="GIMP"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/GIMP_Icon.png" width="40" height="40"></a>
+   <a href="https://gimp.org" title="GIMP"><img src="https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/.readme/gimp.webp" width="40" height="40"></a>
 
 
 
@@ -33,11 +33,11 @@
 		<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sonarr.svg" width="30" height="30"></a>
   <a href="https://www.thetvdb.com" title="TVDB">
 	<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tvdb.svg" width="30" height="30"></a>
- 	<a href="https://canva.com/" title="Picsart"><img src="https://github.com/Wikid82/kometa_files/blob/main/images/.readme/canva.png?raw=true" width="30" height="30"></a>
+ 	<a href="https://canva.com/" title="Canva"><img src="https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/.readme/canva.webp" width="30" height="30"></a>
   <a href="https://theposterdb.com" title="ThePosterDB">
 	<img src="https://theposterdb.com/assets/logos/icon/color.svg" width="30" height="30"></a>
   <a href="https://fanart.tv/" title="FanArt.tv">
-	<img src="https://github.com/Wikid82/kometa_files/blob/main/images/.readme/fanart.png?raw=true" width="30" height="30"></a>
+	<img src="https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/.readme/fanart.webp" width="30" height="30"></a>
 
 
 <br>
