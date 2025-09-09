@@ -1,0 +1,10 @@
+metadata:
+  451873: # TVDB id for Task. Set by willtong93 on MediUX. https://mediux.pro/sets/37024
+    url_poster: https://api.mediux.pro/assets/188571ba-118a-4d0a-bf72-d7dd5c49070f
+    url_background: https://api.mediux.pro/assets/7f2335b8-a729-4533-8b8f-30ca06844105
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/99effc6b-ed29-4a35-a196-bcfd011a6f64
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/cde267c5-4d58-40b2-a64a-135f2b03ab90
