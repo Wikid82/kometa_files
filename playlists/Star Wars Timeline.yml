@@ -7,4 +7,4 @@ playlists:
     collection_order: custom
     libraries: Movies, TV Shows
     sync_to_users: all
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/playlists/starwarsplaylist.jpg
+    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/playlists/starwarsplaylist.webp
