@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8543299-mythic-quest
-    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/mythicquestcollectionbg.jpg
-    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/mythicquestcollectionposter.jpg
+    url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/mythicquestcollectionbg.webp
+    url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/collections/mythicquestcollectionposter.webp
