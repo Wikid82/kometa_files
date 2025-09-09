@@ -1,0 +1,8 @@
+metadata:
+  405535: # TVDB id for Interview with the Vampire. Set by Pejamas on MediUX. https://mediux.pro/sets/19725
+    url_poster: https://api.mediux.pro/assets/96350806-00ef-48e2-9724-3f1f97c3b45f
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5adac43b-6b5b-4efa-89c5-b1cb0a44a91b
+      2:
+        url_poster: https://api.mediux.pro/assets/2a8291aa-75e1-4d2f-8dc9-9ee1b68c70e2
