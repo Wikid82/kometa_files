@@ -1,0 +1,8 @@
+metadata:
+  413074: # TVDB id for Mayfair Witches. Set by Pejamas on MediUX. https://mediux.pro/sets/29762
+    url_poster: https://api.mediux.pro/assets/8fef44ee-e83a-437d-8123-de69fcd72f1b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/8e88e672-3090-47d4-959c-0bd366baa60d
+      2:
+        url_poster: https://api.mediux.pro/assets/c036c08b-19a4-4292-92eb-376659ae9c91
