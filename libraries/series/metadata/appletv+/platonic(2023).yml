@@ -1,0 +1,45 @@
+metadata:
+  391020: # TVDB id for Platonic. Set by willtong93 on MediUX. https://mediux.pro/sets/35703
+    url_poster: https://api.mediux.pro/assets/0a3e6e35-ce7e-489f-aea8-cfba172a61ac
+    url_background: https://api.mediux.pro/assets/319c1f30-81c1-4d8e-95d8-cd0df16cd5d5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/8c2f77f1-49db-4b22-9f38-38116c3b4832
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/b0cc1da0-6a23-4a9d-b559-2bc59c9c7ec0
+          2:
+            url_poster: https://api.mediux.pro/assets/0d7a9e0b-20d2-46ff-9ebd-47a2851007f0
+          3:
+            url_poster: https://api.mediux.pro/assets/175f6eb5-7825-46d4-883a-a3ad8e7d6853
+          4:
+            url_poster: https://api.mediux.pro/assets/18b90727-4ca4-4626-b1ea-6e9d7240e1f1
+          5:
+            url_poster: https://api.mediux.pro/assets/d0e45789-b44a-4c47-8e67-e81ca3bad5a1
+          6:
+            url_poster: https://api.mediux.pro/assets/6a721786-1da2-4e53-9a73-ccbbe9bc18c7
+          7:
+            url_poster: https://api.mediux.pro/assets/74b24e0e-20ad-455e-8406-3f3af81aa13c
+          8:
+            url_poster: https://api.mediux.pro/assets/0dc3d60a-0537-4968-9750-20d1a86398c6
+          9:
+            url_poster: https://api.mediux.pro/assets/3bc8d340-fc8b-4278-9aef-eb176c8e4c84
+          10:
+            url_poster: https://api.mediux.pro/assets/a963e088-adae-4d60-a721-ce4b47357967
+      2:
+        url_poster: https://api.mediux.pro/assets/c2e07df0-12f2-460f-a8e7-a71e956c2b3f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8d304d7a-5aec-4b84-989d-154412152470
+          2:
+            url_poster: https://api.mediux.pro/assets/ac256bd6-80ed-4f1d-82d3-4a715ffd55d5
+          3:
+            url_poster: https://api.mediux.pro/assets/b2918892-bb40-4634-a1cf-14ba7a577d6f
+          4:
+            url_poster: https://api.mediux.pro/assets/84da1bf5-6406-49fe-bc1b-b3733272ae1c
+          5:
+            url_poster: https://api.mediux.pro/assets/776f4799-63ca-454a-ab26-1a7c8479c8cf
+          6:
+            url_poster: https://api.mediux.pro/assets/d8f1d3f4-a6a0-4f2d-98ad-d6ca5b603a54
+          7:
+            url_poster: https://api.mediux.pro/assets/e12aa6b1-735c-4c33-a574-89a1f3e36d7a
