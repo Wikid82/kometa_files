@@ -1,0 +1,7 @@
+metadata:
+  369307: # TVDB id for The Undoing. Set by Wikid82 on MediUX. https://mediux.pro/sets/37156
+    url_poster: https://api.mediux.pro/assets/3b4c7c63-69c7-4c09-ba00-0d168da3e249
+    url_background: https://api.mediux.pro/assets/a90c9fd1-eea6-4d56-a297-a407d72a25fe
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9caed56a-e434-48b4-8112-f02363a0e9d0
