@@ -1,0 +1,21 @@
+  370112: # TVDB id for Mare of Easttown. Set by willtong93 on MediUX. https://mediux.pro/sets/33471
+    url_poster: https://api.mediux.pro/assets/3ef99cd2-fc3b-4400-96b7-e623ec7c6d1f
+    url_background: https://api.mediux.pro/assets/2521b4ad-35ea-4914-bf42-4096d2418562
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/00c66eb6-76a1-45fe-bd7d-7b1a2c9944d9
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/f664da71-388b-4760-a8d6-5488fa5b0803
+          2:
+            url_poster: https://api.mediux.pro/assets/d807e00b-04ca-4da1-8cae-b3da54bd0468
+          3:
+            url_poster: https://api.mediux.pro/assets/0228b096-ae0a-497c-b4e9-baafd2f7a51c
+          4:
+            url_poster: https://api.mediux.pro/assets/84081020-1aa7-4dd4-8b6b-42bcfab0ed79
+          5:
+            url_poster: https://api.mediux.pro/assets/c796ab6c-80c5-41f4-b2b1-9669d9b62b44
+          6:
+            url_poster: https://api.mediux.pro/assets/973ac95e-4099-441b-842c-2614a67a068e
+          7:
+            url_poster: https://api.mediux.pro/assets/249b22ea-369e-4e92-b17f-89f70fd50839
