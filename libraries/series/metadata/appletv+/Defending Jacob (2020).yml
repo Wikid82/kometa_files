@@ -1,0 +1,7 @@
+metadata:
+  368122: # TVDB id for Defending Jacob. Set by Wikid82 on MediUX. https://mediux.pro/sets/37157
+    url_poster: https://api.mediux.pro/assets/486ee310-b767-4d0d-a30c-9728897fd196
+    url_background: https://api.mediux.pro/assets/1c79e797-684c-4eb2-a2b5-aaccc08cc4a1
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4c5035da-be71-4200-bdc7-fc2966bca702
