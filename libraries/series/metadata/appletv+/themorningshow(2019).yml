@@ -72,3 +72,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/6656f4ef-961a-4ab9-b663-911c7007c79f
           10:
             url_poster: https://api.mediux.pro/assets/b540ee90-3126-4b71-8edb-90b3b0479f6b
+      4:
+        url_poster: https://api.mediux.pro/assets/88d1d3f9-d330-4faa-be38-9ff730468e5a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fa88a997-070b-430d-98c9-67b5483454af
+          2:
+            url_poster: https://api.mediux.pro/assets/408187c9-4902-4e1c-a49d-2d66dce33da3
