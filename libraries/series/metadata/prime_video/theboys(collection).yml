@@ -91,6 +91,7 @@ metadata:
 
   417909: # TVDB id for Gen V. Set by willtong93 on MediUX. https://mediux.pro/sets/5496
     url_poster: https://api.mediux.pro/assets/4d334f7a-e9d7-4921-bd6d-868a4e792465
+    url_background: https://api.mediux.pro/assets/a3c2c5d8-49dd-4570-916f-8ef64197252d
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/90eb907a-ddfd-482b-b6ce-fe46824ab24e
@@ -111,3 +112,12 @@ metadata:
             url_poster: https://api.mediux.pro/assets/02513265-b4cc-450d-8785-eea541e40da7
           8:
             url_poster: https://api.mediux.pro/assets/46c4002b-b977-4c99-bbd7-a7b28a26bf64
+      2:
+        url_poster: https://api.mediux.pro/assets/fe1befcb-750b-4bcb-a7a9-1a97a5a42374
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/49997418-e8b7-4eb7-a210-ae5804d692a9
+          2:
+            url_poster: https://api.mediux.pro/assets/4fbc8606-3d1f-49ac-832b-99b885d9d9ab
+          3:
+            url_poster: https://api.mediux.pro/assets/3b7fb3a2-6737-4eb3-b878-b33987bbae4b
