@@ -216,6 +216,7 @@ libraries:
     - folder: /config/kometa_files/libraries/series/metadata/hulu
     - folder: /config/kometa_files/libraries/series/metadata/investigation_discovery
     - folder: /config/kometa_files/libraries/series/metadata/max
+    - folder: /config/kometa_files/libraries/series/metadata/mgm+
     - folder: /config/kometa_files/libraries/series/metadata/national_geographic
     - folder: /config/kometa_files/libraries/series/metadata/nbc
     - folder: /config/kometa_files/libraries/series/metadata/netflix
@@ -236,6 +237,7 @@ libraries:
     overlay_files:
     - file: /config/kometa_files/libraries/series/overlays/content_rating_us_shows.yml
     - file: /config/kometa_files/libraries/series/overlays/mediastinger.yml
+    #- file: /config/kometa_files/libraries/series/overlays/network.yml
     - file: /config/kometa_files/libraries/series/overlays/ratings.yml
       template_variables:
         minimum_rating: 2.0
@@ -244,7 +246,7 @@ libraries:
         rating2: audience
         rating2_image: tmdb
         rating3: user
-        rating3_image: star
+        rating3_image: trakt
     - file: /config/kometa_files/libraries/series/overlays/resolution.yml
     - file: /config/kometa_files/libraries/series/overlays/ribbons.yml
     operations:
