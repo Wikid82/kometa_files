@@ -1,0 +1,7 @@
+metadata:
+  447579: # TVDB id for Black Rabbit. Set by Wikid82 on MediUX. https://mediux.pro/sets/37282
+    url_poster: https://api.mediux.pro/assets/a4af471e-501c-482b-8023-7b6efa20b7bd
+    url_background: https://api.mediux.pro/assets/16d19b90-24bf-40e2-bf7f-6839157bb4ed
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e69797d6-1792-4326-91af-2a13870606a6
