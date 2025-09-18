@@ -1,0 +1,7 @@
+metadata:
+  465693: # TVDB id for Let the Devil In. Set by Pejamas on MediUX. https://mediux.pro/sets/36535
+    url_poster: https://api.mediux.pro/assets/2f164170-06e9-4ca8-a499-1fef48b70bd4
+    url_background: https://api.mediux.pro/assets/b9ab1d5f-b564-4e45-b84e-2c41c6ca58dd
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5bd31dd4-f898-4108-9a2e-d6b69fbe35c1
