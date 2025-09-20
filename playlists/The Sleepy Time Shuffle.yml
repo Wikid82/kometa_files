@@ -1,8 +1,8 @@
 playlists:
   The Sleepy Time Shuffle:
-    trakt_list: https://trakt.tv/lists/32462340
+    trakt_list: https://trakt.tv/users/wikid82/lists/sleep-shuffle
     sync_mode: sync
-    collection_order: random
+    collection_order: random.asc
     libraries: Movies, TV Shows
     sync_to_users: all
     url_poster: https://imgix.bustle.com/uploads/image/2018/8/10/671e3d62-709d-4a8d-a2e2-623cbea118f1-c9030aac5cf6f608dbf0d877f677885d35699246?w=414&h=414&fit=crop&crop=faces&dpr=2
