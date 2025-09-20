@@ -1,4 +1,4 @@
-metadata:
+metadata:  
   404492: # TVDB id for Invasion. Set by willtong93 on MediUX. https://mediux.pro/sets/36112
     url_poster: https://api.mediux.pro/assets/9fabf5b5-0499-47a8-8d66-4e41522d9726
     url_background: https://api.mediux.pro/assets/e181a772-bbd6-426d-86c9-656e227fce4e
@@ -51,3 +51,14 @@ metadata:
             url_poster: https://api.mediux.pro/assets/171e7545-eb7e-46dd-a7af-68d23f9b9180
       3:
         url_poster: https://api.mediux.pro/assets/b7c1846a-51f1-4872-9e2e-d9802bcff710
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/b031bcfa-c5a1-46eb-b39e-80015afd82bd
+          2:
+            url_poster: https://api.mediux.pro/assets/4de949d1-bd16-4185-901e-c0efc85b8c47
+          3:
+            url_poster: https://api.mediux.pro/assets/bb7aaaf8-511b-45e9-8cc7-77fd9beae639
+          4:
+            url_poster: https://api.mediux.pro/assets/05137749-951d-40a3-93bf-3346ed86621c
+          5:
+            url_poster: https://api.mediux.pro/assets/7fcd1d2d-225d-4879-8177-ae44e4f1f9a6
