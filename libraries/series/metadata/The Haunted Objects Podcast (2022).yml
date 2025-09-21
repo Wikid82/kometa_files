@@ -1,5 +1,6 @@
 metadata:
-  452141: # The Haunted Objects Podcast (2022) 
+  452141:
+    # The Haunted Objects Podcast (2022) 
     url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/series.webp
     url_background: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/background.webp
     seasons:
@@ -8,22 +9,40 @@ metadata:
         episodes:
           1:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-001.webp
+            title: The Amityville Plank's Lingering Horrors
+            originally_available: 2022-10-31
           2:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-002.webp
+            title: The Dark Mirror's Reflections of Death
+            originally_available: 2022-11-14
           3:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-003.webp
+            title: Examining Betty Hill's Alien Abduction Dress
+            originally_available: 2022-11-28
           4:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-004.webp
+            title: Opening The Dybbuk Box at 3AM (Gone Wrong!)
+            originally_available: 2022-12-02
           5:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-005.webp
+            title: "Defending the Mothman: High Strangeness Holiday Special"
+            originally_available: 2022-12-26
           6:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-006.webp
+            title: Analyzing a Ghost's Handwriting
+            originally_available: 2023-01-09
           7:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-007.webp
+            title: We Took Jeff Goldblum Bigfoot Hunting (Yes, Really)
+            originally_available: 2023-01-23
           8:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-008.webp
+            title: Unmasking "The Cracking Man", a Possessed Clown Doll
+            originally_available: 2023-02-06
           9:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-009.webp
+            title: "UFOs in the USA: Presidential UAP Disclosure Special"
+            originally_available: 2023-02-20
           10:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-010.webp
           11:
@@ -74,4 +93,3 @@ metadata:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-030.webp
           2:
             url_poster: https://raw.githubusercontent.com/Wikid82/kometa_files/refs/heads/main/images/shows/The%20Haunted%20Objects%20Podcast%20(2022)%20%7Btvdb-452141%7D/episode-031.webp
-
