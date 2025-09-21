@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"yaml.schemas": {
+			"https://gitlab.com/appsemble/appsemble/-/raw/HEAD/packages/cli/assets/appsemblerc.schema.json": "file:///home/jeremy/Server/Configs/kometateam/kometa/config/kometa_files/libraries/series/metadata/The%20Haunted%20Objects%20Podcast%20%282022%29.yml"
+		}
+	}
 }
