@@ -1,5 +1,6 @@
-metadata:  
-  404492: # TVDB id for Invasion. Set by willtong93 on MediUX. https://mediux.pro/sets/36112
+metadata:
+  404492:
+    # TVDB id for Invasion. Set by willtong93 on MediUX. https://mediux.pro/sets/36112
     url_poster: https://api.mediux.pro/assets/9fabf5b5-0499-47a8-8d66-4e41522d9726
     url_background: https://api.mediux.pro/assets/e181a772-bbd6-426d-86c9-656e227fce4e
     seasons:
