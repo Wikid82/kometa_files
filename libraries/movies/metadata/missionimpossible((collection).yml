@@ -1,22 +1,33 @@
 metadata:
 
-  954: # Mission: Impossible (1996) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+  954:
+    # Mission: Impossible (1996) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
     url_poster: https://api.mediux.pro/assets/e39787b8-56dd-4818-ad41-465fdb572fa4
 
-  955: # Mission: Impossible II (2000) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+  955:
+    # Mission: Impossible II (2000) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
     url_poster: https://api.mediux.pro/assets/a5e2e064-d826-4323-b78e-31d5e987354e
 
-  956: # Mission: Impossible III (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+  956:
+    # Mission: Impossible III (2006) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
     url_poster: https://api.mediux.pro/assets/abb317bf-6b69-4ef2-97eb-8e4f73c93803
 
-  56292: # Mission: Impossible - Ghost Protocol (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+  56292:
+    # Mission: Impossible - Ghost Protocol (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
     url_poster: https://api.mediux.pro/assets/de061517-2122-410f-bbd2-2c803a202900
 
-  177677: # Mission: Impossible - Rogue Nation (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+  177677:
+    # Mission: Impossible - Rogue Nation (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
     url_poster: https://api.mediux.pro/assets/0c4b47f4-18ee-4283-b6b5-847bbfc423f9
 
-  353081: # Mission: Impossible - Fallout (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+  353081:
+    # Mission: Impossible - Fallout (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
     url_poster: https://api.mediux.pro/assets/1d7299be-1c62-4ed1-afa3-9401ce8b2e05
 
-  575264: # Mission: Impossible - Dead Reckoning Part One (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+  575264:
+    # Mission: Impossible - Dead Reckoning Part One (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
     url_poster: https://api.mediux.pro/assets/66abeb91-3d6d-4ecb-8b6b-a6b820db65f9
+
+  575265:
+    # Mission: Impossible - The Final Reckoning (2025) Poster by willtong93 on MediUX. https://mediux.pro/sets/24905
+    url_poster: https://api.mediux.pro/assets/ca0793d1-5405-474f-901f-4d36e6f02a0c
