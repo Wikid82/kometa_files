@@ -1,0 +1,14 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "//*.kometa.json",
+                "//libraries/*.json"
+            ],
+            "url": "./.vscode/json-schema-.kometa.json"
+        }
+    ],
+    "yaml.customTags": [
+        
+    ]
+}
