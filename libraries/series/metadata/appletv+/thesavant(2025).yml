@@ -1,0 +1,8 @@
+metadata:
+  432966:
+    # TVDB id for The Savant. Set by willtong93 on MediUX. https://mediux.pro/sets/37475
+    url_poster: https://api.mediux.pro/assets/6067d221-ded9-4685-8cbe-77db9e43b0d9
+    url_background: https://api.mediux.pro/assets/dbe2ffd7-a555-4609-9a70-0fbacedc9052
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ccfbcec6-8c39-45dd-96f2-ede8c78c0e32
