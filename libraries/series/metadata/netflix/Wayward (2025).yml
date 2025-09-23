@@ -1,0 +1,8 @@
+metadata:
+  433309:
+    # TVDB id for Wayward. Set by Wikid82 on MediUX. https://mediux.pro/sets/37483
+    url_poster: https://api.mediux.pro/assets/889894ac-ed10-45ed-aa45-0cdfdf6b9a8e
+    url_background: https://api.mediux.pro/assets/de536c64-1753-47c0-91fd-2f7ef9d37a8a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/eef12826-0059-4ee6-a3f9-6486f2ab0dea
