@@ -3,5 +3,8 @@
 		{
 			"path": "libraries/series/metadata/usa"
 		}
-	]
+	],
+	"settings": {
+		"json.schemas": []
+	}
 }
