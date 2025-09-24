@@ -1,5 +1,6 @@
 metadata:
-  399959: # TVDB id for Only Murders in the Building. Set by willtong93 on MediUX. https://mediux.pro/sets/23094
+  399959:
+    # TVDB id for Only Murders in the Building. Set by willtong93 on MediUX. https://mediux.pro/sets/23094
     url_poster: https://api.mediux.pro/assets/faa04b7a-d44c-4a9b-b393-6e27f70326c8
     url_background: https://api.mediux.pro/assets/07d57f5b-9191-471f-b9c3-925cc72f3e57
     seasons:
@@ -104,3 +105,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5da62954-a8d5-4054-8cc3-30bd6b55dcd8
           3:
             url_poster: https://api.mediux.pro/assets/559c40ea-4f9f-4a15-9ca7-243d5646455a
+          4:
+            url_poster: https://api.mediux.pro/assets/a6f80fe7-8b81-4fdf-90e6-f5987aa769e0
+          5:
+            url_poster: https://api.mediux.pro/assets/60eb042b-c732-4e4f-b519-602ee5c13e3f
