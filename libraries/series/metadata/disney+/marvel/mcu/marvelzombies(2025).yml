@@ -1,0 +1,8 @@
+metadata:
+  412428:
+    # TVDB id for Marvel Zombies. Set by willtong93 on MediUX. https://mediux.pro/sets/37200
+    url_poster: https://api.mediux.pro/assets/92ec6728-79a9-406d-a989-aa68fb2a88a9
+    url_background: https://api.mediux.pro/assets/185f9fd6-05f8-406d-a83d-8525ac740f1d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6b7d6e28-cc7d-486d-a99a-708b778af8c2
