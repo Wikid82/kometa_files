@@ -1,5 +1,6 @@
 metadata:
-  391020: # TVDB id for Platonic. Set by willtong93 on MediUX. https://mediux.pro/sets/35703
+  391020:
+    # TVDB id for Platonic. Set by willtong93 on MediUX. https://mediux.pro/sets/35703
     url_poster: https://api.mediux.pro/assets/0a3e6e35-ce7e-489f-aea8-cfba172a61ac
     url_background: https://api.mediux.pro/assets/319c1f30-81c1-4d8e-95d8-cd0df16cd5d5
     seasons:
@@ -43,3 +44,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/d8f1d3f4-a6a0-4f2d-98ad-d6ca5b603a54
           7:
             url_poster: https://api.mediux.pro/assets/e12aa6b1-735c-4c33-a574-89a1f3e36d7a
+          8:
+            url_poster: https://api.mediux.pro/assets/141babc7-f0bb-4f29-be40-cc8c3269dd61
+          9:
+            url_poster: https://api.mediux.pro/assets/50df3683-ab82-4b74-9f21-e9282d5d8478
