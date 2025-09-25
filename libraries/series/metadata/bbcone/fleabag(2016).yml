@@ -1,0 +1,36 @@
+metadata:
+  314614:
+    # TVDB id for Fleabag. Set by willtong93 on MediUX. https://mediux.pro/sets/23267
+    url_poster: https://api.mediux.pro/assets/350c90f0-da8e-414a-af05-becef9dc2ea5
+    url_background: https://api.mediux.pro/assets/a79a9b43-167b-4c80-97e8-7924b1f43015
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1d261feb-d49e-4b07-bfac-56da8a9a9f3b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/eddc98ed-efaf-4bc6-b897-db42b2993fde
+          2:
+            url_poster: https://api.mediux.pro/assets/31d9e454-3732-4b97-9cfc-34b9be77ca11
+          3:
+            url_poster: https://api.mediux.pro/assets/95a16460-db7f-41cc-ad2d-d04e828be837
+          4:
+            url_poster: https://api.mediux.pro/assets/1f6cc94a-4dcc-4318-aedd-d8a9d2060e3c
+          5:
+            url_poster: https://api.mediux.pro/assets/1d60b106-824f-4f00-9045-211bf4f51dca
+          6:
+            url_poster: https://api.mediux.pro/assets/daf38d42-0eaa-41d1-8422-63e49ce45076
+      2:
+        url_poster: https://api.mediux.pro/assets/ac858e47-1322-4a01-adfa-8de8691808f7
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/16c33ed1-afad-486a-a0b7-7834e3aa7d83
+          2:
+            url_poster: https://api.mediux.pro/assets/3654af4e-cf42-47a7-a691-ec52071e0d1b
+          3:
+            url_poster: https://api.mediux.pro/assets/59d75071-fae9-4b62-8adb-20f2c1df4af9
+          4:
+            url_poster: https://api.mediux.pro/assets/b66eb61e-922c-46a2-b21b-110ab2d51c9a
+          5:
+            url_poster: https://api.mediux.pro/assets/bb032df4-863a-4608-85df-e54d9605f981
+          6:
+            url_poster: https://api.mediux.pro/assets/34e78b71-006c-420a-8a2b-b591e2bfded9
