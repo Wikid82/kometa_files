@@ -1,10 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "libraries/series/metadata/usa"
+			"path": "."
 		}
 	],
-	"settings": {
-		"json.schemas": []
-	}
+	"settings": {}
 }
