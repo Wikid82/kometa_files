@@ -1,8 +1,4 @@
 <p align="center">
-    <h1 align="center">I WILL NO LONGER BE PAYING FOR TRAKT VIP. I'M IN THE PROCESS OF TRANSFERING ALL TRAKT RELATED LISTS TO TMDB BUT MIGHT TAKE A FEW DAYS.</h1>
-</p>
-
-<p align="center">
     <h1 align="center">KOMETA_FILES</h1>
 </p>
 
