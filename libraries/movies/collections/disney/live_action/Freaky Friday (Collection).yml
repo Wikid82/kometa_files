@@ -1,0 +1,8 @@
+collections:
+  Freaky Friday Collection:
+    # Freaky Friday Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/38835
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1125292-freaky-friday-collection
+    url_background: https://api.mediux.pro/assets/2c0dbff6-88ce-4b44-82f7-510a4f00fc50
+    url_poster: https://api.mediux.pro/assets/825924ea-10e0-4357-8902-5a555705bc11
