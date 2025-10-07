@@ -1,0 +1,44 @@
+metadata:
+  391153:
+    # TVDB id for Peacemaker. Set by willtong93 on MediUX. https://mediux.pro/sets/23040
+    url_poster: https://api.mediux.pro/assets/877b4c63-a546-48b4-9fa2-78f1b9fc1027
+    url_background: https://api.mediux.pro/assets/085f78e7-6a47-4e93-87e4-13e274886b7e
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/f4aff3ad-9273-4903-9efc-3695d01246d3
+      1:
+        url_poster: https://api.mediux.pro/assets/0a3bc928-93cd-4aa8-b953-d77f4779fa62
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/9da3bacd-1ba4-46bc-968d-a9157a83dedd
+          2:
+            url_poster: https://api.mediux.pro/assets/66959857-2331-4237-84e5-dee05b6b2d87
+          3:
+            url_poster: https://api.mediux.pro/assets/53f8cb3d-e68a-4366-8f30-226305ebd042
+          4:
+            url_poster: https://api.mediux.pro/assets/2a8cdc72-8bc9-4ce2-9144-29b16a8fcd22
+          5:
+            url_poster: https://api.mediux.pro/assets/75ea1bb6-8475-44a6-b720-a504667ccd17
+          6:
+            url_poster: https://api.mediux.pro/assets/144629d4-9826-464d-bec8-b2e00215574d
+          7:
+            url_poster: https://api.mediux.pro/assets/420dae45-a850-48a7-a796-51430215de7c
+          8:
+            url_poster: https://api.mediux.pro/assets/e392e5dc-ff0b-4173-9667-3a69fc3a1e47
+      2:
+        url_poster: https://api.mediux.pro/assets/9d319c4c-0653-4736-9367-3cf29df77818
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/8df93072-6372-4378-bdea-73feede3f70d
+          2:
+            url_poster: https://api.mediux.pro/assets/7976f682-ee5c-43fa-83a1-456ae6beb1c8
+          3:
+            url_poster: https://api.mediux.pro/assets/dac233b5-b04f-4444-a30d-b7bb137cba52
+          4:
+            url_poster: https://api.mediux.pro/assets/f3a3a7a8-db5f-4958-bb6a-f60a88a93a0a
+          5:
+            url_poster: https://api.mediux.pro/assets/5764191a-33dd-4405-968f-ddc7396aeed9
+          6:
+            url_poster: https://api.mediux.pro/assets/a48f275a-3fce-4981-901f-c5ae7f94a5c4
+          7:
+            url_poster: https://api.mediux.pro/assets/5155758a-fd2e-47b4-be1c-1441afb522d2
