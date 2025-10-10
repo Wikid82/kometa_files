@@ -5,5 +5,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/313086-the-conjuring-collection
     url_background: https://api.mediux.pro/assets/b2fd192f-9d1d-4ce6-bba5-38ea330cdd76
-    url_poster: https://api.mediux.pro/assets/8ea49c78-54cc-4827-98fe-0dfdf2b8dfdf
-     # The Conjuring Collection Posters by  on MediUX. https://mediux.pro/sets/33217
+    url_poster: https://api.mediux.pro/assets/1460d6aa-1a0a-45ee-a1b0-9a72b361c18a
