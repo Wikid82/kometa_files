@@ -1,0 +1,8 @@
+metadata:
+  431488:
+    # TVDB id for The Last Frontier. Set by willtong93 on MediUX. https://mediux.pro/sets/38801
+    url_poster: https://api.mediux.pro/assets/ab313f68-509e-49f4-98f6-2b592c663f7d
+    url_background: https://api.mediux.pro/assets/8aebc9d0-a02d-43d9-9547-0c5d509b11b0
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/75cf45a8-2ac2-4b47-9664-a8370b8a5605
