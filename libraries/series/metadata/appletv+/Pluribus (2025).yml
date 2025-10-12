@@ -1,0 +1,8 @@
+metadata:
+  436457:
+    # TVDB id for Pluribus. Set by willtong93 on MediUX. https://mediux.pro/sets/38912
+    url_poster: https://api.mediux.pro/assets/c6a046df-32f5-4f3d-8975-8afc30b05a3f
+    url_background: https://api.mediux.pro/assets/6799292b-472c-4c62-b7a0-9a4e6895aae8
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e2e671f2-a8f5-4678-b249-6285c3521331
