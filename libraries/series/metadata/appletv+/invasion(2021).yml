@@ -1,65 +1,70 @@
 metadata:
   404492:
-    # TVDB id for Invasion. Set by willtong93 on MediUX. https://mediux.pro/sets/36112
-    url_poster: https://api.mediux.pro/assets/9fabf5b5-0499-47a8-8d66-4e41522d9726
-    url_background: https://api.mediux.pro/assets/e181a772-bbd6-426d-86c9-656e227fce4e
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/90ce75f3-2f4e-4e9f-a637-2a6360d07797
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/c6f504cf-c981-4769-8b6e-d18b49add6b3
-          2:
-            url_poster: https://api.mediux.pro/assets/8b3a9990-52b9-4476-93a3-db998da6be25
-          3:
-            url_poster: https://api.mediux.pro/assets/afe94055-1b6b-4b30-bac3-9e8a399b897e
-          4:
-            url_poster: https://api.mediux.pro/assets/602214eb-2cbe-4970-a89f-b7d8febcc7b3
-          5:
-            url_poster: https://api.mediux.pro/assets/f8ab6f66-85ba-4da8-8729-383f4f954634
-          6:
-            url_poster: https://api.mediux.pro/assets/5dc16eef-8e02-4380-a174-8935a60c66b4
-          7:
-            url_poster: https://api.mediux.pro/assets/3b737836-0036-4303-8e6b-16255df49675
-          8:
-            url_poster: https://api.mediux.pro/assets/e8c78e2e-0ff9-48ed-a067-4b90970a3aa9
-          9:
-            url_poster: https://api.mediux.pro/assets/0846c4f4-4d68-44dd-bdf8-914a8a40caa6
-          10:
-            url_poster: https://api.mediux.pro/assets/183be55b-9a8d-4aa3-9b4f-964614d6d90c
-      2:
-        url_poster: https://api.mediux.pro/assets/2cbc0f29-12a6-4d8e-9a95-e9dab5ff3f1f
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/73a232c4-dd0e-44f7-ab27-80dcbacc3508
-          2:
-            url_poster: https://api.mediux.pro/assets/4886a4e0-810f-4da9-b7c9-357ac1fa8eac
-          3:
-            url_poster: https://api.mediux.pro/assets/9054bed9-e565-4fad-a0dd-0dfaa907c660
-          4:
-            url_poster: https://api.mediux.pro/assets/96ac66b6-e3ad-442d-8e8b-9d7c38456954
-          5:
-            url_poster: https://api.mediux.pro/assets/35b299e6-116b-4bad-8269-943d3a664d5d
-          6:
-            url_poster: https://api.mediux.pro/assets/1fd0b862-2b15-495b-b8c7-bbc74468bedb
-          7:
-            url_poster: https://api.mediux.pro/assets/071c4254-7452-42e2-bf52-f61e36a3881b
-          8:
-            url_poster: https://api.mediux.pro/assets/20eb84ec-1c8d-4a82-849d-a0c6407fe705
-          9:
-            url_poster: https://api.mediux.pro/assets/4ba105a6-4089-4e5e-928b-922425aa5ce1
-          10:
-            url_poster: https://api.mediux.pro/assets/171e7545-eb7e-46dd-a7af-68d23f9b9180
-      3:
-        url_poster: https://api.mediux.pro/assets/b7c1846a-51f1-4872-9e2e-d9802bcff710
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/b031bcfa-c5a1-46eb-b39e-80015afd82bd
-          2:
-            url_poster: https://api.mediux.pro/assets/4de949d1-bd16-4185-901e-c0efc85b8c47
-          3:
-            url_poster: https://api.mediux.pro/assets/bb7aaaf8-511b-45e9-8cc7-77fd9beae639
-          4:
-            url_poster: https://api.mediux.pro/assets/05137749-951d-40a3-93bf-3346ed86621c
-          5:
-            url_poster: https://api.mediux.pro/assets/7fcd1d2d-225d-4879-8177-ae44e4f1f9a6
+    404492:
+      # TVDB id for Invasion. Set by willtong93 on MediUX. https://mediux.pro/sets/36112
+      url_poster: https://api.mediux.pro/assets/9fabf5b5-0499-47a8-8d66-4e41522d9726
+      url_background: https://api.mediux.pro/assets/e181a772-bbd6-426d-86c9-656e227fce4e
+      seasons:
+        1:
+          url_poster: https://api.mediux.pro/assets/90ce75f3-2f4e-4e9f-a637-2a6360d07797
+          episodes:
+            1:
+              url_poster: https://api.mediux.pro/assets/c6f504cf-c981-4769-8b6e-d18b49add6b3
+            2:
+              url_poster: https://api.mediux.pro/assets/8b3a9990-52b9-4476-93a3-db998da6be25
+            3:
+              url_poster: https://api.mediux.pro/assets/afe94055-1b6b-4b30-bac3-9e8a399b897e
+            4:
+              url_poster: https://api.mediux.pro/assets/602214eb-2cbe-4970-a89f-b7d8febcc7b3
+            5:
+              url_poster: https://api.mediux.pro/assets/f8ab6f66-85ba-4da8-8729-383f4f954634
+            6:
+              url_poster: https://api.mediux.pro/assets/5dc16eef-8e02-4380-a174-8935a60c66b4
+            7:
+              url_poster: https://api.mediux.pro/assets/3b737836-0036-4303-8e6b-16255df49675
+            8:
+              url_poster: https://api.mediux.pro/assets/e8c78e2e-0ff9-48ed-a067-4b90970a3aa9
+            9:
+              url_poster: https://api.mediux.pro/assets/0846c4f4-4d68-44dd-bdf8-914a8a40caa6
+            10:
+              url_poster: https://api.mediux.pro/assets/183be55b-9a8d-4aa3-9b4f-964614d6d90c
+        2:
+          url_poster: https://api.mediux.pro/assets/2cbc0f29-12a6-4d8e-9a95-e9dab5ff3f1f
+          episodes:
+            1:
+              url_poster: https://api.mediux.pro/assets/73a232c4-dd0e-44f7-ab27-80dcbacc3508
+            2:
+              url_poster: https://api.mediux.pro/assets/4886a4e0-810f-4da9-b7c9-357ac1fa8eac
+            3:
+              url_poster: https://api.mediux.pro/assets/9054bed9-e565-4fad-a0dd-0dfaa907c660
+            4:
+              url_poster: https://api.mediux.pro/assets/96ac66b6-e3ad-442d-8e8b-9d7c38456954
+            5:
+              url_poster: https://api.mediux.pro/assets/35b299e6-116b-4bad-8269-943d3a664d5d
+            6:
+              url_poster: https://api.mediux.pro/assets/1fd0b862-2b15-495b-b8c7-bbc74468bedb
+            7:
+              url_poster: https://api.mediux.pro/assets/071c4254-7452-42e2-bf52-f61e36a3881b
+            8:
+              url_poster: https://api.mediux.pro/assets/20eb84ec-1c8d-4a82-849d-a0c6407fe705
+            9:
+              url_poster: https://api.mediux.pro/assets/4ba105a6-4089-4e5e-928b-922425aa5ce1
+            10:
+              url_poster: https://api.mediux.pro/assets/171e7545-eb7e-46dd-a7af-68d23f9b9180
+        3:
+          url_poster: https://api.mediux.pro/assets/b7c1846a-51f1-4872-9e2e-d9802bcff710
+          episodes:
+            1:
+              url_poster: https://api.mediux.pro/assets/b031bcfa-c5a1-46eb-b39e-80015afd82bd
+            2:
+              url_poster: https://api.mediux.pro/assets/4de949d1-bd16-4185-901e-c0efc85b8c47
+            3:
+              url_poster: https://api.mediux.pro/assets/bb7aaaf8-511b-45e9-8cc7-77fd9beae639
+            4:
+              url_poster: https://api.mediux.pro/assets/05137749-951d-40a3-93bf-3346ed86621c
+            5:
+              url_poster: https://api.mediux.pro/assets/7fcd1d2d-225d-4879-8177-ae44e4f1f9a6
+            6:
+              url_poster: https://api.mediux.pro/assets/c88b5618-b98a-41e5-91f3-003ff6e6d548
+            7:
+              url_poster: https://api.mediux.pro/assets/6c053e71-87ce-45cf-b56e-6576d4924270
