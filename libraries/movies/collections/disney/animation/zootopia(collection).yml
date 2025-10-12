@@ -1,0 +1,7 @@
+collections:
+  Zootopia Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1084247-zootopia-collection
+    url_background: https://api.mediux.pro/assets/03d289b9-c258-4716-8c0a-d26c9d8d3b67
+    url_poster: https://api.mediux.pro/assets/159e9fe9-f3cb-4e35-af8e-67a1e5a787e0
