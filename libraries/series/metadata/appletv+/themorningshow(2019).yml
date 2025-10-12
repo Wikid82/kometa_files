@@ -1,5 +1,7 @@
 metadata:
-  361563: # TVDB id for The Morning Show. Set by willtong93 on MediUX. https://mediux.pro/sets/16062
+
+  361563:
+    # TVDB id for The Morning Show. Set by willtong93 on MediUX. https://mediux.pro/sets/16062
     url_poster: https://api.mediux.pro/assets/5ee0335e-9827-4519-a18a-7a8b969f0629
     url_background: https://api.mediux.pro/assets/25ea3160-aa38-49c1-b2e5-54e85742fdd1
     seasons:
@@ -79,3 +81,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/fa88a997-070b-430d-98c9-67b5483454af
           2:
             url_poster: https://api.mediux.pro/assets/408187c9-4902-4e1c-a49d-2d66dce33da3
+          3:
+            url_poster: https://api.mediux.pro/assets/b3b8cf77-a342-431f-93bb-b82a8340ec31
+          4:
+            url_poster: https://api.mediux.pro/assets/9e823921-f056-4b2d-b02e-45ca59b77219
+          5:
+            url_poster: https://api.mediux.pro/assets/82129267-cf23-4fe4-b8f3-0b458bc10f14
