@@ -1,12 +1,13 @@
 metadata:
 
-  386630: # TVDB id for Mayor of Kingstown. Set by Wikid82 on MediUX. https://mediux.pro/sets/35390
-    url_poster: https://api.mediux.pro/assets/3c08ecda-e01e-486f-90ba-f27f4ce65e65
-    url_background: https://api.mediux.pro/assets/286ea980-93a7-4f38-b97f-061ffe4f74d9
+  386630:
+    # TVDB id for Mayor of Kingstown. Set by willtong93 on MediUX. https://mediux.pro/sets/11507
+    url_poster: https://api.mediux.pro/assets/4851c1d3-6898-41b5-8830-23e6ab0c6abf
+    url_background: https://api.mediux.pro/assets/dfecc1a7-5db5-4bdf-b756-be896565c2e6
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/ce41758f-bb3d-4ff9-bf62-0410b3ff509f
-        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/11507
+        url_poster: https://api.mediux.pro/assets/0f39cadc-3672-4e8d-a1c4-e778b96a18bc
+        episodes:
           1:
             url_poster: https://api.mediux.pro/assets/30756904-0f20-4f6e-98e1-402ee86328b0
           2:
@@ -28,7 +29,7 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/f88d8f3d-4e1d-4610-8d07-3ac342271a77
       2:
-        url_poster: https://api.mediux.pro/assets/17bf6dec-26bd-471f-b285-f65687738aa7
+        url_poster: https://api.mediux.pro/assets/e8df5fad-6817-40e2-9dde-39f7eb7573fe
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/343ded58-e9e6-4d00-b7ea-d7c8db6f87f5
@@ -51,7 +52,7 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/9bdd0d3b-5500-498d-a41c-37e6ad1edfab
       3:
-        url_poster: https://api.mediux.pro/assets/2bbe80a9-f467-4075-8dc9-2f2d8a62108a
+        url_poster: https://api.mediux.pro/assets/0b857ca7-bbbc-4d42-be0b-7425dce360c9
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/51fb3bd8-db21-4011-b17f-f6d7a37e319f
@@ -73,3 +74,5 @@ metadata:
             url_poster: https://api.mediux.pro/assets/9dfae9c0-43b0-40ab-a210-d0bfd26fc7f5
           10:
             url_poster: https://api.mediux.pro/assets/207d3bd2-ebaf-48c9-92e0-20e9e1549036
+      4:
+        url_poster: https://api.mediux.pro/assets/50218576-8bdd-4407-b565-a324ba8a6f93
