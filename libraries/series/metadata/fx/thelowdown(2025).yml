@@ -1,4 +1,5 @@
 metadata:
+
   450085:
     # TVDB id for The Lowdown. Set by willtong93 on MediUX. https://mediux.pro/sets/37277
     url_poster: https://api.mediux.pro/assets/4351504c-4f02-4d72-9853-95931c7a2232
@@ -11,3 +12,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/7de82fd5-2002-4bd2-b41a-b8cfeaffc7d6
           2:
             url_poster: https://api.mediux.pro/assets/dca407c8-9f46-4733-8c47-207b5a36a317
+          3:
+            url_poster: https://api.mediux.pro/assets/8f511db1-0a53-47fd-a11c-ef71ebe08429
+          4:
+            url_poster: https://api.mediux.pro/assets/4a814db9-4076-4878-ba4f-9472174914aa
