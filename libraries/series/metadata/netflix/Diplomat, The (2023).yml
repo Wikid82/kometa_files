@@ -1,11 +1,13 @@
 metadata:
-  415239: # TVDB id for The Diplomat. Set by Wikid82 on MediUX. https://mediux.pro/sets/35010
-    url_poster: https://api.mediux.pro/assets/d9ded392-fc11-4046-979e-9de99e6d47fd
-    url_background: https://api.mediux.pro/assets/1dd2ff2c-e433-4c51-9d4e-06b4a87ee021
+
+  415239:
+    # TVDB id for The Diplomat. Set by willtong93 on MediUX. https://mediux.pro/sets/13156
+    url_poster: https://api.mediux.pro/assets/84dca53b-0ea7-44ce-91c6-11ca4a4c6f72
+    url_background: https://api.mediux.pro/assets/fb681144-e2e1-4e23-b33b-ab4e50918077
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/85046050-fc59-427b-aceb-3bdbbbfe9f16
-        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/13156
+        url_poster: https://api.mediux.pro/assets/5fe00513-e25a-4e47-891a-988cd7c1c54f
+        episodes:
           1:
             url_poster: https://api.mediux.pro/assets/1360949d-4bae-4b17-aea1-5488dc01de5a
           2:
@@ -23,8 +25,8 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/bc377337-0d98-4aab-ba70-6576081cfc53
       2:
-        url_poster: https://api.mediux.pro/assets/477a7cb9-8f54-45c0-a8c5-fa96d4360452
-        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/13156
+        url_poster: https://api.mediux.pro/assets/04b6423f-bdf9-468b-b6bb-2b2400d0feeb
+        episodes:
           1:
             url_poster: https://api.mediux.pro/assets/8395168e-5467-4f32-baa4-31c222caeb00
           2:
@@ -37,3 +39,22 @@ metadata:
             url_poster: https://api.mediux.pro/assets/10dfee98-1db0-43a8-ab85-419e218fda31
           6:
             url_poster: https://api.mediux.pro/assets/00ea7648-487e-417b-b085-4d0d4edb1228
+      3:
+        url_poster: https://api.mediux.pro/assets/a472e942-7064-4969-bdc9-f34360164aa0
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/e1b48b33-a84e-46ad-baca-dc988cc7ff95
+          2:
+            url_poster: https://api.mediux.pro/assets/16c70fec-a518-43c3-b9a0-e80acfdf858e
+          3:
+            url_poster: https://api.mediux.pro/assets/2de2784b-5841-449a-a2ab-2c2477921202
+          4:
+            url_poster: https://api.mediux.pro/assets/964ad952-1b1a-4cab-826b-cb15a17cb30a
+          5:
+            url_poster: https://api.mediux.pro/assets/a7798619-33d1-4f82-ae23-77979ea84a35
+          6:
+            url_poster: https://api.mediux.pro/assets/9ccf3aba-f21d-4111-9c90-301f9f35a8fa
+          7:
+            url_poster: https://api.mediux.pro/assets/82905350-a08a-4fe3-9b1c-efe7fa9d2205
+          8:
+            url_poster: https://api.mediux.pro/assets/097fc868-01f1-4372-847b-39cd174d73ca
