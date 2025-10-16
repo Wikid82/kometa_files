@@ -3,6 +3,6 @@ collections:
   The UnXplained Collection:
     collection_order: release.asc
     sync_mode: sync
-    tvdb_list_details: https://www.thetvdb.com/lists/16549
+    tmdb_list_details: https://www.themoviedb.org/list/8564905-the-unxplained
     url_background: https://image.tmdb.org/t/p/original/u3nXSzyfJMgTWJ3cFeUSqKr7TsE.jpg
     url_poster: https://theposterdb.com/api/assets/439963
