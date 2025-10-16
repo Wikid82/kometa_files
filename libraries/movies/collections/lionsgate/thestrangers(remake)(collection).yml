@@ -1,0 +1,7 @@
+collections:
+  The Strangers (Remake) Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1172926-the-strangers-remake-collection
+    url_background: https://image.tmdb.org/t/p/original/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg
+    url_poster: https://image.tmdb.org/t/p/original/q4fqjcz2oznw9sVZKtt2VS9RItc.jpg
