@@ -1,4 +1,5 @@
 metadata:
+
   372264:
     # TVDB id for Slow Horses. Set by willtong93 on MediUX. https://mediux.pro/sets/5338
     url_poster: https://api.mediux.pro/assets/47ea9055-72bf-49a6-b553-d14133de92bd
@@ -73,3 +74,5 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1f832d5d-3dc3-433e-a850-060f38aea7da
           3:
             url_poster: https://api.mediux.pro/assets/7de91d38-5970-4519-b413-8bc03c5d4c02
+          4:
+            url_poster: https://api.mediux.pro/assets/54c34a70-1398-40a1-ac77-0da957bed06b
