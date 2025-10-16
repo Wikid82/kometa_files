@@ -1,10 +1,11 @@
 metadata:
-  355567: # TVDB id for The Boys. Set by willtong93 on MediUX. https://mediux.pro/sets/5023
+  355567:
+    # TVDB id for The Boys. Set by willtong93 on MediUX. https://mediux.pro/sets/5023
     url_poster: https://api.mediux.pro/assets/feee76cc-af5d-4c44-ab5b-a2a1c491049c
     url_background: https://api.mediux.pro/assets/a1f5ef06-65e8-44ed-85b9-de0e35d1a9d9
     seasons:
-#      0:
-#        url_poster: https://api.mediux.pro/assets/9ba90c0b-c130-4adc-89f6-ef67775b71fd
+      #      0:
+      #        url_poster: https://api.mediux.pro/assets/9ba90c0b-c130-4adc-89f6-ef67775b71fd
       1:
         url_poster: https://api.mediux.pro/assets/d15abb9f-6ae3-4089-b3ab-f94ccd125b34
         episodes:
@@ -82,14 +83,16 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/091ab58d-f503-4cf8-a95f-e0426f58a8f6
 
-  413188: # TVDB id for The Boys Presents: Diabolical. Set by willtong93 on MediUX. https://mediux.pro/sets/23363
+  413188:
+    # TVDB id for The Boys Presents: Diabolical. Set by willtong93 on MediUX. https://mediux.pro/sets/23363
     url_poster: https://api.mediux.pro/assets/6d4ff1b6-a5b4-4f60-8999-017af6981865
     url_background: https://api.mediux.pro/assets/05544b65-e462-4d0c-90ae-621683f55dcf
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/9d7dafb7-fe93-498e-a3b4-3f88c6e8647a
 
-  417909: # TVDB id for Gen V. Set by willtong93 on MediUX. https://mediux.pro/sets/5496
+  417909:
+    # TVDB id for Gen V. Set by willtong93 on MediUX. https://mediux.pro/sets/5496
     url_poster: https://api.mediux.pro/assets/4d334f7a-e9d7-4921-bd6d-868a4e792465
     url_background: https://api.mediux.pro/assets/a3c2c5d8-49dd-4570-916f-8ef64197252d
     seasons:
@@ -121,3 +124,11 @@ metadata:
             url_poster: https://api.mediux.pro/assets/4fbc8606-3d1f-49ac-832b-99b885d9d9ab
           3:
             url_poster: https://api.mediux.pro/assets/3b7fb3a2-6737-4eb3-b878-b33987bbae4b
+          4:
+            url_poster: https://api.mediux.pro/assets/83589a00-98df-4d17-9c19-5595f1491a29
+          5:
+            url_poster: https://api.mediux.pro/assets/116f826d-1752-42d4-adde-9005f9a0d19d
+          6:
+            url_poster: https://api.mediux.pro/assets/e6fbc71b-4644-491b-9957-48f9432a78b3
+          7:
+            url_poster: https://api.mediux.pro/assets/4fa00840-11d7-45d6-8a37-f7d5284510a1
