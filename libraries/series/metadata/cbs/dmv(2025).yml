@@ -1,0 +1,12 @@
+metadata:
+
+  462862:
+    # TVDB id for DMV. Set by willtong93 on MediUX. https://mediux.pro/sets/38957
+    url_poster: https://api.mediux.pro/assets/9a8fa4d2-8d31-4c9b-ae3d-3ef960c5b0ef
+    url_background: https://api.mediux.pro/assets/d28ff9c5-e74f-4fa4-ac33-837b44d2143e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/579e065e-0d18-4f12-bfb2-ec25d9a36c20
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/96639a42-fa09-44b7-91df-c1d4fafe6cdc
