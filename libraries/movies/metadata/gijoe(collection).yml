@@ -1,10 +1,13 @@
 metadata:
-  G.I. Joe The Rise of Cobra:
-    mapping_id: 14869
-    url_poster: https://theposterdb.com/api/assets/42724
-  G.I. Joe Retaliation:
-    mapping_id: 72559
-    url_poster: https://theposterdb.com/api/assets/42725
-  Snake Eyes G.I. Joe Origins:
-    mapping_id: 568620
-    url_poster: https://theposterdb.com/api/assets/170291
+
+  14869:
+    # G.I. Joe: The Rise of Cobra (2009) Poster by Pejamas on MediUX. https://mediux.pro/sets/13681
+    url_poster: https://api.mediux.pro/assets/3ebb0d0d-0bf9-4302-a92b-d4f6cddb76d3
+
+  72559:
+    # G.I. Joe: Retaliation (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/13681
+    url_poster: https://api.mediux.pro/assets/2c1dc5e5-9f9e-496b-9178-0984784439ee
+
+  568620:
+    # Snake Eyes: G.I. Joe Origins (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/13682
+    url_poster: https://api.mediux.pro/assets/aacf745a-0bbe-4040-8dbf-6a20b3914459
