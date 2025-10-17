@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/86105-american-psycho-collection
     url_background: https://image.tmdb.org/t/p/original/5nrkaUQe4m3FLYJrFPGnkMGeQXD.jpg
-    url_poster: https://theposterdb.com/api/assets/93570
+    url_poster: https://api.mediux.pro/assets/d893635c-4ff3-40dc-a1a1-3056ac1859eb
