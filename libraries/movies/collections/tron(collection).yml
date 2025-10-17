@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8497681-tron
-    url_background: https://image.tmdb.org/t/p/original/pTfbxo10D7iqfHgXtH5Vsh9sPIK.jpg
-    url_poster: https://theposterdb.com/api/assets/81417
+    url_background: https://api.mediux.pro/assets/f76821dd-6c26-428f-a26c-82e199be3e40
+    url_poster: https://api.mediux.pro/assets/6e241b39-585c-4897-96f9-44f1710df057
