@@ -1,7 +1,9 @@
 metadata:
-  Halloween (Rob Zombie):
-    mapping_id: 2082
-    url_poster: https://theposterdb.com/api/assets/20178
-  Halloween II (Rob Zombie):
-    mapping_id: 24150
-    url_poster: https://theposterdb.com/api/assets/20179
+
+  2082:
+    # Halloween (2007) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1786
+    url_poster: https://api.mediux.pro/assets/dcc7c329-600b-4613-8e01-ba2a85a9cb41
+
+  24150:
+    # Halloween II (2009) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1786
+    url_poster: https://api.mediux.pro/assets/5ed74e9c-0c38-44b0-8a35-76d7d4c5072e
