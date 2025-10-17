@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/96665-dumb-and-dumber-collection
     url_background: https://image.tmdb.org/t/p/original/saUnj5K6buVafDfLfTozDH2eqdC.jpg
-    url_poster: https://theposterdb.com/api/assets/12114
+    url_poster: https://api.mediux.pro/assets/f2bb062f-6762-47f3-84a4-86ed11f46fab
