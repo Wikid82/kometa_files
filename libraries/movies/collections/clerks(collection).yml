@@ -5,4 +5,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/182813-clerks-collection
     url_background: https://image.tmdb.org/t/p/original/m1VA6XjIESUqOi1JD0nqLWGHCkR.jpg
-    url_poster: https://theposterdb.com/api/assets/275320
+    url_poster: https://api.mediux.pro/assets/abf48993-7245-47a8-a63e-ea460cd1e356
