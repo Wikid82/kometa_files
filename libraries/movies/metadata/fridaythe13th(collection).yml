@@ -1,39 +1,49 @@
 metadata:
-  Friday the 13th:
-    mapping_id: 4488
-    url_poster: https://theposterdb.com/api/assets/169889
-  Friday the 13th Part II:
-    mapping_id: 9725
-    url_poster: https://theposterdb.com/api/assets/169890
-  Friday the 13th Part III:
-    mapping_id: 9728
-    url_poster: https://theposterdb.com/api/assets/169891
-  Friday the 13th The Final Chapter:
-    mapping_id: 10131
-    url_poster: https://theposterdb.com/api/assets/8382
-  Friday the 13th A New Beginning:
-    mapping_id: 9731
-    url_poster: https://theposterdb.com/api/assets/169893
-  Friday the 13th Part VI Jason Lives:
-    mapping_id: 10225
-    url_poster: https://theposterdb.com/api/assets/169894
-  Friday the 13th Part VII The New Blood:
-    mapping_id: 10281
-    url_poster: https://theposterdb.com/api/assets/169895
-  Friday the 13th Part VIII Jason Takes Manhattan:
-    mapping_id: 10283
-    url_poster: https://theposterdb.com/api/assets/169896
-  Jason Goes to Hell The Final Friday:
-    mapping_id: 10285
-    url_poster: https://theposterdb.com/api/assets/169897
-  Jason X:
-    mapping_id: 11470
-    url_poster: https://theposterdb.com/api/assets/169898
-  Freddy vs. Jason:
-    mapping_id: 6466
-    url_poster: https://theposterdb.com/api/assets/169899
-  Friday the 13th (2009):
-    mapping_id: 13207
-    url_poster: https://theposterdb.com/api/assets/169900
 
+  4488:
+    # Friday the 13th (1980) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/409a12af-a7ba-4912-a3f8-020626cb5291
 
+  9725:
+    # Friday the 13th Part 2 (1981) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/d1ce6b55-e3b0-4734-ae85-09142f00761b
+
+  9728:
+    # Friday the 13th Part III (1982) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/464d9ace-93f5-456a-ac1a-b53cc80e6cbf
+
+  9730:
+    # Friday the 13th: The Final Chapter (1984) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/f6710d6b-dd14-492f-8ad1-cee868e34936
+
+  9731:
+    # Friday the 13th: A New Beginning (1985) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/0e444e35-571b-4fcf-b4bb-9ed47b71855f
+
+  10225:
+    # Friday the 13th Part VI: Jason Lives (1986) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/5b8fcc0f-f2e2-4370-b1e2-68a7aaa8113e
+
+  10281:
+    # Friday the 13th Part VII: The New Blood (1988) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/6b96c721-bb54-4845-ad84-f04a74a60e35
+
+  10283:
+    # Friday the 13th Part VIII: Jason Takes Manhattan (1989) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/a209ea3f-f7ea-4cdc-b2d3-f0aa824efdb6
+
+  10285:
+    # Jason Goes to Hell: The Final Friday (1993) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/5efd7ef7-facf-45b7-b6ac-f54786172ffa
+
+  11470:
+    # Jason X (2001) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/ed746590-3000-45f9-8d11-43f69cedb57a
+
+  6466:
+    # Freddy vs. Jason (2003) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/7d45d59e-bdfc-4f64-a59d-a12579efd9ed
+
+  13207:
+    # Friday the 13th (2009) Poster by cynibro on MediUX. https://mediux.pro/sets/16409
+    url_poster: https://api.mediux.pro/assets/a45bfad7-6362-4271-9e3a-2e2f7dd14f34
