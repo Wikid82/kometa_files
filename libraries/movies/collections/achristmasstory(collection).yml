@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/201873-a-christmas-story-collection
     url_background: https://image.tmdb.org/t/p/original/sDJLWSHdsORRGMEii0SWvm7DMwN.jpg
-    url_poster: https://theposterdb.com/api/assets/289591
+    url_poster: https://api.mediux.pro/assets/332c2b50-daa1-4090-8cd7-db36a8972891
