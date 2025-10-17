@@ -5,4 +5,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/91361-halloween-collection
     url_background: https://image.tmdb.org/t/p/original/hUa3JDVZ1L0U7jSfFu4uvzoCJxs.jpg
-    url_poster: https://theposterdb.com/api/assets/190032
+    url_poster: https://api.mediux.pro/assets/bbdba57e-f497-4243-a6a8-598f518fc1b6
