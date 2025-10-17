@@ -4,5 +4,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8543682-a-nightmare-on-elm-street
-    url_background: https://image.tmdb.org/t/p/original/lroCeQFVMQoZSkECL6fcdN3AQAy.jpg
-    url_poster: https://theposterdb.com/api/assets/8378
+    url_background: https://api.mediux.pro/assets/c66b4ab2-ab37-4f03-988f-53f2fdb57f0b
+    url_poster: https://api.mediux.pro/assets/b57bac14-119e-4966-b962-869652a06b96
