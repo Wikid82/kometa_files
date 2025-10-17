@@ -1,7 +1,9 @@
 metadata:
-  American Psycho:
-    mapping_id: 1359
-    url_poster: https://theposterdb.com/api/assets/93571
-  American Psycho II All American Girl:
-    mapping_id: 10726
-    url_poster: https://theposterdb.com/api/assets/93572
+
+  1359:
+    # American Psycho (2000) Poster by Pejamas on MediUX. https://mediux.pro/sets/10962
+    url_poster: https://api.mediux.pro/assets/61b5bc15-fdfa-4eeb-86e6-58f754af36c1
+
+  10726:
+    # American Psycho II: All American Girl (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/10962
+    url_poster: https://api.mediux.pro/assets/28a52acc-8f4a-44df-b31c-3b748fd9bc23
