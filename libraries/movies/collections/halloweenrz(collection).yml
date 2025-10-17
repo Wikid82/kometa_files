@@ -5,4 +5,4 @@ collections:
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/126209-halloween-rob-zombie-series-collection
     url_background: https://image.tmdb.org/t/p/original/tXXPOkcFLcDiJ4OU5SOU3JnhQrg.jpg
-    url_poster: https://theposterdb.com/api/assets/20177
+    url_poster: https://api.mediux.pro/assets/8b8c87b1-d6db-4aae-9d40-07f5b34fa965
