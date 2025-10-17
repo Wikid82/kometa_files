@@ -5,4 +5,4 @@ collections:
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8543683-friday-the-13th
     url_background: https://image.tmdb.org/t/p/original/yz9EdlfKU8bpN0hbdJMy6QkFBoN.jpg
-    url_poster: https://theposterdb.com/api/assets/169888
+    url_poster: https://api.mediux.pro/assets/a992ff71-0aad-4866-965a-cb377eaa09dc
