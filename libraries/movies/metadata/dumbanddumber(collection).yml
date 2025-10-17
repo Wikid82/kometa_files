@@ -1,10 +1,13 @@
 metadata:
-  Dumb and Dumber:
-    mapping_id: 8467
-    url_poster: https://theposterdb.com/api/assets/12115
-  Dumb and Dumberer When Harry Met Lloyd:
-    mapping_id: 10152
-    url_poster: https://theposterdb.com/api/assets/12116
-  Dumb and Dumber To:
-    mapping_id: 100042
-    url_poster: https://theposterdb.com/api/assets/12117
+
+  8467:
+    # Dumb and Dumber (1994) Poster by RuviLev on MediUX. https://mediux.pro/sets/8975
+    url_poster: https://api.mediux.pro/assets/dff90f09-682d-49e8-be6a-d30a9e47afff
+
+  10152:
+    # Dumb and Dumberer: When Harry Met Lloyd (2003) Poster by RuviLev on MediUX. https://mediux.pro/sets/8975
+    url_poster: https://api.mediux.pro/assets/65ff2ed1-c787-400a-bada-7ef97e26bc65
+
+  100042:
+    # Dumb and Dumber To (2014) Poster by RuviLev on MediUX. https://mediux.pro/sets/8975
+    url_poster: https://api.mediux.pro/assets/38c6225b-53b4-4ffe-9823-48461d83f2b6
