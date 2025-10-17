@@ -1,5 +1,6 @@
 metadata:
-  402910: # TVDB id for Abbott Elementary. Set by willtong93 on MediUX. https://mediux.pro/sets/27137
+  402910:
+    # TVDB id for Abbott Elementary. Set by willtong93 on MediUX. https://mediux.pro/sets/27137
     url_poster: https://api.mediux.pro/assets/1f090707-6f37-4fae-bed9-63c9b7032a04
     url_background: https://api.mediux.pro/assets/fed58321-2222-45ca-bb17-209e251afb0d
     seasons:
@@ -86,10 +87,8 @@ metadata:
             url_poster: https://api.mediux.pro/assets/48c74813-4348-4a6d-bf12-042d128150e9
           2:
             url_poster: https://api.mediux.pro/assets/e550dbe7-9f55-4a2f-9dfc-42a356c7a2a0
-          2:
+          3:
             url_poster: https://api.mediux.pro/assets/730c3a9d-2ca2-4c1c-8b7c-7db800de2a1d
-          2:
-            url_poster: https://api.mediux.pro/assets/a8b298dd-aa89-4a68-bd2f-0c7e82fe9142
           4:
             url_poster: https://api.mediux.pro/assets/c397d052-96e7-4de1-ba76-98e50bd300d7
           5:
