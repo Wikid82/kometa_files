@@ -1,35 +1,45 @@
 metadata:
-  Halloween (1978):
-    mapping_id: 948
-    url_poster: https://theposterdb.com/api/assets/190052
-  Halloween II:
-    mapping_id: 11281
-    url_poster: https://theposterdb.com/api/assets/190053
-  Halloween III Season of the Witch:
-    mapping_id: 10676
-    url_poster: https://theposterdb.com/api/assets/190054
-  Halloween 4 The Return of Michael Myers:
-    mapping_id: 11357
-    url_poster: https://theposterdb.com/api/assets/190055
-  Halloween 5 The Revenge of Michael Myers:
-    mapping_id: 11361
-    url_poster: https://theposterdb.com/api/assets/190056
-  Halloween The Curse of Michael Myers:
-    mapping_id: 10987
-    url_poster: https://theposterdb.com/api/assets/190057
-  Halloween H20:
-    mapping_id: 11675
-    url_poster: https://theposterdb.com/api/assets/190039
-  Halloween Resurrection:
-    mapping_id: 11442
-    url_poster: https://theposterdb.com/api/assets/190040
-  Halloween (2018):
-    mapping_id: 424139
-    url_poster: https://theposterdb.com/api/assets/190041
-  Halloween Kills:
-    mapping_id: 610253
-    url_poster: https://theposterdb.com/api/assets/190042
-  Halloween Ends:
-    mapping_id: 616820
-    url_poster: https://theposterdb.com/api/assets/190043
 
+  948:
+    # Halloween (1978) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/92f016d1-60ab-436a-b322-b3dd280246ea
+
+  11281:
+    # Halloween II (1981) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/4d91c1d4-b54e-40d0-a560-fb2121947b2b
+
+  10676:
+    # Halloween III: Season of the Witch (1982) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/c2ef1bd8-c2c8-4663-83c6-4d25f5c7452e
+
+  11357:
+    # Halloween 4: The Return of Michael Myers (1988) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/2fff8093-2089-4602-a935-576fb95a6554
+
+  11361:
+    # Halloween 5: The Revenge of Michael Myers (1989) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/53bf1cea-9eb4-46eb-a758-78650bef38a6
+
+  10987:
+    # Halloween: The Curse of Michael Myers (1995) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/dfd2bfa8-afac-4be3-aafd-5ca8dd8eafd6
+
+  11675:
+    # Halloween H20: 20 Years Later (1998) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/90a246f4-3a4d-4f7d-82d9-1add88d2cae7
+
+  11442:
+    # Halloween: Resurrection (2002) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/8c200bf6-aa27-418f-a34c-8d15608a314b
+
+  424139:
+    # Halloween (2018) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/9b6cebaf-cfa8-41f6-84c7-7f34e918df78
+
+  610253:
+    # Halloween Kills (2021) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/ef4eb2b7-f526-4b9f-a292-66c9f4e7a78a
+
+  616820:
+    # Halloween Ends (2022) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1779
+    url_poster: https://api.mediux.pro/assets/cafc7422-7ec2-4515-aaad-e71e0c5e6c67
