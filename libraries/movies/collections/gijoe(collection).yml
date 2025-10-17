@@ -4,4 +4,4 @@ collections:
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8496843-g-i-joe
     url_background: https://image.tmdb.org/t/p/original/cjM839nXWmldfzjXdaVqcCdGqd8.jpg
-    url_poster: https://theposterdb.com/api/assets/42723
+    url_poster: https://api.mediux.pro/assets/b8b37653-2f51-4ca2-a4a0-17c6f7fbaeb8
