@@ -1,25 +1,29 @@
 metadata:
-  Clerks:
-    mapping_id: 2292
-    url_poster: https://theposterdb.com/api/assets/61803
-  Clerks II:
-    mapping_id: 2295
-    url_poster: https://theposterdb.com/api/assets/61808
-  Clerks III:
-    mapping_id: 635891
-    url_poster: https://theposterdb.com/api/assets/512412
-  Mallrats:
-    mapping_id: 2293
-    url_poster: https://theposterdb.com/api/assets/61804
-  Chasing Amy:
-    mapping_id: 2255
-    url_poster: https://theposterdb.com/api/assets/61805
-  Dogma:
-    mapping_id: 1832
-    url_poster: https://theposterdb.com/api/assets/61806
-  Jay and Silent Bob Strike Back:
-    mapping_id: 2294
-    url_poster: https://theposterdb.com/api/assets/61807
-  Jay and Silent Bob Reboot:
-    mapping_id: 440762
-    url_poster: https://theposterdb.com/api/assets/331290
+
+  2292:
+    # Clerks (1994) Poster by Pejamas on MediUX. https://mediux.pro/sets/10251
+    url_poster: https://api.mediux.pro/assets/36eb05e0-1a08-43ed-94ea-02a165e511b6
+
+  2295:
+    # Clerks II (2006) Poster by Pejamas on MediUX. https://mediux.pro/sets/10251
+    url_poster: https://api.mediux.pro/assets/1eddf911-c56f-4048-8dae-23396afb3fdb
+
+  635891:
+    # Clerks III (2022) Poster by Pejamas on MediUX. https://mediux.pro/sets/10251
+    url_poster: https://api.mediux.pro/assets/7fc74baf-aa0b-416e-aeb8-867117c2113a
+
+  2255:
+    # Chasing Amy (1997) Poster by RuviLev on MediUX. https://mediux.pro/sets/9945
+    url_poster: https://api.mediux.pro/assets/d652e30c-d22e-4743-99c2-7e3f5280e9df
+
+  1832:
+    # Dogma (1999) Poster by RuviLev on MediUX. https://mediux.pro/sets/9947
+    url_poster: https://api.mediux.pro/assets/d0b0cc79-f54a-4921-b602-1202b1dd9495
+
+  2294:
+    # Jay and Silent Bob Strike Back (2001) Poster by RuviLev on MediUX. https://mediux.pro/sets/9292
+    url_poster: https://api.mediux.pro/assets/a75471da-1b44-4587-959d-ba2be9687777
+
+  440762:
+    # Jay and Silent Bob Reboot (2019) Poster by RuviLev on MediUX. https://mediux.pro/sets/9292
+    url_poster: https://api.mediux.pro/assets/6da20380-3488-4706-b0ef-11453bd49aea
