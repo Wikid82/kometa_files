@@ -1,0 +1,9 @@
+# Personal sorting tools and outputs
+/tools/sort_by_company.py
+/tools/sort_series_by_network.py
+/tools/README.md
+/libraries/series/metadata/network_map.yml
+/libraries/movies/metadata/company_map.yml
+/.cache/
+moves-*.json
+report-*.csv
