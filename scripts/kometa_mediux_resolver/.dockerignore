@@ -1,0 +1,20 @@
+# Ignore env files and local venv
+.env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Kometa backup files
+*.bak
+*.bak.*
+*.yml.bak
+*.yml.bak.*
+
+# Node / build artifacts (kept minimal for now)
+node_modules/
+dist/
+
+# Central mapping folder: kept in repo for fallback — remove/comment out if you want this local only
+# scripts/central_mapping/

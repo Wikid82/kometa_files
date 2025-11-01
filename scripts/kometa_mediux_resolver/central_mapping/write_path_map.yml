@@ -1,0 +1,38 @@
+## Central write-path mapping for kometa_mediux_resolver
+## Precedence: per-file marker > set id mapping > tvdb id mapping > filename mapping > heuristics
+
+set:
+  "5338": metadata.372264.seasons     # Slow Horses (MediUX set 5338)
+  "16302": metadata.302938.seasons    # Letterkenny (set 16302)
+  "8125": metadata.72449.seasons      # Stargate SG-1 (set 8125)
+  "27827": metadata.83237.seasons     # Stargate Universe (set 27827)
+  "19735": metadata.409902.seasons    # Shoresy (set 19735)
+  "20230": metadata.205281.seasons    # Falling Skies (set 20230)
+  "37156": metadata.369307.seasons    # The Undoing (set 37156)
+  "32280": metadata.436883.seasons    # Ancient Aliens - The Ultimate Evidence (set 32280)
+  "19428": metadata.382210.seasons    # National Treasure: Edge of History (set 19428)
+  "28523": metadata.430769.seasons    # The Agency: Central Intelligence (set 28523)
+
+tvdb:
+  "372264": metadata.372264.seasons
+  "302938": metadata.302938.seasons
+  "72449": metadata.72449.seasons
+  "83237": metadata.83237.seasons
+  "409902": metadata.409902.seasons
+  "205281": metadata.205281.seasons
+  "369307": metadata.369307.seasons
+  "436883": metadata.436883.seasons
+  "382210": metadata.382210.seasons
+  "430769": metadata.430769.seasons
+
+filename:
+  "slowhorses(2022).yml": metadata.372264.seasons
+  "letterkenny(2016).yml": metadata.302938.seasons
+  "stargatesg1(1997).yml": metadata.72449.seasons
+  "stargateuniverse(2009).yml": metadata.83237.seasons
+  "shoresy(2022).yml": metadata.409902.seasons
+  "fallingskies(2011).yml": metadata.205281.seasons
+  "The Undoing (2020).yml": metadata.369307.seasons
+  "Ancient Aliens: The Ultimate Evidence (2015).yml": metadata.436883.seasons
+  "nationaltreasureedgeofhistory(2022).yml": metadata.382210.seasons
+  "theagency(2024).yml": metadata.430769.seasons

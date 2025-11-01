@@ -100,6 +100,31 @@ Table of Contents
 <a href="https://github.com/Wikid82/kometa_files/blob/main/config.yml" title="Sample Kometa Config File">**Sample Kometa Config File**</a>
 
 
+## Kometa MediUX Resolver (fast-runner)
+
+This repository now includes the Kometa MediUX Resolver — a small CLI tool that
+discovers MediUX artwork (title cards, posters, backdrops) and proposes safe
+additions to existing Kometa metadata YAML files.
+
+Quick usage (from repository root):
+
+```
+# dry-run
+python3 scripts/kometa_mediux_resolver/kometa_mediux_resolver.py --root . --output /tmp/changes.json
+
+# or use the convenience wrapper (tries .venv if present)
+scripts/kometa-resolver --root . --output /tmp/changes.json
+
+# apply changes (creates timestamped backups)
+scripts/kometa-resolver --root . --apply --require-probe-ok --output /tmp/changes.json
+```
+
+Notes:
+- The resolver updates existing metadata files only; it will not create new files.
+- For Docker usage, mount the folder containing your Kometa YAMLs and pass that
+  mount path to `--root` so the tool can modify files in-place.
+
+
 
 ## 🤝 Contributing
 

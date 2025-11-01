@@ -1,0 +1,11 @@
+# Ignore local test library used during resolver development
+scripts/resolver_test_library/
+
+# Ignore resolver's real config (example should be committed)
+scripts/kometa_mediux_resolver/config/config.yml
+
+# Common ignores
+.env
+.venv/
+__pycache__/
+*.pyc
