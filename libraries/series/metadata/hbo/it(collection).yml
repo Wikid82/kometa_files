@@ -1,0 +1,14 @@
+metadata:
+  418424: # TVDB id for IT: Welcome to Derry. Set by willtong93 on MediUX. https://mediux.pro/sets/39214
+    url_poster: https://api.mediux.pro/assets/b88f12a1-606e-4e81-84e0-26f7334e409d
+    url_background: https://api.mediux.pro/assets/977f38ab-5062-45d6-8a79-ac9da7fc2cab
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/48d8a3ab-725f-4fdd-836b-5ffe2acaac67
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c38bfa3d-d43f-48fb-b346-9ecb12684aaa
+          2:
+            url_poster: https://api.mediux.pro/assets/b9462c2e-95ff-4d00-a050-d3d561ab291d
+          3:
+            url_poster: https://api.mediux.pro/assets/6fa028d7-5c8d-4953-9f03-704217bffc72
