@@ -1,0 +1,7 @@
+collections:
+  Black Phone Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1197140-the-black-phone-collection
+    url_background: https://image.tmdb.org/t/p/original/wFba9uk3UEvKfddD2HgF7j7HTkf.jpg
+    url_poster: https://api.mediux.pro/assets/50851a50-142b-419f-b78f-8c1dc4f796e0
