@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"yaml.schemas": {
+			"https://www.schemastore.org/yamllint.json": "file:///home/jeremy/Server/Configs/kometateam/kometa/config/kometa_files/libraries/movies/metadata/avatar%28collection%29.yml"
+		}
+	}
 }
