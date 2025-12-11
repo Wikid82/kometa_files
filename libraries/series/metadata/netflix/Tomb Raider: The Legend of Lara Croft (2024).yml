@@ -1,7 +1,8 @@
 metadata:
-  409591: # TVDB id for Tomb Raider: The Legend of Lara Croft. Set by Wikid82 on MediUX. https://mediux.pro/sets/35250
-    url_poster: https://api.mediux.pro/assets/34df141b-13c7-4aa2-8263-46d1f7fd1a62
-    url_background: https://api.mediux.pro/assets/8ff69ede-dba4-455e-bdc6-0b73b7ae22dd
+  409591: # TVDB id for Tomb Raider: The Legend of Lara Croft. Set by Pejamas on MediUX. https://mediux.pro/sets/26804
+    url_poster: https://api.mediux.pro/assets/b588dbff-1fe1-49da-bf97-1d26d670efc3
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/bceaa5c9-2226-425a-951b-6832678c0368
+        url_poster: https://api.mediux.pro/assets/ca22cf68-9743-41df-8c16-95489fcf1532
+      2:
+        url_poster: https://api.mediux.pro/assets/a8faee4e-f941-4992-bc5a-4038fd3e7fe6
