@@ -4,6 +4,8 @@ metadata:
     url_poster: https://api.mediux.pro/assets/a860fa77-b153-4ae1-bd01-362bf6e5b90f
     url_background: https://api.mediux.pro/assets/dbb754bc-5920-4fdf-990e-f7d3da3ae443
     seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/ca3c71cf-2002-441b-8cf6-5c1cf21f29e0
       1:
         url_poster: https://api.mediux.pro/assets/f4552a18-ef19-4f88-b1ad-b9b62b725bd0
         episodes:
@@ -23,3 +25,8 @@ metadata:
             url_poster: https://api.mediux.pro/assets/95ced4f2-ceb4-4396-a1c4-2a526fc72a6a
           8:
             url_poster: https://api.mediux.pro/assets/71b96cb5-9135-4860-9838-a448394958f9
+      2:
+        url_poster: https://api.mediux.pro/assets/1127d10d-d374-4700-adb1-64baa444ca62
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/db39c9c6-58b9-4c1e-80d8-dbda39b8a322
