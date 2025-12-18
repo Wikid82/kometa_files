@@ -1,7 +1,5 @@
 metadata:
-
-  386630:
-    # TVDB id for Mayor of Kingstown. Set by willtong93 on MediUX. https://mediux.pro/sets/11507
+  386630: # TVDB id for Mayor of Kingstown. Set by willtong93 on MediUX. https://mediux.pro/sets/11507
     url_poster: https://api.mediux.pro/assets/4851c1d3-6898-41b5-8830-23e6ab0c6abf
     url_background: https://api.mediux.pro/assets/dfecc1a7-5db5-4bdf-b756-be896565c2e6
     seasons:
@@ -76,3 +74,20 @@ metadata:
             url_poster: https://api.mediux.pro/assets/207d3bd2-ebaf-48c9-92e0-20e9e1549036
       4:
         url_poster: https://api.mediux.pro/assets/50218576-8bdd-4407-b565-a324ba8a6f93
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/dfcc0c67-2f10-43af-af8e-9b853a3251c8
+          2:
+            url_poster: https://api.mediux.pro/assets/f09d2fd1-44e3-427d-8c9b-d1996475cc04
+          3:
+            url_poster: https://api.mediux.pro/assets/df535889-0f05-49e4-9960-1184e1ded6fb
+          4:
+            url_poster: https://api.mediux.pro/assets/c01ed2de-05c2-45a9-98d6-85e1a5dc8101
+          5:
+            url_poster: https://api.mediux.pro/assets/324aa83a-2f08-4316-82fb-9291b3fefa65
+          6:
+            url_poster: https://api.mediux.pro/assets/57659e44-69f2-492c-bb69-49d6ca4cbe3a
+          7:
+            url_poster: https://api.mediux.pro/assets/a4127691-2e4f-4cd5-af9e-5312fa2859f1
+          8:
+            url_poster: https://api.mediux.pro/assets/e739a61d-7d05-4536-8ef7-61baa1bfcc23
