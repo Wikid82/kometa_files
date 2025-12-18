@@ -1,12 +1,12 @@
 metadata:
 
-  397424: # TVDB id for Landman. Set by Wikid82 on MediUX. https://mediux.pro/sets/35377
-    url_poster: https://api.mediux.pro/assets/3dde5213-7d19-4626-bf59-6b57bd1bc5b9
-    url_background: https://api.mediux.pro/assets/172d7974-9871-464e-ad1e-9eb3a83b966e
+  397424: # TVDB id for Landman. Set by willtong93 on MediUX. https://mediux.pro/sets/28090
+    url_poster: https://api.mediux.pro/assets/a9eed2f5-d47f-4d27-a4a7-61fd36d05c02
+    url_background: https://api.mediux.pro/assets/80554560-f765-4294-b04a-a7ef96de99c5
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/200d08e6-ccb8-4c0e-9175-2d464eb0e5b8
-        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/28090
+        url_poster: https://api.mediux.pro/assets/fb6b76c0-8d00-4664-81ee-a917bdd059ba
+        episodes:
           1:
             url_poster: https://api.mediux.pro/assets/8fe3d03a-f563-4006-8252-260a1ba900de
           2:
@@ -27,3 +27,16 @@ metadata:
             url_poster: https://api.mediux.pro/assets/24762334-853e-41b2-95c7-a4355adaf2e9
           10:
             url_poster: https://api.mediux.pro/assets/42ffecff-eda6-4549-a6eb-5bed21114681
+      2:
+        url_poster: https://api.mediux.pro/assets/0a91cc13-798d-42ba-88e3-11fc79891a7d
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/dddf612b-b329-4e0d-8161-6097d44e9e65
+          2:
+            url_poster: https://api.mediux.pro/assets/6971649b-2bc6-4a47-ba4f-8747b5464920
+          3:
+            url_poster: https://api.mediux.pro/assets/48b9d4c0-f326-47de-b46c-863013023080
+          4:
+            url_poster: https://api.mediux.pro/assets/460aaeec-fa01-4619-84e1-5f7c61c2a83a
+          5:
+            url_poster: https://api.mediux.pro/assets/29d73d9d-6820-4995-b318-02835107691d
