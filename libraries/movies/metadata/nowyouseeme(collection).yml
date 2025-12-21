@@ -1,11 +1,10 @@
 metadata:
-  Now You See Me:
-    mapping_id: 75656
-    url_poster: https://theposterdb.com/api/assets/2629
-  Now You See Me 2:
-    mapping_id: 291805
-    url_poster: https://theposterdb.com/api/assets/2630
-#  Now You See Me 3:
-#    mapping_id: 425274
-    #url_poster: 
 
+  75656: # Now You See Me (2013) Poster by willtong93 on MediUX. https://mediux.pro/sets/36744
+    url_poster: https://api.mediux.pro/assets/0f1f9161-a6d2-436d-b647-fc5625ee431e
+
+  291805: # Now You See Me 2 (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/36744
+    url_poster: https://api.mediux.pro/assets/28fa19c6-6d93-46a7-a7d8-2ee6a0546d5e
+
+  425274: # Now You See Me: Now You Don't (2025) Poster by willtong93 on MediUX. https://mediux.pro/sets/36744
+    url_poster: https://api.mediux.pro/assets/10343340-f7a5-4395-8c58-8cd1730f03cc

@@ -3,5 +3,5 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/382685-now-you-see-me-collection
-    url_background: https://image.tmdb.org/t/p/original/aaf233l8tO87BioeFnE2tsNIJkD.jpg
-    url_poster: https://theposterdb.com/api/assets/2628
+    url_background: https://api.mediux.pro/assets/5aebc404-6c5a-4063-a8d3-325ee08d02aa
+    url_poster: https://api.mediux.pro/assets/57f6373e-b750-4dd5-ad0b-ef2c7935b397
