@@ -1,0 +1,8 @@
+collections:
+  SpongeBob Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/275402-spongebob-collection
+#    url_background: 
+    url_poster: https://api.mediux.pro/assets/95480728-f185-4e8a-93b8-ddd69fede952
+    
