@@ -1,0 +1,20 @@
+metadata:
+  84912: # TVDB id for Parks and Recreation. Set by RuviLev on MediUX. https://mediux.pro/sets/13502
+    url_poster: https://api.mediux.pro/assets/fc5cecc9-99e5-4cb6-8532-28ee433cbb9f
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/e179d9d7-1e05-421d-8421-ee95ce7190bc
+      1:
+        url_poster: https://api.mediux.pro/assets/f8cb8918-dd70-46fe-81a0-f1ef1e7f79d0
+      2:
+        url_poster: https://api.mediux.pro/assets/5d0fd7cb-380d-49f3-bdd3-e61bfa091574
+      3:
+        url_poster: https://api.mediux.pro/assets/d2538b7b-a469-45bb-8917-99010d853b08
+      4:
+        url_poster: https://api.mediux.pro/assets/49490231-3703-40c4-ae93-06e4252ee688
+      5:
+        url_poster: https://api.mediux.pro/assets/9aa18ea0-63d0-46ea-80cc-de282f1eded3
+      6:
+        url_poster: https://api.mediux.pro/assets/061aebab-8b05-4b80-a406-f81ac967032f
+      7:
+        url_poster: https://api.mediux.pro/assets/9e73d356-acf9-4f34-8109-209708d0d4ee
