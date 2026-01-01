@@ -1,0 +1,24 @@
+metadata:
+  73244: # TVDB id for The Office. Set by MrMonkey on MediUX. https://mediux.pro/sets/6527
+    url_poster: https://api.mediux.pro/assets/09afb252-f9ce-468c-9623-e1d9d1619e1c
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/eef1b643-d4cc-45a5-b261-3ca0f3dfba0a
+      1:
+        url_poster: https://api.mediux.pro/assets/803f2135-56d6-4ba5-993d-b7e478169d06
+      2:
+        url_poster: https://api.mediux.pro/assets/1bf58441-e85a-4795-95c1-73c143001895
+      3:
+        url_poster: https://api.mediux.pro/assets/f4632022-8d9f-4cb5-b7f5-605e39ba1f75
+      4:
+        url_poster: https://api.mediux.pro/assets/7183f10b-e504-43c4-ada2-a3f2ff4091f7
+      5:
+        url_poster: https://api.mediux.pro/assets/17c3f7fa-50b2-4764-b5f8-c799cf505808
+      6:
+        url_poster: https://api.mediux.pro/assets/4f06bb7c-c519-43ba-a5c3-9c818623db96
+      7:
+        url_poster: https://api.mediux.pro/assets/97f98a46-5e13-43a3-9b51-6f5cd0bbd254
+      8:
+        url_poster: https://api.mediux.pro/assets/364c4ea4-a3fc-471b-bb10-c91ae980a862
+      9:
+        url_poster: https://api.mediux.pro/assets/fd28a148-8607-40fa-b7de-fc189cf7cab5
