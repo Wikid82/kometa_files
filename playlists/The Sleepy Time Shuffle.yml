@@ -1,6 +1,6 @@
 playlists:
   The Sleepy Time Shuffle:
-    trakt_list: https://trakt.tv/users/wikid82/lists/sleep-shuffle
+    tmdb_list: https://www.themoviedb.org/list/8582238-the-sleepy-time-shuffle
     sync_mode: sync
     collection_order: random.asc
     libraries: Movies, TV Shows
