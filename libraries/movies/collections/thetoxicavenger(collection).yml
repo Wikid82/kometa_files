@@ -1,7 +1,0 @@
-collections:
-  The Toxic Avenger Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8544029-the-toxic-avenger
-    url_background: https://image.tmdb.org/t/p/original/ofIwwNjI0TDOPZeAOIXSrXJQqwi.jpg
-    url_poster: https://theposterdb.com/api/assets/421838 # Collection by RandomUploader on ThePosterDB.com. https://theposterdb.com/poster/421838

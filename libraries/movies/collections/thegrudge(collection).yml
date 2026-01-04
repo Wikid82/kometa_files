@@ -1,7 +1,0 @@
-collections:
-  The Grudge Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8496819-the-grudge
-    url_background: https://image.tmdb.org/t/p/original/w4HSdOMB2dTwZMZ0idNkAOvQMnK.jpg
-    url_poster: https://theposterdb.com/api/assets/100892
