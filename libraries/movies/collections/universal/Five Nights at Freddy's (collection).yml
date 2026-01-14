@@ -1,0 +1,7 @@
+collections:
+  Five Nights at Freddy's Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_list_details: https://www.themoviedb.org/collection/1240438-five-nights-at-freddy-s-collection
+    url_background: https://api.mediux.pro/assets/b7b157af-90b7-49b1-b8a4-50e55fcee282
+    url_poster: https://api.mediux.pro/assets/9b12666e-813f-477c-843b-b09f0abf5bda
