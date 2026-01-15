@@ -2,6 +2,6 @@ collections:
   Greenland Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/movie/840464-greenland-2-migration
+    tmdb_collection_details: https://www.themoviedb.org/collection/840465-greenland-collection
     url_background: https://api.mediux.pro/assets/16e09725-8091-46c9-b55f-d8a367cdd491
     url_poster: https://api.mediux.pro/assets/a202a7ec-7ed2-4a6c-943d-8d7606ee8ac9
