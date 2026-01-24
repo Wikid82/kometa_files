@@ -1,0 +1,10 @@
+playlists:
+  Stargate Timeline:
+    imdb_list: 
+      list_id: ls020207146
+      sort_by: custom.asc
+    sync_mode: sync
+    collection_order: custom
+    libraries: Movies, TV Shows
+    sync_to_users: all
+    url_poster: https://upload.wikimedia.org/wikipedia/en/3/39/Stargate_Atlantis_season_4_cast_photo.jpg
