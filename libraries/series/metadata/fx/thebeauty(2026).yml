@@ -1,0 +1,14 @@
+metadata:
+  455046: # TVDB id for The Beauty. Set by willtong93 on MediUX. https://mediux.pro/sets/41927
+    url_poster: https://api.mediux.pro/assets/c865115f-1dcb-44bb-a1b5-b09e2dfb1c51
+    url_background: https://api.mediux.pro/assets/c516e482-e9dc-45bf-8811-a87d8c7da2ba
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/af141333-5991-46e6-a7d5-c73ed7fbc708
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/cb9cf91f-e605-4952-af86-fc63a9655fcb
+          2:
+            url_poster: https://api.mediux.pro/assets/6c89915d-b9cc-4a83-85b2-296023ef2283
+          3:
+            url_poster: https://api.mediux.pro/assets/4714eec6-992b-441d-b3ce-04421cc383a0
