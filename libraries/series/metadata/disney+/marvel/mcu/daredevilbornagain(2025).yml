@@ -1,6 +1,6 @@
 metadata:
 
-  422712: # TVDB id for Daredevil: Born Again. Set by willtong93 on MediUX. https://mediux.pro/sets/31179
+    422712: # TVDB id for Daredevil: Born Again. Set by willtong93 on MediUX. https://mediux.pro/sets/31179
     url_poster: https://api.mediux.pro/assets/0a605fac-e1ff-446c-93bb-4a80194f3525
     url_background: https://api.mediux.pro/assets/e0abe2bd-a36b-4214-8ba3-0bfbd6791aec
     seasons:
@@ -25,3 +25,5 @@ metadata:
             url_poster: https://api.mediux.pro/assets/82ff2b7c-ee27-4533-a7ee-61da2c1b1fdf
           9:
             url_poster: https://api.mediux.pro/assets/0084b19d-2d10-4313-b041-22e1e44cd9a1
+      2:
+        url_poster: https://api.mediux.pro/assets/a46e39e0-a333-475a-b04c-794de3ce24be
