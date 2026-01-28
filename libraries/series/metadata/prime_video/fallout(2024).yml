@@ -1,6 +1,6 @@
 metadata:
 
-  416744: # TVDB id for Fallout. Set by willtong93 on MediUX. https://mediux.pro/sets/15915
+    416744: # TVDB id for Fallout. Set by willtong93 on MediUX. https://mediux.pro/sets/15915
     url_poster: https://api.mediux.pro/assets/a860fa77-b153-4ae1-bd01-362bf6e5b90f
     url_background: https://api.mediux.pro/assets/dbb754bc-5920-4fdf-990e-f7d3da3ae443
     seasons:
@@ -30,3 +30,15 @@ metadata:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/db39c9c6-58b9-4c1e-80d8-dbda39b8a322
+          2:
+            url_poster: https://api.mediux.pro/assets/467b150b-cdd8-43f0-a814-e955f8705ed4
+          3:
+            url_poster: https://api.mediux.pro/assets/2d8814b3-c965-464f-9bf1-2a6e2e06c001
+          4:
+            url_poster: https://api.mediux.pro/assets/1a921a23-f0c4-4484-9b76-f42e47e15886
+          5:
+            url_poster: https://api.mediux.pro/assets/e999d6e5-eda1-4aba-9e00-6d4ba066bc48
+          6:
+            url_poster: https://api.mediux.pro/assets/eed8dd33-ce61-4d0b-9ad5-28c733578b9e
+          7:
+            url_poster: https://api.mediux.pro/assets/1656a9d7-acb1-4a26-a28b-6346a67f3172
