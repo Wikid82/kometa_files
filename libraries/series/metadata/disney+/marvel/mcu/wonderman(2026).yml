@@ -1,0 +1,23 @@
+metadata:
+  428629: # TVDB id for Wonder Man. Set by willtong93 on MediUX. https://mediux.pro/sets/42249
+    url_poster: https://api.mediux.pro/assets/7131599d-7866-434d-be1b-c0abf973b9fa
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/23edc553-73e2-4e82-8c44-ed78b329ef0a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/d11135d4-a4a5-46af-b8cb-db4396526c48
+          2:
+            url_poster: https://api.mediux.pro/assets/ceb9a6bb-0328-460a-ba0f-bb3d6cf4dad7
+          3:
+            url_poster: https://api.mediux.pro/assets/f3ff0d1b-b0a6-4c6f-b974-e90bc7475cd0
+          4:
+            url_poster: https://api.mediux.pro/assets/9eee50a7-ae42-431e-9652-6e894cd1b22f
+          5:
+            url_poster: https://api.mediux.pro/assets/95070e0c-5fbe-41f1-999b-c7ee5a0f6907
+          6:
+            url_poster: https://api.mediux.pro/assets/d90da266-2299-42ff-bb84-6b6bb95678b7
+          7:
+            url_poster: https://api.mediux.pro/assets/c5910e23-414d-4054-adcd-d766b8a9df84
+          8:
+            url_poster: https://api.mediux.pro/assets/1bbeaca3-ddbc-4aba-86d9-2ff2ecaaf68c
