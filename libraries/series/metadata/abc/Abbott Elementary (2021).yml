@@ -1,6 +1,5 @@
 metadata:
-  402910:
-    # TVDB id for Abbott Elementary. Set by willtong93 on MediUX. https://mediux.pro/sets/27137
+  402910: # TVDB id for Abbott Elementary. Set by willtong93 on MediUX. https://mediux.pro/sets/27137
     url_poster: https://api.mediux.pro/assets/1f090707-6f37-4fae-bed9-63c9b7032a04
     url_background: https://api.mediux.pro/assets/fed58321-2222-45ca-bb17-209e251afb0d
     seasons:
@@ -167,3 +166,21 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e1478e2e-4deb-4863-8fa6-66f55659c99c
           3:
             url_poster: https://api.mediux.pro/assets/86192c78-6df1-440e-9628-ec7ca3b25a2d
+          4:
+            url_poster: https://api.mediux.pro/assets/9666a1b6-ea85-4af2-b817-6c1bfde9347a
+          5:
+            url_poster: https://api.mediux.pro/assets/cb02e663-69d5-41f2-8382-e3cf7c1d1188
+          6:
+            url_poster: https://api.mediux.pro/assets/f00b65b4-ceeb-40d2-b3c4-277768238fca
+          7:
+            url_poster: https://api.mediux.pro/assets/98d09f95-4aed-45e9-95eb-d63bf99b0db1
+          8:
+            url_poster: https://api.mediux.pro/assets/7a643545-4835-497c-89e3-90a31a5a4c0c
+          9:
+            url_poster: https://api.mediux.pro/assets/9fd8eddc-9360-40ef-a80b-0ba2d685a2db
+          10:
+            url_poster: https://api.mediux.pro/assets/97c6c485-231f-403a-96a4-69222ce8326f
+          11:
+            url_poster: https://api.mediux.pro/assets/9c3d9bd1-9c3e-458e-8f7d-18ac961f8d72
+          12:
+            url_poster: https://api.mediux.pro/assets/13b410fd-da07-4f15-8fdc-4911ad24a6a3
