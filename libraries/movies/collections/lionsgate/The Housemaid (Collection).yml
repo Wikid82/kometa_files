@@ -1,0 +1,7 @@
+collections:
+  The Housemaid Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/1611146-the-housemaid-collection
+    url_background: https://image.tmdb.org/t/p/original/lu7VARBXX1B5XjwYh3KhcV7WlGW.jpg
+    url_poster: https://api.mediux.pro/assets/9a67e963-ee7e-4993-8096-7ca7e097007b
