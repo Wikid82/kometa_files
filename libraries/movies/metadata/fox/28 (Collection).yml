@@ -1,13 +1,14 @@
 metadata:
 
-  170:
-    # 28 Days Later (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/38737
-    url_poster: https://api.mediux.pro/assets/eed1b7e0-59d3-47db-bcc0-f9b6bc62519e
 
-  1562:
-    # 28 Weeks Later (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/38737
-    url_poster: https://api.mediux.pro/assets/649e61db-7762-49e3-afd5-bff7c2fcc38c
+  170: # 28 Days Later (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/35844
+    url_poster: https://api.mediux.pro/assets/df063cb8-455a-4a9a-9dfc-a5b1fd161bd2
 
-  1100988:
-    # 28 Years Later (2025) Poster by willtong93 on MediUX. https://mediux.pro/sets/38737
-    url_poster: https://api.mediux.pro/assets/9547d452-64a2-4a5e-8132-11fce9482c9f
+  1562: # 28 Weeks Later (2007) Poster by Pejamas on MediUX. https://mediux.pro/sets/35844
+    url_poster: https://api.mediux.pro/assets/a4819998-d85c-418b-b6c3-eefe180e79cc
+
+  1100988: # 28 Years Later (2025) Poster by Pejamas on MediUX. https://mediux.pro/sets/35844
+    url_poster: https://api.mediux.pro/assets/02763373-4e62-4620-893b-9e6c7df13b70
+
+  1272837: # 28 Years Later: The Bone Temple (2026) Poster by Pejamas on MediUX. https://mediux.pro/sets/35844
+    url_poster: https://api.mediux.pro/assets/4fc78187-3728-4fe6-bef5-a84edca08919
