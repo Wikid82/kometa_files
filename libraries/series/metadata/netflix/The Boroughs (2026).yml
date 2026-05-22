@@ -1,0 +1,7 @@
+metadata:
+  433989: # TVDB id for The Boroughs. Set by tallinex on MediUX. https://mediux.pro/sets/47334
+    url_poster: https://api.mediux.pro/assets/66354e9f-f249-4403-9b4d-b30a2b46eda2
+    url_background: https://api.mediux.pro/assets/b863707e-e732-4a28-8c1c-abdcfa0fda71
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/faf4d8b1-cd72-4420-a1e8-73b45f85ba24
