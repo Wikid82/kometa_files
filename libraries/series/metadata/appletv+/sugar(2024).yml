@@ -1,0 +1,33 @@
+metadata:
+  421070: # TVDB id for Sugar. Set by willtong93 on MediUX. https://mediux.pro/sets/17484
+    url_poster: https://api.mediux.pro/assets/b6ba1a0d-2da7-4990-b834-41fdfced5981
+    url_background: https://api.mediux.pro/assets/a3a823f6-d2f9-4c06-824b-d812458db1d0
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6e63f810-1295-4cea-a5be-07117f6e6aa3
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/09618077-8dea-4e8c-acd8-f07d11e7edce
+          2:
+            url_poster: https://api.mediux.pro/assets/d46b2cb5-164c-4a3c-94bd-982ad9416d98
+          3:
+            url_poster: https://api.mediux.pro/assets/db4ab1be-db18-4270-915a-020f57217ce3
+          4:
+            url_poster: https://api.mediux.pro/assets/11a77694-eb41-44d2-8737-979bcec4a92d
+          5:
+            url_poster: https://api.mediux.pro/assets/59ed081a-f78e-4fc9-808c-a0f9a593245b
+          6:
+            url_poster: https://api.mediux.pro/assets/a811360c-6b77-4de3-b9d7-32b63c8eec59
+          7:
+            url_poster: https://api.mediux.pro/assets/6ceaf8fa-8cf4-4075-8e21-131bf286ce9e
+          8:
+            url_poster: https://api.mediux.pro/assets/f0cd291e-8edf-4319-bc2c-c75d01f4ffa4
+      2:
+        url_poster: https://api.mediux.pro/assets/060897ca-8df0-4cc5-ac56-bc164ffa03b0
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/a352adac-9f77-4401-83ae-e38667376daf
+          2:
+            url_poster: https://api.mediux.pro/assets/949438ae-0738-40e1-a368-462090d828f2
+          3:
+            url_poster: https://api.mediux.pro/assets/82c1ebf9-850f-4604-b221-6dbb8d02d0c2
