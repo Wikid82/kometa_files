@@ -5,5 +5,9 @@
             "envManager": "ms-python.python:system",
             "packageManager": "ms-python.python:pip"
         }
-    ]
+    ],
+    "yaml.validate": true,
+    "yaml.schemas": {
+        "./.vscode/kometa-metadata.schema.json": "libraries/*/metadata/**/*.yml"
+    }
 }

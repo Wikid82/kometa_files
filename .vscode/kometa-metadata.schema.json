@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Kometa metadata file",
+  "description": "Validates Kometa/PMM metadata files (posters/backgrounds/seasons/episodes). Catches flattened-indentation bugs where url_poster ends up as a sibling of an item ID instead of nested under it.",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "description": "Map of library-item IDs to their metadata. Each value MUST be a mapping.",
+      "additionalProperties": {
+        "$ref": "#/definitions/item"
+      }
+    },
+    "templates": { "type": "object" },
+    "external_templates": {},
+    "template_variables": { "type": "object" }
+  },
+  "additionalProperties": true,
+  "definitions": {
+    "item": {
+      "type": "object",
+      "description": "Per-title metadata. Must be a mapping, never a bare string or null.",
+      "properties": {
+        "url_poster": { "type": "string" },
+        "url_background": { "type": "string" },
+        "file_poster": { "type": "string" },
+        "file_background": { "type": "string" },
+        "seasons": {
+          "type": "object",
+          "additionalProperties": { "$ref": "#/definitions/season" }
+        }
+      },
+      "additionalProperties": true
+    },
+    "season": {
+      "type": "object",
+      "description": "Per-season metadata. Must be a mapping.",
+      "properties": {
+        "url_poster": { "type": "string" },
+        "url_background": { "type": "string" },
+        "file_poster": { "type": "string" },
+        "file_background": { "type": "string" },
+        "episodes": {
+          "type": "object",
+          "additionalProperties": { "$ref": "#/definitions/episode" }
+        }
+      },
+      "additionalProperties": true
+    },
+    "episode": {
+      "type": "object",
+      "description": "Per-episode metadata. Must be a mapping.",
+      "properties": {
+        "url_poster": { "type": "string" },
+        "url_background": { "type": "string" },
+        "file_poster": { "type": "string" },
+        "file_background": { "type": "string" }
+      },
+      "additionalProperties": true
+    }
+  }
+}
