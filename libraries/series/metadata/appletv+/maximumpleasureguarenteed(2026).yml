@@ -1,0 +1,24 @@
+metadata:
+  460793: # TVDB id for Maximum Pleasure Guaranteed. Set by willtong93 on MediUX. https://mediux.pro/sets/50106
+    url_poster: https://api.mediux.pro/assets/a5620bbd-9ea0-48d8-970b-4a22d1c19f29
+    url_background: https://api.mediux.pro/assets/8804dbc1-e209-4237-ab9e-006a4802183b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6fdb0a26-e34b-4de9-8720-f5a33c07464e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/37fb3d2c-c7fb-48c3-b729-a4168e0bea2b
+          2:
+            url_poster: https://api.mediux.pro/assets/98fff977-fd2c-48f4-824c-9e631f6eb746
+          3:
+            url_poster: https://api.mediux.pro/assets/8c196a13-1c90-411c-b49b-a0b068f06111
+          4:
+            url_poster: https://api.mediux.pro/assets/036e3fb6-ec1b-4b2c-a106-6ecd820a92d9
+          5:
+            url_poster: https://api.mediux.pro/assets/ecef014e-3811-42d1-8750-9d753b69b6f1
+          6:
+            url_poster: https://api.mediux.pro/assets/e04e74de-fcac-451a-9867-3d4b65995b6e
+          7:
+            url_poster: https://api.mediux.pro/assets/f7df56f8-b094-4f94-8e67-c5b1a6802d73
+          8:
+            url_poster: https://api.mediux.pro/assets/56ec9e80-8dbb-4cbf-bcf7-28f22d761bb3
