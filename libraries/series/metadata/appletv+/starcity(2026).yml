@@ -1,0 +1,22 @@
+metadata:
+  449146: # TVDB id for Star City. Set by willtong93 on MediUX. https://mediux.pro/sets/47463
+    url_poster: https://api.mediux.pro/assets/96b891e0-c07a-47f4-94c9-dfcfe72f9839
+    url_background: https://api.mediux.pro/assets/95278c0f-0e80-4ee7-a212-d6210469fdec
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/2e35b315-cf91-4618-a8dd-cf4e1a245c4e
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/1943e064-a630-43ad-8d78-076c2e1edd48
+          2:
+            url_poster: https://api.mediux.pro/assets/e49269e8-a3f9-4d0c-9c8b-9164a9bd3c44
+          3:
+            url_poster: https://api.mediux.pro/assets/c9a823b6-14cf-477c-b697-a8191888bd02
+          4:
+            url_poster: https://api.mediux.pro/assets/8b0ac81d-5b08-4836-bd1a-904d874f4c02
+          5:
+            url_poster: https://api.mediux.pro/assets/3c98563f-e03f-470a-bec4-085a9202cbee
+          6:
+            url_poster: https://api.mediux.pro/assets/a1b89b32-c6bb-4942-b33c-fe2927b43a8a
+          7:
+            url_poster: https://api.mediux.pro/assets/2817bde2-3961-4b12-b946-c5ed1fb584b9
