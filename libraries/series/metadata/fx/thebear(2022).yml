@@ -1,5 +1,5 @@
 metadata:
-  403294: # TVDB id for The Bear. Set by willtong93 on MediUX. https://mediux.pro/sets/9501
+   403294: # TVDB id for The Bear. Set by willtong93 on MediUX. https://mediux.pro/sets/9501
     url_poster: https://api.mediux.pro/assets/b91a2daf-0e2e-44eb-afed-dc3cee4d5c71
     url_background: https://api.mediux.pro/assets/a9378817-4540-4bb3-921d-ecc35c45c5c8
     seasons:
@@ -93,3 +93,20 @@ metadata:
             url_poster: https://api.mediux.pro/assets/318a9bdf-c61c-47a5-9f52-c14f9a0b0039
       5:
         url_poster: https://api.mediux.pro/assets/824699ae-2e4b-4940-a659-fd07fa6d9186
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/bd3d1394-c75a-4276-8b44-f01e58e8fb4a
+          2:
+            url_poster: https://api.mediux.pro/assets/a269ce3b-3d08-448c-bcb3-27983a2f9251
+          3:
+            url_poster: https://api.mediux.pro/assets/d560cafa-1ffe-4d31-82f3-5da5f971db25
+          4:
+            url_poster: https://api.mediux.pro/assets/cd19f215-29c0-4932-b5f2-e003629ebaf1
+          5:
+            url_poster: https://api.mediux.pro/assets/93da9cad-fc88-46de-a37b-25c28ea961a3
+          6:
+            url_poster: https://api.mediux.pro/assets/9feb98f4-c729-46f3-bb62-3d962c3dae7a
+          7:
+            url_poster: https://api.mediux.pro/assets/21b1be6a-f630-4006-a53c-6d32ddb79ccd
+          8:
+            url_poster: https://api.mediux.pro/assets/276fb472-c361-4224-b968-19ceeab97376
