@@ -1,0 +1,7 @@
+metadata:
+  468000: # TVDB id for Furious. Set by willtong93 on MediUX. https://mediux.pro/sets/56390
+    url_poster: https://api.mediux.pro/assets/f3e8b53a-62a4-4745-80d6-0468ced3e1c7
+    url_background: https://api.mediux.pro/assets/f65b9791-8429-4dfa-b492-9269dc34c019
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/dfd0dbcb-e429-45a1-aeff-c7b8f7307f01
