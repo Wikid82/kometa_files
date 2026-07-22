@@ -1,0 +1,14 @@
+metadata:
+  457437: # TVDB id for Lucky. Set by willtong93 on MediUX. https://mediux.pro/sets/56324
+    url_poster: https://api.mediux.pro/assets/ad54cc55-c6f1-4647-ac7c-086a02eddc1f
+    url_background: https://api.mediux.pro/assets/d8596740-19d2-4d35-8b39-daebbdbbf659
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ec73d92c-61f1-40ea-9f74-1f2e5de8fa93
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/f556b0a2-ed5e-42db-820d-e75d48f2ccf6
+          2:
+            url_poster: https://api.mediux.pro/assets/d2a91b67-6ae2-415b-ae15-51cac8df7c6b
+          3:
+            url_poster: https://api.mediux.pro/assets/05caa363-adce-4177-ae8c-e5ab6ba62f52
