@@ -1,0 +1,20 @@
+metadata:
+  468427: # TVDB id for The Killings at Parrish Station. Set by tallinex on MediUX. https://mediux.pro/sets/56398
+    url_poster: https://api.mediux.pro/assets/863f5852-3fc9-4778-b050-053a01e82364
+    url_background: https://api.mediux.pro/assets/77ff58c2-6c47-47b1-82b3-cd97a393a587
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e7dc1ebd-839d-4a9b-ab13-c8c5aa6d4871
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/947f9181-d29e-4e4e-b5fc-248d4b400795
+          2:
+            url_poster: https://api.mediux.pro/assets/9e0a898f-2122-4174-8d81-b041c8be4e5a
+          3:
+            url_poster: https://api.mediux.pro/assets/9902426b-dc92-4485-9aac-5fe26ad3c1eb
+          4:
+            url_poster: https://api.mediux.pro/assets/e8c7a8c1-ae7d-4e89-9a84-6f91ab28f0d0
+          5:
+            url_poster: https://api.mediux.pro/assets/cf986aec-76b5-4e4b-8c32-c4eb2a3bf682
+          6:
+            url_poster: https://api.mediux.pro/assets/c6289d99-99bb-453a-93b4-17efab7dcc90
