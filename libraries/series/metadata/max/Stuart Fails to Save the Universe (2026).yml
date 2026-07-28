@@ -1,0 +1,10 @@
+metadata:
+  465664: # TVDB id for Stuart Fails to Save the Universe. Set by willtong93 on MediUX. https://mediux.pro/sets/54249
+    url_poster: https://api.mediux.pro/assets/74b1197b-1d60-4ec9-94ca-8f2d739423c6
+    url_background: https://api.mediux.pro/assets/aab59780-8ac9-4bd1-9466-5c7fe2c0bb24
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ffd2acf1-5ee5-49a9-91a3-020abe8e4865
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/661006a4-19f0-4465-b59b-454e74f99580
