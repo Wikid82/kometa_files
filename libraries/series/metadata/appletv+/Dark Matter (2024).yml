@@ -1,0 +1,28 @@
+metadata:
+  393159: # TVDB id for Dark Matter. Set by willtong93 on MediUX. https://mediux.pro/sets/19870
+    url_poster: https://api.mediux.pro/assets/ad2c0f31-06d9-4a18-bcc8-cae993c626be
+    url_background: https://api.mediux.pro/assets/269e0ff2-0f19-4208-a2aa-bf85f883d521
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/eb60812c-4d05-474f-bb44-ce7392154b24
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fa55003e-26d8-4079-964a-c16695ad5ed3
+          2:
+            url_poster: https://api.mediux.pro/assets/cfa0a6e1-f65b-4551-b8bf-98960aa8cb82
+          3:
+            url_poster: https://api.mediux.pro/assets/0d3b149e-c66e-43fa-8828-4fb33ccf3569
+          4:
+            url_poster: https://api.mediux.pro/assets/62f0ddf8-efeb-4530-9f05-49436b7cbf56
+          5:
+            url_poster: https://api.mediux.pro/assets/978c0574-4244-4320-9beb-26e29abde12c
+          6:
+            url_poster: https://api.mediux.pro/assets/e190cc9e-cc23-4972-b75e-03ebecc5cee6
+          7:
+            url_poster: https://api.mediux.pro/assets/33b54aae-7060-4336-8208-da8f00967ba4
+          8:
+            url_poster: https://api.mediux.pro/assets/4f7f9189-66fc-408a-8928-996c944dc55d
+          9:
+            url_poster: https://api.mediux.pro/assets/84c4db1f-e92c-4b29-86b8-d3a56f1d28f0
+      2:
+        url_poster: https://api.mediux.pro/assets/ec7ac123-60e8-4a50-a326-4d13285ab9bf
