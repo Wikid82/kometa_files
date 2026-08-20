@@ -1,0 +1,24 @@
+metadata:
+  459000: # TVDB id for The Audacity. Set by willtong93 on MediUX. https://mediux.pro/sets/46989
+    url_poster: https://api.mediux.pro/assets/c3d3f544-8bc8-4d34-b71d-1c3297aaddf6
+    url_background: https://api.mediux.pro/assets/37e080e5-106b-4b8a-a460-357f8ed4e1e2
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3e23ed3b-0a90-41a3-a290-119e04176610
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/779ec685-78f9-40dc-a9a6-a3ccaa209ba4
+          2:
+            url_poster: https://api.mediux.pro/assets/6c3d7faa-b692-4bb7-9f94-3b39f3de5d79
+          3:
+            url_poster: https://api.mediux.pro/assets/8e5347f4-bd84-43fb-aac8-3a2b758d518b
+          4:
+            url_poster: https://api.mediux.pro/assets/73d7ea5a-afa7-4348-91a0-2616b0ece4f9
+          5:
+            url_poster: https://api.mediux.pro/assets/8cfefc98-67d4-403e-933d-245675d2e971
+          6:
+            url_poster: https://api.mediux.pro/assets/55568f85-be34-4b0c-8cb2-4c45e818a6b9
+          7:
+            url_poster: https://api.mediux.pro/assets/84180fb0-1efd-4368-8ac9-a8cfa950d6b2
+          8:
+            url_poster: https://api.mediux.pro/assets/02fd56e2-baab-4efe-8ceb-43bdd0dddd3e
