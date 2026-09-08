@@ -1,5 +1,5 @@
 metadata:
-  403245: # TVDB id for Silo. Set by willtong93 on MediUX. https://mediux.pro/sets/6427
+    403245: # TVDB id for Silo. Set by willtong93 on MediUX. https://mediux.pro/sets/6427
     url_poster: https://api.mediux.pro/assets/246d7c94-8df4-49d0-b0c2-0e8cf64641c0
     url_background: https://api.mediux.pro/assets/70b21031-3bd8-4cae-839e-fc414e22b4e2
     seasons:
@@ -68,3 +68,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/326a9c02-5c1d-4af6-99c6-9d52035366c7
           8:
             url_poster: https://api.mediux.pro/assets/a0f46d34-424d-41cf-94f5-f5de09d63662
+          9:
+            url_poster: https://api.mediux.pro/assets/25b2eb7d-24d3-491f-bc42-f4f90a8d66a0
+          10:
+            url_poster: https://api.mediux.pro/assets/599e16fe-cdf7-4ddd-8908-4d5d559fae09
