@@ -282,11 +282,32 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/ab5cc213-658f-49a9-8295-67d42ba7cf30
 
-  452595: # TVDB id for Dexter: Resurrection. Set by Wikid82 on MediUX. https://mediux.pro/sets/35375
-    url_poster: https://api.mediux.pro/assets/5efc4075-8f26-4615-a1f5-822ec4a55b0c
-    url_background: https://api.mediux.pro/assets/953c96c0-f288-40a0-870b-5fa5715e13f1
+  452595: # TVDB id for Dexter: Resurrection. Set by willtong93 on MediUX. https://mediux.pro/sets/35545
+    url_poster: https://api.mediux.pro/assets/c6862464-eb9b-4c71-a4f9-544986c4823f
+    url_background: https://api.mediux.pro/assets/cea0427e-0b1b-4370-9615-6847e4ecff53
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/0667a89b-6267-47b0-9f83-be9faafcca18
-
-
+        url_poster: https://api.mediux.pro/assets/d405cb4f-c395-49c3-b423-4ae55f8f0190
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/b48c944c-120f-4d30-a8d7-a8c69f5f1049
+          2:
+            url_poster: https://api.mediux.pro/assets/db2095d1-5203-413d-88d4-890d63c05713
+          3:
+            url_poster: https://api.mediux.pro/assets/9834279a-6606-493a-bf04-226516457808
+          4:
+            url_poster: https://api.mediux.pro/assets/ee195276-67bf-41a2-8ad1-fdc4a5f447a5
+          5:
+            url_poster: https://api.mediux.pro/assets/6231e614-c845-4696-be43-40fe58aee3cf
+          6:
+            url_poster: https://api.mediux.pro/assets/cd54bba3-34c6-4bf5-903a-12fff5ae1e80
+          7:
+            url_poster: https://api.mediux.pro/assets/577d8c12-7250-42dd-9313-5f3310bb2113
+          8:
+            url_poster: https://api.mediux.pro/assets/3a5f65c9-85c2-40e8-817f-47d862ed11aa
+          9:
+            url_poster: https://api.mediux.pro/assets/4ba19b32-4cfd-43f8-8f65-5abd14a90642
+          10:
+            url_poster: https://api.mediux.pro/assets/6596452d-b64d-4305-b828-e3ad2b55ef72
+      2:
+        url_poster: https://api.mediux.pro/assets/b8490c72-6e30-4234-bf3c-9097b80a641b

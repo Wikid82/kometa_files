@@ -1,0 +1,30 @@
+metadata:
+  462906: # TVDB id for Stranger Things: Tales from '85. Set by willtong93 on MediUX. https://mediux.pro/sets/47331
+    url_poster: https://api.mediux.pro/assets/10918a4c-1677-4a8d-b596-6ffbfb0d4ece
+    url_background: https://api.mediux.pro/assets/05ae5c26-3d53-473c-89fe-f7230fe269ac
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3c740c80-c372-420f-9bec-fad07f45690b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/1fe34d59-0dfb-40e8-9230-eadc2f44150d
+          2:
+            url_poster: https://api.mediux.pro/assets/51caea12-f06c-49cd-bcf4-6c5aa6ceec2e
+          3:
+            url_poster: https://api.mediux.pro/assets/a59e6040-831f-4e67-9d60-c6e5983cc81b
+          4:
+            url_poster: https://api.mediux.pro/assets/6fe558c3-e423-492e-90a0-ebf4ad964332
+          5:
+            url_poster: https://api.mediux.pro/assets/11b917ff-4d23-44ae-bc4f-0f58bde376b8
+          6:
+            url_poster: https://api.mediux.pro/assets/7cfc607a-333b-41d0-947a-e420c790248f
+          7:
+            url_poster: https://api.mediux.pro/assets/cc0b5a80-0b66-49a1-a171-64ea677397b4
+          8:
+            url_poster: https://api.mediux.pro/assets/0e92eabd-c7bd-463d-afe2-891bf42e9379
+          9:
+            url_poster: https://api.mediux.pro/assets/2951e4e5-31ed-4ae3-a9c6-fbfb769cbd27
+          10:
+            url_poster: https://api.mediux.pro/assets/be9416b7-b54b-48c7-b1a2-c51068f88bbc
+      2:
+        url_poster: https://api.mediux.pro/assets/84eaef81-5ba0-451b-84eb-600355162ce3

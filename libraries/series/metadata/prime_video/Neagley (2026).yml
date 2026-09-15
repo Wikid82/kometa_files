@@ -1,0 +1,7 @@
+metadata:
+  455064: # TVDB id for Neagley. Set by willtong93 on MediUX. https://mediux.pro/sets/59428
+    url_poster: https://api.mediux.pro/assets/6594117c-cbc1-40d1-b9f3-1488cfaf256e
+    url_background: https://api.mediux.pro/assets/d0a95e86-0896-4a3e-9d80-dc56ef28ee92
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/c80a2966-36a3-4f1c-85ce-be2a8ec92dea
