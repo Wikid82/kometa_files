@@ -1,0 +1,19 @@
+collections:
+  Simkl Trending Today:
+    simkl_trending: 20
+    collection_order: custom
+    sync_mode: sync
+
+  Simkl Trending This Week:
+    simkl_trending:
+      period: week
+      limit: 50
+    collection_order: custom
+    sync_mode: sync
+
+  Simkl Trending This Month:
+    simkl_trending:
+      period: month
+      limit: 100
+    collection_order: custom
+    sync_mode: sync
