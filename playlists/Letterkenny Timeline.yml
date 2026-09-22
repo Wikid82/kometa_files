@@ -1,0 +1,15 @@
+playlists:
+  Letterkenny Timeline:
+    builder_level: episode
+    plex_search:
+      type: episode
+      sort_by: episode_release.asc
+      any:
+        title:
+          - Letterkenny
+          - Littlekenny
+          - Shoresy
+    sync_mode: sync
+    libraries: TV Shows
+    sync_to_users: all
+    url_poster: https://i.etsystatic.com/iap/a9127c/4727364347/iap_300x300.4727364347_9d10eqh4.jpg?version=0
