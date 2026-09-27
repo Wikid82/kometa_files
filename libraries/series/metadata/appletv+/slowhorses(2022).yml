@@ -80,3 +80,8 @@ metadata:
             url_poster: https://api.mediux.pro/assets/f68d9a28-e435-4252-b728-7b423508482b
       6:
         url_poster: https://api.mediux.pro/assets/9c9a3322-fe5c-47dd-8beb-40556bf7876d
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c2af2617-4b28-44d8-a8a9-ca6957bd3cf3
+          2:
+            url_poster: https://api.mediux.pro/assets/3f07e7e5-6a2a-4b9f-960e-4e68ff439c34
