@@ -1,11 +1,11 @@
 metadata:
-  Super Troopers:
-    mapping_id: 39939
-    url_poster: https://theposterdb.com/api/assets/220022
-  Super Troopers 2:
-    mapping_id: 50022
-    url_poster: https://theposterdb.com/api/assets/220023
-#  Super Troopers 3 Winter Soldiers:
-#    mapping_id: 675871
-#    url_poster: https://theposterdb.com/api/assets/263886
+  
+  39939: # Super Troopers (2001) Poster by Pejamas on MediUX. https://mediux.pro/sets/41703
+    url_poster: https://api.mediux.pro/assets/25867815-71a9-40f0-82aa-566997964046
+
+  50022: # Super Troopers 2 (2018) Poster by Pejamas on MediUX. https://mediux.pro/sets/41703
+    url_poster: https://api.mediux.pro/assets/d1561430-b868-4a89-a346-50a517cad7ac
+
+  675871: # Super Troopers 3 (2026) Poster by Pejamas on MediUX. https://mediux.pro/sets/41703
+    url_poster: https://api.mediux.pro/assets/e367df97-6da5-4d51-a6b6-4e377bff630b
 
