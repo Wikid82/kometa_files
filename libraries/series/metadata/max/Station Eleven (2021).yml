@@ -1,0 +1,29 @@
+metadata:
+
+  366529: # TVDB id for Station Eleven. Set by tallinex on MediUX. https://mediux.pro/sets/18657
+    url_poster: https://api.mediux.pro/assets/2dac8325-213e-463a-9fd2-15179d975147
+    url_background: https://api.mediux.pro/assets/a176ed3a-d872-4587-9e5c-904f1855d280
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/c64b348a-3515-4234-a6d8-e90d4cecbac4
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/6a63ea43-8ca7-4e5c-93bb-ec129dc63c1a
+          2:
+            url_poster: https://api.mediux.pro/assets/c463991f-c243-4f4b-a9d3-b08fecbf01d7
+          3:
+            url_poster: https://api.mediux.pro/assets/6a3c969c-cd3c-48f7-b789-19cc230eeaf0
+          4:
+            url_poster: https://api.mediux.pro/assets/cea1a0f4-3719-4e46-bd58-02b2c168b6a0
+          5:
+            url_poster: https://api.mediux.pro/assets/5c87c1e4-1125-46eb-a5f7-5865fe6d1f29
+          6:
+            url_poster: https://api.mediux.pro/assets/2afce9d9-f949-40ef-bc26-ac4d74d5c64f
+          7:
+            url_poster: https://api.mediux.pro/assets/29893d76-7264-493b-a826-9ed3c3f8546f
+          8:
+            url_poster: https://api.mediux.pro/assets/a1f9e85f-c253-4fa9-ad4a-21ab1cfbc032
+          9:
+            url_poster: https://api.mediux.pro/assets/8d3086ad-a7c8-4c41-beb2-a26627230882
+          10:
+            url_poster: https://api.mediux.pro/assets/a945826d-aaaa-45b6-83b0-b26aebfc3cfc
