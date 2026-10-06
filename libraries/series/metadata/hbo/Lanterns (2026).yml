@@ -1,5 +1,5 @@
 metadata:
-  376098: # TVDB id for Lanterns. Set by willtong93 on MediUX. https://mediux.pro/sets/56632
+    376098: # TVDB id for Lanterns. Set by willtong93 on MediUX. https://mediux.pro/sets/56632
     url_poster: https://api.mediux.pro/assets/83d1f7c8-abcc-4e07-b55e-e157c98b5f05
     url_background: https://api.mediux.pro/assets/7b12505f-6f7f-4148-af55-951b9abb58de
     seasons:
@@ -16,3 +16,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/aea179fc-c5e1-4e83-9e33-6278075d84bb
           5:
             url_poster: https://api.mediux.pro/assets/6fffbb55-876c-4a50-b1c7-c40cf4cfbe23
+          6:
+            url_poster: https://api.mediux.pro/assets/baf4ad51-baee-4d78-bb47-4f26a1f86b4c
+          7:
+            url_poster: https://api.mediux.pro/assets/263cf08b-abb3-4cb2-9a23-2bc4e9d8ac43
+          8:
+            url_poster: https://api.mediux.pro/assets/ab0f80c9-b64e-456c-8d87-1a4d925dadae
