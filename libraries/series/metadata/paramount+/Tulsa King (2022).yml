@@ -1,6 +1,5 @@
 metadata:
-  413215:
-    # TVDB id for Tulsa King. Set by willtong93 on MediUX. https://mediux.pro/sets/22609
+    413215: # TVDB id for Tulsa King. Set by willtong93 on MediUX. https://mediux.pro/sets/22609
     url_poster: https://api.mediux.pro/assets/c2b23ac6-3a9d-403c-bb09-0916da42cf02
     url_background: https://api.mediux.pro/assets/732696bd-ffd8-48f9-991b-06de9e519fea
     seasons:
@@ -59,3 +58,17 @@ metadata:
             url_poster: https://api.mediux.pro/assets/b0e4f6c6-b791-4172-b5cf-55937545aac6
           4:
             url_poster: https://api.mediux.pro/assets/9d59ff75-a8e2-4ffc-86d8-94950c29202d
+          5:
+            url_poster: https://api.mediux.pro/assets/5622cf53-e129-418d-98b8-6c28d31ebe72
+          6:
+            url_poster: https://api.mediux.pro/assets/bb6a5986-8976-42eb-af6c-ffe3504d767c
+          7:
+            url_poster: https://api.mediux.pro/assets/37e4af13-8323-4f5b-a09c-257855034e92
+          8:
+            url_poster: https://api.mediux.pro/assets/e5fecbcc-8001-4c9d-a908-d5926772b3bb
+          9:
+            url_poster: https://api.mediux.pro/assets/ba49d188-104e-46e7-a93d-d83d39415d16
+          10:
+            url_poster: https://api.mediux.pro/assets/352ae7eb-f558-44e9-a55a-4add0c7f6453
+      4:
+        url_poster: https://api.mediux.pro/assets/e9f01795-bcd6-43d0-96e5-4248c62f7727
