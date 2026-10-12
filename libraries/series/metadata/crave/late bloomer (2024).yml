@@ -1,0 +1,10 @@
+  443805: # TVDB id for Late Bloomer. Set by DrWhoDalek on MediUX. https://mediux.pro/sets/7253
+    url_poster: https://api.mediux.pro/assets/2f516062-6e9b-4b45-8f34-e978aab05609
+    url_background: https://api.mediux.pro/assets/7d61b240-4781-47bc-8044-2949fae02872
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/da5f3f5b-e7c7-4540-952b-4958c6edfc9a
+      2:
+        url_poster: https://api.mediux.pro/assets/15f0e5fa-14e3-4d1d-b2a0-546eeb763027
+      3:
+        url_poster: https://api.mediux.pro/assets/b38077ca-4ea6-419d-9f40-c4073d04f268
