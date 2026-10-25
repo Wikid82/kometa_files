@@ -1,4 +1,5 @@
 metadata:
+
   399917: # TVDB id for The Terminal List. Set by willtong93 on MediUX. https://mediux.pro/sets/6854
     url_poster: https://api.mediux.pro/assets/4195deb1-e259-429b-8b03-4c2b052aec41
     url_background: https://api.mediux.pro/assets/0c7441d7-c38b-4fd9-a1bc-67737637f8b4
@@ -22,3 +23,45 @@ metadata:
             url_poster: https://api.mediux.pro/assets/cd35474a-654e-4eb2-acfa-bf37e1839b27
           8:
             url_poster: https://api.mediux.pro/assets/56befef7-e09c-4211-816c-d9fbd57d5b28
+      2:
+        url_poster: https://api.mediux.pro/assets/ef95f0cd-ab08-4c3c-84ed-54374e55160f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c44325f1-5898-4906-9849-c0200b8a7e93
+          2:
+            url_poster: https://api.mediux.pro/assets/8abb23c2-3a56-4ad5-adec-ab27896c3f3c
+          3:
+            url_poster: https://api.mediux.pro/assets/3313bf6b-449a-462f-9b13-8e51655a26d3
+          4:
+            url_poster: https://api.mediux.pro/assets/6f4b0697-1963-4701-8a6e-a194706ca7c7
+          5:
+            url_poster: https://api.mediux.pro/assets/ba97fc27-2493-47bb-a4f6-6fe6498b7a75
+          6:
+            url_poster: https://api.mediux.pro/assets/1b284caf-b452-4eb3-8375-9000fd65cbea
+          7:
+            url_poster: https://api.mediux.pro/assets/b76a8084-a332-4a25-8c2f-f9d0f4b30432
+          8:
+            url_poster: https://api.mediux.pro/assets/fd31277b-291a-4775-a675-8a6737c2022a
+
+  464185: # TVDB id for The Terminal List: Dark Wolf. Set by willtong93 on MediUX. https://mediux.pro/sets/35903
+    url_poster: https://api.mediux.pro/assets/a8a0bed2-53e4-4291-b9b7-3fa7b4f30f10
+    url_background: https://api.mediux.pro/assets/aabc5bae-3f05-456e-9db0-61e77313a642
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d0fd7436-e3f0-4020-83bf-4d17ff7b1654
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c630dbdf-7100-467d-8bc7-c2a8ae8386c6
+          2:
+            url_poster: https://api.mediux.pro/assets/630d0175-97a4-46ee-81b0-ec6439ad78ef
+          3:
+            url_poster: https://api.mediux.pro/assets/8b3f30d9-7905-4e5d-8bd3-f8d286ef537e
+          4:
+            url_poster: https://api.mediux.pro/assets/6d299c45-9fe6-4bd4-8b69-1ff688d3e14e
+          5:
+            url_poster: https://api.mediux.pro/assets/08ee00c1-5c44-4a9f-aa92-fefd18af16e7
+          6:
+            url_poster: https://api.mediux.pro/assets/18098b98-d023-4f92-a638-c04a5e06b51b
+          7:
+            url_poster: https://api.mediux.pro/assets/28f51b12-651e-4900-821a-060882b2277b
+
