@@ -1,0 +1,8 @@
+---
+collections:
+  Scrubs Collection:
+    collection_order: release.asc
+    sync_mode: sync
+    tvdb_show: 76156, 465690
+    url_background: https://api.mediux.pro/assets/4f2ad6aa-8465-4229-a37d-b7fe5ec01f26
+    url_poster: https://api.mediux.pro/assets/72991e97-90d0-47f6-822f-166f81ef5ad5
