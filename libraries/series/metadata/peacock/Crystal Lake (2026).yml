@@ -1,0 +1,25 @@
+metadata:
+
+  426669: # TVDB id for Crystal Lake. Set by willtong93 on MediUX. https://mediux.pro/sets/60886
+    url_poster: https://api.mediux.pro/assets/32bcdcc6-ab28-4d50-a32b-2249e4bb8f1c
+    url_background: https://api.mediux.pro/assets/a34a1edf-6e63-40a2-881e-19525872b145
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/fd5e9e85-567a-40db-96ce-efee67f950e1
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/2212dd2b-0a78-49e8-8261-a44b75127599
+          2:
+            url_poster: https://api.mediux.pro/assets/c9c37065-4507-4bc6-96f2-968170eea61a
+          3:
+            url_poster: https://api.mediux.pro/assets/fd8a5519-a0b5-465e-87d0-11627398ed47
+          4:
+            url_poster: https://api.mediux.pro/assets/e630fd14-bba0-40d6-9561-edbc52795b1d
+          5:
+            url_poster: https://api.mediux.pro/assets/8adfb71d-deba-42f8-aa67-81c4c1faa7d7
+          6:
+            url_poster: https://api.mediux.pro/assets/b76233a9-3d01-4c11-9f5c-f87a8102fb86
+          7:
+            url_poster: https://api.mediux.pro/assets/22b99d32-0801-4f22-b9fa-663a3424218a
+          8:
+            url_poster: https://api.mediux.pro/assets/46e0a645-f40e-44c8-affc-03f4ad97d086
