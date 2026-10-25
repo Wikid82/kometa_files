@@ -1,7 +1,6 @@
 metadata:
 
-  450085:
-    # TVDB id for The Lowdown. Set by willtong93 on MediUX. https://mediux.pro/sets/37277
+  450085: # TVDB id for The Lowdown. Set by willtong93 on MediUX. https://mediux.pro/sets/37277
     url_poster: https://api.mediux.pro/assets/4351504c-4f02-4d72-9853-95931c7a2232
     url_background: https://api.mediux.pro/assets/9b2edc3c-9d14-4958-8129-96a7dfeff2ec
     seasons:
@@ -18,3 +17,20 @@ metadata:
             url_poster: https://api.mediux.pro/assets/4a814db9-4076-4878-ba4f-9472174914aa
           5:
             url_poster: https://api.mediux.pro/assets/baa36b6b-029d-44ba-8149-f408216d500a
+          6:
+            url_poster: https://api.mediux.pro/assets/e74b11eb-eedf-40c1-a63f-58d9c579c599
+          7:
+            url_poster: https://api.mediux.pro/assets/36252026-a820-4dcd-a7e1-013c153f47a4
+          8:
+            url_poster: https://api.mediux.pro/assets/d7e085c7-ca8b-4b08-998b-75525225eaa7
+      2:
+        url_poster: https://api.mediux.pro/assets/b2403b97-8bdb-4d87-a6a0-3ae54f087368
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/15b40ba8-370d-4bce-bbf7-4c36b275ad68
+          2:
+            url_poster: https://api.mediux.pro/assets/a2695c0d-9aad-4df7-bbdd-f3af3440a1ef
+          3:
+            url_poster: https://api.mediux.pro/assets/9de26397-6c62-4650-a930-8241cf747192
+          4:
+            url_poster: https://api.mediux.pro/assets/9a60e718-241a-42a1-9517-783b254e16e9
