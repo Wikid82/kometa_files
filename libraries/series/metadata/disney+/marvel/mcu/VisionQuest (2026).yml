@@ -1,0 +1,17 @@
+metadata:
+
+  426606: # TVDB id for VisionQuest. Set by willtong93 on MediUX. https://mediux.pro/sets/61139
+    url_poster: https://api.mediux.pro/assets/129ff384-ce07-4ca6-81bd-d83943b3eb6a
+    url_background: https://api.mediux.pro/assets/f3186bde-c4f4-496f-927c-b4fd0929b9ce
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/ab127b2b-8421-4fb9-a775-77f0ca81ca28
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/57710b71-e7a7-4b6a-a12c-9a06867776a9
+          2:
+            url_poster: https://api.mediux.pro/assets/7e36bd5e-dbc5-490f-89f8-c39be4174c0b
+          3:
+            url_poster: https://api.mediux.pro/assets/f348844d-58c2-4f93-a563-0a0e3d2b4930
+          4:
+            url_poster: https://api.mediux.pro/assets/5bffbebe-de67-4b97-9eae-728370164a6a
