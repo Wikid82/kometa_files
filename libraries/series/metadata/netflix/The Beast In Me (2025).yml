@@ -1,0 +1,24 @@
+metadata:
+  448245: # TVDB id for The Beast in Me. Set by willtong93 on MediUX. https://mediux.pro/sets/40125
+    url_poster: https://api.mediux.pro/assets/a884ab59-66a3-49da-8454-335b56711515
+    url_background: https://api.mediux.pro/assets/e3459369-f958-43a6-8f11-73953c01f780
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3246d854-b8e8-426e-bc10-2df051a2655b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/57165265-92f4-4be1-9f09-96104398dd11
+          2:
+            url_poster: https://api.mediux.pro/assets/ad73fc9c-baac-49a0-a5cd-05ac88331a4b
+          3:
+            url_poster: https://api.mediux.pro/assets/925e4af6-f66d-4a1a-ae58-95fb211f30d9
+          4:
+            url_poster: https://api.mediux.pro/assets/57e2444a-b103-4585-b4b6-c39aa410f721
+          5:
+            url_poster: https://api.mediux.pro/assets/bb1a3d56-3eb4-4d4e-96f0-61a3b4ba3a73
+          6:
+            url_poster: https://api.mediux.pro/assets/04f94eaf-80eb-4d28-8cfb-975afa72fafb
+          7:
+            url_poster: https://api.mediux.pro/assets/af5d1135-4706-4500-8083-43ca08d9faac
+          8:
+            url_poster: https://api.mediux.pro/assets/29d3dafa-598f-4bc6-b17e-7b57aed30fb0
