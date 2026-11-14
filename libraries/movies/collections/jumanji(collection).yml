@@ -1,7 +1,6 @@
 collections:
-  Jumanji Collection: # Jumanji Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/29196
+  Jumanji Collection:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/495527-jumanji-collection
-    url_background: https://api.mediux.pro/assets/dc5e1835-1590-4661-b0e0-afae1979783d
-    url_poster: https://api.mediux.pro/assets/16e38ff5-cfd4-4306-bdb4-aa107bb13504
+    url_poster: https://api.mediux.pro/assets/4ef0f708-1477-4669-b596-3da456d9a1b2  # Jumanji Collection Poster by Pejamas on MediUX. https://mediux.pro/sets/14205
