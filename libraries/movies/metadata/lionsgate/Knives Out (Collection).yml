@@ -1,11 +1,10 @@
 metadata:
 
+  546554: # Knives Out (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/41211
+    url_poster: https://api.mediux.pro/assets/794abb12-0ce7-4c4c-90b9-5df35557a00c
 
-  546554: # Knives Out (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/26484
-    url_poster: https://api.mediux.pro/assets/fcaf8156-80e6-4b28-bf89-0ef8e2dd38c0
+  661374: # Glass Onion: A Knives Out Mystery (2022) Poster by Pejamas on MediUX. https://mediux.pro/sets/41211
+    url_poster: https://api.mediux.pro/assets/3fbc04b6-f2b4-4c56-82b6-6283a7ab8d4e
 
-  661374: # Glass Onion: A Knives Out Mystery (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/26484
-    url_poster: https://api.mediux.pro/assets/8fd862bf-08d0-4fae-9b19-7a2899e36769
-
-  812583: # Wake Up Dead Man: A Knives Out Mystery (2025) Poster by willtong93 on MediUX. https://mediux.pro/sets/26484
-    url_poster: https://api.mediux.pro/assets/cbb7dde6-6c60-40f6-a44d-02bdff447050
+  812583: # Wake Up Dead Man: A Knives Out Mystery (2025) Poster by Pejamas on MediUX. https://mediux.pro/sets/41211
+    url_poster: https://api.mediux.pro/assets/96582735-1e74-4db8-9da5-5dcf1837e02b
