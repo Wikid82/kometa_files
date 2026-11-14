@@ -4,6 +4,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/328-jurassic-park-collection
-    url_background: https://api.mediux.pro/assets/c007ed78-411c-4db2-b47d-9dfc91297dc0
-    url_poster: https://api.mediux.pro/assets/1a1ca633-b9a7-4bde-8f0d-7a26bbece865
-    # Jurassic Park Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26505
+    url_poster: https://api.mediux.pro/assets/3fddb02e-4e45-4f8c-8021-b43109b1e44d # Jurassic Park Collection Poster by Pejamas on MediUX. https://mediux.pro/sets/10660
