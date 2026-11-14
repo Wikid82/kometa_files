@@ -3,5 +3,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/87096-avatar-collection
-    url_background: https://api.mediux.pro/assets/264d5cb4-c055-4e32-9dee-a0a36fd92dfe
-    url_poster: https://api.mediux.pro/assets/45555893-879e-41fe-a149-45b22405a153
+    url_poster: https://api.mediux.pro/assets/eb103970-c8e7-44e8-9da1-72763c89af87 # Poster by Pejamas on MediUX. https://mediux.pro/sets/9705
