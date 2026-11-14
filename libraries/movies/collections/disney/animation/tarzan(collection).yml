@@ -1,7 +1,0 @@
-collections:
-  Tarzan Collection: # Tarzan Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/26834
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/106768-tarzan-animation-collection
-    url_background: https://api.mediux.pro/assets/45a7cf76-3fb4-4ed8-bea7-9d1f6da43602
-    url_poster: https://api.mediux.pro/assets/1e3282e7-f600-4025-b1a3-62d6559c5869
