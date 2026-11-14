@@ -1,23 +1,36 @@
 metadata:
 
-  348: # Alien (1979) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
-    url_poster: https://api.mediux.pro/assets/9a8e936c-ad0c-4140-8d70-7e2695605256
+# Alien
 
-  679: # Aliens (1986) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
-    url_poster: https://api.mediux.pro/assets/6041e74d-1c8d-49d8-af64-d76861508303
+  348: # Alien (1979) Poster by Pejamas on MediUX. https://mediux.pro/sets/11181
+    url_poster: https://api.mediux.pro/assets/677d1a2b-3dab-4140-9b6c-736bcc9f601a
 
-  8077: # Alien³ (1992) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
-    url_poster: https://api.mediux.pro/assets/1ed2b8fd-6a50-4fd5-b30b-1d73a5737881
+  679: # Aliens (1986) Poster by Pejamas on MediUX. https://mediux.pro/sets/11181
+    url_poster: https://api.mediux.pro/assets/e5f01c6f-92e2-414e-8f7d-f2b8276ec1a9
 
-  8078: # Alien Resurrection (1997) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
-    url_poster: https://api.mediux.pro/assets/1cc4d029-7384-4fb6-a5e3-91def743bcfa
+  8077: # Alien³ (1992) Poster by Pejamas on MediUX. https://mediux.pro/sets/11181
+    url_poster: https://api.mediux.pro/assets/3d47d9d3-8db2-4ace-b571-38ea9e13d12c
+
+  8078: # Alien Resurrection (1997) Poster by Pejamas on MediUX. https://mediux.pro/sets/11181
+    url_poster: https://api.mediux.pro/assets/d8fec794-a640-48e5-b5b2-09a33f567c7e
 
 
-  70981: # Prometheus (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/25345
-    url_poster: https://api.mediux.pro/assets/3698485a-23da-4989-9db9-38d684ed7e83
+# AvP
+  395: # AVP: Alien vs. Predator (2004) Poster by Pejamas on MediUX. https://mediux.pro/sets/11180
+    url_poster: https://api.mediux.pro/assets/c4779d45-e5bf-45fc-a89f-6d5fc477d05d
 
-  126889: # Alien: Covenant (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/25345
-    url_poster: https://api.mediux.pro/assets/fe87ab06-509a-4a6e-b56b-96bf59e0b1bf
+  440: # Aliens vs Predator: Requiem (2007) Poster by Pejamas on MediUX. https://mediux.pro/sets/11180
+    url_poster: https://api.mediux.pro/assets/ed0aca70-d57e-4dab-927e-bd78376f94a2
 
-  945961: # Alien: Romulus (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/25346
-    url_poster: https://api.mediux.pro/assets/7917de7c-3da6-4c75-a10e-a712e285ac23
+
+# Prometheus
+  70981: # Prometheus (2012) Poster by Pejamas on MediUX. https://mediux.pro/sets/11182
+    url_poster: https://api.mediux.pro/assets/6269b984-a1a4-4d59-a9f4-c927f48741e2
+
+  126889: # Alien: Covenant (2017) Poster by Pejamas on MediUX. https://mediux.pro/sets/11182
+    url_poster: https://api.mediux.pro/assets/2f77ef1e-29a1-43b0-a043-d2c514150226
+
+# Romulus
+  945961: # Alien: Romulus (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/23173
+    url_poster: https://api.mediux.pro/assets/f2ceb361-406b-4f59-ba47-ba36e130a9ad
+

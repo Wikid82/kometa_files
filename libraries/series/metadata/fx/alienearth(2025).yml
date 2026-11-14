@@ -1,22 +1,6 @@
 metadata:
-  458912: # TVDB id for Alien: Earth. Set by willtong93 on MediUX. https://mediux.pro/sets/32310
-    url_poster: https://api.mediux.pro/assets/78fdc34b-9799-424d-8860-6fd71125304d
-    url_background: https://api.mediux.pro/assets/d1449b14-f351-4bd7-b709-3a05b790cb9b
+  458912: # TVDB id for Alien: Earth. Set by Pejamas on MediUX. https://mediux.pro/sets/36046
+    url_poster: https://api.mediux.pro/assets/bc4d66e7-a87e-4fec-bde7-7a6c4be43ccb
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/119dc16e-bc6d-451d-abbe-ec63b1dcb214
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/4cf9bb60-eb00-473b-84f4-738186fbe857
-          2:
-            url_poster: https://api.mediux.pro/assets/d245b7db-2e7c-4871-88fe-56812937dad0
-          3:
-            url_poster: https://api.mediux.pro/assets/5e6546cf-4e98-4a7b-91d0-92cb388cc313
-          4:
-            url_poster: https://api.mediux.pro/assets/6c60139d-5f7b-4fa8-a9dd-a3c983b56c6c
-          5:
-            url_poster: https://api.mediux.pro/assets/1ac6c403-0ab6-4a59-9c05-de9013fe6751
-          6:
-            url_poster: https://api.mediux.pro/assets/0a32ff37-ef8d-4e08-86c2-1a6285100274
-          7:
-            url_poster: https://api.mediux.pro/assets/9515c127-d73d-4164-b65a-4a6cf680e40c
+        url_poster: https://api.mediux.pro/assets/d0757a3f-b966-4d7c-98f1-a8a45c7f9dd3
