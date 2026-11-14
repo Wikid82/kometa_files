@@ -1,7 +1,6 @@
 collections:
-  Sicario Collection:  # Sicario Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/24915
+  Sicario Collection:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/496796-sicario-collection
-    url_background: https://api.mediux.pro/assets/913f1b57-7138-4bdf-9546-e1defd505fd7
-    url_poster: https://api.mediux.pro/assets/b08cbd52-126b-40e3-92ad-b94d06b04353
+    url_poster: https://api.mediux.pro/assets/40b74491-670c-4ea2-947e-5ab2788dd4b1 # Sicario Collection Poster by Pejamas on MediUX. https://mediux.pro/sets/7034
