@@ -4,5 +4,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8543822-bourne
-    url_background: https://api.mediux.pro/assets/fd360a94-dae1-4e65-8f77-d5d80b117705
-    url_poster: https://api.mediux.pro/assets/e80f4192-dc06-41d1-b039-7ac35309e443
+    url_poster: https://api.mediux.pro/assets/e4bb7f44-9a12-47bf-81d3-a66644bc71af # Poster by Pejamas on MediUX. https://mediux.pro/sets/12742
