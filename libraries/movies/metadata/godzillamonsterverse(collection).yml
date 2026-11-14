@@ -1,17 +1,17 @@
 metadata:
 
-  124905: # Godzilla (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/24270
-    url_poster: https://api.mediux.pro/assets/035c696a-fd7d-4865-9051-50da85c7361c
 
-  373571: # Godzilla: King of the Monsters (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/24270
-    url_poster: https://api.mediux.pro/assets/dbda2181-b716-482f-b9dd-19590b0805b6
+  124905: # Godzilla (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/7239
+    url_poster: https://api.mediux.pro/assets/b9f6fcca-04ed-40fa-ad4e-5c45d3481da2
 
-  399566: # Godzilla vs. Kong (2021) Poster by willtong93 on MediUX. https://mediux.pro/sets/24270
-    url_poster: https://api.mediux.pro/assets/6389cdc2-c618-4d4e-a2ad-5aee29926233
+  373571: # Godzilla: King of the Monsters (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/7239
+    url_poster: https://api.mediux.pro/assets/624fa9e7-9bac-49fc-9abd-33a4defc0e21
 
-  823464: # Godzilla x Kong: The New Empire (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/24270
-    url_poster: https://api.mediux.pro/assets/195284b8-c451-4460-97c5-5862f9bf47dc
+  399566: # Godzilla vs. Kong (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/7239
+    url_poster: https://api.mediux.pro/assets/8ac33a3e-8c93-430f-a79b-c87c55b59ce7
 
-  293167: # Kong: Skull Island (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/24271
-    url_poster: https://api.mediux.pro/assets/a5004206-c494-4dcf-ace2-7b518985d548
-    url_background: https://api.mediux.pro/assets/0fa090ec-7ec0-4419-a4f1-2b1884ae28a0
+  293167: # Kong: Skull Island (2017) Poster by Pejamas on MediUX. https://mediux.pro/sets/7240
+    url_poster: https://api.mediux.pro/assets/75480d97-31e8-4863-bc46-ef9f6ecfb47b
+
+  823464: # Godzilla x Kong: The New Empire (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/7241
+    url_poster: https://api.mediux.pro/assets/cb7e3a1e-826b-485a-bf18-70035dcefe86
