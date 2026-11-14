@@ -1,7 +1,6 @@
 collections:
-  Wicked Collection: # Wicked Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/29544
+  Wicked Collection: # Wicked Collection Poster by Pejamas on MediUX. https://mediux.pro/sets/29554
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/968080-wicked-collection
-    url_background: https://api.mediux.pro/assets/63a05a87-e1fa-45c6-ac39-e93a2741c684
-    url_poster: https://api.mediux.pro/assets/72ab8401-0957-454e-9dd3-e8d4bc7f4149
+    url_poster: https://api.mediux.pro/assets/4c924aa2-da9f-4a08-9027-e6a13bb6caed
