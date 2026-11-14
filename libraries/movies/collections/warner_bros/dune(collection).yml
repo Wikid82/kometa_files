@@ -1,0 +1,6 @@
+collections:
+  Dune Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_list_details: https://www.themoviedb.org/list/8543823-dune
+    url_poster: https://api.mediux.pro/assets/1deb4d79-ef35-46af-b497-c599d86c88b8
