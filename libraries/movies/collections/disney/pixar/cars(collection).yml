@@ -1,7 +1,0 @@
-collections:
-  Cars Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/87118-cars-collection
-    url_background: https://api.mediux.pro/assets/d7c6f54a-520b-4003-b3d5-3bd2e3689c64
-    url_poster: https://api.mediux.pro/assets/f33794da-2e8f-4e9b-b413-33ca7df61353 # Cars Collection Posters by willtong93 on MediUX. https://mediux.pro/sets/26749

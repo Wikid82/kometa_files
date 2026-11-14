@@ -1,8 +1,0 @@
----
-collections:
-  The Incredibles Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/468222-the-incredibles-collection
-    url_background: https://image.tmdb.org/t/p/original/3jcwIDbwlL5fB1hmlD2PydGFD1u.jpg
-    url_poster: https://api.mediux.pro/assets/6caf20a7-2d7d-4245-b83a-406f5a18c2d0
