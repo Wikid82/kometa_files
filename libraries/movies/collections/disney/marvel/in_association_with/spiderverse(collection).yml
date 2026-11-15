@@ -3,5 +3,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/573436-spider-man-spider-verse-collection
-    url_background: https://image.tmdb.org/t/p/original/tgT5iIE7f0BAdF4gQ0Bk4RiTKxj.jpg
-    url_poster: https://api.mediux.pro/assets/f66d7082-fe88-4f2d-8175-b745843a44c7
+    url_poster: https://api.mediux.pro/assets/39a07b87-f404-4dde-8698-ab7ae2035c90 # Poster by Pejamas on MediUX. https://mediux.pro/sets/4786

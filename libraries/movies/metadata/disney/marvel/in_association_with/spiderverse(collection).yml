@@ -1,7 +1,8 @@
 metadata:
 
-  324857: # Spider-Man: Into the Spider-Verse (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/24404
-    url_poster: https://api.mediux.pro/assets/3ae60cf9-ad99-449c-971f-5d7c6eaba02f
 
-  569094: # Spider-Man: Across the Spider-Verse (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/24404
-    url_poster: https://api.mediux.pro/assets/aa12cd8a-08ab-4c47-b82f-df370047d654
+  324857: # Spider-Man: Into the Spider-Verse (2018) Poster by Pejamas on MediUX. https://mediux.pro/sets/4786
+    url_poster: https://api.mediux.pro/assets/a0a472ee-abc9-4cc5-b101-87d61bbb4534
+
+  569094: # Spider-Man: Across the Spider-Verse (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/4786
+    url_poster: https://api.mediux.pro/assets/8e86fb87-3e8e-460e-83df-f67ccc1c1cbf
