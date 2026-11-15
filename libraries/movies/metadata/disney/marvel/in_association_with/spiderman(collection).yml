@@ -1,10 +1,11 @@
 metadata:
 
-  557: # Spider-Man (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/24397
-    url_poster: https://api.mediux.pro/assets/5315b341-46a9-4088-8935-b56917b833af
 
-  558: # Spider-Man 2 (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/24397
-    url_poster: https://api.mediux.pro/assets/e3ec6e0d-c0ad-4494-b37e-e64cccf9b001
+  557: # Spider-Man (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/4785
+    url_poster: https://api.mediux.pro/assets/63a5543c-e5d1-43d9-83ba-5c3662916800
 
-  559: # Spider-Man 3 (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/24397
-    url_poster: https://api.mediux.pro/assets/6fae2655-b735-4fe6-baac-0f68f14bc0b1
+  558: # Spider-Man 2 (2004) Poster by Pejamas on MediUX. https://mediux.pro/sets/4785
+    url_poster: https://api.mediux.pro/assets/3d3c45fa-96e3-461a-9c79-145a710bae83
+
+  559: # Spider-Man 3 (2007) Poster by Pejamas on MediUX. https://mediux.pro/sets/4785
+    url_poster: https://api.mediux.pro/assets/a4ed0166-0990-494c-a799-2980d0144be6
