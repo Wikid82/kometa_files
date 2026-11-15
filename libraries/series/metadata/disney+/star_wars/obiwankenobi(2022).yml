@@ -1,20 +1,7 @@
 metadata:
-  393199: # TVDB id for Obi-Wan Kenobi. Set by willtong93 on MediUX. https://mediux.pro/sets/18583
-    url_poster: https://api.mediux.pro/assets/47619247-e856-4f2d-9460-b8f18d33d664
-    url_background: https://api.mediux.pro/assets/1184a9ef-448c-4251-8b91-120e8b48b41a
+
+  393199: # TVDB id for Obi-Wan Kenobi. Set by Pejamas on MediUX. https://mediux.pro/sets/8083
+    url_poster: https://api.mediux.pro/assets/624558a0-8969-4649-ba83-8ae1535f48f2
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/4f7e5867-20e3-4a0a-b652-7ba2e403b47b
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/fecc87d8-e8f2-4856-ae26-b3c916d75b4b
-          2:
-            url_poster: https://api.mediux.pro/assets/83511035-287c-4b30-ac39-1d887984e3b3
-          3:
-            url_poster: https://api.mediux.pro/assets/50be109a-a02d-4776-a10e-192a3bd7f6c4
-          4:
-            url_poster: https://api.mediux.pro/assets/a45894f1-c0ff-4fce-8295-606ce778e4f5
-          5:
-            url_poster: https://api.mediux.pro/assets/e965ec36-0184-4075-a3a7-e4e5dcac1849
-          6:
-            url_poster: https://api.mediux.pro/assets/d5302961-f1cc-41d1-a314-a9ec342eca01
+        url_poster: https://api.mediux.pro/assets/d8886889-2c33-4e1d-80bc-265e96efa9bb
