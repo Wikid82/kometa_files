@@ -1,28 +1,6 @@
 metadata:
-  465664: # TVDB id for Stuart Fails to Save the Universe. Set by willtong93 on MediUX. https://mediux.pro/sets/54249
-    url_poster: https://api.mediux.pro/assets/74b1197b-1d60-4ec9-94ca-8f2d739423c6
-    url_background: https://api.mediux.pro/assets/aab59780-8ac9-4bd1-9466-5c7fe2c0bb24
+  465664: # TVDB id for Stuart Fails to Save the Universe. Set by Pejamas on MediUX. https://mediux.pro/sets/57007
+    url_poster: https://api.mediux.pro/assets/a6ffe002-b2f1-4dd5-b19f-716eb1e2b477
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/ffd2acf1-5ee5-49a9-91a3-020abe8e4865
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/661006a4-19f0-4465-b59b-454e74f99580
-          2:
-            url_poster: https://api.mediux.pro/assets/642b4a72-1263-49c6-aab7-eb5a738e95d5
-          3:
-            url_poster: https://api.mediux.pro/assets/5505fafc-19d3-412a-ba18-46b779ca39cd
-          4:
-            url_poster: https://api.mediux.pro/assets/42f05db8-25de-40d6-af97-9a834dc2c573
-          5:
-            url_poster: https://api.mediux.pro/assets/e36994e9-7a28-4253-9a75-ef3df027c027
-          6:
-            url_poster: https://api.mediux.pro/assets/be70e8f9-d852-4ddc-b7ee-49296d262bf2
-          7:
-            url_poster: https://api.mediux.pro/assets/2366ef6a-d1b4-46a3-8b5b-7abcebb55dc2
-          8:
-            url_poster: https://api.mediux.pro/assets/8cc62a57-1d8b-4bd8-b0f8-8f1bb1e094f7
-          9:
-            url_poster: https://api.mediux.pro/assets/93fa1bb5-d16a-4673-bacd-cf7e59e9bd31
-          10:
-            url_poster: https://api.mediux.pro/assets/4a5781e9-081c-4660-aa76-9844eea4d6ed
+        url_poster: https://api.mediux.pro/assets/94bb0e0a-9386-417c-a341-916826fd6612
