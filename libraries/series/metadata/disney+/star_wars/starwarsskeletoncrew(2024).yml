@@ -1,25 +1,7 @@
 metadata:
-  Star Wars Skeleton Crew:
-    mapping_id:  420600 # TVDB id for Star Wars: Skeleton Crew. Set by willtong93 on MediUX. https://mediux.pro/sets/28661
-    url_poster: https://api.mediux.pro/assets/30f2d3f6-1139-456c-ab08-9628adfcea93
-    url_background: https://api.mediux.pro/assets/74ba979b-a6ab-4633-ab39-058491db6da2
+
+  420600: # TVDB id for Star Wars: Skeleton Crew. Set by Pejamas on MediUX. https://mediux.pro/sets/28638
+    url_poster: https://api.mediux.pro/assets/b15b95e6-8e4f-4a05-8f12-28966aa305d7
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/5acd413b-8c54-4028-a066-bad4b225c22b
-        episodes: # TVDB id for Star Wars: Skeleton Crew. Set by Draconos on MediUX. 
-          1:
-            url_poster: https://api.mediux.pro/assets/be6ddc83-4d25-49de-a1b8-75e590de79d5
-          2:
-            url_poster: https://api.mediux.pro/assets/52dcddd3-52dc-4b21-8e5b-253086e2beea
-          3:
-            url_poster: https://api.mediux.pro/assets/fdc36913-8ef9-4994-8036-7e62aaec0439
-          4:
-            url_poster: https://api.mediux.pro/assets/7210953b-a4c1-4975-875d-82e46ef4c229
-          5:
-            url_poster: https://api.mediux.pro/assets/32f6cb66-04da-4e7a-9f00-6548c782827e
-          6:
-            url_poster: https://api.mediux.pro/assets/1a69cd37-194c-4f11-8a8b-93d8e85f98a8
-          7:
-            url_poster: https://api.mediux.pro/assets/1bdc3f90-b1b6-450c-a33d-7955890a4bb9
-          8:
-            url_poster: https://api.mediux.pro/assets/3da51d9a-575a-4e7c-877d-22a593b96c0b
+        url_poster: https://api.mediux.pro/assets/fe51d698-6085-4fd6-8c00-4ef75b30a5b4
