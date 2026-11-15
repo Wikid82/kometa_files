@@ -1,20 +1,7 @@
 metadata:
 
-   367146: # TVDB id for Hawkeye. Set by willtong93 on MediUX. https://mediux.pro/sets/24539
-    url_poster: https://api.mediux.pro/assets/2b500bfe-7623-4934-be22-bde58e2eae66
+  367146: # TVDB id for Hawkeye. Set by Pejamas on MediUX. https://mediux.pro/sets/3108
+    url_poster: https://api.mediux.pro/assets/23d2c297-86d4-491c-b80c-c8ebcd11f7ee
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/3da09d36-f162-4b28-b53c-75a6b9998c23
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/9d26ce1a-ff1b-4408-9960-6af08f5e0be4
-          2:
-            url_poster: https://api.mediux.pro/assets/cc87db86-42fe-4857-b468-278c484e3a75
-          3:
-            url_poster: https://api.mediux.pro/assets/d69b124c-9fdf-4725-bba0-689ae856ace4
-          4:
-            url_poster: https://api.mediux.pro/assets/132c1660-8087-45a7-9b9f-002cf75d2f72
-          5:
-            url_poster: https://api.mediux.pro/assets/1aa890c0-5ae5-4d31-a703-ecae8eb3ef08
-          6:
-            url_poster: https://api.mediux.pro/assets/e0f85f96-5204-4ca1-b0e8-0927bf0883cf
+        url_poster: https://api.mediux.pro/assets/09e0a8b7-b91a-4ee0-8fa2-b960d60be495
