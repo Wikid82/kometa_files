@@ -1,7 +1,6 @@
 metadata:
-  430654: # TVDB id for Nocturne. Set by willtong93 on MediUX. https://mediux.pro/sets/61360
-    url_poster: https://api.mediux.pro/assets/6f3b3a01-1f1b-474c-b41c-538af36511e6
-    url_background: https://api.mediux.pro/assets/c28f3fbb-475d-4553-8538-eacb6b0ee0cf
+  430654: # TVDB id for Nocturne. Set by fwlolx on MediUX. https://mediux.pro/sets/63035
+    url_poster: https://api.mediux.pro/assets/fb61ccd0-0d40-499d-81c5-f5757299ace5
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/7bf69334-5298-44bc-9a2c-ea8dc23af213
+        url_poster: https://api.mediux.pro/assets/d4c907fd-a421-44c4-aa67-efe09e679db0
