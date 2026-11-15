@@ -1,28 +1,7 @@
 metadata:
-  448147: # TVDB id for The Studio. Set by willtong93 on MediUX. https://mediux.pro/sets/31361
-    url_poster: https://api.mediux.pro/assets/76d2879b-3dd9-418e-972d-952bc5910ef8
-    url_background: https://api.mediux.pro/assets/64097105-5a94-4bdf-bacd-edb22240f4d4
+
+  448147: # TVDB id for The Studio. Set by Pejamas on MediUX. https://mediux.pro/sets/31506
+    url_poster: https://api.mediux.pro/assets/2f6c43e1-60b7-4818-9108-9171fb5e049d
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/070ee99e-6ace-4237-af46-604c42488471
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/fd11800b-8875-42cf-b118-3e2d021626ce
-          2:
-            url_poster: https://api.mediux.pro/assets/bcf17f12-cf97-4a0c-8eef-8ee615a6b80d
-          3:
-            url_poster: https://api.mediux.pro/assets/8c31a126-87a4-4132-8a74-4e3ab65d0de3
-          4:
-            url_poster: https://api.mediux.pro/assets/c14551fc-7982-4fde-861b-5746c4f9c565
-          5:
-            url_poster: https://api.mediux.pro/assets/ca678d45-e4cd-4b3b-9102-723b68bcb470
-          6:
-            url_poster: https://api.mediux.pro/assets/c9b5a0af-9af3-44b0-bb65-00a2e3277d2a
-          7:
-            url_poster: https://api.mediux.pro/assets/717d3538-452e-4ccf-a12c-5275340084d1
-          8:
-            url_poster: https://api.mediux.pro/assets/8015d46d-2f12-4a00-a1ff-0de7c1b1e64a
-          9:
-            url_poster: https://api.mediux.pro/assets/d5216631-ca36-4a22-b029-296c6eb913fd
-          10:
-            url_poster: https://api.mediux.pro/assets/1f77b21d-9b96-43fd-b1ce-0ba1b95e7310
+        url_poster: https://api.mediux.pro/assets/2c21013c-066b-4d60-9799-a6d37caced14
