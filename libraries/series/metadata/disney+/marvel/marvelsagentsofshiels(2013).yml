@@ -1,22 +1,29 @@
 metadata:
 
-  263365: # TVDB id for Marvel's Agents of S.H.I.E.L.D.. Set by willtong93 on MediUX. https://mediux.pro/sets/24583
-    url_poster: https://api.mediux.pro/assets/7a8a54b3-b0db-44c8-9622-9a080c63d110
-    url_background: https://api.mediux.pro/assets/42695c85-b27c-4dc5-b956-1654420d05e5
+  263365: # TVDB id for Marvel's Agents of S.H.I.E.L.D.. Set by Pejamas on MediUX. https://mediux.pro/sets/3032
+    url_poster: https://api.mediux.pro/assets/5d1f3f04-b8c9-4f0a-81c1-563d9988ea1b
     seasons:
       0:
-        url_poster: https://api.mediux.pro/assets/52d20dda-2f76-467a-950e-ccea452572e3
+        url_poster: https://api.mediux.pro/assets/9b79a61a-0810-4ea1-ab5e-c45c55a101e5
       1:
-        url_poster: https://api.mediux.pro/assets/10fabc99-7ca9-499d-8663-3ca305b8ce68
+        url_poster: https://api.mediux.pro/assets/68e6d4ca-8803-4a94-b934-f8cc788f2568
       2:
-        url_poster: https://api.mediux.pro/assets/31646d7a-37ba-4440-ad5e-7bc0c12e66f6
+        url_poster: https://api.mediux.pro/assets/5e8c805d-8214-43e5-b8ed-76f26c6fae55
       3:
-        url_poster: https://api.mediux.pro/assets/58ccb7ed-d5a0-40a7-9e46-cb806cead5f6
+        url_poster: https://api.mediux.pro/assets/4d604c22-7071-4c88-9d8e-8d2720f4e0d3
       4:
-        url_poster: https://api.mediux.pro/assets/d150fb05-4df9-46c0-8a9a-c1811974d4e2
+        url_poster: https://api.mediux.pro/assets/9f93ea63-aadd-4294-851d-2748d36192b0
       5:
-        url_poster: https://api.mediux.pro/assets/e7bd3038-1ac6-47d9-a783-a057f00dc76b
+        url_poster: https://api.mediux.pro/assets/3cd6be17-789b-4b72-af8a-d276f1c47b41
       6:
-        url_poster: https://api.mediux.pro/assets/c957fdc3-095f-4e31-a34e-06a9ae772396
+        url_poster: https://api.mediux.pro/assets/2f508a19-cc3b-49fb-9bbc-596f6b05ea4e
       7:
-        url_poster: https://api.mediux.pro/assets/b14c7238-f96d-4190-bdd0-8f5acf259f8a
+        url_poster: https://api.mediux.pro/assets/d1e68776-df69-4281-9fa2-54c975c1716c
+
+
+
+  467615: # TVDB id for Marvel's Agents of S.H.I.E.L.D.: Slingshot. Set by Pejamas on MediUX. https://mediux.pro/sets/3027
+    url_poster: https://api.mediux.pro/assets/1f5fe21b-7ad3-411f-979b-091119b3e1fb
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/05746dbd-0781-47b3-bce2-a02ab082fb51
