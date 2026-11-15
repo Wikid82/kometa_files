@@ -4,5 +4,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8543324-deadpool
-    url_background: https://image.tmdb.org/t/p/original/hBQOWY8qWXJVFAc8yLTh1teIu43.jpg
-    url_poster: https://api.mediux.pro/assets/4f6abbaf-8b26-436c-9501-82638ea4f287 # Deadpool Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/24333
+    url_poster: https://api.mediux.pro/assets/d7f3d31c-d57e-4965-bf99-42a63485d72d # Poster by Pejamas on MediUX. https://mediux.pro/sets/4773
