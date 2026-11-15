@@ -4,5 +4,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8543819-wolverine
-    url_background: https://image.tmdb.org/t/p/original/hbNMx7sxxqvkX8rLOsTryiSrCPY.jpg
-    url_poster: https://api.mediux.pro/assets/3d1d4040-97c0-4260-941c-590e817418d6
+    url_poster: https://api.mediux.pro/assets/ffd1bdce-7174-4175-9006-93484081312b # Poster by Pejamas on MediUX. https://mediux.pro/sets/4783
