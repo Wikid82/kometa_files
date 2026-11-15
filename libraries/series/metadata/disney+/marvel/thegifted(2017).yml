@@ -1,10 +1,9 @@
 metadata:
 
-  328552: # TVDB id for The Gifted. Set by willtong93 on MediUX. https://mediux.pro/sets/24636
-    url_poster: https://api.mediux.pro/assets/0055182a-676b-4697-9b97-55f390825310
-    url_background: https://api.mediux.pro/assets/134ab40a-8226-4156-b3bf-63fb7861bceb
+  328552: # TVDB id for The Gifted. Set by Pejamas on MediUX. https://mediux.pro/sets/3030
+    url_poster: https://api.mediux.pro/assets/e2de76e9-23ef-4fb1-8cd9-20ae4951d90e
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/0f61a8f6-1198-4a14-9d84-9a7ff28e0fca
+        url_poster: https://api.mediux.pro/assets/0706cc8e-f566-4fd8-be20-e9d3a63abf8b
       2:
-        url_poster: https://api.mediux.pro/assets/6591729c-61fa-4b05-99a9-4cc606986a11
+        url_poster: https://api.mediux.pro/assets/9392d356-0572-4ecf-b738-72253c8022f8
