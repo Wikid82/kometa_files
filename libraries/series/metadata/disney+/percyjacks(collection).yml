@@ -1,9 +1,12 @@
 metadata:
 
-  415151: # TVDB id for Percy Jackson and the Olympians. Set by Pejamas on MediUX. https://mediux.pro/sets/2512
-    url_poster: https://api.mediux.pro/assets/fa199352-afb8-4032-aee6-9af7916d6d37
+  415151: # TVDB id for Percy Jackson and the Olympians. Set by tallinex on MediUX. https://mediux.pro/sets/35874
+    url_poster: https://api.mediux.pro/assets/09b363a9-3c5a-4b66-8962-2960477f6b8e
+    url_background: https://api.mediux.pro/assets/908e2f1e-604e-41e4-b3f9-c21691123094
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/e6154bcf-38f3-4a92-84df-685dc4040e1a
+        url_poster: https://api.mediux.pro/assets/52724faa-19df-4c6c-9245-89122bebe403
       2:
-        url_poster: https://api.mediux.pro/assets/1c013a8a-789c-41c7-a2fb-e0226ea4a397
+        url_poster: https://api.mediux.pro/assets/27a0d2d3-e1c6-46f9-85f3-75669d5163b0
+      3:
+        url_poster: https://api.mediux.pro/assets/14ac518a-00c4-47e7-b69d-990326f5b600
