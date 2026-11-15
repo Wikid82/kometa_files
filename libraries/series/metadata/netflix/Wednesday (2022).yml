@@ -1,26 +1,9 @@
 metadata:
-  397060: # TVDB id for Wednesday. Set by Wikid82 on MediUX. https://mediux.pro/sets/34946
-    url_poster: https://api.mediux.pro/assets/3e957273-8553-48c6-87a8-4dc252f4a1e2
-    url_background: https://api.mediux.pro/assets/0476fd62-0e95-4ac3-81a5-a848b9a9a9c8
+
+  397060: # TVDB id for Wednesday. Set by Pejamas on MediUX. https://mediux.pro/sets/31685
+    url_poster: https://api.mediux.pro/assets/491bf261-d3c9-4b62-b9d7-5c73b8959c9e
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/76afd036-901b-4645-9092-7d4b3a34f75b
-        episodes: # Title Card Set by willtong93 on MediUX. 
-          1:
-            url_poster: https://api.mediux.pro/assets/5ef2a8bf-709b-4d21-ae11-cbe9b501eb9f
-          2:
-            url_poster: https://api.mediux.pro/assets/4cf84aa7-136a-45f0-9b28-eeef851498c8
-          3:
-            url_poster: https://api.mediux.pro/assets/abf24fc9-a57e-422e-9796-dbd875f23804
-          4:
-            url_poster: https://api.mediux.pro/assets/a3945933-cba4-49c7-a5a5-6ae6b01f327d
-          5:
-            url_poster: https://api.mediux.pro/assets/bb2367a6-740f-45bb-b589-48e90ca45b1c
-          6:
-            url_poster: https://api.mediux.pro/assets/97efc8b4-c940-4e0d-910c-5a8b765df665
-          7:
-            url_poster: https://api.mediux.pro/assets/e8622b3a-3474-4b3d-962a-147338d4311b
-          8:
-            url_poster: https://api.mediux.pro/assets/50ed3fa4-36cb-4b8d-bb66-b791526238352
-      2: 
-        url_poster: https://api.mediux.pro/assets/0f690e1c-21f0-485c-b227-9ad52a35e9dc
+        url_poster: https://api.mediux.pro/assets/772397a3-cfb5-4233-9294-72d1d8ffb013
+      2:
+        url_poster: https://api.mediux.pro/assets/2d602e4e-1be3-467f-8b41-bc087667fca3

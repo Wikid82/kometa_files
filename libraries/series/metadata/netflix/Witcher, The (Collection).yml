@@ -1,100 +1,13 @@
 metadata:
 
-  362696: # TVDB id for The Witcher. Set by willtong93 on MediUX. https://mediux.pro/sets/33345
-    url_poster: https://api.mediux.pro/assets/4ba6f774-5b65-4b33-a9db-b294dd894890
-    url_background: https://api.mediux.pro/assets/297405a8-84fb-4dcc-824e-cfd3971578cf
+  362696: # TVDB id for The Witcher. Set by Pejamas on MediUX. https://mediux.pro/sets/31656
+    url_poster: https://api.mediux.pro/assets/b4e300b2-75e9-45f8-8dc6-0603473c3eaf
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/02c8f1f4-cd18-4fca-a225-d1ea66b75682
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/919b7a13-d6b6-4bcf-821e-d32de689a72e
-          2:
-            url_poster: https://api.mediux.pro/assets/6664e17d-a0c5-4033-b140-d6af54f2aae8
-          3:
-            url_poster: https://api.mediux.pro/assets/44b6645e-4147-4efb-957b-34b5c7ad33f4
-          4:
-            url_poster: https://api.mediux.pro/assets/3926c333-d5fc-4078-9988-dc7dff0a5876
-          5:
-            url_poster: https://api.mediux.pro/assets/317eed27-ee08-4a49-a7cd-dfaa79ba629a
-          6:
-            url_poster: https://api.mediux.pro/assets/76abbc41-8ff4-4bc1-87f2-1e71d3a155a7
-          7:
-            url_poster: https://api.mediux.pro/assets/5a956620-b2c8-45d3-8299-8a701d204528
-          8:
-            url_poster: https://api.mediux.pro/assets/4678fc24-bdfd-4a22-b147-207714362e15
+        url_poster: https://api.mediux.pro/assets/ca35332d-9549-4824-a127-e4502e129f5a
       2:
-        url_poster: https://api.mediux.pro/assets/8db11648-aed1-44d6-b2dc-a7ec794eab4a
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/f7e40d6c-0ad6-4a2b-a4a1-78dbaf33394d
-          2:
-            url_poster: https://api.mediux.pro/assets/b7865fe5-d237-4f9b-8d41-2c8eb1ef5a0b
-          3:
-            url_poster: https://api.mediux.pro/assets/800a3295-75b7-4688-a8a7-ffcfff328616
-          4:
-            url_poster: https://api.mediux.pro/assets/971babd0-22da-40d4-bd1b-8239e7febbf9
-          5:
-            url_poster: https://api.mediux.pro/assets/32834143-a00b-42db-aef5-665e0dfb83ef
-          6:
-            url_poster: https://api.mediux.pro/assets/4e7714f2-0369-4d1b-ad8a-0d3216c34fe4
-          7:
-            url_poster: https://api.mediux.pro/assets/ed714c83-553f-40a2-a6e4-d30498662779
-          8:
-            url_poster: https://api.mediux.pro/assets/8b9038bf-d2c0-43fd-97e7-4c95e7cc5f2b
+        url_poster: https://api.mediux.pro/assets/99511b6e-4251-435e-bf6c-d2f1ac7c093f
       3:
-        url_poster: https://api.mediux.pro/assets/8c9af882-c2ef-461e-850c-4c7bbae594fa
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/e7d95871-c82d-41c1-b8f2-bf4c20a9676d
-          2:
-            url_poster: https://api.mediux.pro/assets/dde9de54-5c89-42f8-b03a-9e964bb2822f
-          3:
-            url_poster: https://api.mediux.pro/assets/5d787a2a-f7aa-4362-8c8b-fc5906b2c404
-          4:
-            url_poster: https://api.mediux.pro/assets/6b9fd233-6602-4000-93c2-486dbe5f5d06
-          5:
-            url_poster: https://api.mediux.pro/assets/aed632a8-4418-4320-9288-ea1f0e2e16d5
-          6:
-            url_poster: https://api.mediux.pro/assets/3a136bf6-ff55-4628-b27d-1cb4b2b6af18
-          7:
-            url_poster: https://api.mediux.pro/assets/01a33f32-8886-4812-9663-36a790a3e24f
-          8:
-            url_poster: https://api.mediux.pro/assets/a5be5193-5477-4a0d-9dc7-b09f250dcaf6
+        url_poster: https://api.mediux.pro/assets/c580c00e-11f0-4c4d-a6c6-1f4bcfa76779
       4:
-        url_poster: https://api.mediux.pro/assets/3325f80c-24e1-4dc9-9886-6cb31651c889
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/1cec9357-fc87-41ce-a94a-4818b85ad6fe
-          2:
-            url_poster: https://api.mediux.pro/assets/73628876-4da7-45f9-a0f7-3c2f80453067
-          3:
-            url_poster: https://api.mediux.pro/assets/411fb407-b975-4112-a727-13eba6794379
-          4:
-            url_poster: https://api.mediux.pro/assets/3593d993-d984-4a2f-8642-789573f54496
-          5:
-            url_poster: https://api.mediux.pro/assets/eae28234-941b-4a91-8813-3931d4d7b898
-          6:
-            url_poster: https://api.mediux.pro/assets/c29cfae7-c7c1-49e1-a6ad-f97c64a4cd03
-          7:
-            url_poster: https://api.mediux.pro/assets/5d203157-4f64-4d8a-a569-12150bde2363
-          8:
-            url_poster: https://api.mediux.pro/assets/f4144b82-c605-4705-bf3f-7e7c73be6239
-
-
- 
-  399987: # TVDB id for The Witcher: Blood Origin. Set by willtong93 on MediUX. https://mediux.pro/sets/33368
-    url_poster: https://api.mediux.pro/assets/b903ee62-c2f1-4373-b2be-e525d65e8936
-    url_background: https://api.mediux.pro/assets/1f987c81-932a-4fd2-856d-3fadbcca68c9
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/e2966d29-a29a-4645-822b-ab8c63d4371b
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/d5cf594e-c330-42fe-8a51-f65e5724f6dc
-          2:
-            url_poster: https://api.mediux.pro/assets/d6663522-1a34-4491-903d-92b56522d9d3
-          3:
-            url_poster: https://api.mediux.pro/assets/47daf10c-6d34-4e56-8f79-b0c193803032
-          4:
-            url_poster: https://api.mediux.pro/assets/1b07ce98-cb81-42d9-bc2f-77a58602434b
+        url_poster: https://api.mediux.pro/assets/ccd592f8-e1dd-49f5-987e-5291380d4389

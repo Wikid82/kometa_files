@@ -1,24 +1,9 @@
 metadata:
-  385925: # TVDB id for Avatar the Last Airbender. Set by Wikid82 on MediUX. https://mediux.pro/sets/34961
-    url_poster: https://api.mediux.pro/assets/5619bf30-370c-4fcb-8ac0-c5f1dbeba62e
-    url_background: https://api.mediux.pro/assets/7577c086-ac67-4238-907c-aa025c20d4f6
+
+  385925: # TVDB id for Avatar: The Last Airbender. Set by Pejamas on MediUX. https://mediux.pro/sets/6310
+    url_poster: https://api.mediux.pro/assets/7fb1ebc2-6a5a-4880-ad68-817e4f2f61f5
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/9d79d892-7fea-4937-ba69-4dd5406b28a9
-        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/13809
-          1:
-            url_poster: https://api.mediux.pro/assets/69d4feef-f5f5-4483-880e-c270501cea4a
-          2:
-            url_poster: https://api.mediux.pro/assets/bc9011c3-5424-42c8-8d2f-a5c7364af089
-          3:
-            url_poster: https://api.mediux.pro/assets/816a47d4-b1a6-4764-9aab-9a3c6deebe59
-          4:
-            url_poster: https://api.mediux.pro/assets/c25f921a-3880-4976-886b-1613320e2c2d
-          5:
-            url_poster: https://api.mediux.pro/assets/4c2d0a6a-98e3-4ecd-8ee6-d6f0a211fc01
-          6:
-            url_poster: https://api.mediux.pro/assets/d10fa471-1c0a-4b05-96d5-2c9419e00716
-          7:
-            url_poster: https://api.mediux.pro/assets/2f8fbeee-6708-4709-8ce6-0b0a630fcbb1
-          8:
-            url_poster: https://api.mediux.pro/assets/c6cd0c91-6909-40c6-a30b-c95d869106dc
+        url_poster: https://api.mediux.pro/assets/01d67229-f4cc-466e-a669-e6860af860db
+      2:
+        url_poster: https://api.mediux.pro/assets/98c4ccbd-fb57-4ec3-919c-27cdff145831
