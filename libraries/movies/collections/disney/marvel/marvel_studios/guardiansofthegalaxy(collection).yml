@@ -2,7 +2,5 @@ collections:
   Guardians of the Galaxy Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8543509-guardians-of-the-galaxy
-    url_background: https://api.mediux.pro/assets/4eeb0a9a-341d-4267-9837-c716b88aa937
-    url_poster: https://api.mediux.pro/assets/1d8e24ea-7029-43a8-895b-84be90a30769 
-    # Guardians of the Galaxy Collection Poster by willtong93 on MediUX. https://mediux.pro/sets/24338
+    tmdb_list_details: https://www.themoviedb.org/list/8543509-guardians-of-the-galaxy 
+    url_poster: https://api.mediux.pro/assets/99c3e719-0bba-48c1-b5d8-7624357509ee # Poster by Pejamas on MediUX. https://mediux.pro/sets/3136
