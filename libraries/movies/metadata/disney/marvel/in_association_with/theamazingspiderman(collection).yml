@@ -1,7 +1,8 @@
 metadata:
 
-  1930: # The Amazing Spider-Man (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/24394
-    url_poster: https://api.mediux.pro/assets/e8b839d5-62d1-43a3-b985-295c1409bc2a
 
-  102382: # The Amazing Spider-Man 2 (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/24394
-    url_poster: https://api.mediux.pro/assets/2a1e3e59-425d-4d21-a32e-36d890bb6f03
+  1930: # The Amazing Spider-Man (2012) Poster by Pejamas on MediUX. https://mediux.pro/sets/4767
+    url_poster: https://api.mediux.pro/assets/ee9ef8cf-019e-4c38-bf03-a4c03435274b
+
+  102382: # The Amazing Spider-Man 2 (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/4767
+    url_poster: https://api.mediux.pro/assets/3654eee1-cae8-440b-9593-a3759c99ca93

@@ -3,5 +3,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/125574-the-amazing-spider-man-collection
-    url_background: https://image.tmdb.org/t/p/original/4db7dI0OlK64CdWOtatQsNkYRQF.jpg
-    url_poster: https://api.mediux.pro/assets/5fcfb73d-edb7-4f69-a99c-194f60e8a81d
+    url_poster: https://api.mediux.pro/assets/f63700a9-306b-4c0d-b4f5-5cbfb64c590c # Poster by Pejamas on MediUX. https://mediux.pro/sets/4767
