@@ -1,24 +1,6 @@
 metadata:
-  446180: # TVDB id for Teacup. Set by willtong93 on MediUX. https://mediux.pro/sets/26485
-    url_poster: https://api.mediux.pro/assets/50abfead-c767-40f3-acc1-0819019e5502
-    url_background: https://api.mediux.pro/assets/cd9cf8d4-978b-43fd-a4c1-bbba6dfac2d7
+  446180: # TVDB id for Teacup. Set by fwlolx on MediUX. https://mediux.pro/sets/26563
+    url_poster: https://api.mediux.pro/assets/aa59cca2-ca07-43f2-97ff-234c16ac0f20
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/4c4a0fe6-c9a3-4e0d-85fc-b0423709c0a3
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/94d81f38-6dc4-4448-b0c5-dbb9e1dc3ca4
-          2:
-            url_poster: https://api.mediux.pro/assets/c2929918-14ab-4b37-8447-f51ef2f29387
-          3:
-            url_poster: https://api.mediux.pro/assets/5856deb4-4d4d-434e-a1c5-c812ae74a4b3
-          4:
-            url_poster: https://api.mediux.pro/assets/ffe39205-72e6-4411-b51a-e4e22f437a51
-          5:
-            url_poster: https://api.mediux.pro/assets/7f23baca-643f-47dc-99ee-b155176203b4
-          6:
-            url_poster: https://api.mediux.pro/assets/8a8663ec-1e52-473b-8ba7-f6b7e81e2951
-          7:
-            url_poster: https://api.mediux.pro/assets/b87a7d2a-6d6c-42b6-acad-5bbe333b3fe4
-          8:
-            url_poster: https://api.mediux.pro/assets/a786e92c-f73b-402c-b9a0-46d20330801b
+        url_poster: https://api.mediux.pro/assets/55d48518-367f-4a34-8de7-d441be1ccdef

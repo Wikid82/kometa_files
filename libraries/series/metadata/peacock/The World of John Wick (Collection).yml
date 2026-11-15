@@ -1,7 +1,7 @@
 metadata:
-  414734: # TVDB id for The Continental: From the World of John Wick. Set by Wikid82 on MediUX. https://mediux.pro/sets/34151
-    url_poster: https://api.mediux.pro/assets/9d7d6393-1591-401d-9996-7d50c356b10c
-    url_background: https://api.mediux.pro/assets/7e7bd1de-060b-45e7-a8d4-05300fec8ec0
+
+  414734: # TVDB id for The Continental: From the World of John Wick. Set by Pejamas on MediUX. https://mediux.pro/sets/2557
+    url_poster: https://api.mediux.pro/assets/cf3dd676-4dce-4b93-9be4-6126816645d6
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/e14c0a38-cd02-4bbe-948c-66eb0c4e43e5
+        url_poster: https://api.mediux.pro/assets/f57555c4-4e35-433b-a37b-0731dfcab370

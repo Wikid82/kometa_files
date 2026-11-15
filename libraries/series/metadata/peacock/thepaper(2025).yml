@@ -1,51 +1,9 @@
 metadata:
-  449872: # TVDB id for The Paper. Set by willtong93 on MediUX. https://mediux.pro/sets/36641
-    url_poster: https://api.mediux.pro/assets/6f08a59b-10a5-4c43-b424-49be753cda49
-    url_background: https://api.mediux.pro/assets/a3e49b21-f6b4-45c7-a798-d5b03b47496f
+
+  449872: # TVDB id for The Paper. Set by Pejamas on MediUX. https://mediux.pro/sets/36679
+    url_poster: https://api.mediux.pro/assets/ef161ea8-3441-43f0-9b92-113e1207b256
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/81e3ff5a-3c5b-472f-8dae-2f5b41286397
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/904cde7a-7384-4c18-b006-5f7ff51a6182
-          2:
-            url_poster: https://api.mediux.pro/assets/64fc5394-9261-4d50-a701-651ff9d81a3e
-          3:
-            url_poster: https://api.mediux.pro/assets/bc572a00-5bcd-4d1f-ab06-1e696ad6ce69
-          4:
-            url_poster: https://api.mediux.pro/assets/317f37f9-05e9-4d95-94b5-20246f499129
-          5:
-            url_poster: https://api.mediux.pro/assets/559d8c90-b07b-47a0-b0f5-6f09b63b47b3
-          6:
-            url_poster: https://api.mediux.pro/assets/b72f87a7-0465-4e88-ab18-1f5825f8b350
-          7:
-            url_poster: https://api.mediux.pro/assets/4fa964e5-0620-494b-ac6a-b444fc731ba6
-          8:
-            url_poster: https://api.mediux.pro/assets/b30cf723-311f-4e9c-ae20-bedd7b713b7d
-          9:
-            url_poster: https://api.mediux.pro/assets/8244f109-0f82-4faa-a275-e99cb06c89f2
-          10:
-            url_poster: https://api.mediux.pro/assets/16e8a19e-986a-481d-8d58-76ae0f74ab11
+        url_poster: https://api.mediux.pro/assets/f88aded9-7316-45fe-ab20-f88546b4b3f4
       2:
-        url_poster: https://api.mediux.pro/assets/a561c124-67ba-4f00-b24c-4995c5783f58
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/6feba50e-ceb7-4688-9ebf-50f99d9a5f2d
-          2:
-            url_poster: https://api.mediux.pro/assets/48126bd5-2e06-4713-8e5d-4994128142a8
-          3:
-            url_poster: https://api.mediux.pro/assets/de932229-c3e7-4377-8d47-5e72c3845cd0
-          4:
-            url_poster: https://api.mediux.pro/assets/9e1b3a39-0ccb-410b-b207-104a823feabf
-          5:
-            url_poster: https://api.mediux.pro/assets/bd14c017-8267-458f-9aa9-d341f8039ec9
-          6:
-            url_poster: https://api.mediux.pro/assets/ec49d1d0-3ae2-4289-a499-ea68ce2bf02b
-          7:
-            url_poster: https://api.mediux.pro/assets/6370fe6d-4e39-4667-9656-ad0362a3f452
-          8:
-            url_poster: https://api.mediux.pro/assets/257c3264-d786-4f4a-bd1e-4862e0bec431
-          9:
-            url_poster: https://api.mediux.pro/assets/e6c0bd38-f04a-4b07-ac87-411c76759764
-          10:
-            url_poster: https://api.mediux.pro/assets/8fa429a0-0560-4271-936b-f5e767a3b911
+        url_poster: https://api.mediux.pro/assets/c1c6ecf4-332c-40e1-8286-f0d36fae1651
