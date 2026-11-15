@@ -1,24 +1,7 @@
 metadata:
 
-  451873:
-    # TVDB id for Task. Set by willtong93 on MediUX. https://mediux.pro/sets/37024
-    url_poster: https://api.mediux.pro/assets/188571ba-118a-4d0a-bf72-d7dd5c49070f
-    url_background: https://api.mediux.pro/assets/7f2335b8-a729-4533-8b8f-30ca06844105
+  451873: # TVDB id for Task. Set by Pejamas on MediUX. https://mediux.pro/sets/36691
+    url_poster: https://api.mediux.pro/assets/f2cdc1c3-4ba0-4d49-b5c7-a7bbc2f16a5d
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/99effc6b-ed29-4a35-a196-bcfd011a6f64
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/cde267c5-4d58-40b2-a64a-135f2b03ab90
-          2:
-            url_poster: https://api.mediux.pro/assets/61128b85-8cc7-4540-88ca-12ac5b0202e9
-          3:
-            url_poster: https://api.mediux.pro/assets/b16d939d-cacb-4912-9b73-8e1784152060
-          4:
-            url_poster: https://api.mediux.pro/assets/b5b75883-696a-405f-9a6c-e301b922693a
-          5:
-            url_poster: https://api.mediux.pro/assets/a2fe0284-9aeb-42e0-8b46-450bdbd20bb4
-          6:
-            url_poster: https://api.mediux.pro/assets/695b4ae0-0468-4bb9-8b8c-e50e2070ac7d
-          7:
-            url_poster: https://api.mediux.pro/assets/bcd4462d-cc76-4c46-88cf-148765445d21
+        url_poster: https://api.mediux.pro/assets/0c05cb9d-1151-4887-a2eb-bb19b11dd908

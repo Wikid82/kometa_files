@@ -1,24 +1,7 @@
 metadata:
-  418424: # TVDB id for IT: Welcome to Derry. Set by willtong93 on MediUX. https://mediux.pro/sets/39214
-    url_poster: https://api.mediux.pro/assets/b88f12a1-606e-4e81-84e0-26f7334e409d
-    url_background: https://api.mediux.pro/assets/977f38ab-5062-45d6-8a79-ac9da7fc2cab
+
+  418424: # TVDB id for IT: Welcome to Derry. Set by Pejamas on MediUX. https://mediux.pro/sets/39167
+    url_poster: https://api.mediux.pro/assets/75face4f-eb3b-42e5-8125-e6c7e62dbaa7
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/48d8a3ab-725f-4fdd-836b-5ffe2acaac67
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/c38bfa3d-d43f-48fb-b346-9ecb12684aaa
-          2:
-            url_poster: https://api.mediux.pro/assets/b9462c2e-95ff-4d00-a050-d3d561ab291d
-          3:
-            url_poster: https://api.mediux.pro/assets/6fa028d7-5c8d-4953-9f03-704217bffc72
-          4:
-            url_poster: https://api.mediux.pro/assets/df2d455a-ce91-4cde-b5ea-ddf0a52e348b
-          5:
-            url_poster: https://api.mediux.pro/assets/ecc1e6cf-a92e-4b54-bee4-14236c30b0ec
-          6:
-            url_poster: https://api.mediux.pro/assets/99e3f0a5-d8c8-4624-8613-960b39efb1ef
-          7:
-            url_poster: https://api.mediux.pro/assets/44fe19ef-6f5b-4647-83b3-4d889d0c7ae9
-          8:
-            url_poster: https://api.mediux.pro/assets/33ea2491-a7be-4386-af7f-b755c210e6af
+        url_poster: https://api.mediux.pro/assets/ce2a519d-0b24-4f33-a281-fd531db91989
