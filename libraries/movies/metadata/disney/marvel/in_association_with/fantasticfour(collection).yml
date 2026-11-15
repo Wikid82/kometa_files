@@ -1,12 +1,11 @@
 metadata:
 
-  9738: # Fantastic Four (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/24424
-    url_poster: https://api.mediux.pro/assets/d8763a4e-3ea4-4446-b250-a6e31167fad6
 
-  1979: # Fantastic Four: Rise of the Silver Surfer (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/24424
-    url_poster: https://api.mediux.pro/assets/2d79978c-3785-4f2d-9ed7-478e26c0d46c
+  9738: # Fantastic Four (2005) Poster by Pejamas on MediUX. https://mediux.pro/sets/4775
+    url_poster: https://api.mediux.pro/assets/29c30055-9b9c-4a91-9bad-413fce342bd7
 
-  166424: # Fantastic Four (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/24425
-    url_poster: https://api.mediux.pro/assets/4d90e340-b623-477a-9404-803018dc0082
+  1979: # Fantastic Four: Rise of the Silver Surfer (2007) Poster by Pejamas on MediUX. https://mediux.pro/sets/4775
+    url_poster: https://api.mediux.pro/assets/d830dcc1-a8b8-4c53-9ecc-326a7ba2045f
 
-
+  166424: # Fantastic Four (2015) Poster by Pejamas on MediUX. https://mediux.pro/sets/4774
+    url_poster: https://api.mediux.pro/assets/25daf942-9d62-467c-8d5b-819506bd2425
