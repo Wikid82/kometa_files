@@ -1,9 +1,9 @@
 metadata:
-  Star Wars Young Jedi Adventures:
-    mapping_id: 420658
-    url_poster: https://api.mediux.pro/assets/df5e75d4-585c-4cd1-8c55-d277678ec663
+
+  420658: # TVDB id for Star Wars: Young Jedi Adventures. Set by Pejamas on MediUX. https://mediux.pro/sets/32643
+    url_poster: https://api.mediux.pro/assets/c3913255-a16f-4fb8-9266-e60246289880
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/06d95b8f-4bb7-44f8-be25-3acc4097388f
-      #2:
-      #  url_poster: 
+        url_poster: https://api.mediux.pro/assets/3020f2da-3cfd-445e-9327-686a7744df95
+      2:
+        url_poster: https://api.mediux.pro/assets/8e0ac60e-0a7e-4f68-b002-fb3da71d6236
