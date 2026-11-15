@@ -3,5 +3,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8544015-the-punisher
-    url_background: https://image.tmdb.org/t/p/original/vokIGmTkY2ZqTYiPZYGM4S6Zbzh.jpg
-    url_poster: https://api.mediux.pro/assets/6b063473-73f0-4b40-bebb-1e1f92a4e271
+    url_poster: https://api.mediux.pro/assets/299df380-ff9d-4a58-a226-709132174714 # Poster by Pejamas on MediUX. https://mediux.pro/sets/4766
