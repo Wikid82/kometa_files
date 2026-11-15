@@ -1,41 +1,44 @@
 metadata:
 
-  11: # Star Wars (1977) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
-    url_poster: https://api.mediux.pro/assets/b97ce7f0-b1e6-4cae-969e-ec1d6bc07e4a
 
-  1891: # The Empire Strikes Back (1980) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
-    url_poster: https://api.mediux.pro/assets/2355ac74-431f-47e7-9dd1-e73a3b29f6df
+  11: # Star Wars (1977) Poster by Pejamas on MediUX. https://mediux.pro/sets/8077
+    url_poster: https://api.mediux.pro/assets/5b1cfb54-4b57-4f23-b4e7-f54aa51b424d
 
-  1892: # Return of the Jedi (1983) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
-    url_poster: https://api.mediux.pro/assets/786e977b-8398-4b14-a96d-96cd6de383ec
+  1891: # The Empire Strikes Back (1980) Poster by Pejamas on MediUX. https://mediux.pro/sets/8077
+    url_poster: https://api.mediux.pro/assets/4aa8cadf-c162-459c-85ae-938453048617
 
-  1893: # Star Wars: Episode I - The Phantom Menace (1999) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
-    url_poster: https://api.mediux.pro/assets/9457df03-67db-40a5-b880-ccefc0f2bfe7
+  1892: # Return of the Jedi (1983) Poster by Pejamas on MediUX. https://mediux.pro/sets/8077
+    url_poster: https://api.mediux.pro/assets/784dc969-db54-4547-824e-179439a6a75e
 
-  1894: # Star Wars: Episode II - Attack of the Clones (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
-    url_poster: https://api.mediux.pro/assets/7106eb33-f923-40d9-b61f-0fc118282938
+  1893: # Star Wars: Episode I - The Phantom Menace (1999) Poster by Pejamas on MediUX. https://mediux.pro/sets/8077
+    url_poster: https://api.mediux.pro/assets/d83d8fb9-aeed-4c27-b0fb-33c6317d288c
 
-  1895: # Star Wars: Episode III - Revenge of the Sith (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
-    url_poster: https://api.mediux.pro/assets/5a3bd292-6ef8-4e96-bbf4-4d37e5e5d1be
+  1894: # Star Wars: Episode II - Attack of the Clones (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/8077
+    url_poster: https://api.mediux.pro/assets/ad0eb2d1-9eb9-49d9-8c17-c4c15acce3af
 
-  140607: # Star Wars: The Force Awakens (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
-    url_poster: https://api.mediux.pro/assets/9a783e97-8a58-435c-a1e1-f9f735d56620
+  1895: # Star Wars: Episode III - Revenge of the Sith (2005) Poster by Pejamas on MediUX. https://mediux.pro/sets/8077
+    url_poster: https://api.mediux.pro/assets/aac26f61-0a20-424d-bd06-2deffafc6991
 
-  181808: # Star Wars: The Last Jedi (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
-    url_poster: https://api.mediux.pro/assets/df75c6cd-af86-4f4e-b91f-7e1537cbe4d3
+  140607: # Star Wars: The Force Awakens (2015) Poster by Pejamas on MediUX. https://mediux.pro/sets/8077
+    url_poster: https://api.mediux.pro/assets/f064c961-894f-4c0a-a268-cfb73ab73812
 
-  181812: # Star Wars: The Rise of Skywalker (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/26417
-    url_poster: https://api.mediux.pro/assets/2ab3ecbc-22f8-4e99-bbc1-ba4b2c43c81f
+  181808: # Star Wars: The Last Jedi (2017) Poster by Pejamas on MediUX. https://mediux.pro/sets/8077
+    url_poster: https://api.mediux.pro/assets/3e2cb806-37aa-48ea-b9b1-d5eb1694d1b8
 
-  330459: # Rogue One: A Star Wars Story (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/26420
-    url_poster: https://api.mediux.pro/assets/2fbb59a1-7a3d-4060-8bcc-a55e551452ec
+  181812: # Star Wars: The Rise of Skywalker (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/8077
+    url_poster: https://api.mediux.pro/assets/5fd0a162-463f-4c93-99d6-af17c5081a99
 
-  348350: # Solo: A Star Wars Story (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/26421
-    url_poster: https://api.mediux.pro/assets/526c7043-9116-483a-a208-f2f1bb8c80dd
 
-  12180: # Star Wars: The Clone Wars (2008) Poster by willtong93 on MediUX. https://mediux.pro/sets/26422
+  330459: # Rogue One: A Star Wars Story (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/8088
+    url_poster: https://api.mediux.pro/assets/257ad48a-8d43-43dd-b440-1030afd0acd4
+
+
+  348350: # Solo: A Star Wars Story (2018) Poster by Pejamas on MediUX. https://mediux.pro/sets/8087
+    url_poster: https://api.mediux.pro/assets/80c77057-f2c9-47d4-9b81-534ba2060330
+
+
+  12180: # Star Wars: The Clone Wars (2008)
     url_poster: https://api.mediux.pro/assets/9d847f9b-906d-4295-8c26-168bb9b4ed66
 
-  1228710: # The Mandalorian and Grogu (2026) Poster by willtong93 on MediUX. https://mediux.pro/sets/48749
-    url_poster: https://api.mediux.pro/assets/cee8fc9a-0734-4cc5-a6c5-b8679221e46d
-
+  1228710: # The Mandalorian and Grogu (2026) Poster by Pejamas on MediUX. https://mediux.pro/sets/56387
+    url_poster: https://api.mediux.pro/assets/9b875d88-5b49-4ef6-90d1-121f76fdb64d
