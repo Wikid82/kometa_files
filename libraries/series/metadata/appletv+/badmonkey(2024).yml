@@ -1,30 +1,7 @@
 metadata:
-  408436: # TVDB id for Bad Monkey. Set by cundallini on MediUX. https://mediux.pro/sets/24125
-    url_poster: https://api.mediux.pro/assets/864005cd-eadb-466b-94a7-87406ef038e9
-    url_background: https://api.mediux.pro/assets/5310561b-8b03-4265-a646-1e410179532f
+
+  408436: # TVDB id for Bad Monkey. Set by Pejamas on MediUX. https://mediux.pro/sets/23350
+    url_poster: https://api.mediux.pro/assets/69819b16-b7d1-403d-8255-f7ec4903acc9
     seasons:
-      #0:
-      #  url_poster: https://api.mediux.pro/assets/d4d4d11b-4d9c-4317-b280-0a625393df24
       1:
-        url_poster: https://api.mediux.pro/assets/e103aa35-11fb-4e63-b6a9-01eb8a4d9387
-        episodes: # Set by Kwickflix on MediUX. https://mediux.pro/sets/24172
-          1:
-            url_poster: https://api.mediux.pro/assets/88a6fc96-2140-41cd-af2e-af6919945ba7
-          2:
-            url_poster: https://api.mediux.pro/assets/350f754d-6b2b-44a0-822b-e8f65a539935
-          3:
-            url_poster: https://api.mediux.pro/assets/96c8f670-1993-4852-9b7f-56b62454010d
-          4:
-            url_poster: https://api.mediux.pro/assets/ec5a7178-1c84-442d-81e0-99ac7fee175e
-          5:
-            url_poster: https://api.mediux.pro/assets/be03159d-b3c7-40c8-ae93-4fdea5d0ba48
-          6:
-            url_poster: https://api.mediux.pro/assets/1b12a5e1-c33f-4ac5-b8f8-30c92fbd24c9
-          7:
-            url_poster: https://api.mediux.pro/assets/797a6d64-3bb6-4c19-9554-4418174c9e5f
-          8:
-            url_poster: https://api.mediux.pro/assets/b9db8b80-b0de-452f-8467-087997442eb4
-          9:
-            url_poster: https://api.mediux.pro/assets/26abace5-0022-4a0b-8ab0-879932394fed
-          10:
-            url_poster: https://api.mediux.pro/assets/b8102df4-c707-45c2-afec-71dad42f73e1
+        url_poster: https://api.mediux.pro/assets/0b6c3f45-e1d6-490c-9b7e-dd0531236f5a
