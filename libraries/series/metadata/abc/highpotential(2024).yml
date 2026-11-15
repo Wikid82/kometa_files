@@ -1,48 +1,9 @@
 metadata:
-  434988:
-    # TVDB id for High Potential. Set by tallinex on MediUX. https://mediux.pro/sets/25368
-    url_poster: https://api.mediux.pro/assets/a297f678-bb51-4a71-a57d-1a15da2ea471
-    url_background: https://api.mediux.pro/assets/cd773b76-86af-40d5-956e-95542629e605
+
+  434988: # TVDB id for High Potential. Set by Pejamas on MediUX. https://mediux.pro/sets/36715
+    url_poster: https://api.mediux.pro/assets/309cdcd4-51e7-4930-95c3-d8416eba6211
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/eb519f2a-d4db-4d68-a54d-8674a5e9b8d4
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/41013da9-f57b-417a-9c43-4ba79ae1929b
-          2:
-            url_poster: https://api.mediux.pro/assets/eca9f2dc-9f14-45b0-9090-304c64a165ba
-          3:
-            url_poster: https://api.mediux.pro/assets/86d08031-4347-4601-a67a-5b49a15ff284
-          4:
-            url_poster: https://api.mediux.pro/assets/684a8e3f-604a-4f28-b0b9-0a6df33ccf53
-          5:
-            url_poster: https://api.mediux.pro/assets/4b923273-bc10-4edc-8f7a-468bbedc5c86
-          6:
-            url_poster: https://api.mediux.pro/assets/bb0a56f6-9511-404e-8bbf-11ea68052d01
-          7:
-            url_poster: https://api.mediux.pro/assets/0a5ab440-9925-40dc-8d80-17fbfd827b98
-          8:
-            url_poster: https://api.mediux.pro/assets/cc3f5de0-d55a-44f7-9132-8bac7e57da2f
-          9:
-            url_poster: https://api.mediux.pro/assets/f8bc4371-2cd8-4a13-8a04-6777ba887c1e
-          10:
-            url_poster: https://api.mediux.pro/assets/52f60991-8951-4281-8891-0abefd44f2d2
-          11:
-            url_poster: https://api.mediux.pro/assets/68762707-74fd-4745-858d-43da29d52fea
-          12:
-            url_poster: https://api.mediux.pro/assets/317f3b12-20e2-4c86-8c59-293141e75291
-          13:
-            url_poster: https://api.mediux.pro/assets/38541f78-bceb-422d-aefb-02c116afec43
+        url_poster: https://api.mediux.pro/assets/31978850-7349-459e-b2cf-1ae726fe2f2f
       2:
-        url_poster: https://api.mediux.pro/assets/0c6196f3-48b8-4169-a1bf-ec3555a74384
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/6a6d6cec-cb71-4b37-9a36-efd0d7a76b14
-          2:
-            url_poster: https://api.mediux.pro/assets/778abdb4-3250-4032-a1c0-eb8e07b4b6d0
-          3:
-            url_poster: https://api.mediux.pro/assets/3a8f704c-a1ea-497c-bfc3-f3c4ecfeae29
-          4:
-            url_poster: https://api.mediux.pro/assets/ebd0fe3c-2d32-4acc-939f-5810380b3b3c
-          5:
-            url_poster: https://api.mediux.pro/assets/7db945a5-5db8-4d98-b222-f1b8d28327f4
+        url_poster: https://api.mediux.pro/assets/b2b50f05-ad1d-42f7-bfdf-a32f501dc1aa
