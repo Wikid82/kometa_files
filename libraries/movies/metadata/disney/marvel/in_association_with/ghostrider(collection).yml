@@ -1,7 +1,8 @@
 metadata:
 
-  1250: # Ghost Rider (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/24408
-    url_poster: https://api.mediux.pro/assets/1bc2e283-b59c-4b98-98ec-0ab9ecab46c2
 
-  71676: # Ghost Rider: Spirit of Vengeance (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/24408
-    url_poster: https://api.mediux.pro/assets/b69d6dc3-6164-495c-b5d2-0308598ae915
+  1250: # Ghost Rider (2007) Poster by Pejamas on MediUX. https://mediux.pro/sets/4776
+    url_poster: https://api.mediux.pro/assets/3daf5823-dca5-4e86-a3ea-acb3745cb65c
+
+  71676: # Ghost Rider: Spirit of Vengeance (2011) Poster by Pejamas on MediUX. https://mediux.pro/sets/4776
+    url_poster: https://api.mediux.pro/assets/6ee8038e-a257-4a9e-8650-57c0a6743b97

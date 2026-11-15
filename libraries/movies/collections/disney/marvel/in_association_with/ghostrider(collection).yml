@@ -4,5 +4,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/90306-ghost-rider-collection
-    url_background: https://image.tmdb.org/t/p/original/cNRAWtbItigb2oFwXpcDi6mjMQm.jpg
-    url_poster: https://api.mediux.pro/assets/2f276cd2-47ba-4cc0-8e27-ae9b8455ef0b
+    url_poster: https://api.mediux.pro/assets/364a338e-24d8-470b-a15f-4c4d9820bcf1 # Poster by Pejamas on MediUX. https://mediux.pro/sets/4776
