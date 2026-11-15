@@ -1,25 +1,7 @@
 metadata:
 
-  414552: # TVDB id for Happy Face. Set by Wikid82 on MediUX. https://mediux.pro/sets/35379
-    url_poster: https://api.mediux.pro/assets/4395c070-4fab-4b3f-9e29-86449f0beb10
-    url_background: https://api.mediux.pro/assets/20312392-3627-43e8-ac45-6d181d745432
+  414552: # TVDB id for Happy Face. Set by Pejamas on MediUX. https://mediux.pro/sets/31252
+    url_poster: https://api.mediux.pro/assets/d7ca2a23-87b8-4b26-b7cd-45bad7a37237
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/91749635-c39a-41ee-8982-0859c25ae65d
-        episodes: # Title Card Set by willtong93 on MediUX. https://mediux.pro/sets/31426
-          1:
-            url_poster: https://api.mediux.pro/assets/9f3643c4-5a2d-429a-b55f-1d30d1f156cc
-          2:
-            url_poster: https://api.mediux.pro/assets/5a541ef1-5afa-44e8-9dae-1dba9f9979aa
-          3:
-            url_poster: https://api.mediux.pro/assets/cecffbab-1743-401d-802b-f3021bb7cf82
-          4:
-            url_poster: https://api.mediux.pro/assets/0606c0b0-c302-4031-ae39-dbbb251e2d29
-          5:
-            url_poster: https://api.mediux.pro/assets/8e4b2991-72e8-4a94-bd2d-81f4ee30c42e
-          6:
-            url_poster: https://api.mediux.pro/assets/5bc4217e-0d16-4233-9bfc-21d1ac2ba273
-          7:
-            url_poster: https://api.mediux.pro/assets/52a184c2-a767-485d-833f-74054f05fc55
-          8:
-            url_poster: https://api.mediux.pro/assets/ddf908da-ed3c-4a12-b175-293985435f58
+        url_poster: https://api.mediux.pro/assets/0edd35d2-85f9-4b30-9983-288dfe625679
