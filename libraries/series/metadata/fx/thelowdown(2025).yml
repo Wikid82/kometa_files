@@ -1,36 +1,10 @@
 metadata:
 
-  450085: # TVDB id for The Lowdown. Set by willtong93 on MediUX. https://mediux.pro/sets/37277
-    url_poster: https://api.mediux.pro/assets/4351504c-4f02-4d72-9853-95931c7a2232
-    url_background: https://api.mediux.pro/assets/9b2edc3c-9d14-4958-8129-96a7dfeff2ec
+  450085: # TVDB id for The Lowdown. Set by cundallini on MediUX. https://mediux.pro/sets/37648
+    url_poster: https://api.mediux.pro/assets/b1c80b9e-b7a4-420a-8dc6-55e6cdcbee43
+    url_background: https://api.mediux.pro/assets/92139ff4-541a-49b5-9457-7d644d9326bf
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/66fc0da4-e138-409c-b6df-c9c2eafb086b
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/7de82fd5-2002-4bd2-b41a-b8cfeaffc7d6
-          2:
-            url_poster: https://api.mediux.pro/assets/dca407c8-9f46-4733-8c47-207b5a36a317
-          3:
-            url_poster: https://api.mediux.pro/assets/8f511db1-0a53-47fd-a11c-ef71ebe08429
-          4:
-            url_poster: https://api.mediux.pro/assets/4a814db9-4076-4878-ba4f-9472174914aa
-          5:
-            url_poster: https://api.mediux.pro/assets/baa36b6b-029d-44ba-8149-f408216d500a
-          6:
-            url_poster: https://api.mediux.pro/assets/e74b11eb-eedf-40c1-a63f-58d9c579c599
-          7:
-            url_poster: https://api.mediux.pro/assets/36252026-a820-4dcd-a7e1-013c153f47a4
-          8:
-            url_poster: https://api.mediux.pro/assets/d7e085c7-ca8b-4b08-998b-75525225eaa7
+        url_poster: https://api.mediux.pro/assets/b7a8f404-852b-466d-9972-aa825f1e3ddf
       2:
-        url_poster: https://api.mediux.pro/assets/b2403b97-8bdb-4d87-a6a0-3ae54f087368
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/15b40ba8-370d-4bce-bbf7-4c36b275ad68
-          2:
-            url_poster: https://api.mediux.pro/assets/a2695c0d-9aad-4df7-bbdd-f3af3440a1ef
-          3:
-            url_poster: https://api.mediux.pro/assets/9de26397-6c62-4650-a930-8241cf747192
-          4:
-            url_poster: https://api.mediux.pro/assets/9a60e718-241a-42a1-9517-783b254e16e9
+        url_poster: https://api.mediux.pro/assets/3c069e47-1202-4229-a6fc-7f75fc116402
