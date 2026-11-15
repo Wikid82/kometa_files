@@ -1,47 +1,9 @@
 metadata:
-  393159: # TVDB id for Dark Matter. Set by willtong93 on MediUX. https://mediux.pro/sets/19870
-    url_poster: https://api.mediux.pro/assets/ad2c0f31-06d9-4a18-bcc8-cae993c626be
-    url_background: https://api.mediux.pro/assets/269e0ff2-0f19-4208-a2aa-bf85f883d521
+
+  393159: # TVDB id for Dark Matter. Set by Pejamas on MediUX. https://mediux.pro/sets/19274
+    url_poster: https://api.mediux.pro/assets/5cc4ce99-5beb-4746-b9f1-6a0da89cd89b
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/eb60812c-4d05-474f-bb44-ce7392154b24
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/fa55003e-26d8-4079-964a-c16695ad5ed3
-          2:
-            url_poster: https://api.mediux.pro/assets/cfa0a6e1-f65b-4551-b8bf-98960aa8cb82
-          3:
-            url_poster: https://api.mediux.pro/assets/0d3b149e-c66e-43fa-8828-4fb33ccf3569
-          4:
-            url_poster: https://api.mediux.pro/assets/62f0ddf8-efeb-4530-9f05-49436b7cbf56
-          5:
-            url_poster: https://api.mediux.pro/assets/978c0574-4244-4320-9beb-26e29abde12c
-          6:
-            url_poster: https://api.mediux.pro/assets/e190cc9e-cc23-4972-b75e-03ebecc5cee6
-          7:
-            url_poster: https://api.mediux.pro/assets/33b54aae-7060-4336-8208-da8f00967ba4
-          8:
-            url_poster: https://api.mediux.pro/assets/4f7f9189-66fc-408a-8928-996c944dc55d
-          9:
-            url_poster: https://api.mediux.pro/assets/84c4db1f-e92c-4b29-86b8-d3a56f1d28f0
+        url_poster: https://api.mediux.pro/assets/fa3871be-3f82-46ed-a8a3-4f49e9e31999
       2:
-        url_poster: https://api.mediux.pro/assets/ec7ac123-60e8-4a50-a326-4d13285ab9bf
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/9f4c3a7d-a2e9-4f5d-9148-a34c2bb849de
-          2:
-            url_poster: https://api.mediux.pro/assets/cdc6459e-8535-4db8-8ab7-49b00b15db5d
-          3:
-            url_poster: https://api.mediux.pro/assets/d7fe49f9-27a6-4fcc-bfac-6a19892592f0
-          4:
-            url_poster: https://api.mediux.pro/assets/3bccb4d9-6f6f-41dc-ac52-859598102123
-          5:
-            url_poster: https://api.mediux.pro/assets/a46e4118-b930-4dbb-92b7-8e33c9272a37
-          6:
-            url_poster: https://api.mediux.pro/assets/be207002-3f32-4eea-a684-a14f68b424cb
-          7:
-            url_poster: https://api.mediux.pro/assets/6f84100a-42cf-40f5-9a07-9fdef2496d3d
-          8:
-            url_poster: https://api.mediux.pro/assets/aa804156-685a-4bac-bb5f-7c3a918c0691
-          9:
-            url_poster: https://api.mediux.pro/assets/1b7a418a-15f6-4dff-a483-c91430e1c610
+        url_poster: https://api.mediux.pro/assets/cf6e5a4b-0a7f-45aa-90a8-e40ef9e48aa7
