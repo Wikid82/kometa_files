@@ -1,46 +1,9 @@
 metadata:
 
-  422712: # TVDB id for Daredevil: Born Again. Set by willtong93 on MediUX. https://mediux.pro/sets/31179
-    url_poster: https://api.mediux.pro/assets/0a605fac-e1ff-446c-93bb-4a80194f3525
-    url_background: https://api.mediux.pro/assets/e0abe2bd-a36b-4214-8ba3-0bfbd6791aec
+  422712: # TVDB id for Daredevil: Born Again. Set by Pejamas on MediUX. https://mediux.pro/sets/31084
+    url_poster: https://api.mediux.pro/assets/8e0aaa18-1ef3-4cb7-85fa-0c385651a7b0
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/70c8ca62-ebcd-4716-9985-044850e17dbc
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/908c3e08-1da9-4ad5-93f9-801af37b5a7a
-          2:
-            url_poster: https://api.mediux.pro/assets/0983784d-adee-4c21-b2f6-61d861dcc5e7
-          3:
-            url_poster: https://api.mediux.pro/assets/79da2358-3289-4580-a508-9abb82126303
-          4:
-            url_poster: https://api.mediux.pro/assets/d422a547-8796-40ad-b739-3279898909c2
-          5:
-            url_poster: https://api.mediux.pro/assets/c25e0793-f47b-43be-a66f-71bb3df1894d
-          6:
-            url_poster: https://api.mediux.pro/assets/2aada5be-77b3-4a4c-91e9-f8815efdc92b
-          7:
-            url_poster: https://api.mediux.pro/assets/34604a52-29e3-482a-9dbb-b0ad9d50609b
-          8:
-            url_poster: https://api.mediux.pro/assets/82ff2b7c-ee27-4533-a7ee-61da2c1b1fdf
-          9:
-            url_poster: https://api.mediux.pro/assets/0084b19d-2d10-4313-b041-22e1e44cd9a1
+        url_poster: https://api.mediux.pro/assets/bf6e89f9-1ff3-44b5-aff0-db53c79432d2
       2:
-        url_poster: https://api.mediux.pro/assets/a46e39e0-a333-475a-b04c-794de3ce24be
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/8bdcf6da-41bc-4e9e-8414-4f18213125fc
-          2:
-            url_poster: https://api.mediux.pro/assets/21b7fe99-6947-4b57-8d1b-26ce47f5a092
-          3:
-            url_poster: https://api.mediux.pro/assets/7e34bd69-0b38-4d7e-b261-6a63a5594394
-          4:
-            url_poster: https://api.mediux.pro/assets/d4dee5c2-5600-4414-91a7-6df8183b7d44
-          5:
-            url_poster: https://api.mediux.pro/assets/3479c2be-0918-47c4-9906-d0ed58501541
-          6:
-            url_poster: https://api.mediux.pro/assets/6fffcf3e-267d-45ef-a414-b1690d804757
-          7:
-            url_poster: https://api.mediux.pro/assets/78f38d78-afff-4a48-9805-508d45198a94
-          8:
-            url_poster: https://api.mediux.pro/assets/bccabd0a-1280-4781-984c-012383bdf338
+        url_poster: https://api.mediux.pro/assets/9f8d2d30-726f-45e3-a129-6f373de3434e
