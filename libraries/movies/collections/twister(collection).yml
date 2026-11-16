@@ -4,5 +4,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/1062948-twister-collection
-    url_background: https://api.mediux.pro/assets/5caf114f-b9e3-450d-aa6f-9cdfd490a8b8
-    url_poster: https://api.mediux.pro/assets/459e5671-6087-4b12-8e7a-2d3a00a7a476
+    url_poster: https://api.mediux.pro/assets/8cc5b464-ea79-4c39-9342-33184ad32e0c # Poster by Pejamas on MediUX. https://mediux.pro/sets/12484
