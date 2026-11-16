@@ -1,13 +1,14 @@
 metadata:
 
-  315635: # Spider-Man: Homecoming (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/24304
-    url_poster: https://api.mediux.pro/assets/30848807-e466-4c3a-b29d-ab69891866df
 
-  429617: # Spider-Man: Far From Home (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/24304
-    url_poster: https://api.mediux.pro/assets/66ae00ce-f172-4b91-a6fa-cdfaf10c7fe2
+  315635: # Spider-Man: Homecoming (2017) Poster by Pejamas on MediUX. https://mediux.pro/sets/3139
+    url_poster: https://api.mediux.pro/assets/32a0039e-49d8-4bde-855a-12e2dca9896d
 
-  634649: # Spider-Man: No Way Home (2021) Poster by willtong93 on MediUX. https://mediux.pro/sets/24304
-    url_poster: https://api.mediux.pro/assets/104f277e-d77c-4b48-92ed-057f774f3065
+  429617: # Spider-Man: Far From Home (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/3139
+    url_poster: https://api.mediux.pro/assets/74230ad8-3112-4744-b9b9-53733f0dccd3
 
-  969681: # Spider-Man: Brand New Day (2026) Poster by willtong93 on MediUX. https://mediux.pro/sets/24304
-    url_poster: https://api.mediux.pro/assets/22bb99c4-26a5-4b72-a389-e24701aeaacc
+  634649: # Spider-Man: No Way Home (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/3139
+    url_poster: https://api.mediux.pro/assets/ba8c23ef-cc72-4973-9bdc-8df65adfba1e
+
+  969681: # Spider-Man: Brand New Day (2026) Poster by Pejamas on MediUX. https://mediux.pro/sets/3139
+    url_poster: https://api.mediux.pro/assets/32448e11-0e2d-4d8b-bdb7-137fef4e0fcd
