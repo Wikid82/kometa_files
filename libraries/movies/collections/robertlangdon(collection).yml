@@ -3,5 +3,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8544027-robert-langdon
-    url_background: https://api.mediux.pro/assets/45c5b1a0-b7c5-4596-aa57-7ef70c10843e
-    url_poster: https://api.mediux.pro/assets/83cf1299-a809-4f13-9631-43d5b02ce57d
+    url_poster: https://api.mediux.pro/assets/1509b5ff-7f98-4dad-a2a0-3d61a975d0ff # Poster by MiniZaki on MediUX. https://mediux.pro/sets/25201
