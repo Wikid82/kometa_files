@@ -1,8 +1,0 @@
----
-collections:
-  The Addams Family Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8544794-the-addams-family
-    url_background: https://image.tmdb.org/t/p/original/gS5yZLrSJ6uNbsz17xoxf70X2Ws.jpg
-    url_poster: https://api.mediux.pro/assets/e7c68bb9-ec1d-4986-9baf-068c33e937dc
