@@ -1,15 +1,14 @@
 metadata:
 
-  10195: # Thor (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/24310
-    url_poster: https://api.mediux.pro/assets/11711f92-99b5-4fd7-b738-ea42895a40ac
 
-  76338: # Thor: The Dark World (2013) Poster by willtong93 on MediUX. https://mediux.pro/sets/24310
-    url_poster: https://api.mediux.pro/assets/714150b4-a5e5-49be-9730-28621f6db013
+  10195: # Thor (2011) Poster by Pejamas on MediUX. https://mediux.pro/sets/3140
+    url_poster: https://api.mediux.pro/assets/b5baa322-d79f-42ea-af53-7ca69603ca65
 
-  284053: # Thor: Ragnarok (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/24310
-    url_poster: https://api.mediux.pro/assets/3f75a9ca-1bff-4bf9-9fbc-ce0a5e23581f
+  76338: # Thor: The Dark World (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/3140
+    url_poster: https://api.mediux.pro/assets/70703186-4195-4152-89c3-a08013c70f99
 
-  616037: # Thor: Love and Thunder (2022) Poster by willtong93 on MediUX. https://mediux.pro/sets/24310
-    url_poster: https://api.mediux.pro/assets/8304b46d-492e-4e14-8aba-7b127c6f1813
+  284053: # Thor: Ragnarok (2017) Poster by Pejamas on MediUX. https://mediux.pro/sets/3140
+    url_poster: https://api.mediux.pro/assets/9256d86d-d568-47eb-a1c0-8b0d9fb34b0f
 
-
+  616037: # Thor: Love and Thunder (2022) Poster by Pejamas on MediUX. https://mediux.pro/sets/3140
+    url_poster: https://api.mediux.pro/assets/70e371e9-a542-4d2f-8d68-656f2e2430d8
