@@ -3,5 +3,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8495458-the-fast-and-the-furious
-    url_background: https://api.mediux.pro/assets/6735853d-3445-403b-ac1e-ccbbd48454ac
-    url_poster: https://api.mediux.pro/assets/26a25f6f-b296-4380-8d72-ebaaa1b42982
+    url_poster: https://api.mediux.pro/assets/17403228-8503-4ce5-89f6-289f53e6938c # Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
