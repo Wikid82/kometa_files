@@ -1,14 +1,15 @@
 metadata:
 
-  1771: # Captain America: The First Avenger (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/24298
-    url_poster: https://api.mediux.pro/assets/d4cd3866-6d68-4dc9-9ec9-a9ee8c1f4991
 
-  100402: # Captain America: The Winter Soldier (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/24298
-    url_poster: https://api.mediux.pro/assets/1e991243-b312-42fb-b460-2bb29a323b0c
+  1771: # Captain America: The First Avenger (2011) Poster by Pejamas on MediUX. https://mediux.pro/sets/3133
+    url_poster: https://api.mediux.pro/assets/a39612b5-afd4-4c73-9044-528723939222
 
-  271110: # Captain America: Civil War (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/24298
-    url_poster: https://api.mediux.pro/assets/4d37694c-04e4-49c1-bc7f-14efabcb202a
+  100402: # Captain America: The Winter Soldier (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/3133
+    url_poster: https://api.mediux.pro/assets/24fcb3c5-473b-46fd-9360-a49e6eafa1bc
 
-  822119: # Captain America: Brave New World (2025) Poster by willtong93 on MediUX. https://mediux.pro/sets/24298
-    url_poster: https://api.mediux.pro/assets/f86cd17e-7024-4121-b73b-df58f833e69f
-    url_background: https://api.mediux.pro/assets/4df6ccbc-2726-47fb-b6a9-8249624ab15f
+  271110: # Captain America: Civil War (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/3133
+    url_poster: https://api.mediux.pro/assets/68c59ad1-64bf-4b5c-9569-487c699d6e39
+
+  822119: # Captain America: Brave New World (2025) Poster by Pejamas on MediUX. https://mediux.pro/sets/3133
+    url_poster: https://api.mediux.pro/assets/5979072c-b724-49fe-be83-c6a8c93f6c5d
+  
