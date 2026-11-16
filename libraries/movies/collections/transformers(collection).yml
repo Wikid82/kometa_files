@@ -3,5 +3,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8545337-transformers
-    url_background: https://api.mediux.pro/assets/b30c4957-a9c3-4d4a-8dd4-3f3f561a5845
-    url_poster: https://api.mediux.pro/assets/cafc2acf-5d45-4551-8bc2-9ed1a5c2bbbd
+    url_poster: https://api.mediux.pro/assets/03a56777-c02d-4796-9696-b353651d0363 # Poster by fxckingham on MediUX. https://mediux.pro/sets/2284
