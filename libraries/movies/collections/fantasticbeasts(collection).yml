@@ -3,5 +3,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/435259-fantastic-beasts-collection
-    url_background: https://api.mediux.pro/assets/1d95452c-f342-4745-8bd8-fb00f723ada1
-    url_poster: https://api.mediux.pro/assets/332dd54d-97ce-4ee2-818a-664182c65d78
+    url_poster: https://api.mediux.pro/assets/c69751fd-479b-494e-8788-e5cbff0b8771 # Poster by Pejamas on MediUX. https://mediux.pro/sets/10680
