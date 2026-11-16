@@ -4,5 +4,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/656-saw-collection
-    url_background: https://api.mediux.pro/assets/d76a8cab-1cf7-4e6f-b75c-885481174006
-    url_poster: https://api.mediux.pro/assets/31645fdc-516f-47b9-a8bb-b3ab61738e50
+    url_poster: https://api.mediux.pro/assets/40da8074-e8a0-4b5a-ba7a-61652a949779 # Poster by Pejamas on MediUX. https://mediux.pro/sets/10140
