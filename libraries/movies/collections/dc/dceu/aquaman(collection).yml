@@ -1,7 +1,0 @@
-collections:
-  Aquaman Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/573693-aquaman-collection
-    url_background: https://api.mediux.pro/assets/9aa80883-4d71-4e7a-b7b8-358c3ed1da7f
-    url_poster: https://api.mediux.pro/assets/14d0dfb1-6de6-4029-88e2-bd25cc886be3
