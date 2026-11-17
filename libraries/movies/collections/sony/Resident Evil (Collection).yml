@@ -2,7 +2,6 @@ collections:
   Resident Evil Collection:
     collection_mode: hide_items
     collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8543657-resident-evil
-    url_background: https://api.mediux.pro/assets/629978f2-4144-4d91-a70a-f9966dfd4609
-    url_poster: https://api.mediux.pro/assets/a5cb786a-ffab-4783-ad79-4e11f19d1692
-    # Resident Evil Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/35123
+    tmdb_collection_details: https://www.themoviedb.org/collection/17255-resident-evil-collection
+    url_poster: https://api.mediux.pro/assets/a6d58cc2-b56e-4bfe-b34c-406e25e14aeb
+    # Resident Evil Collection Poster by Pejamas on MediUX. https://mediux.pro/sets/12731
