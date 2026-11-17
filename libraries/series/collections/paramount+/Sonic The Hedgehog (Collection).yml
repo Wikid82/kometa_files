@@ -1,9 +1,7 @@
----
 collections:
   Sonic The Hedgehog Collection:
     collection_mode: hide_items
     collection_order: release
     tmdb_list_details: https://www.themoviedb.org/list/8543416-sonic-the-hedgehog
-    url_background: https://api.mediux.pro/assets/a05b94b5-9f99-4743-b6d1-18d496e4956d
-    url_poster: https://api.mediux.pro/assets/b36947a1-f261-4976-8ac4-d1b0fd6d9668
-    # Sonic the Hedgehog Collection Posters by Wikid82 on MediUX. https://mediux.pro/sets/35344
+    url_poster: https://api.mediux.pro/assets/f81047dd-8280-4b12-8d07-4f81c31c2f0c
+    # Sonic the Hedgehog Collection Poster by RuviLev on MediUX. https://mediux.pro/sets/10743
