@@ -3,5 +3,4 @@ collections:
     collection_mode: hide_items
     collection_order: release
     tmdb_collection_details: https://www.themoviedb.org/collection/840465-greenland-collection
-    url_background: https://api.mediux.pro/assets/16e09725-8091-46c9-b55f-d8a367cdd491
-    url_poster: https://api.mediux.pro/assets/a202a7ec-7ed2-4a6c-943d-8d7606ee8ac9
+    url_poster: https://api.mediux.pro/assets/b00cb154-b97c-4284-aa1f-bc207f149eb1 # Poster by Pejamas on MediUX. https://mediux.pro/sets/42406
