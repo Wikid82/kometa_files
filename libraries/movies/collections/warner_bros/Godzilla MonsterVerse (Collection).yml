@@ -1,0 +1,7 @@
+---
+collections:
+  Godzilla MonsterVerse Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_list_details: https://www.themoviedb.org/list/8543689-monsterverse
+    url_poster: https://api.mediux.pro/assets/2a66fd0a-f937-45d4-97f8-43b111745c5f # Poster by Pejamas on MediUX. https://mediux.pro/sets/7239
