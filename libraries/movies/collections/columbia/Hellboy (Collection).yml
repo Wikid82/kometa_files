@@ -1,0 +1,7 @@
+---
+collections:
+  Hellboy Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/17235-hellboy-collection
+    url_poster: https://api.mediux.pro/assets/fba2fbeb-e343-48d4-ad5c-c371658565f0 # Poster by Pejamas on MediUX. https://mediux.pro/sets/14322
