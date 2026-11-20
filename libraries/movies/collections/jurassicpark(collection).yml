@@ -1,7 +1,0 @@
----
-collections:
-  Jurassic Park Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/328-jurassic-park-collection
-    url_poster: https://api.mediux.pro/assets/3fddb02e-4e45-4f8c-8021-b43109b1e44d # Jurassic Park Collection Poster by Pejamas on MediUX. https://mediux.pro/sets/10660
