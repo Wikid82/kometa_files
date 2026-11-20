@@ -1,6 +1,0 @@
-collections:
-  Harry Potter Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_collection_details: https://www.themoviedb.org/collection/1241-harry-potter-collection
-    url_poster: https://api.mediux.pro/assets/885d531c-b475-462c-b0ce-93f5e5adec80 # Poster by Pejamas on MediUX. https://mediux.pro/sets/11910
