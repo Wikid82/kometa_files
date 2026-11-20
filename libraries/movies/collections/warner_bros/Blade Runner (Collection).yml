@@ -1,0 +1,6 @@
+collections:
+  Blade Runner Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/422837-blade-runner-collection
+    url_poster: https://api.mediux.pro/assets/2aec6c80-14b6-44e7-9e9d-51bac4c452be # Poster by Pejamas on MediUX. https://mediux.pro/sets/11217
