@@ -1,0 +1,6 @@
+collections:
+  Gremlins Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_collection_details: https://www.themoviedb.org/collection/89151-the-gremlins-collection
+    url_poster: https://api.mediux.pro/assets/613a676b-fad4-47a0-9b0e-4cef9f1a8e97 # Poster by Pejamas on MediUX. https://mediux.pro/sets/40909
