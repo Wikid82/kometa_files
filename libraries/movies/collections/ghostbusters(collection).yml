@@ -1,7 +1,0 @@
----
-collections:
-  Ghostbusters Collection:
-    collection_mode: hide_items
-    collection_order: release
-    tmdb_list_details: https://www.themoviedb.org/list/8543690-ghostbusters
-    url_poster: https://api.mediux.pro/assets/8b157bea-4724-4690-bf1c-c26ce611f253 # Poster by Pejamas on MediUX. https://mediux.pro/sets/12865
