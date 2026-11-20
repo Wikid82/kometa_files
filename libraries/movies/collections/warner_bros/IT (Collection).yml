@@ -1,0 +1,7 @@
+---
+collections:
+  It Collection:
+    collection_mode: hide_items
+    collection_order: release
+    tmdb_list_details: https://www.themoviedb.org/list/8543653-it
+    url_poster: https://api.mediux.pro/assets/2b902f6b-1723-4939-a9f4-dadffbcf8d1b # Pejamas on MediUX. https://mediux.pro/sets/41503
