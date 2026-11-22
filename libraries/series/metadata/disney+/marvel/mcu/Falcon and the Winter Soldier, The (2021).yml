@@ -1,0 +1,7 @@
+metadata:
+
+  88396: # TMDB id for The Falcon and the Winter Soldier. Set by Pejamas on MediUX. https://mediux.pro/sets/3116
+    url_poster: https://api.mediux.pro/assets/73404640-a6a1-416b-8f3a-d1c6cd918c18
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3e171adb-ed47-489d-b3bb-d08f865d8cd1

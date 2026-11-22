@@ -1,13 +1,21 @@
 metadata:
 
-  362696: # TVDB id for The Witcher. Set by Pejamas on MediUX. https://mediux.pro/sets/31656
-    url_poster: https://api.mediux.pro/assets/b4e300b2-75e9-45f8-8dc6-0603473c3eaf
+  71912: # TMDB id for The Witcher. Set by fwlolx on MediUX. https://mediux.pro/sets/39216
+    url_poster: https://api.mediux.pro/assets/3d3da8f9-9744-4287-ac17-661a62ec8287
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/ca35332d-9549-4824-a127-e4502e129f5a
+        url_poster: https://api.mediux.pro/assets/f2bef300-86b1-4c7b-8fe8-d6ae7ca037c2
       2:
-        url_poster: https://api.mediux.pro/assets/99511b6e-4251-435e-bf6c-d2f1ac7c093f
+        url_poster: https://api.mediux.pro/assets/a8132599-49a2-4572-852e-15d1f98d4ffd
       3:
-        url_poster: https://api.mediux.pro/assets/c580c00e-11f0-4c4d-a6c6-1f4bcfa76779
+        url_poster: https://api.mediux.pro/assets/084fbe12-115a-42ee-8610-8bff8c5bd5a5
       4:
-        url_poster: https://api.mediux.pro/assets/ccd592f8-e1dd-49f5-987e-5291380d4389
+        url_poster: https://api.mediux.pro/assets/61017262-a39a-4f91-8c3a-87fcbc978ea7
+
+
+
+  399987: # TMDB id for The Witcher: Blood Origin. Set by fwlolx on MediUX. https://mediux.pro/sets/39217
+    url_poster: https://api.mediux.pro/assets/ce16cc7e-5c61-4b17-b42a-adc03fc7b011
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/af3a39c6-6052-433a-abae-4c28b1158adf

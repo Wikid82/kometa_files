@@ -1,0 +1,9 @@
+metadata:
+
+  69629: # TMDB id for The Gifted. Set by Pejamas on MediUX. https://mediux.pro/sets/3030
+    url_poster: https://api.mediux.pro/assets/e2de76e9-23ef-4fb1-8cd9-20ae4951d90e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0706cc8e-f566-4fd8-be20-e9d3a63abf8b
+      2:
+        url_poster: https://api.mediux.pro/assets/9392d356-0572-4ecf-b738-72253c8022f8

@@ -1,0 +1,19 @@
+metadata:
+
+  4194: # TMDB id for Star Wars: The Clone Wars. Set by Pejamas on MediUX. https://mediux.pro/sets/8078
+    url_poster: https://api.mediux.pro/assets/a03b085c-8d4f-4eb2-88de-029defbf6d97
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/89f13d9e-65ba-40b7-975f-0ab14d94f106
+      2:
+        url_poster: https://api.mediux.pro/assets/27826ff1-d122-45f3-bcbf-8a53505d5947
+      3:
+        url_poster: https://api.mediux.pro/assets/8aa2a875-d7f5-4aaf-af8a-10341e7474ca
+      4:
+        url_poster: https://api.mediux.pro/assets/fcdf604f-5133-49c2-86aa-0cb4b329023e
+      5:
+        url_poster: https://api.mediux.pro/assets/ae96beb7-1ee5-440f-91a7-e8ddfce28ea0
+      6:
+        url_poster: https://api.mediux.pro/assets/147da59d-c875-40f0-8802-3906bfc2342f
+      7:
+        url_poster: https://api.mediux.pro/assets/64efed33-55d5-466d-8dfe-31550237bfbb

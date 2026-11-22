@@ -1,6 +1,6 @@
 metadata:
 
-  76156: # TVDB id for Scrubs. Set by Pejamas on MediUX. https://mediux.pro/sets/31738
+  4556: # TMDB id for Scrubs. Set by Pejamas on MediUX. https://mediux.pro/sets/31738
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/247fb7d3-a0fd-4d8a-89bf-90832b2f78f1
@@ -22,7 +22,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/33c2270e-8b4c-49cd-9107-1a3e1131c428
 
 
-  465690: # TVDB id for Scrubs. Set by Pejamas on MediUX. https://mediux.pro/sets/45244
+  295778: # TMDB id for Scrubs. Set by Pejamas on MediUX. https://mediux.pro/sets/45244
     url_poster: https://api.mediux.pro/assets/e7cb3cf2-d9f7-470d-aca1-22d3d6b711ed
     seasons:
       1:

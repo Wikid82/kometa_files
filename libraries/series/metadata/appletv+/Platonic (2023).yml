@@ -1,0 +1,9 @@
+metadata:
+
+  112211: # TMDB id for Platonic. Set by Pejamas on MediUX. https://mediux.pro/sets/35969
+    url_poster: https://api.mediux.pro/assets/a86bb932-ba69-483a-b003-909fc73204ab
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/770116d3-d82b-4bce-a247-9162e56db391
+      2:
+        url_poster: https://api.mediux.pro/assets/94d0464b-0b2c-4ad2-be39-cdb9998604e5

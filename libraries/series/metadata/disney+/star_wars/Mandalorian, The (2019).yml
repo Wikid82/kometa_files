@@ -1,0 +1,11 @@
+metadata:
+
+  82856: # TMDB id for The Mandalorian. Set by Pejamas on MediUX. https://mediux.pro/sets/8086
+    url_poster: https://api.mediux.pro/assets/a8ad4f53-5b9d-4acb-91e4-af7dbc11c2a1
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/928b2198-0f78-4320-8cf2-368b805ee315
+      2:
+        url_poster: https://api.mediux.pro/assets/9933c8ac-0359-40ba-b11c-b5d77c9f9e71
+      3:
+        url_poster: https://api.mediux.pro/assets/76c6cdc7-f236-4428-a3e6-31cc44d5f590

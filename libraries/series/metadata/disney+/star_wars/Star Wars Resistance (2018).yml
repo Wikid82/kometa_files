@@ -1,0 +1,9 @@
+metadata:
+
+  79093: # TVDB id for Star Wars Resistance. Set by Pejamas on MediUX. https://mediux.pro/sets/32642
+    url_poster: https://api.mediux.pro/assets/81e9b704-fca4-454b-abd0-815420189c61
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1b4f302d-de77-4f2c-96e7-40684e747f80
+      2:
+        url_poster: https://api.mediux.pro/assets/8962f311-25b5-4fd8-8d55-ebbd860f50c6

@@ -1,9 +1,0 @@
-metadata:
-
-  443433: # TVDB id for Your Friends & Neighbors. Set by Pejamas on MediUX. https://mediux.pro/sets/31501
-    url_poster: https://api.mediux.pro/assets/a6cca253-be51-4517-9069-9c9a27cd5ecd
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/daf9f90a-678d-4e87-8fcf-929ee6f63d6d
-      2:
-        url_poster: https://api.mediux.pro/assets/c6097023-231a-4bd5-987a-7f5f250fbe32

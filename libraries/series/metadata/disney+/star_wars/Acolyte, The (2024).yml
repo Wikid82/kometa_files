@@ -1,0 +1,7 @@
+metadata:
+
+  114479: # TMDB id for The Acolyte. Set by Pejamas on MediUX. https://mediux.pro/sets/16078
+    url_poster: https://api.mediux.pro/assets/76f1e8ee-77ed-4e64-b479-5fcdc2903561
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/06364456-12fb-44d5-8eff-b5453a0b65c6

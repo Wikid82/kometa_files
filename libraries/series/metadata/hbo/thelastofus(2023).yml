@@ -1,9 +1,0 @@
-metadata:
-
-  392256: # TVDB id for The Last of Us. Set by Pejamas on MediUX. https://mediux.pro/sets/31500
-    url_poster: https://api.mediux.pro/assets/0db1a878-d9e8-410d-a047-e5c505f96cc6
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/ea4344fa-6cf7-432d-8352-70e7bc5d14e9
-      2:
-        url_poster: https://api.mediux.pro/assets/a48f82cd-0a3d-4e62-affa-8bb9fa3bc9f5

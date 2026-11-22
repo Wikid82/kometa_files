@@ -1,6 +1,6 @@
 metadata:
 
-  79349: # TVDB id for Dexter. Set by Praythea on MediUX. https://mediux.pro/sets/2298
+  1405: # TMDB id for Dexter. Set by Praythea on MediUX. https://mediux.pro/sets/2298
     url_poster: https://api.mediux.pro/assets/c0ba8682-15eb-4147-b7fb-47d939161d0f
     seasons:
       0:
@@ -23,14 +23,14 @@ metadata:
         url_poster: https://api.mediux.pro/assets/1af3ffd5-5c11-4f6f-9134-1cb89e23eab4
 
 
-  412366: # TVDB id for Dexter: New Blood. Set by Praythea on MediUX. https://mediux.pro/sets/2300
+  131927: # TMDB id for Dexter: New Blood. Set by Praythea on MediUX. https://mediux.pro/sets/2300
     url_poster: https://api.mediux.pro/assets/65557dbc-262b-4dc8-a2e2-960b2b9a95e0
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/7c50fb63-663f-4d62-8498-1689821e7912
 
 
-  430780: # TVDB id for Dexter: Original Sin. Set by Praythea on MediUX. https://mediux.pro/sets/29179
+  219937: # TMDB id for Dexter: Original Sin. Set by Praythea on MediUX. https://mediux.pro/sets/29179
     url_poster: https://api.mediux.pro/assets/f2d1afc6-04ee-4e7f-954d-ac71b8fa3391
     url_background: https://api.mediux.pro/assets/40ee0513-d700-4e3f-aba5-1ef0f5c2f65a
     seasons:
@@ -38,7 +38,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/cdc7c553-759a-4e21-b383-8851e6712ee6
 
 
-  452595: # TVDB id for Dexter: Resurrection. Set by Praythea on MediUX. https://mediux.pro/sets/35206
+  259909: # TMDB id for Dexter: Resurrection. Set by Praythea on MediUX. https://mediux.pro/sets/35206
     url_poster: https://api.mediux.pro/assets/5cc7fccf-8379-4b59-8044-768048312f37
     seasons:
       1:

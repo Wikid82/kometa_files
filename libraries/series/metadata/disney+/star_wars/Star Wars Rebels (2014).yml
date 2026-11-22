@@ -1,0 +1,13 @@
+metadata:
+
+  60554: # TMDB id for Star Wars Rebels. Set by Pejamas on MediUX. https://mediux.pro/sets/32641
+    url_poster: https://api.mediux.pro/assets/d3463250-4366-4c9d-b02e-df234528345c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/93525e1a-7767-4d33-a7f0-2bacc1471fc3
+      2:
+        url_poster: https://api.mediux.pro/assets/5c20530c-55f7-4eab-8fc3-91fa6acb14ea
+      3:
+        url_poster: https://api.mediux.pro/assets/274c5d59-a9e3-4ea8-8db5-4fb52f8ef69a
+      4:
+        url_poster: https://api.mediux.pro/assets/df44f930-6685-462c-93af-b9592bd73a7f

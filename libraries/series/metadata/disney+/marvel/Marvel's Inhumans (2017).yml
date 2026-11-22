@@ -1,0 +1,7 @@
+metadata:
+
+  68716: # TMDB id for Marvel's Inhumans. Set by Pejamas on MediUX. https://mediux.pro/sets/3038
+    url_poster: https://api.mediux.pro/assets/273966b3-4141-4f12-a854-ef0513d0dfc4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e2eacd25-9696-4dc4-aa0f-bf6fabfc067c

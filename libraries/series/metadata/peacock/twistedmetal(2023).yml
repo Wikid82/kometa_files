@@ -1,9 +1,0 @@
-metadata:
-
-  366532: # TVDB id for Twisted Metal. Set by Pejamas on MediUX. https://mediux.pro/sets/2619
-    url_poster: https://api.mediux.pro/assets/b5d49954-79d8-4411-95c3-db400199b45c
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/9f41a379-5b08-47b3-9889-6f8a4b4fa6a7
-      2:
-        url_poster: https://api.mediux.pro/assets/a9aea0d1-e41f-4e79-9192-7166621dfda8

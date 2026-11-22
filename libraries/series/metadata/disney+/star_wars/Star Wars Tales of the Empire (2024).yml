@@ -1,0 +1,7 @@
+metadata:
+
+  251091: # TMDB id for Star Wars: Tales of the Empire. Set by Pejamas on MediUX. https://mediux.pro/sets/19272
+    url_poster: https://api.mediux.pro/assets/56c39fc5-27d8-45cb-899d-cd1ed3816667
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/aaf48cd8-4756-4602-81f9-efa5f3b6dd62

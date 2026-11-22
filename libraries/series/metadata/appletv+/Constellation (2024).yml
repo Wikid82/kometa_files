@@ -1,0 +1,7 @@
+metadata:
+
+  197125: # TMDB id for Constellation. Set by Pejamas on MediUX. https://mediux.pro/sets/5368
+    url_poster: https://api.mediux.pro/assets/b56b64c6-dc88-470e-8de9-3cb73aca29d9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/68cc828b-9ed8-4edc-8847-6305078a6002

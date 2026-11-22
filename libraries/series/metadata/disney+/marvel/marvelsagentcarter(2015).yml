@@ -1,9 +1,0 @@
-metadata:
-
-  281485: # TVDB id for Marvel's Agent Carter. Set by Pejamas on MediUX. https://mediux.pro/sets/3031
-    url_poster: https://api.mediux.pro/assets/54dbed38-4543-45d7-8fe2-ade5800bf107
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/1f790cf0-739d-4db9-bcfb-83ba80dd36ae
-      2:
-        url_poster: https://api.mediux.pro/assets/5d76b57b-d116-44bf-bd0a-3bdc96d556a9

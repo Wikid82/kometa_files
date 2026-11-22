@@ -1,9 +1,0 @@
-metadata:
-
-  371980: # TVDB id for Severance. Set by Pejamas on MediUX. https://mediux.pro/sets/30174
-    url_poster: https://api.mediux.pro/assets/477fd1ec-8226-4e95-a90d-eca09a21cddb
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/3676b923-3126-4b0d-a04b-871ab89eb891
-      2:
-        url_poster: https://api.mediux.pro/assets/95501451-e241-4c70-bbc4-16693cad0816

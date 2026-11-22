@@ -1,0 +1,9 @@
+metadata:
+
+  114461: # TMDB id for Ahsoka. Set by Pejamas on MediUX. https://mediux.pro/sets/8084
+    url_poster: https://api.mediux.pro/assets/8f95155c-f64f-4463-b350-8972b1d11754
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/95407d28-a880-4a27-b7fd-7b72dd92648a
+      2:
+        url_poster: https://api.mediux.pro/assets/623d1bca-0840-44eb-b95f-178bbb21d615

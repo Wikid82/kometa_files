@@ -1,0 +1,17 @@
+metadata:
+
+  95480: # TMDB id for Slow Horses. Set by Pejamas on MediUX. https://mediux.pro/sets/2534
+    url_poster: https://api.mediux.pro/assets/10a7cf25-177c-4254-87b0-7c9da942dfae
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/7bf59e05-380a-4108-afcd-42d5a326407d
+      2:
+        url_poster: https://api.mediux.pro/assets/43aa91e9-1fee-431d-a9a6-decd5226924d
+      3:
+        url_poster: https://api.mediux.pro/assets/f5f9da34-6bcd-431d-b79d-49ab93cf4e69
+      4:
+        url_poster: https://api.mediux.pro/assets/461eeea6-7d83-4347-ad9e-0d8e4ce77efa
+      5:
+        url_poster: https://api.mediux.pro/assets/88da62c4-c17d-462c-9536-c330fa001ee6
+      6:
+        url_poster: https://api.mediux.pro/assets/4938aec0-ac3b-44ad-bae3-37866c374b9c

@@ -1,9 +1,0 @@
-metadata:
-
-  361835: # TVDB id for Marvel's Hit-Monkey. Set by Pejamas on MediUX. https://mediux.pro/sets/3028
-    url_poster: https://api.mediux.pro/assets/645a5e20-adf4-47f7-ad3b-3fba065bc04f
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/7052e992-b7e4-4cf0-b975-192b6e5432a5
-      2:
-        url_poster: https://api.mediux.pro/assets/147e2e08-d370-43cc-9f3a-a854bf32018e

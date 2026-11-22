@@ -1,0 +1,11 @@
+metadata:
+
+  117488: # TMDB id for Yellowjackets. Set by Praythea on MediUX. https://mediux.pro/sets/2361
+    url_poster: https://api.mediux.pro/assets/11521f0f-bdc2-47af-96b9-fe04db1be41c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/69765822-cfb4-4029-b0fd-de9bec1ea04c
+      2:
+        url_poster: https://api.mediux.pro/assets/81e64f99-e957-4ce9-a333-2886b85ba5b8
+      3:
+        url_poster: https://api.mediux.pro/assets/7ec4d1c7-9470-49af-b6ad-48863f919e7f

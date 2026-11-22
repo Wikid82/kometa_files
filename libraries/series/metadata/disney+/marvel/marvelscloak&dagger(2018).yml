@@ -1,9 +1,0 @@
-metadata:
-
-  341455: # TVDB id for Marvel's Cloak & Dagger. Set by Pejamas on MediUX. https://mediux.pro/sets/3034
-    url_poster: https://api.mediux.pro/assets/ad7de534-25a7-47b2-b7ed-01ee9ba1380a
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/b08314d1-bbc0-4890-9f40-b8cc1f720a97
-      2:
-        url_poster: https://api.mediux.pro/assets/09aeed81-630f-4975-9b09-4d8d60ccd0e9

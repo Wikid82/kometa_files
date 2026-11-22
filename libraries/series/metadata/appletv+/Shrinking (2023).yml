@@ -1,0 +1,11 @@
+metadata:
+
+  136311: # TMDB id for Shrinking. Set by Pejamas on MediUX. https://mediux.pro/sets/27023
+    url_poster: https://api.mediux.pro/assets/1e321bcb-3fb0-430c-906f-e836da83bcd0
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b575f662-340e-4ac5-9906-4691ba2b8a1f
+      2:
+        url_poster: https://api.mediux.pro/assets/915d8d76-a57a-4bce-9ee3-416e5fcc6dcf
+      3:
+        url_poster: https://api.mediux.pro/assets/1ff2e5c2-ec89-4c3a-a6ad-d401aabb38d2

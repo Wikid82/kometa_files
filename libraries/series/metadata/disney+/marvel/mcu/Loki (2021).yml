@@ -1,0 +1,9 @@
+metadata:
+
+  84958: # TMDB id for Loki. Set by Pejamas on MediUX. https://mediux.pro/sets/3111
+    url_poster: https://api.mediux.pro/assets/390c3934-8165-4979-8436-e965681cf25b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0d5f2494-d82d-45de-bcc5-82de684f57c5
+      2:
+        url_poster: https://api.mediux.pro/assets/46c4b2e7-8de9-4c14-abd3-e7c974cce034

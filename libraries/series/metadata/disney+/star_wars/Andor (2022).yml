@@ -1,0 +1,9 @@
+metadata:
+
+  83867: # TMDB id for Andor. Set by Pejamas on MediUX. https://mediux.pro/sets/8080
+    url_poster: https://api.mediux.pro/assets/dafd72f4-0242-4fef-a827-9b432c0c5754
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e715a8f3-22ef-419c-9af9-df5a6f74b1b5
+      2:
+        url_poster: https://api.mediux.pro/assets/5fbfe5a4-6712-49d8-a749-42cba2983d85

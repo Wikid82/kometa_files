@@ -1,0 +1,10 @@
+metadata:
+
+  273247: # TMDB id for The Lowdown. Set by cundallini on MediUX. https://mediux.pro/sets/37648
+    url_poster: https://api.mediux.pro/assets/b1c80b9e-b7a4-420a-8dc6-55e6cdcbee43
+    url_background: https://api.mediux.pro/assets/92139ff4-541a-49b5-9457-7d644d9326bf
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b7a8f404-852b-466d-9972-aa825f1e3ddf
+      2:
+        url_poster: https://api.mediux.pro/assets/3c069e47-1202-4229-a6fc-7f75fc116402

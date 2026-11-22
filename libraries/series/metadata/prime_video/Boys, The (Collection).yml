@@ -1,0 +1,29 @@
+metadata:
+
+  76479: # TMDB id for The Boys. Set by Pejamas on MediUX. https://mediux.pro/sets/13526
+    url_poster: https://api.mediux.pro/assets/d829cb52-15f7-4475-86ff-c71e34c80a38
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/02b3e73c-1b33-419b-ada8-baade0314f02
+      1:
+        url_poster: https://api.mediux.pro/assets/2a97591c-87b9-4405-9f20-16bb0779a8a8
+      2:
+        url_poster: https://api.mediux.pro/assets/de59b5ef-5444-4487-ad3e-18fec7098022
+      3:
+        url_poster: https://api.mediux.pro/assets/f29a7d75-6e4f-4005-9034-d7adfa493fb8
+      4:
+        url_poster: https://api.mediux.pro/assets/94718de1-aa9d-4ffb-9222-42e57faf9e2b
+      5:
+        url_poster: https://api.mediux.pro/assets/ac4da11b-9658-4d4f-b7fa-305d78c211c9
+
+
+  205715: # TMDB id for Gen V. Set by Pejamas on MediUX. https://mediux.pro/sets/2446
+    url_poster: https://api.mediux.pro/assets/142ceb75-8507-41e0-9d39-023ad4feaa89
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b4513741-c733-427a-8f50-d24bbced7c70
+      2:
+        url_poster: https://api.mediux.pro/assets/187e5484-54ca-47f2-8c84-7278ff33cf6c
+
+
+  # 259878: TMDB ID for Vaught Rising.

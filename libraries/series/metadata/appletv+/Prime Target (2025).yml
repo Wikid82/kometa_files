@@ -1,0 +1,7 @@
+metadata:
+
+  246381: # TMDB id for Prime Target. Set by Pejamas on MediUX. https://mediux.pro/sets/30179
+    url_poster: https://api.mediux.pro/assets/05bde15e-d09f-4e12-9bb8-21c89fe9c2d9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/12a6d045-5098-48db-a6b9-6b9df5172015

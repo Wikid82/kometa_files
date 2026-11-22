@@ -1,0 +1,24 @@
+metadata:
+
+  56296: # TMDB id for Orphan Black. Set by Pejamas on MediUX. https://mediux.pro/sets/13544
+    url_poster: https://api.mediux.pro/assets/ba21b341-9953-4964-a7ed-72bb5139531a
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/a206d595-4e30-45c2-96a8-e8e8141982c9
+      1:
+        url_poster: https://api.mediux.pro/assets/1d2c2f3b-a230-4a6f-9297-58bea0aae6bc
+      2:
+        url_poster: https://api.mediux.pro/assets/5283a9a0-205b-4778-9fff-8627288280c6
+      3:
+        url_poster: https://api.mediux.pro/assets/dded7dac-b5d7-499f-ad4f-7fbb7905f0cb
+      4:
+        url_poster: https://api.mediux.pro/assets/8148218e-5c03-4004-9017-c22c92b7a24d
+      5:
+        url_poster: https://api.mediux.pro/assets/34b63d49-436b-46ca-aaf0-9ffc870aa54f
+
+
+  206916: # TMDB id for Orphan Black: Echoes. Set by Pejamas on MediUX. https://mediux.pro/sets/2505
+    url_poster: https://api.mediux.pro/assets/3888c493-8ad0-4163-b9b0-8b0ff0acd57d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5b67de71-642d-4081-a555-527c2bcbd2b2

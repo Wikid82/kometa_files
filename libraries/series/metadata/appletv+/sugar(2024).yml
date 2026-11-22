@@ -1,9 +1,0 @@
-metadata:
-
-  421070: # TVDB id for Sugar. Set by Pejamas on MediUX. https://mediux.pro/sets/15373
-    url_poster: https://api.mediux.pro/assets/e0570d37-2332-48fa-b7e4-5b3046f2a3e3
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/6fd9c3d2-e72e-41f2-b41b-c02b6367fa78
-      2:
-        url_poster: https://api.mediux.pro/assets/887485b4-a5a6-44a3-9d13-14cfa1ed83cd

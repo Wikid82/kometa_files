@@ -1,9 +1,0 @@
-metadata:
-
-  265074: # TVDB id for Legends. Set by Pejamas on MediUX. https://mediux.pro/sets/3110
-    url_poster: https://api.mediux.pro/assets/5a4f98a2-ae68-482f-90e3-c0a81e48de05
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/b47d5591-84c7-4278-b5a5-c874f186e0af
-      2:
-        url_poster: https://api.mediux.pro/assets/7ca6518b-01a5-40a3-bf7c-c63b9d7df552

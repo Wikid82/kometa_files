@@ -1,0 +1,13 @@
+metadata:
+
+  211288: # TMDB id for Tracker. Set by fwlolx on MediUX. https://mediux.pro/sets/8827
+    url_poster: https://api.mediux.pro/assets/db65eea5-b0d7-4eb7-aedd-a6376812da7a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/427f0a33-3aea-4293-9140-16ad3bc34ed3
+      2:
+        url_poster: https://api.mediux.pro/assets/78274d5b-267a-46cc-b842-1f0f6b2a9d91
+      3:
+        url_poster: https://api.mediux.pro/assets/faab46af-62ce-4561-9958-1f31e97649a6
+      4:
+        url_poster: https://api.mediux.pro/assets/20c0335f-b5e9-4720-8483-8921eae0c191
