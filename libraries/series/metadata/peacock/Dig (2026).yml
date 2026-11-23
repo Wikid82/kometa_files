@@ -1,0 +1,8 @@
+metadata:
+
+  290826: # TMDB id for Dig. Set by tallinex on MediUX. https://mediux.pro/sets/62554
+    url_poster: https://api.mediux.pro/assets/aa247279-7ffb-4f30-a21b-4daa3afe14a4
+    url_background: https://api.mediux.pro/assets/3c0adc6e-c7d1-4ac0-802a-288c7f3f2ae4
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a5a13230-e2db-431d-97b7-6f1eb681588c
